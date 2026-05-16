@@ -1,9 +1,9 @@
 import csv
 import os
-from datetime import datetime
+from datetime import datetime, timezone
 from scraper import fetch_standings, fetch_team_events, fetch, close
 from analysis import get_z4, get_times_na_serie_a, filtrar_jogos_brasileirao
-from config import TIME_ALVO, SEASONS, UNIQUE_TOURNAMENT_ID
+from config import TIME_ALVO, SEASONS
 
 OUTPUT_CSV_DETALHADO = "data/exports/detalhado_c13.csv"
 
@@ -37,7 +37,7 @@ def extrair_detalhes(event: dict, time_nome: str, ano: int) -> dict:
 
     # Data
     ts = e.get("startTimestamp", 0)
-    data = datetime.utcfromtimestamp(ts).strftime("%d/%m/%Y") if ts else ""
+    data = datetime.fromtimestamp(ts, timezone.utc).strftime("%d/%m/%Y") if ts else ""
 
     # Estádio
     venue = e.get("venue", {})
@@ -113,17 +113,12 @@ def rodar_detalhado(time_nome: str, time_id: int):
             home_id = event["homeTeam"]["id"]
             away_id = event["awayTeam"]["id"]
 
-            empatou = (
-                winner == 3)
-            perdeu = (
-                (time_id == home_id and winner == 2)
+            venceu = (
+                (time_id == home_id and winner == 1)
                 or
-                (time_id == away_id and winner == 1)
+                (time_id == away_id and winner == 2)
             )
-
-            tropeco = perdeu or empatou
-
-            if not tropeco:
+            if venceu:
                 continue
             try:
                 linha = extrair_detalhes(event, time_nome, ano)
