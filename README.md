@@ -16,6 +16,9 @@ Aplicação em Python que utiliza Playwright para coletar dados do SofaScore e a
   - empates
   - derrotas
   - total de partidas contra o Z4
+  - total de pontos perdidos contra o z4
+  - media de pontos perdidos por jogo
+  - desvio padrao dos pontos perdidos
 - Exportação dos resultados para CSV
 
 ---
@@ -38,6 +41,7 @@ tcc_g13_stats/
 │   ├── analysis.py
 │   ├── config.py
 │   ├── main.py
+│   ├── main_detalhado.py
 │   └── scraper.py
 │
 ├── data/
@@ -101,7 +105,8 @@ py app/main_detalhado.py
 ```txt
 app/config.py
 ```
-Exemplo:
+###Basta descomentar o time desejado.
+###Exemplo:
 ```txt
 TIME_ALVO = ("Atlético Mineiro",1977)
 ```
@@ -114,6 +119,7 @@ Também é possível alterar:
 ### Os resultados são salvos em:
 ```txt
 data/exports/resultados_c13.csv
+data/exports/detalhados_c13.csv
 ```
 
 <br>
