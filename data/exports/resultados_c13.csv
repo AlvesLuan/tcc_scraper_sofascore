@@ -1,6 +1,4 @@
 time,vitorias_vs_z4,empates_vs_z4,derrotas_vs_z4,total_partidas_vs_z4,total_pontos_perdidos_vs_z4,aproveitamento_vs_z4,media_pontos_perdidos_por_jogo,desvio_padrao_pontos_perdidos
-Bahia,              31,20,11,62,73,60.75,0,0
-Botafogo,           35,23,12,70,82,60.95,0,0
 Fluminense,         48,22,18,88,98,62.88,0,0
 Internacional,      44,21,13,78,81,65.38,0,0
 Grêmio,             46,22,10,78,74,68.38,0,0
@@ -12,3 +10,5 @@ São Paulo,          43,28,17,88,107,59.47,1.22,2.14
 Palmeiras,          64,11,13,88,61,76.89,0.69,5.07
 Santos,             39,22,17,78,95,59.4,1.22,2.66
 Corinthians,        49,27,12,88,90,65.91,1.02,3.43
+Botafogo,           35,23,12,70,82,60.95,1.17,4.38
+Bahia,              31,20,11,62,73,60.75,1.18,1.69
