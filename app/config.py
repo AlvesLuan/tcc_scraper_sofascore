@@ -9,10 +9,11 @@
 # TIME_ALVO = ("Botafogo",        1958)
 # TIME_ALVO = ("Vasco da Gama",   1974)
 # TIME_ALVO = ("Fluminense",      1961)
-TIME_ALVO = ("Atlético Mineiro",1977)
+#TIME_ALVO = ("Atlético Mineiro",  1977)
 # TIME_ALVO = ("Cruzeiro",        1954)
-#TIME_ALVO = ("Grêmio",          5926)
-#TIME_ALVO = ("Internacional",   1966)
+#TIME_ALVO = ("Grêmio",           5926)
+#TIME_ALVO = ("Internacional",    1966)
+TIME_ALVO = ("Bahia",            1955)
 
 
 # ======================================================
