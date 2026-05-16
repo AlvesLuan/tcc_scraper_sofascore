@@ -11,7 +11,9 @@ from analysis import (
     get_times_na_serie_a,
     filtrar_jogos_brasileirao,
     parse_jogos,
-    calcular_aproveitamento
+    calcular_aproveitamento,
+    calcular_media,
+    calcular_desvio_padrao,
 )
 
 from config import (
@@ -46,30 +48,41 @@ def buscar_todos_eventos_brasileirao(team_id: int, season_id: int) -> list[dict]
 
 
 def salvar_csv(time_nome: str, resultado: dict):
-    """Salva/acumula resultado no CSV. Cria cabeçalho se arquivo não existir."""
+    campos = [
+        "time", 
+        "vitorias_vs_z4", 
+        "empates_vs_z4",
+        "derrotas_vs_z4", 
+        "total_partidas_vs_z4",
+        "total_pontos_perdidos_vs_z4",
+        "aproveitamento_vs_z4",
+        "media_pontos_perdidos_por_jogo",
+        "desvio_padrao_pontos_perdidos",
+    ]
     os.makedirs(os.path.dirname(OUTPUT_CSV), exist_ok=True)
-    arquivo_existe = os.path.isfile(OUTPUT_CSV)
 
-    with open(OUTPUT_CSV, "a", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=[
-            "time", 
-            "vitorias_vs_z4", 
-            "empates_vs_z4",
-            "derrotas_vs_z4", 
-            "total_partidas_vs_z4",
-            "total_pontos_perdidos_vs_z4",
-            "aproveitamento_vs_z4",
-        ])
-        if not arquivo_existe:
-            writer.writeheader()
+    # Lê linhas existentes e remove o time atual se já existir
+    linhas = []
+    if os.path.isfile(OUTPUT_CSV):
+        with open(OUTPUT_CSV, "r", newline="", encoding="utf-8") as f:
+            reader = csv.DictReader(f)
+            linhas = [row for row in reader if row["time"] != time_nome]
+
+    # Reescreve o arquivo com todas as linhas + a nova
+    with open(OUTPUT_CSV, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=campos)
+        writer.writeheader()
+        writer.writerows(linhas)
         writer.writerow({
-            "time":                 time_nome,
-            "vitorias_vs_z4":      resultado["vitorias"],
-            "empates_vs_z4":       resultado["empates"],
-            "derrotas_vs_z4":      resultado["derrotas"],
-            "total_partidas_vs_z4":resultado["total"],
-            "total_pontos_perdidos_vs_z4": resultado["pontos_perdidos"],
-            "aproveitamento_vs_z4": resultado["aproveitamento"],
+            "time":                            time_nome,
+            "vitorias_vs_z4":                  resultado["vitorias"],
+            "empates_vs_z4":                   resultado["empates"],
+            "derrotas_vs_z4":                  resultado["derrotas"],
+            "total_partidas_vs_z4":            resultado["total"],
+            "total_pontos_perdidos_vs_z4":     resultado["pontos_perdidos"],
+            "aproveitamento_vs_z4":            resultado["aproveitamento"],
+            "media_pontos_perdidos_por_jogo":  resultado["media"],
+            "desvio_padrao_pontos_perdidos":   resultado["desvio_padrao"],
         })
     print(f"\n  Resultado salvo em: {OUTPUT_CSV}")
 
@@ -82,6 +95,7 @@ def rodar_time(time_nome: str, time_id: int) -> dict:
             "total": 0,
             "pontos_perdidos": 0,
     }
+    pontos_perdidos_temporada = []
 
     for ano, season_id in SEASONS.items():
         print(f"\n[{time_nome}] Processando {ano} (season_id={season_id})...")
@@ -108,10 +122,15 @@ def rodar_time(time_nome: str, time_id: int) -> dict:
 
         # 4. Contabiliza confrontos vs Z4
         resultado_ano = parse_jogos(jogos, time_id, z4_ids)
+        pontos_perdidos_temporada.append(resultado_ano["pontos_perdidos"])
+
         print(f"  vs Z4 → {resultado_ano}")
 
         for chave in acumulado:
             acumulado[chave] += resultado_ano[chave]
+
+        
+    acumulado["desvio_padrao"] = calcular_desvio_padrao(pontos_perdidos_temporada)
 
     return acumulado
 
@@ -129,6 +148,8 @@ if __name__ == "__main__":
 
     resultado["aproveitamento"] = calcular_aproveitamento(resultado)
 
+    resultado["media"] = calcular_media(resultado)
+
     print(f"\n{'='*50}")
     print(f"Resultado final — {time_nome} (2015–2025):")
     print(f"  Vitórias vs Z4:  {resultado['vitorias']}")
@@ -137,6 +158,8 @@ if __name__ == "__main__":
     print(f"  Total partidas:  {resultado['total']}")
     print(f"  Pontos perdidos: {resultado['pontos_perdidos']}")
     print(f"  Aproveitamento:  {resultado['aproveitamento']}%")
+    print(f"  Média de pontos perdidos por jogo:  {resultado['media']}")
+    print(f"  Desvio padrão: {resultado['desvio_padrao']}")
     print(f"{'='*50}")
 
     salvar_csv(time_nome, resultado)
