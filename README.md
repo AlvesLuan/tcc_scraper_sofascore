@@ -81,7 +81,7 @@ pip install -r requirements.txt
 
 ## 6. Instale os navegadores do Playwright
 ```txt
-playwright install
+py -m playwright install chromium
 ```
 
 <br>
