@@ -87,6 +87,10 @@ playwright install
 ### Na raiz do projeto:
 ```txt
 py app/main.py
+#para a tabela geral
+#ou
+py app/main_detalhado.py   
+#para a tabela com detalhes das partidas
 ```
 
 <br>
