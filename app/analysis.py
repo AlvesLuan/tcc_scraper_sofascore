@@ -1,3 +1,4 @@
+import math
 from config import UNIQUE_TOURNAMENT_ID
 
 def get_z4(standings_json: dict) -> set[int]:
@@ -61,12 +62,36 @@ def parse_jogos(events: list[dict], time_id: int, z4_ids: set[int]) -> dict:
 
 def calcular_aproveitamento(resultado: dict) -> float:
     pontos_ganhos = resultado["vitorias"] * 3 + resultado["empates"]
-
     total_possivel = resultado["total"] * 3
 
     if total_possivel == 0:
         return 0
-
+    
     return round((pontos_ganhos / total_possivel) * 100, 2)
+    
+
+def calcular_media(resultado: dict) -> float:
+    if resultado["total"] == 0:
+        return 0
+    
+    media = (resultado["pontos_perdidos"]/resultado["total"])
+
+    return round(media, 2)
+
+
+def calcular_desvio_padrao(valores: list[float]) -> float:
+
+    if len(valores) == 0:
+        return 0
+
+    media = sum(valores) / len(valores)
+
+    variancia = sum(
+        (x - media) ** 2 for x in valores
+    ) / len(valores)
+
+    desvio_padrao = math.sqrt(variancia)
+
+    return round(desvio_padrao, 2)
 
     
