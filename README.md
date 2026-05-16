@@ -105,8 +105,8 @@ py app/main_detalhado.py
 ```txt
 app/config.py
 ```
-###Basta descomentar o time desejado.
-###Exemplo:
+### Basta descomentar o time desejado.
+### Exemplo:
 ```txt
 TIME_ALVO = ("Atlético Mineiro",1977)
 ```
