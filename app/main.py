@@ -57,7 +57,7 @@ def salvar_csv(time_nome: str, resultado: dict):
         "total_pontos_perdidos_vs_z4",
         "aproveitamento_vs_z4",
         "media_pontos_perdidos_por_jogo",
-        "desvio_padrao_pontos_perdidos",
+        "desvio_padrao_pontos_perdidos_por_temporada",
     ]
     os.makedirs(os.path.dirname(OUTPUT_CSV), exist_ok=True)
 
@@ -82,7 +82,7 @@ def salvar_csv(time_nome: str, resultado: dict):
             "total_pontos_perdidos_vs_z4":     resultado["pontos_perdidos"],
             "aproveitamento_vs_z4":            resultado["aproveitamento"],
             "media_pontos_perdidos_por_jogo":  resultado["media"],
-            "desvio_padrao_pontos_perdidos":   resultado["desvio_padrao"],
+            "desvio_padrao_pontos_perdidos_por_temporada":   resultado["desvio_padrao"],
         })
     print(f"\n  Resultado salvo em: {OUTPUT_CSV}")
 
@@ -96,11 +96,12 @@ def rodar_time(time_nome: str, time_id: int) -> dict:
             "pontos_perdidos": 0,
     }
     pontos_perdidos_temporada = []
+    pontos_perdidos_por_jogo = []
 
     for ano, season_id in SEASONS.items():
         print(f"\n[{time_nome}] Processando {ano} (season_id={season_id})...")
 
-        # 1. Classificação → Z4 e times presentes
+        # 1. Classificação: Z4 e times presentes
         try:
             standings = fetch_standings(season_id)
         except Exception as e:
@@ -124,13 +125,18 @@ def rodar_time(time_nome: str, time_id: int) -> dict:
         resultado_ano = parse_jogos(jogos, time_id, z4_ids)
         pontos_perdidos_temporada.append(resultado_ano["pontos_perdidos"])
 
+        if resultado_ano["total"] > 0:
+            pontos_perdidos_por_jogo.append(
+                resultado_ano["pontos_perdidos"] / resultado_ano["total"]
+            )
+
         print(f"    vs Z4: {resultado_ano}")
 
         for chave in acumulado:
             acumulado[chave] += resultado_ano[chave]
 
-        
-    acumulado["desvio_padrao"] = calcular_desvio_padrao(pontos_perdidos_temporada)
+    acumulado["media"] = round(calcular_media(pontos_perdidos_por_jogo), 2)
+    acumulado["desvio_padrao"] = round(calcular_desvio_padrao(pontos_perdidos_temporada), 2)
 
     return acumulado
 
@@ -147,8 +153,6 @@ if __name__ == "__main__":
     resultado = rodar_time(time_nome, time_id)
 
     resultado["aproveitamento"] = calcular_aproveitamento(resultado)
-
-    resultado["media"] = calcular_media(resultado)
 
     print(f"\n{'='*50}")
     print(f"Resultado final — {time_nome} (2015–2025):")

@@ -70,13 +70,11 @@ def calcular_aproveitamento(resultado: dict) -> float:
     return round((pontos_ganhos / total_possivel) * 100, 2)
     
 
-def calcular_media(resultado: dict) -> float:
-    if resultado["total"] == 0:
+def calcular_media(valores: list[float]) -> float:
+    if len(valores) == 0:
         return 0
     
-    media = (resultado["pontos_perdidos"]/resultado["total"])
-
-    return round(media, 2)
+    return sum(valores) / len(valores)
 
 
 def calcular_desvio_padrao(valores: list[float]) -> float:
@@ -84,14 +82,11 @@ def calcular_desvio_padrao(valores: list[float]) -> float:
     if len(valores) == 0:
         return 0
 
-    media = sum(valores) / len(valores)
+    media = calcular_media(valores)
 
     variancia = sum(
         (x - media) ** 2 for x in valores
     ) / len(valores)
 
-    desvio_padrao = math.sqrt(variancia)
-
-    return round(desvio_padrao, 2)
-
+    return math.sqrt(variancia)
     
