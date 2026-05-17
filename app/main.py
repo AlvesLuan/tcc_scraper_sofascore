@@ -109,7 +109,7 @@ def rodar_time(time_nome: str, time_id: int) -> dict:
 
         z4_ids    = get_z4(standings)
         presentes = get_times_na_serie_a(standings)
-        print(f"  Z4: {z4_ids}")
+        print(f"    Z4: {z4_ids}")
 
         # 2. Verifica se o time estava na Serie A
         if time_id not in presentes:
@@ -118,13 +118,13 @@ def rodar_time(time_nome: str, time_id: int) -> dict:
 
         # 3. Busca jogos do time filtrando só Brasileirão
         jogos = buscar_todos_eventos_brasileirao(time_id, season_id)
-        print(f"  Jogos do Brasileirão {ano} encontrados: {len(jogos)}")
+        print(f"    Jogos do Brasileirão {ano} encontrados: {len(jogos)}")
 
         # 4. Contabiliza confrontos vs Z4
         resultado_ano = parse_jogos(jogos, time_id, z4_ids)
         pontos_perdidos_temporada.append(resultado_ano["pontos_perdidos"])
 
-        print(f"  vs Z4 → {resultado_ano}")
+        print(f"    vs Z4: {resultado_ano}")
 
         for chave in acumulado:
             acumulado[chave] += resultado_ano[chave]

@@ -39,7 +39,7 @@ def close():
 
 def fetch_standings(season_id: int) -> dict:
     url = f"https://www.sofascore.com/api/v1/unique-tournament/{UNIQUE_TOURNAMENT_ID}/season/{season_id}/standings/total"
-    print(f"  [scraper] Classificação season_id={season_id}")
+    print(f"    [scraper] Classificação season_id={season_id}")
     return fetch(url)
 
 def fetch_team_events(team_id: int, page: int = 0) -> dict:
