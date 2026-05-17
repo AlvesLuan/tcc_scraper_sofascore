@@ -113,7 +113,7 @@ def rodar_time(time_nome: str, time_id: int) -> dict:
 
         # 2. Verifica se o time estava na Serie A
         if time_id not in presentes:
-            print(f"  {time_nome} não estava na Serie A em {ano}, pulando.")
+            print(f"    {time_nome} não estava na Serie A em {ano}, pulando.")
             continue
 
         # 3. Busca jogos do time filtrando só Brasileirão
