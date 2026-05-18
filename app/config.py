@@ -2,7 +2,7 @@
 # TIME ALVO — descomente apenas o time que quer rodar (tirado de https://www.sofascore.com/api/v1/unique-tournament/325/season/(id da temporada)/standings/total?cacheBust)
 # ======================================================
 #TIME_ALVO = ("Flamengo",        5981)
-TIME_ALVO = ("São Paulo",       1981)
+#TIME_ALVO = ("São Paulo",       1981)
 #TIME_ALVO = ("Palmeiras",       1963)
 #TIME_ALVO = ("Santos",          1968)
 #TIME_ALVO = ("Corinthians",     1957)
