@@ -1,8 +1,8 @@
 import csv
 import os
 from scraper import (
-    fetch_standings,
-    fetch_team_events,
+    get_classificacao,
+    get_jogos_time,
     close
 )
 
@@ -10,7 +10,7 @@ from analysis import (
     get_z4,
     get_times_na_serie_a,
     filtrar_jogos_brasileirao,
-    parse_jogos,
+    contabilizar_jogos,
     calcular_aproveitamento,
     calcular_media,
     calcular_desvio_padrao,
@@ -24,14 +24,14 @@ from config import (
 
 
 def buscar_todos_eventos_brasileirao(team_id: int, season_id: int) -> list[dict]:
-    """
-    Percorre as páginas de eventos do time e retorna apenas
-    os jogos do Brasileirão da season especificada.
-    """
+    
+    #Percorre as páginas de eventos do time e retorna apenas
+    #os jogos do Brasileirão da season especificada.
+    
     todos = []
     page = 0
     while True:
-        data = fetch_team_events(team_id, page)
+        data = get_jogos_time(team_id, page)
         events = data.get("events", [])
 
         # Filtra só Brasileirão da season correta
@@ -103,13 +103,13 @@ def rodar_time(time_nome: str, time_id: int) -> dict:
 
         # 1. Classificação: Z4 e times presentes
         try:
-            standings = fetch_standings(season_id)
+            classificacao = get_classificacao(season_id)
         except Exception as e:
             print(f"  Erro ao buscar classificação: {e}")
             continue
 
-        z4_ids    = get_z4(standings)
-        presentes = get_times_na_serie_a(standings)
+        z4_ids    = get_z4(classificacao)
+        presentes = get_times_na_serie_a(classificacao)
         print(f"    Z4: {z4_ids}")
 
         # 2. Verifica se o time estava na Serie A
@@ -122,7 +122,7 @@ def rodar_time(time_nome: str, time_id: int) -> dict:
         print(f"    Jogos do Brasileirão {ano} encontrados: {len(jogos)}")
 
         # 4. Contabiliza confrontos vs Z4
-        resultado_ano = parse_jogos(jogos, time_id, z4_ids)
+        resultado_ano = contabilizar_jogos(jogos, time_id, z4_ids)
         pontos_perdidos_temporada.append(resultado_ano["pontos_perdidos"])
 
         if resultado_ano["total"] > 0:

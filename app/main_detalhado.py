@@ -1,21 +1,21 @@
 import csv
 import os
 from datetime import datetime, timezone
-from scraper import fetch_standings, fetch_team_events, fetch, close
+from scraper import get_classificacao, get_jogos_time, buscar, close
 from analysis import get_z4, get_times_na_serie_a, filtrar_jogos_brasileirao
 from config import TIME_ALVO, SEASONS
 
 OUTPUT_CSV_DETALHADO = "data/exports/detalhado_c13.csv"
 
 
-def fetch_event_details(event_id: int) -> dict:
+def get_detalhes_jogo(event_id: int) -> dict:
     url = f"https://www.sofascore.com/api/v1/event/{event_id}"
-    return fetch(url)
+    return buscar(url)
 
 
 def extrair_detalhes(event: dict, time_nome: str, ano: int) -> dict:
-    """Extrai os campos detalhados de um evento."""
-    details = fetch_event_details(event["id"])
+    #Extrai os campos detalhados de um evento.
+    details = get_detalhes_jogo(event["id"])
     e = details["event"]
 
     home = e["homeTeam"]["name"]
@@ -75,7 +75,7 @@ def rodar_detalhado(time_nome: str, time_id: int):
         print(f"\n[{time_nome}] Processando {ano}...")
 
         try:
-            standings = fetch_standings(season_id)
+            standings = get_classificacao(season_id)
         except Exception as e:
             print(f"  Erro ao buscar classificação: {e}")
             continue
@@ -91,7 +91,7 @@ def rodar_detalhado(time_nome: str, time_id: int):
         todos = []
         page = 0
         while True:
-            data = fetch_team_events(time_id, page)
+            data = get_jogos_time(time_id, page)
             events = data.get("events", [])
             todos.extend(filtrar_jogos_brasileirao(events, season_id))
             if not data.get("hasNextPage", False):

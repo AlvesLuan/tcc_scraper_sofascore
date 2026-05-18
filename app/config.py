@@ -39,7 +39,6 @@ SEASONS = {
 # ======================================================
 
 UNIQUE_TOURNAMENT_ID = 325  # Brasileirão Serie A
-#TOURNAMENT_ID        = 83   # ID regular (usado nos eventos por rodada)
 
 # ======================================================
 # SCRAPING

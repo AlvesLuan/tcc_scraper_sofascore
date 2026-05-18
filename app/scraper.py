@@ -21,7 +21,7 @@ def get_page() -> Page:
         time.sleep(2)
     return _page
 
-def fetch(url: str) -> dict:
+def buscar(url: str) -> dict:
     time.sleep(REQUEST_DELAY)
     page = get_page()
     response = page.goto(url, wait_until="domcontentloaded")
@@ -37,11 +37,11 @@ def close():
     _page = None
     _playwright = None
 
-def fetch_standings(season_id: int) -> dict:
+def get_classificacao(season_id: int) -> dict:
     url = f"https://www.sofascore.com/api/v1/unique-tournament/{UNIQUE_TOURNAMENT_ID}/season/{season_id}/standings/total"
     print(f"    [scraper] Classificação season_id={season_id}")
-    return fetch(url)
+    return buscar(url)
 
-def fetch_team_events(team_id: int, page: int = 0) -> dict:
+def get_jogos_time(team_id: int, page: int = 0) -> dict:
     url = f"https://www.sofascore.com/api/v1/team/{team_id}/events/last/{page}"
-    return fetch(url)
+    return buscar(url)
