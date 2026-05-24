@@ -1,6 +1,6 @@
-# Análise de Desempenho do G13 contra o Z4 (2015–2025)
+# Análise de Desempenho do C13 contra o diferentes adversarios (2015–2025)
 
-Aplicação em Python que utiliza Playwright para coletar dados do SofaScore e analisar o desempenho de times do G13 contra equipes da zona de rebaixamento (Z4) do Campeonato Brasileiro entre 2015 e 2025.
+Aplicação em Python que utiliza Playwright para coletar dados do SofaScore e analisar o desempenho de times do Clube dos 13(C13) contra diferentes equipes do Campeonato Brasileiro, análise feita no período de 2015 a 2025.
 
 ---
 
@@ -41,7 +41,8 @@ tcc_g13_stats/
 │   ├── analysis.py
 │   ├── config.py
 │   ├── main.py
-│   ├── main_detalhado.py
+│   ├── main_detalhado_geral.py
+|   ├── main_detalhado.py
 │   └── scraper.py
 │
 ├── data/
@@ -91,10 +92,13 @@ py -m playwright install chromium
 ### Na raiz do projeto:
 ```txt
 py app/main.py
-#para a tabela geral
-#ou
+#para a tabela geral.
+
 py app/main_detalhado.py   
-#para a tabela com detalhes das partidas
+#para a tabela com detalhes das partidas contra o z4.
+
+py app/main_detalhado_geral.py   
+#para a tabela com detalhes de TODAS as partidas no período, ATENÇÃO, a execução demorará mais.
 ```
 
 <br>
@@ -120,6 +124,7 @@ Também é possível alterar:
 ```txt
 data/exports/resultados_c13.csv
 data/exports/detalhados_c13.csv
+data/exports/detalhados_c13_geral.csv
 ```
 
 <br>

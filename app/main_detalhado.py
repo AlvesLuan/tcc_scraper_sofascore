@@ -1,11 +1,13 @@
 import csv
 import os
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from scraper import get_classificacao, get_jogos_time, buscar, close
 from analysis import get_z4, get_times_na_serie_a, filtrar_jogos_brasileirao
 from config import TIME_ALVO, SEASONS
 
 OUTPUT_CSV_DETALHADO = "data/exports/detalhado_c13.csv"
+
+BR = timezone(timedelta(hours=-3))
 
 MESES = {
     1: "Janeiro", 2: "Fevereiro", 3: "Março", 4: "Abril",
@@ -29,12 +31,11 @@ def get_lineup_jogo(event_id: int) -> dict:
     return buscar(url)
 
 
-def calcular_stats_titulares(players: list) -> dict:
-    """Calcula média de idade, valor de mercado total e média de altura dos 11 titulares."""
+def calcular_stats_titulares(players: list, data_jogo: datetime) -> dict:
+    #Calcula média de idade, valor de mercado total e média de altura dos 11 titulares."""
     titulares = [p for p in players if not p.get("substitute", True)]
 
     idades, alturas, valores = [], [], []
-    agora = datetime.now(timezone.utc)
 
     for p in titulares:
         jogador = p.get("player", {})
@@ -42,8 +43,8 @@ def calcular_stats_titulares(players: list) -> dict:
         # Idade
         dob = jogador.get("dateOfBirthTimestamp")
         if dob:
-            nascimento = datetime.fromtimestamp(dob, timezone.utc)
-            idade = (agora - nascimento).days / 365.25
+            nascimento = datetime.fromtimestamp(dob, BR)
+            idade = (data_jogo - nascimento).days / 365.25
             idades.append(idade)
 
         # Altura
@@ -96,13 +97,14 @@ def extrair_detalhes(event: dict, time_nome: str, time_id: int, ano: int) -> dic
     # Data e hora
     ts = e.get("startTimestamp", 0)
     if ts:
-        dt = datetime.fromtimestamp(ts, timezone.utc)
+        dt = datetime.fromtimestamp(ts, BR)
         data       = dt.strftime("%d/%m/%Y")
         horario    = dt.strftime("%H:%M")
         dia_semana = DIAS_SEMANA[dt.weekday()]
         mes        = MESES[dt.month]
     else:
         data = horario = dia_semana = mes = ""
+        dt = None
 
     # Árbitro e estádio
     arbitro = e.get("referee", {}).get("name", "")
@@ -111,14 +113,15 @@ def extrair_detalhes(event: dict, time_nome: str, time_id: int, ano: int) -> dic
 
     # Lineup
     stats_time = stats_adv = {"idade_media": "", "valor_mercado": "", "altura_media": ""}
-    try:
-        lineup = get_lineup_jogo(event["id"])
-        lado_time = "home" if home_id == time_id else "away"
-        lado_adv  = "away" if home_id == time_id else "home"
-        stats_time = calcular_stats_titulares(lineup[lado_time]["players"])
-        stats_adv  = calcular_stats_titulares(lineup[lado_adv]["players"])
-    except Exception:
-        pass
+    if dt:
+        try:
+            lineup = get_lineup_jogo(event["id"])
+            lado_time = "home" if home_id == time_id else "away"
+            lado_adv  = "away" if home_id == time_id else "home"
+            stats_time = calcular_stats_titulares(lineup[lado_time]["players"], dt)
+            stats_adv  = calcular_stats_titulares(lineup[lado_adv]["players"], dt)
+        except Exception:
+            pass
 
     return {
         "time":                        time_nome,
@@ -191,6 +194,9 @@ def rodar_detalhado(time_nome: str, time_id: int):
             if not data.get("hasNextPage", False):
                 break
             pagina += 1
+
+        # Organizar as rodadas pra ficar em ordem (1 a 38)
+        todos.sort(key=lambda e: e.get("startTimestamp", 0))
 
         jogos_vs_z4 = [
             e for e in todos
