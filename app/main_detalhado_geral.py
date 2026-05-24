@@ -24,34 +24,65 @@ def get_detalhes_jogo(event_id: int) -> dict:
     return buscar(url)
 
 
-def extrair_detalhes(event: dict, time_nome: str, ano: int) -> dict:
+def get_lineup_jogo(event_id: int) -> dict:
+    url = f"https://www.sofascore.com/api/v1/event/{event_id}/lineups"
+    return buscar(url)
+
+
+def calcular_stats_titulares(players: list) -> dict:
+    """Calcula média de idade, valor de mercado total e média de altura dos 11 titulares."""
+    titulares = [p for p in players if not p.get("substitute", True)]
+
+    idades, alturas, valores = [], [], []
+    agora = datetime.now(timezone.utc)
+
+    for p in titulares:
+        jogador = p.get("player", {})
+
+        # Idade
+        dob = jogador.get("dateOfBirthTimestamp")
+        if dob:
+            nascimento = datetime.fromtimestamp(dob, timezone.utc)
+            idade = (agora - nascimento).days / 365.25
+            idades.append(idade)
+
+        # Altura
+        altura = jogador.get("height")
+        if altura:
+            alturas.append(altura)
+
+        # Valor de mercado
+        valor_raw = jogador.get("proposedMarketValueRaw", {})
+        if valor_raw and valor_raw.get("value"):
+            valores.append(valor_raw["value"])
+
+    return {
+        "idade_media":   round(sum(idades) / len(idades), 1) if idades else "",
+        "valor_mercado": sum(valores) if valores else "",
+        "altura_media":  round(sum(alturas) / len(alturas), 1) if alturas else "",
+    }
+
+
+def extrair_detalhes(event: dict, time_nome: str, time_id: int, ano: int) -> dict:
     details = get_detalhes_jogo(event["id"])
     e = details["event"]
 
     home = e["homeTeam"]["name"]
     away = e["awayTeam"]["name"]
+    home_id = e["homeTeam"]["id"]
     home_score = e["homeScore"]["current"]
     away_score = e["awayScore"]["current"]
     winner = event.get("winnerCode")
 
     # Condição
-    time_id_alvo = (
-        event["homeTeam"]["id"]
-        if event["homeTeam"]["name"] == time_nome
-        else event["awayTeam"]["id"]
-    )
-    condicao = "Mandante" if e["homeTeam"]["id"] == time_id_alvo else "Visitante"
-
-    # Adversário
-    adversario = away if e["homeTeam"]["name"] == time_nome else home
+    condicao = "Mandante" if home_id == time_id else "Visitante"
+    adversario = away if home_id == time_id else home
 
     # Gols
     if condicao == "Mandante":
-        gols_favor   = home_score
-        gols_sofridos = away_score
+        gols_favor, gols_sofridos = home_score, away_score
     else:
-        gols_favor   = away_score
-        gols_sofridos = home_score
+        gols_favor, gols_sofridos = away_score, home_score
 
     # Resultado
     if winner == 3:
@@ -62,47 +93,67 @@ def extrair_detalhes(event: dict, time_nome: str, ano: int) -> dict:
     else:
         resultado = "Derrota"
 
-    # Data
+    # Data e hora
     ts = e.get("startTimestamp", 0)
     if ts:
         dt = datetime.fromtimestamp(ts, timezone.utc)
         data       = dt.strftime("%d/%m/%Y")
+        horario    = dt.strftime("%H:%M")
         dia_semana = DIAS_SEMANA[dt.weekday()]
         mes        = MESES[dt.month]
     else:
-        data = dia_semana = mes = ""
+        data = horario = dia_semana = mes = ""
 
-    # Árbitro
+    # Árbitro e estádio
     arbitro = e.get("referee", {}).get("name", "")
-
-    # Estádio
     estadio = e.get("venue", {}).get("name", "")
+    rodada  = e.get("roundInfo", {}).get("round", "")
 
-    # Rodada
-    rodada = e.get("roundInfo", {}).get("round", "")
+    # Lineup
+    stats_time = stats_adv = {"idade_media": "", "valor_mercado": "", "altura_media": ""}
+    try:
+        lineup = get_lineup_jogo(event["id"])
+        lado_time = "home" if home_id == time_id else "away"
+        lado_adv  = "away" if home_id == time_id else "home"
+        stats_time = calcular_stats_titulares(lineup[lado_time]["players"])
+        stats_adv  = calcular_stats_titulares(lineup[lado_adv]["players"])
+    except Exception:
+        pass
 
     return {
-        "time":         time_nome,
-        "temporada":    ano,
-        "rodada":       rodada,
-        "data":         data,
-        "dia_semana":   dia_semana,
-        "mes":          mes,
-        "adversario":   adversario,
-        "resultado":    resultado,
-        "gols_favor":   gols_favor,
-        "gols_sofridos":gols_sofridos,
-        "condicao":     condicao,
-        "arbitro":      arbitro,
-        "estadio":      estadio,
+        "time":                        time_nome,
+        "temporada":                   ano,
+        "rodada":                      rodada,
+        "data":                        data,
+        "horario":                     horario,
+        "dia_semana":                  dia_semana,
+        "mes":                         mes,
+        "adversario":                  adversario,
+        "resultado":                   resultado,
+        "gols_favor":                  gols_favor,
+        "gols_sofridos":               gols_sofridos,
+        "condicao":                    condicao,
+        "arbitro":                     arbitro,
+        "idade_media_titular_time":    stats_time["idade_media"],
+        "valor_mercado_titular_time":  stats_time["valor_mercado"],
+        "altura_media_titular_time":   stats_time["altura_media"],
+        "idade_media_titular_adv":     stats_adv["idade_media"],
+        "valor_mercado_titular_adv":   stats_adv["valor_mercado"],
+        "altura_media_titular_adv":    stats_adv["altura_media"],
+        "moeda_valor_mercado":         "EUR",
+        "estadio":                     estadio,
     }
 
 
 def salvar_linha_csv(linha: dict):
     campos = [
-        "time", "temporada", "rodada", "data", "dia_semana", "mes",
-        "adversario", "resultado", "gols_favor", "gols_sofridos",
-        "condicao", "arbitro", "estadio"
+        "time", "temporada", "rodada", "data", "horario", "dia_semana", "mes",
+        "adversario", "resultado", "gols_favor", "gols_sofridos", "condicao",
+        "arbitro",
+        "idade_media_titular_time", "valor_mercado_titular_time", "altura_media_titular_time",
+        "idade_media_titular_adv", "valor_mercado_titular_adv", "altura_media_titular_adv",
+        "moeda_valor_mercado",
+        "estadio",
     ]
     os.makedirs(os.path.dirname(OUTPUT_CSV_DETALHADO), exist_ok=True)
     arquivo_existe = os.path.isfile(OUTPUT_CSV_DETALHADO)
@@ -131,7 +182,6 @@ def rodar_detalhado(time_nome: str, time_id: int):
             print(f"  {time_nome} não estava na Serie A em {ano}, pulando.")
             continue
 
-        # Busca jogos do time no Brasileirão
         todos = []
         pagina = 0
         while True:
@@ -146,10 +196,10 @@ def rodar_detalhado(time_nome: str, time_id: int):
 
         for event in todos:
             try:
-                linha = extrair_detalhes(event, time_nome, ano)
+                linha = extrair_detalhes(event, time_nome, time_id, ano)
                 salvar_linha_csv(linha)
                 print(
-                    f"{linha['data']} | "
+                    f"{linha['data']} {linha['horario']} | "
                     f"{linha['adversario']} | "
                     f"{linha['resultado']} | "
                     f"{linha['gols_favor']}x{linha['gols_sofridos']} | "
