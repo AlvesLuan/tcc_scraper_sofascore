@@ -5,7 +5,7 @@ from scraper import get_classificacao, get_jogos_time, buscar, close
 from analysis import get_z4, get_times_na_serie_a, filtrar_jogos_brasileirao
 from config import TIME_ALVO, SEASONS
 
-OUTPUT_CSV_DETALHADO = "data/exports/detalhado_c13.csv"
+OUTPUT_CSV_DETALHADO = "data/exports/detalhado_c13_geral.csv"
 
 MESES = {
     1: "Janeiro", 2: "Fevereiro", 3: "Março", 4: "Abril",
@@ -131,6 +131,7 @@ def rodar_detalhado(time_nome: str, time_id: int):
             print(f"  {time_nome} não estava na Serie A em {ano}, pulando.")
             continue
 
+        # Busca jogos do time no Brasileirão
         todos = []
         pagina = 0
         while True:
@@ -141,27 +142,9 @@ def rodar_detalhado(time_nome: str, time_id: int):
                 break
             pagina += 1
 
-        jogos_vs_z4 = [
-            e for e in todos
-            if (e["homeTeam"]["id"] == time_id and e["awayTeam"]["id"] in z4_ids)
-            or (e["awayTeam"]["id"] == time_id and e["homeTeam"]["id"] in z4_ids)
-        ]
+        print(f"  Total de jogos: {len(todos)}")
 
-        print(f"  Jogos vs Z4: {len(jogos_vs_z4)}")
-
-        for event in jogos_vs_z4:
-            winner  = event.get("winnerCode")
-            home_id = event["homeTeam"]["id"]
-            away_id = event["awayTeam"]["id"]
-
-            venceu = (
-                (time_id == home_id and winner == 1)
-                or
-                (time_id == away_id and winner == 2)
-            )
-            if venceu:
-                continue
-
+        for event in todos:
             try:
                 linha = extrair_detalhes(event, time_nome, ano)
                 salvar_linha_csv(linha)
