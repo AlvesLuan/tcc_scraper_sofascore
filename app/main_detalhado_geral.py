@@ -51,14 +51,9 @@ def calcular_stats_titulares(players: list, data_jogo: datetime) -> dict:
         if altura:
             alturas.append(altura)
 
-        # Valor de mercado
-        valor_raw = jogador.get("proposedMarketValueRaw", {})
-        if valor_raw and valor_raw.get("value"):
-            valores.append(valor_raw["value"])
 
     return {
         "idade_media":   round(sum(idades) / len(idades), 1) if idades else "",
-        "valor_mercado": sum(valores) if valores else "",
         "altura_media":  round(sum(alturas) / len(alturas), 1) if alturas else "",
     }
 
@@ -137,12 +132,9 @@ def extrair_detalhes(event: dict, time_nome: str, time_id: int, ano: int) -> dic
         "condicao":                    condicao,
         "arbitro":                     arbitro,
         "idade_media_titular_time":    stats_time["idade_media"],
-        "valor_mercado_titular_time":  stats_time["valor_mercado"],
         "altura_media_titular_time":   stats_time["altura_media"],
         "idade_media_titular_adv":     stats_adv["idade_media"],
-        "valor_mercado_titular_adv":   stats_adv["valor_mercado"],
         "altura_media_titular_adv":    stats_adv["altura_media"],
-        "moeda_valor_mercado":         "EUR",
         "estadio":                     estadio,
     }
 
@@ -151,11 +143,8 @@ def salvar_linha_csv(linha: dict):
     campos = [
         "time", "temporada", "rodada", "data", "horario", "dia_semana", "mes",
         "adversario", "resultado", "gols_favor", "gols_sofridos", "condicao",
-        "arbitro",
-        "idade_media_titular_time", "valor_mercado_titular_time", "altura_media_titular_time",
-        "idade_media_titular_adv", "valor_mercado_titular_adv", "altura_media_titular_adv",
-        "moeda_valor_mercado",
-        "estadio",
+        "arbitro", "idade_media_titular_time", "altura_media_titular_time",
+        "idade_media_titular_adv", "altura_media_titular_adv","estadio"
     ]
     os.makedirs(os.path.dirname(OUTPUT_CSV_DETALHADO), exist_ok=True)
     arquivo_existe = os.path.isfile(OUTPUT_CSV_DETALHADO)
