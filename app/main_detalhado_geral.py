@@ -53,8 +53,8 @@ def calcular_stats_titulares(players: list, data_jogo: datetime) -> dict:
 
 
     return {
-        "idade_media":   round(sum(idades) / len(idades), 1) if idades else "",
-        "altura_media":  round(sum(alturas) / len(alturas), 1) if alturas else "",
+        "idade_media":   round(sum(idades) / len(idades), 1) if idades else "NA",
+        "altura_media":  round(sum(alturas) / len(alturas), 1) if alturas else "NA",
     }
 
 
@@ -106,7 +106,7 @@ def extrair_detalhes(event: dict, time_nome: str, time_id: int, ano: int) -> dic
     rodada  = e.get("roundInfo", {}).get("round", "")
 
     # Lineup
-    stats_time = stats_adv = {"idade_media": "", "valor_mercado": "", "altura_media": ""}
+    stats_time = stats_adv = {"idade_media": "NA", "valor_mercado": "NA", "altura_media": "NA"}
     if dt:
         try:
             lineup = get_lineup_jogo(event["id"])
