@@ -17,7 +17,7 @@ from analysis import (
 )
 
 from config import (
-    TIME_ALVO,
+    TIMES_ALVO,
     SEASONS,
     OUTPUT_CSV
 )
@@ -144,27 +144,27 @@ def rodar_time(time_nome: str, time_id: int) -> dict:
 if __name__ == "__main__":
     from scraper import close
 
-    time_nome, time_id = TIME_ALVO
+    for time_nome, time_id in TIMES_ALVO:
+        print(f"\n{'='*50}")
+        print(f"Rodando para: {time_nome} (id={time_id})")
+        print(f"{'='*50}")
 
-    print(f"\n{'='*50}")
-    print(f"Rodando para: {time_nome} (id={time_id})")
-    print(f"{'='*50}")
+        resultado = rodar_time(time_nome, time_id)
 
-    resultado = rodar_time(time_nome, time_id)
+        resultado["aproveitamento"] = calcular_aproveitamento(resultado)
 
-    resultado["aproveitamento"] = calcular_aproveitamento(resultado)
+        print(f"\n{'='*50}")
+        print(f"Resultado final — {time_nome} (2015–2025):")
+        print(f"  Vitórias vs Z4:  {resultado['vitorias']}")
+        print(f"  Empates vs Z4:   {resultado['empates']}")
+        print(f"  Derrotas vs Z4:  {resultado['derrotas']}")
+        print(f"  Total partidas:  {resultado['total']}")
+        print(f"  Pontos perdidos: {resultado['pontos_perdidos']}")
+        print(f"  Aproveitamento:  {resultado['aproveitamento']}%")
+        print(f"  Média de pontos perdidos por jogo:  {resultado['media']}")
+        print(f"  Desvio padrão: {resultado['desvio_padrao']}")
+        print(f"{'='*50}")
 
-    print(f"\n{'='*50}")
-    print(f"Resultado final — {time_nome} (2015–2025):")
-    print(f"  Vitórias vs Z4:  {resultado['vitorias']}")
-    print(f"  Empates vs Z4:   {resultado['empates']}")
-    print(f"  Derrotas vs Z4:  {resultado['derrotas']}")
-    print(f"  Total partidas:  {resultado['total']}")
-    print(f"  Pontos perdidos: {resultado['pontos_perdidos']}")
-    print(f"  Aproveitamento:  {resultado['aproveitamento']}%")
-    print(f"  Média de pontos perdidos por jogo:  {resultado['media']}")
-    print(f"  Desvio padrão: {resultado['desvio_padrao']}")
-    print(f"{'='*50}")
-
-    salvar_csv(time_nome, resultado)
+        salvar_csv(time_nome, resultado)
+        
     close()

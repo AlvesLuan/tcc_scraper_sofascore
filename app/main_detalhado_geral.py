@@ -3,7 +3,7 @@ import os
 from datetime import datetime, timezone, timedelta
 from scraper import get_classificacao, get_jogos_time, buscar, close
 from analysis import get_z4, get_times_na_serie_a, filtrar_jogos_brasileirao
-from config import TIME_ALVO, SEASONS
+from config import TIMES_ALVO, SEASONS
 
 OUTPUT_CSV_DETALHADO = "data/exports/detalhado_c13_geral.csv"
 
@@ -204,12 +204,13 @@ def rodar_detalhado(time_nome: str, time_id: int):
 
 
 if __name__ == "__main__":
-    time_nome, time_id = TIME_ALVO
 
-    print(f"\n{'='*50}")
-    print(f"Detalhado para: {time_nome}")
-    print(f"{'='*50}")
+    for time_nome, time_id in TIMES_ALVO:
+        print(f"\n{'='*50}")
+        print(f"Detalhado para: {time_nome}")
+        print(f"{'='*50}")
 
-    rodar_detalhado(time_nome, time_id)
+        rodar_detalhado(time_nome, time_id)
+
     close()
     print(f"\nSalvo em: {OUTPUT_CSV_DETALHADO}")
