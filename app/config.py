@@ -53,3 +53,41 @@ REQUEST_DELAY = 3  # segundos entre requisições
 
 OUTPUT_CSV = "data/exports/resultados_c13.csv"
 OUTPUT_CSV_DETALHADO = "data/exports/detalhado_c13.csv"
+
+
+
+
+# ======================================================
+# FBREF — pastas e nomes dos arquivos HTML salvos
+# ======================================================
+PASTAS_FBREF = {
+    "Atlético Mineiro": "Atletico-Mineiro",
+    "Internacional":    "Internacional",
+    "Palmeiras":        "Palmeiras",
+    "Fluminense":       "Fluminense",
+    "Vasco da Gama":    "Vasco-da-Gama",
+    "Cruzeiro":         "Cruzeiro",
+    "Santos":           "Santos",
+    "Flamengo":         "Flamengo",
+    "São Paulo":        "Sao-Paulo",
+    "Bahia":            "Bahia",
+    "Grêmio":           "Gremio",
+    "Botafogo":         "Botafogo",
+    "Corinthians":      "Corinthians",
+}
+
+NOMES_FBREF = {
+    "Atlético Mineiro": "Atlético Mineiro",
+    "Internacional":    "Internacional",
+    "Palmeiras":        "Palmeiras",
+    "Fluminense":       "Fluminense",
+    "Vasco da Gama":    "Vasco da Gama",
+    "Cruzeiro":         "Cruzeiro",
+    "Santos":           "Santos",
+    "Flamengo":         "Flamengo",
+    "São Paulo":        "São Paulo",
+    "Bahia":            "Bahia",
+    "Grêmio":           "Grêmio",
+    "Botafogo":         "Botafogo",
+    "Corinthians":      "Corinthians",
+}
