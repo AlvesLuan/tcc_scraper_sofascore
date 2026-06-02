@@ -25,8 +25,7 @@ from config import (
 
 def buscar_todos_eventos_brasileirao(team_id: int, season_id: int) -> list[dict]:
     
-    #Percorre as páginas de eventos do time e retorna apenas
-    #os jogos do Brasileirão da season especificada.
+    '''Percorre as páginas de eventos do time e retorna apenas os jogos do Brasileirão da season especificada.'''
     
     todos = []
     page = 0

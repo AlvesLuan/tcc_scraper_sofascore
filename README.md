@@ -1,6 +1,6 @@
-# Análise de Desempenho do C13 contra o diferentes adversarios (2015–2025)
+# Análise de Desempenho do C13 contra diferentes adversários (2015–2025)
 
-Aplicação em Python que utiliza Playwright para coletar dados do SofaScore e analisar o desempenho de times do Clube dos 13(C13) contra diferentes equipes do Campeonato Brasileiro, análise feita no período de 2015 a 2025.
+Aplicação em Python que utiliza Playwright para coletar dados do SofaScore e Fbref e analisar o desempenho de times do Clube dos 13 (C13) contra diferentes equipes do Campeonato Brasileiro, análise feita no período de 2015 a 2025.
 
 ---
 
@@ -12,13 +12,16 @@ Aplicação em Python que utiliza Playwright para coletar dados do SofaScore e a
 - Identificação dos times do Z4 de cada temporada
 - Filtragem apenas de partidas do Brasileirão Série A
 - Cálculo de:
-  - vitórias
-  - empates
-  - derrotas
-  - total de partidas contra o Z4
-  - total de pontos perdidos contra o z4
-  - media de pontos perdidos por jogo
-  - desvio padrao dos pontos perdidos
+  - vitórias;
+  - empates;
+  - derrotas;
+  - total de partidas contra o Z4;
+  - total de pontos perdidos contra o Z4;
+  - média de pontos perdidos por jogo;
+  - desvio padrão dos pontos perdidos;
+  - médias de alturas juntamente com desvio padrão;
+  - médias de idade juntamente com desvio padrão;
+  - ...
 - Exportação dos resultados para CSV
 
 ---
@@ -28,6 +31,7 @@ Aplicação em Python que utiliza Playwright para coletar dados do SofaScore e a
 
 - Python
 - Playwright
+- xxxxxxxx
 
 ---
 <br>
@@ -40,13 +44,19 @@ tcc_g13_stats/
 ├── app/
 │   ├── analysis.py
 │   ├── config.py
-│   ├── main.py
+│   ├── fbref-extrator-offline
 │   ├── main_detalhado_geral.py
-|   ├── main_detalhado.py
+│   ├── main_detalhado_vs_z4.py
+│   ├── main.py
 │   └── scraper.py
 │
 ├── data/
 │   └── exports/
+│             └── detalhado_c13_geral_publico.csv
+│             └── detalhado_c13_geral.csv
+│             └── resultados_c13.csv
+│   └── fbref-pages-html/
+│             └── páginas específicas do fbref
 │
 ├── .gitignore
 ├── README.md
@@ -88,17 +98,24 @@ py -m playwright install chromium
 <br>
 <br>
 
-# Como executar
-### Na raiz do projeto:
+# Como executar:
+### Para rodar a tabela geral de dados contra o z4 rode com:
 ```txt
 py app/main.py
-#para a tabela geral.
+```
 
-py app/main_detalhado.py   
-#para a tabela com detalhes das partidas contra o z4.
-
-py app/main_detalhado_geral.py   
-#para a tabela com detalhes de TODAS as partidas no período, ATENÇÃO, a execução demorará mais.
+### Para a tabela com detalhes das partidas contra o z4.
+```txt
+py app/main_detalhado.py  
+```
+ 
+### Para a tabela com detalhes de TODAS as partidas no período, ATENÇÃO, a execução demorará mais.
+```txt
+py app/main_detalhado_geral.py  
+```
+#### Para adicionar o publico na tabela com detalhes rode (a tabela com detalhes deve existir):
+```txt
+py app/fbref-extrator-offline
 ```
 
 <br>
@@ -109,11 +126,18 @@ py app/main_detalhado_geral.py
 ```txt
 app/config.py
 ```
-### Basta descomentar o time desejado.
+### Basta descomentar os time desejados na execução.
 ### Exemplo:
 ```txt
-TIME_ALVO = ("Atlético Mineiro",1977)
+TIMES_ALVO = [
+    # ("Palmeiras",        1963),
+    ("Vasco da Gama",    1974),
+    ("Atlético Mineiro", 1977),
+    # ("Cruzeiro",         1954)
+]
 ```
+No exemplo rodará apenas Atlético Mineiro e Vasco da Gama, obviamente no mínimo um time deve estar descomentado.
+
 Também é possível alterar:
 - temporadas analisadas;
 - delay entre requisições;
@@ -121,12 +145,13 @@ Também é possível alterar:
 
 # Saída
 ### Os resultados são salvos em:
-```txt
-data/exports/resultados_c13.csv
-data/exports/detalhados_c13.csv
-data/exports/detalhados_c13_geral.csv
-```
 
+#### data/exports/resultados_c13.csv
+#### data/exports/detalhados_c13_geral.csv
+#### data/exports/detalhados_c13_geral_publico.csv
+
+
+<br>
 <br>
 <br>
 <br>
@@ -135,7 +160,8 @@ data/exports/detalhados_c13_geral.csv
 # Objetivo acadêmico
 ### Este projeto foi desenvolvido como parte de um Trabalho de Conclusão de Curso (TCC) de Sistemas de Informação, com foco em:
 
-- web scraping
-- análise de dados esportivos
-- automação com Playwright
-- processamento de estatísticas do futebol brasileiro
+- Web scraping
+- Análise de dados esportivos
+- Automação com Playwright
+- Inteligência estatística do futebol brasileiro
+- Mineração de dados e aprendizado de máquina.

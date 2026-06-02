@@ -1,4 +1,5 @@
 import csv
+import math
 import os
 from datetime import datetime, timezone, timedelta
 from scraper import get_classificacao, get_jogos_time, buscar, close
@@ -9,11 +10,13 @@ OUTPUT_CSV_DETALHADO = "data/exports/detalhado_c13_geral.csv"
 
 BR = timezone(timedelta(hours=-3))
 
-MESES = {
-    1: "Janeiro", 2: "Fevereiro", 3: "Março", 4: "Abril",
-    5: "Maio", 6: "Junho", 7: "Julho", 8: "Agosto",
-    9: "Setembro", 10: "Outubro", 11: "Novembro", 12: "Dezembro"
-}
+
+#MESES = {
+#    1: "Janeiro", 2: "Fevereiro", 3: "Março", 4: "Abril",
+#    5: "Maio", 6: "Junho", 7: "Julho", 8: "Agosto",
+#    9: "Setembro", 10: "Outubro", 11: "Novembro", 12: "Dezembro"
+#} 
+
 
 DIAS_SEMANA = {
     0: "Segunda", 1: "Terça", 2: "Quarta", 3: "Quinta",
@@ -32,10 +35,10 @@ def get_lineup_jogo(event_id: int) -> dict:
 
 
 def calcular_stats_titulares(players: list, data_jogo: datetime) -> dict:
-    #Calcula média de idade, valor de mercado total e média de altura dos 11 titulares."""
+    '''Calcula média de idade, média de altura dos 11 titulares e o desvio padrao de cada media.'''
     titulares = [p for p in players if not p.get("substitute", True)]
 
-    idades, alturas, valores = [], [], []
+    idades, alturas, = [], []
 
     for p in titulares:
         jogador = p.get("player", {})
@@ -50,11 +53,19 @@ def calcular_stats_titulares(players: list, data_jogo: datetime) -> dict:
         altura = jogador.get("height")
         if altura:
             alturas.append(altura)
-
+    
+    def desvio(valores):
+        if len(valores) < 2:
+            return "N.A"
+        media = sum(valores) / len(valores)
+        variancia = sum((x - media) ** 2 for x in valores) / len(valores)
+        return round(math.sqrt(variancia), 1)
 
     return {
-        "idade_media":   round(sum(idades) / len(idades), 1) if idades else "NA",
-        "altura_media":  round(sum(alturas) / len(alturas), 1) if alturas else "NA",
+        "idade_media":      round(sum(idades) / len(idades), 1) if idades else "N.A",
+        "desvio_idade":     desvio(idades),
+        "altura_media":     round(sum(alturas) / len(alturas), 1) if alturas else "N.A",
+        "desvio_altura":    desvio(alturas),
     }
 
 
@@ -95,7 +106,8 @@ def extrair_detalhes(event: dict, time_nome: str, time_id: int, ano: int) -> dic
         data       = dt.strftime("%d/%m/%Y")
         horario    = dt.strftime("%H:%M")
         dia_semana = DIAS_SEMANA[dt.weekday()]
-        mes        = MESES[dt.month]
+        mes = (f"{dt.month:02d}")
+        #mes        = MESES[dt.month]
     else:
         data = horario = dia_semana = mes = ""
         dt = None
@@ -106,7 +118,7 @@ def extrair_detalhes(event: dict, time_nome: str, time_id: int, ano: int) -> dic
     rodada  = e.get("roundInfo", {}).get("round", "")
 
     # Lineup
-    stats_time = stats_adv = {"idade_media": "NA", "valor_mercado": "NA", "altura_media": "NA"}
+    stats_time = stats_adv = {"idade_media": "N.A", "altura_media": "N.A"}
     if dt:
         try:
             lineup = get_lineup_jogo(event["id"])
@@ -132,9 +144,13 @@ def extrair_detalhes(event: dict, time_nome: str, time_id: int, ano: int) -> dic
         "condicao":                    condicao,
         "arbitro":                     arbitro,
         "idade_media_titular_time":    stats_time["idade_media"],
+        "desvio_idade_media_time":     stats_time["desvio_idade"],
         "altura_media_titular_time":   stats_time["altura_media"],
+        "desvio_altura_media_time":    stats_time["desvio_altura"],
         "idade_media_titular_adv":     stats_adv["idade_media"],
+        "desvio_idade_media_adv":      stats_adv["desvio_idade"],
         "altura_media_titular_adv":    stats_adv["altura_media"],
+        "desvio_altura_media_adv":     stats_adv["desvio_altura"],
         "estadio":                     estadio,
     }
 
@@ -143,8 +159,10 @@ def salvar_linha_csv(linha: dict):
     campos = [
         "time", "temporada", "rodada", "data", "horario", "dia_semana", "mes",
         "adversario", "resultado", "gols_favor", "gols_sofridos", "condicao",
-        "arbitro", "idade_media_titular_time", "altura_media_titular_time",
-        "idade_media_titular_adv", "altura_media_titular_adv","estadio"
+        "arbitro", "idade_media_titular_time", "desvio_idade_media_time", 
+        "altura_media_titular_time", "desvio_altura_media_time",
+        "idade_media_titular_adv", "desvio_idade_media_adv",
+        "altura_media_titular_adv", "desvio_altura_media_adv", "estadio"
     ]
     os.makedirs(os.path.dirname(OUTPUT_CSV_DETALHADO), exist_ok=True)
     arquivo_existe = os.path.isfile(OUTPUT_CSV_DETALHADO)
