@@ -1,4 +1,4 @@
-# Análise de Desempenho do C13 contra diferentes adversários (2015–2025)
+# [em desenvolvimento] Análise de Desempenho dos times do C13 contra diferentes adversários (2015–2025)
 
 Aplicação em Python que utiliza Playwright para coletar dados do SofaScore e Fbref e analisar o desempenho de times do Clube dos 13 (C13) contra diferentes equipes do Campeonato Brasileiro, análise feita no período de 2015 a 2025.
 
