@@ -2,3 +2,7 @@
 __pycache__/
 *.pyc
 data/fbref-pages-html/
+tree/resultado_arvore.txt
+tree/arvore_regras_20260615_131852.txt
+tree/decisionTree.py
+tree/arvore_20260615_131852.png
