@@ -111,11 +111,14 @@ py app/main_detalhado.py
  
 ### Para a tabela com detalhes de TODAS as partidas no período, ATENÇÃO, a execução demorará mais.
 ```txt
-py app/main_detalhado_geral.py  
+py app/main_detalhado_geral.py 
+#ou para apenas as partidas contra o z4:
+py app/main_detalhado_vs_z4.py 
+
 ```
 #### Para adicionar o publico na tabela com detalhes rode (a tabela com detalhes deve existir):
 ```txt
-py app/fbref-extrator-offline
+py app/fbref-extrator-offline.py
 ```
 
 <br>
