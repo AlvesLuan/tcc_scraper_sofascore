@@ -5,8 +5,8 @@ from config import PASTAS_FBREF, NOMES_FBREF
 
 # Defino os caminhos do CSV de entrada, do CSV de saída
 # e da pasta onde estão os HTMLs baixados do FBref
-CSV_ENTRADA = "data/exports/detalhado_c13_geral.csv"
-CSV_SAIDA   = "data/exports/detalhado_c13_geral_publico.csv"
+CSV_ENTRADA = "data/exports/base_detalhada_geral.csv"
+CSV_SAIDA   = "data/exports/base_detalhada_geral_publico.csv"
 HTML_DIR    = "data/fbref-pages-html"
 
 

@@ -6,7 +6,7 @@ from scraper import get_classificacao, get_jogos_time, buscar, close
 from analysis import get_z4, get_times_na_serie_a, filtrar_jogos_brasileirao
 from config import TIMES_ALVO, SEASONS
 
-OUTPUT_CSV_DETALHADO = "data/exports/detalhado_c13_geral.csv"
+OUTPUT_CSV_DETALHADO = "data/exports/base_detalhada_geral.csv"
 
 BR = timezone(timedelta(hours=-3))
 

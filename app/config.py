@@ -51,8 +51,8 @@ REQUEST_DELAY = 3  # segundos entre requisições
 # OUTPUT
 # ======================================================
 
-OUTPUT_CSV = "data/exports/resultados_c13.csv"
-OUTPUT_CSV_DETALHADO = "data/exports/detalhado_c13.csv"
+OUTPUT_CSV = "data/exports/resultados_vs_z4_geral.csv"
+OUTPUT_CSV_DETALHADO = "data/exports/base_detalhada_geral.csv"
 
 
 
