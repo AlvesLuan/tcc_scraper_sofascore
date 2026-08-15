@@ -186,7 +186,11 @@ def rodar_detalhado(time_nome: str, time_id: int):
 
         z4_ids    = get_z4(standings)
         presentes = get_times_na_serie_a(standings)
-
+######################
+        if not presentes:
+            print(f"  Erro ao obter classificação de {ano}, pulando.")
+            continue
+######################
         if time_id not in presentes:
             print(f"  {time_nome} não estava na Serie A em {ano}, pulando.")
             continue

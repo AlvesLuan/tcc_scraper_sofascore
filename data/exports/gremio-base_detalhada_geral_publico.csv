@@ -1,0 +1,381 @@
+time,temporada,rodada,data,horario,dia_semana,mes,adversario,resultado,gols_favor,gols_sofridos,condicao,arbitro,idade_media_titular_time,desvio_idade_media_time,altura_media_titular_time,desvio_altura_media_time,idade_media_titular_adv,desvio_idade_media_adv,altura_media_titular_adv,desvio_altura_media_adv,estadio,publico
+Grêmio,2015,1,10/05/2015,11:00,Domingo,05,Ponte Preta,Empate,3,3,Mandante,Heber Roberto Lopes,24.7,4.4,183.5,5.8,26.8,3.1,178.8,6.7,Arena do Grêmio,13164
+Grêmio,2015,2,16/05/2015,18:30,Sábado,05,Coritiba,Derrota,0,2,Visitante,Ricardo Marques Ribeiro,25.3,4.0,182.9,5.9,26.7,3.1,177.7,6.1,Estádio Major Antônio Couto Pereira,11785
+Grêmio,2015,3,23/05/2015,21:00,Sábado,05,Figueirense,Vitória,1,0,Mandante,Luiz Flávio de Oliveira,26.1,3.9,183.3,6.4,25.6,4.0,180.4,6.9,Arena do Grêmio,8336
+Grêmio,2015,4,31/05/2015,16:00,Domingo,05,Goiás,Empate,1,1,Visitante,Anderson Daronco,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Serra Dourada,4511
+Grêmio,2015,5,03/06/2015,22:00,Quarta,06,Corinthians,Vitória,3,1,Mandante,Wilton Pereira Sampaio,24.6,3.7,183.7,5.9,28.0,3.4,180.4,8.6,Arena do Grêmio,17971
+Grêmio,2015,6,06/06/2015,22:00,Sábado,06,São Paulo,Derrota,0,2,Visitante,Pericles Bassols Pegado Cortez,24.7,3.7,183.2,6.0,28.8,5.7,183.4,4.8,MorumBIS,16917
+Grêmio,2015,7,14/06/2015,16:00,Domingo,06,Athletico,Vitória,2,1,Mandante,Marcos Andre Gomes da Penha,25.8,4.2,183.3,6.4,25.1,4.3,180.9,6.2,Arena do Grêmio,17781
+Grêmio,2015,8,20/06/2015,21:00,Sábado,06,Palmeiras,Vitória,1,0,Mandante,Raphael Claus,25.8,4.2,183.3,6.4,28.4,4.3,179.3,8.9,Arena do Grêmio,20814
+Grêmio,2015,9,27/06/2015,16:00,Sábado,06,Avaí,Vitória,2,1,Visitante,Marcelo de Lima Henrique,24.9,4.5,182.3,6.7,26.5,5.0,180.5,8.0,Estádio da Ressacada,11221
+Grêmio,2015,10,01/07/2015,22:00,Quarta,07,Cruzeiro,Vitória,1,0,Mandante,Marcelo Aparecido Ribeiro de Souza,26.4,4.1,183.1,6.2,27.5,3.7,179.4,6.1,Arena do Grêmio,22517
+Grêmio,2015,11,05/07/2015,16:00,Domingo,07,Santos,Vitória,3,1,Visitante,Felipe Gomes Da Silva,26.7,4.3,182.9,6.2,24.5,5.2,180.3,7.6,Estádio Urbano Caldeira,4942
+Grêmio,2015,12,08/07/2015,19:30,Quarta,07,Chapecoense,Derrota,0,1,Visitante,Flavio Rodrigues Guerra,27.4,3.9,182.5,5.8,29.1,3.3,180.8,6.6,Arena Condá,13916
+Grêmio,2015,13,11/07/2015,18:30,Sábado,07,Vasco da Gama,Vitória,2,0,Mandante,Luiz Flávio de Oliveira,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Arena do Grêmio,34464
+Grêmio,2015,14,18/07/2015,18:30,Sábado,07,Flamengo,Derrota,0,1,Visitante,Ricardo Marques Ribeiro,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio do Maracanã,56927
+Grêmio,2015,15,25/07/2015,19:30,Sábado,07,Sport Recife,Empate,1,1,Mandante,Pericles Bassols Pegado Cortez,24.3,4.0,182.5,6.5,27.9,3.8,182.8,7.2,Arena do Grêmio,33437
+Grêmio,2015,16,01/08/2015,18:30,Sábado,08,Fluminense,Derrota,0,1,Visitante,Wilton Pereira Sampaio,25.3,4.4,183.3,5.6,26.8,5.2,179.3,7.1,Estádio do Maracanã,33288
+Grêmio,2015,17,09/08/2015,18:30,Domingo,08,Internacional,Vitória,5,0,Mandante,Dewson Fernando Freitas da Silva,27.5,3.9,182.5,5.8,26.1,5.0,180.3,7.2,Arena do Grêmio,42432
+Grêmio,2015,18,13/08/2015,21:00,Quinta,08,Atlético Mineiro,Vitória,2,0,Visitante,Dewson Fernando Freitas da Silva,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Arena Independência,49047
+Grêmio,2015,19,16/08/2015,18:30,Domingo,08,Joinville,Vitória,2,1,Mandante,,27.1,3.9,183.5,6.0,25.4,5.5,180.5,4.8,Arena do Grêmio,31183
+Grêmio,2015,20,23/08/2015,11:00,Domingo,08,Ponte Preta,Empate,0,0,Visitante,Emerson De Almeida Ferreira,27.2,3.7,182.4,6.9,26.8,3.5,177.9,6.9,Moisés Lucarelli,8612
+Grêmio,2015,21,30/08/2015,11:00,Domingo,08,Coritiba,Empate,0,0,Mandante,Luiz Flávio de Oliveira,27.5,3.9,182.2,6.8,27.8,4.4,178.1,6.5,Arena do Grêmio,46000
+Grêmio,2015,22,03/09/2015,21:00,Quinta,09,Figueirense,Vitória,2,0,Visitante,Raphael Claus,26.4,3.8,182.7,6.1,25.4,3.3,180.7,4.4,Orlando Scarpelli,10823
+Grêmio,2015,23,06/09/2015,16:00,Domingo,09,Goiás,Vitória,2,1,Mandante,Sandro Meira Ricci,25.8,4.6,182.4,6.2,25.4,4.1,179.5,4.8,Arena do Grêmio,29184
+Grêmio,2015,24,09/09/2015,22:00,Quarta,09,Corinthians,Empate,1,1,Visitante,Andre Luiz de Freitas Castro,26.4,4.6,182.9,5.6,27.0,5.3,181.1,8.4,Neo Química Arena,30126
+Grêmio,2015,25,13/09/2015,16:00,Domingo,09,São Paulo,Derrota,1,2,Mandante,Sandro Meira Ricci,26.8,4.1,182.6,7.4,25.4,3.7,183.5,5.7,Arena do Grêmio,44227
+Grêmio,2015,26,16/09/2015,21:00,Quarta,09,Athletico,Vitória,2,1,Visitante,Braulio Da Silva Machado,26.9,4.1,181.7,6.5,25.3,3.6,179.0,5.8,Arena da Baixada,13619
+Grêmio,2015,27,19/09/2015,18:30,Sábado,09,Palmeiras,Derrota,2,3,Visitante,Wilton Pereira Sampaio,24.6,4.2,182.0,6.2,29.1,5.9,180.9,7.6,Nubank Parque,21257
+Grêmio,2015,28,26/09/2015,21:00,Sábado,09,Avaí,Vitória,3,1,Mandante,Marcelo Aparecido Ribeiro de Souza,25.1,4.0,182.7,5.5,27.4,2.9,181.0,8.4,Arena do Grêmio,13251
+Grêmio,2015,29,04/10/2015,16:00,Domingo,10,Cruzeiro,Empate,0,0,Visitante,Heber Roberto Lopes,26.8,4.3,182.8,6.0,27.9,3.7,182.8,5.3,Governador Magalhães Pinto,29294
+Grêmio,2015,30,15/10/2015,21:00,Quinta,10,Santos,Vitória,1,0,Mandante,Marielson Alves Silva,27.0,4.0,183.5,5.9,25.6,5.1,178.6,7.1,Arena do Grêmio,10496
+Grêmio,2015,31,18/10/2015,16:00,Domingo,10,Chapecoense,Derrota,2,3,Mandante,Luiz Flávio de Oliveira,27.4,3.7,184.2,6.4,28.2,3.1,181.0,8.7,Arena do Grêmio,19925
+Grêmio,2015,32,25/10/2015,16:00,Domingo,10,Vasco da Gama,Empate,0,0,Visitante,Marcelo Aparecido Ribeiro de Souza,26.6,4.1,183.5,6.0,30.0,4.4,182.5,5.2,Estádio do Maracanã,20207
+Grêmio,2015,33,01/11/2015,16:00,Domingo,11,Flamengo,Vitória,2,0,Mandante,Braulio Da Silva Machado,25.8,4.1,181.7,6.0,26.4,4.0,181.4,5.2,Arena do Grêmio,37793
+Grêmio,2015,34,08/11/2015,18:30,Domingo,11,Sport Recife,Derrota,0,1,Visitante,Heber Roberto Lopes,25.7,4.3,182.4,6.4,25.7,2.8,180.1,8.1,Ilha do Retiro,11091
+Grêmio,2015,35,19/11/2015,18:30,Quinta,11,Fluminense,Vitória,1,0,Mandante,Reway Wagner,25.4,4.2,180.5,7.2,28.3,4.4,178.0,7.4,Arena do Grêmio,15909
+Grêmio,2015,36,22/11/2015,16:00,Domingo,11,Internacional,Derrota,0,1,Visitante,Ricardo Marques Ribeiro,25.8,4.2,181.1,7.8,26.3,4.6,180.7,6.0,Estádio Beira-Rio,30692
+Grêmio,2015,37,29/11/2015,16:00,Domingo,11,Atlético Mineiro,Vitória,2,1,Mandante,Pericles Bassols Pegado Cortez,25.4,4.4,181.6,7.4,28.3,4.4,180.1,7.8,Arena do Grêmio,36862
+Grêmio,2015,38,06/12/2015,16:00,Domingo,12,Joinville,Vitória,2,0,Visitante,Raphael Claus,25.2,3.7,181.9,7.6,24.3,3.3,181.9,6.4,Arena Joinville,5979
+Grêmio,2016,1,15/05/2016,16:00,Domingo,05,Corinthians,Empate,0,0,Visitante,Wilton Pereira Sampaio,27.3,3.5,181.5,7.9,26.9,1.9,179.9,6.8,Neo Química Arena,31533
+Grêmio,2016,2,22/05/2016,16:00,Domingo,05,Flamengo,Vitória,1,0,Mandante,Luiz Flávio de Oliveira,28.0,3.3,182.4,6.7,27.1,5.1,179.3,4.9,Arena do Grêmio,15976
+Grêmio,2016,3,26/05/2016,21:00,Quinta,05,Atlético Mineiro,Vitória,3,0,Visitante,Raphael Claus,28.2,3.7,182.1,5.9,27.4,4.2,181.0,6.8,Arena Independência,15742
+Grêmio,2016,4,29/05/2016,18:30,Domingo,05,Coritiba,Vitória,2,0,Mandante,Sandro Meira Ricci,26.4,4.6,180.9,6.1,30.2,4.6,177.4,6.5,Arena do Grêmio,10825
+Grêmio,2016,5,02/06/2016,21:00,Quinta,06,Palmeiras,Derrota,3,4,Visitante,Marielson Alves Silva,26.4,4.6,181.4,6.7,28.5,6.8,178.8,6.9,Nubank Parque,19198
+Grêmio,2016,6,05/06/2016,16:00,Domingo,06,Ponte Preta,Vitória,1,0,Mandante,Pericles Bassols Pegado Cortez,27.0,4.3,179.4,7.4,28.0,4.7,178.2,8.0,Arena do Grêmio,15125
+Grêmio,2016,7,11/06/2016,18:30,Sábado,06,Fluminense,Empate,1,1,Visitante,Andre Luiz de Freitas Castro,27.8,4.3,179.9,7.7,26.9,4.7,179.6,6.7,Estádio Giulite Coutinho,3636
+Grêmio,2016,8,15/06/2016,19:30,Quarta,06,Chapecoense,Empate,3,3,Visitante,Luiz Flávio de Oliveira,26.0,4.6,181.1,6.2,27.4,4.8,181.2,4.7,Arena Condá,13154
+Grêmio,2016,9,19/06/2016,19:00,Domingo,06,Cruzeiro,Vitória,2,0,Mandante,Thiago Duarte Peixoto,27.0,4.3,180.5,7.2,25.8,4.6,178.8,7.2,Arena do Grêmio,14658
+Grêmio,2016,10,23/06/2016,19:15,Quinta,06,Vitória,Derrota,1,2,Mandante,Sandro Meira Ricci,26.4,4.3,179.8,7.0,27.8,3.7,179.9,7.5,Arena do Grêmio,12636
+Grêmio,2016,11,26/06/2016,16:00,Domingo,06,Athletico,Derrota,0,2,Visitante,Reway Wagner,26.1,3.9,181.3,7.4,26.0,3.4,181.1,6.6,Arena da Baixada,16838
+Grêmio,2016,12,29/06/2016,19:30,Quarta,06,Santos,Vitória,3,2,Mandante,Eduardo Tomaz de Aquino Valadao,26.2,4.5,182.1,6.3,25.1,5.3,182.1,7.6,Arena do Grêmio,13088
+Grêmio,2016,13,03/07/2016,11:00,Domingo,07,Internacional,Vitória,1,0,Visitante,Dewson Fernando Freitas da Silva,26.2,4.5,182.1,6.3,26.2,3.5,180.5,5.3,Estádio Beira-Rio,36229
+Grêmio,2016,14,10/07/2016,11:00,Domingo,07,Figueirense,Vitória,2,1,Mandante,Jailson Macedo Freitas,26.2,4.5,182.1,6.3,27.2,3.4,178.9,7.4,Arena do Grêmio,34013
+Grêmio,2016,15,17/07/2016,18:30,Domingo,07,Sport Recife,Derrota,2,4,Visitante,Rodrigo Batista Raposo,27.8,4.3,181.7,6.1,28.4,5.2,178.7,7.5,Ilha do Retiro,10891
+Grêmio,2016,16,24/07/2016,16:00,Domingo,07,São Paulo,Vitória,1,0,Mandante,Heber Roberto Lopes,27.0,4.5,179.4,7.0,28.5,3.5,180.5,7.1,Arena do Grêmio,37069
+Grêmio,2016,17,31/07/2016,18:30,Domingo,07,América Mineiro,Empate,0,0,Visitante,Raphael Claus,27.9,4.0,180.8,6.5,27.8,4.9,179.7,6.6,Arena Independência,1534
+Grêmio,2016,18,04/08/2016,19:30,Quinta,08,Santa Cruz,Empate,0,0,Mandante,Luiz Flávio de Oliveira,27.2,4.2,180.6,6.6,29.2,4.9,180.5,7.1,Arena do Grêmio,16068
+Grêmio,2016,20,14/08/2016,11:00,Domingo,08,Corinthians,Vitória,3,0,Mandante,Braulio Da Silva Machado,27.6,4.4,180.9,6.4,26.5,1.6,180.4,7.0,Arena do Grêmio,46163
+Grêmio,2016,21,21/08/2016,11:00,Domingo,08,Flamengo,Derrota,1,2,Visitante,Raphael Claus,27.1,4.4,178.9,7.3,27.8,3.4,180.3,7.1,Arena BRB Mané Garrincha,22552
+Grêmio,2016,22,28/08/2016,16:00,Domingo,08,Atlético Mineiro,Empate,1,1,Mandante,Claudio Francisco Lima E. Silva,27.3,4.0,181.7,5.7,29.5,4.3,182.9,5.8,Arena do Grêmio,30631
+Grêmio,2016,19,04/09/2016,16:00,Domingo,09,Botafogo,Derrota,1,2,Visitante,Reway Wagner,27.5,4.2,183.5,5.0,26.8,4.5,179.7,7.2,Estádio Luso Brasileiro,5199
+Grêmio,2016,23,07/09/2016,21:45,Quarta,09,Coritiba,Derrota,0,4,Visitante,Wagner do Nascimento Magalhaes,27.1,4.2,181.5,6.7,26.6,4.4,178.5,6.1,Estádio Major Antônio Couto Pereira,8507
+Grêmio,2016,24,11/09/2016,18:30,Domingo,09,Palmeiras,Empate,0,0,Mandante,Emerson De Almeida Ferreira,26.8,4.3,181.7,6.2,27.8,6.7,179.2,6.5,Arena do Grêmio,19514
+Grêmio,2016,25,14/09/2016,21:00,Quarta,09,Ponte Preta,Derrota,0,3,Visitante,Jailson Macedo Freitas,25.9,3.5,181.9,6.1,26.3,5.0,179.2,8.4,Moisés Lucarelli,3713
+Grêmio,2016,26,18/09/2016,16:00,Domingo,09,Fluminense,Derrota,0,1,Mandante,Wilton Pereira Sampaio,27.4,4.2,181.3,6.5,28.2,3.6,179.5,7.4,Arena do Grêmio,12136
+Grêmio,2016,27,25/09/2016,16:00,Domingo,09,Chapecoense,Vitória,1,0,Mandante,Dewson Fernando Freitas da Silva,26.4,4.3,181.6,6.7,27.6,5.1,179.9,5.7,Arena do Grêmio,11152
+Grêmio,2016,28,01/10/2016,18:30,Sábado,10,Cruzeiro,Derrota,0,1,Visitante,Elmo Alves Resende Cunha,25.8,4.4,180.5,7.5,29.3,2.6,179.7,7.1,Governador Magalhães Pinto,16678
+Grêmio,2016,29,05/10/2016,19:30,Quarta,10,Vitória,Vitória,1,0,Visitante,Emerson De Almeida Ferreira,26.0,4.5,180.2,7.2,27.1,3.4,178.8,7.1,Estádio Manoel Barradas,19652
+Grêmio,2016,30,13/10/2016,21:00,Quinta,10,Athletico,Vitória,1,0,Mandante,Pericles Bassols Pegado Cortez,27.5,4.2,181.7,7.1,25.5,5.2,180.9,7.0,Arena do Grêmio,16123
+Grêmio,2016,31,16/10/2016,18:30,Domingo,10,Santos,Empate,1,1,Visitante,Pablo Dos Santos Alves,23.1,3.6,180.1,7.4,28.0,5.5,181.0,7.5,Estádio Urbano Caldeira,7969
+Grêmio,2016,32,23/10/2016,16:00,Domingo,10,Internacional,Empate,0,0,Mandante,Francisco Carlos Do Nascimento,26.8,3.6,180.7,7.2,26.1,4.4,180.5,5.3,Arena do Grêmio,47622
+Grêmio,2016,33,29/10/2016,18:30,Sábado,10,Figueirense,Empate,0,0,Visitante,Eduardo Tomaz de Aquino Valadao,23.8,3.1,178.5,7.1,28.4,3.4,181.5,8.2,Orlando Scarpelli,8431
+Grêmio,2016,34,07/11/2016,19:00,Segunda,11,Sport Recife,Derrota,0,3,Mandante,Dewson Fernando Freitas da Silva,26.2,4.3,181.6,5.9,27.4,5.6,180.2,6.1,Arena do Grêmio,10845
+Grêmio,2016,35,17/11/2016,18:30,Quinta,11,São Paulo,Empate,1,1,Visitante,Jailson Macedo Freitas,27.9,4.2,181.4,6.5,25.1,3.1,178.8,7.1,MorumBIS,21933
+Grêmio,2016,36,20/11/2016,16:00,Domingo,11,América Mineiro,Vitória,3,0,Mandante,Wilton Pereira Sampaio,23.8,3.3,178.3,6.8,26.3,4.4,181.4,5.8,Arena do Grêmio,10765
+Grêmio,2016,37,27/11/2016,18:30,Domingo,11,Santa Cruz,Derrota,1,5,Visitante,Ricardo Marques Ribeiro,23.8,2.2,177.5,6.5,29.4,5.3,180.5,7.5,Estádio do Arruda,2227
+Grêmio,2016,38,11/12/2016,16:00,Domingo,12,Botafogo,Derrota,0,1,Mandante,Jailson Macedo Freitas,23.2,2.0,178.3,7.0,28.4,3.7,180.3,6.3,Arena do Grêmio,14101
+Grêmio,2017,1,14/05/2017,19:00,Domingo,05,Botafogo,Vitória,2,0,Mandante,Braulio Da Silva Machado,28.0,5.0,180.2,7.1,26.9,3.8,180.6,6.0,Arena do Grêmio,18551
+Grêmio,2017,2,21/05/2017,16:00,Domingo,05,Athletico,Vitória,2,0,Visitante,Marcelo Aparecido Ribeiro de Souza,28.0,5.0,179.7,7.0,28.0,4.4,179.4,6.3,Arena da Baixada,17244
+Grêmio,2017,3,28/05/2017,18:00,Domingo,05,Sport Recife,Derrota,3,4,Visitante,Jailson Macedo Freitas,23.7,4.0,180.7,7.4,28.6,6.0,178.2,7.1,Ilha do Retiro,3441
+Grêmio,2017,4,04/06/2017,16:00,Domingo,06,Vasco da Gama,Vitória,2,0,Mandante,Sandro Meira Ricci,28.1,5.0,179.7,7.0,25.3,4.4,178.9,7.0,Arena do Grêmio,22578
+Grêmio,2017,5,08/06/2017,20:00,Quinta,06,Chapecoense,Vitória,6,3,Visitante,Rodolpho Toski Marques,27.4,4.9,179.7,7.0,27.4,3.1,181.5,7.3,Arena Condá,14403
+Grêmio,2017,6,12/06/2017,20:00,Segunda,06,Bahia,Vitória,1,0,Mandante,Eduardo Tomaz de Aquino Valadao,27.3,3.8,179.4,6.4,26.5,3.5,179.5,6.9,Arena do Grêmio,22103
+Grêmio,2017,7,15/06/2017,21:00,Quinta,06,Fluminense,Vitória,2,0,Visitante,Elmo Alves Resende Cunha,27.3,3.8,179.4,6.4,24.5,4.1,181.5,6.7,Estádio do Maracanã,11652
+Grêmio,2017,8,19/06/2017,20:00,Segunda,06,Cruzeiro,Empate,3,3,Visitante,Raphael Claus,26.4,3.8,178.5,6.4,28.3,4.1,179.2,6.6,Governador Magalhães Pinto,20384
+Grêmio,2017,9,22/06/2017,21:00,Quinta,06,Coritiba,Vitória,2,0,Mandante,Pericles Bassols Pegado Cortez,27.9,4.0,180.8,6.9,27.3,4.4,180.9,5.8,Arena do Grêmio,19035
+Grêmio,2017,10,25/06/2017,16:00,Domingo,06,Corinthians,Derrota,0,1,Mandante,Wilton Pereira Sampaio,27.4,3.8,179.8,6.9,27.1,4.1,179.7,8.5,Arena do Grêmio,50116
+Grêmio,2017,11,01/07/2017,16:00,Sábado,07,Palmeiras,Derrota,0,1,Visitante,Wagner do Nascimento Magalhaes,24.1,3.8,179.6,7.1,29.2,6.5,180.2,5.5,Mercado Livre Arena Pacaembu,31395
+Grêmio,2017,12,09/07/2017,16:00,Domingo,07,Avaí,Derrota,0,2,Mandante,Reway Wagner,27.5,4.0,179.2,7.4,27.3,4.0,178.6,7.4,Arena do Grêmio,27222
+Grêmio,2017,13,13/07/2017,19:30,Quinta,07,Flamengo,Vitória,1,0,Visitante,Marcelo Aparecido Ribeiro de Souza,27.5,4.0,179.2,7.4,28.0,3.6,179.3,7.1,Estádio Luso Brasileiro,18204
+Grêmio,2017,14,16/07/2017,16:00,Domingo,07,Ponte Preta,Vitória,3,1,Mandante,Claudio Francisco Lima E. Silva,27.3,4.0,180.5,7.5,30.1,5.5,177.3,7.2,Arena do Grêmio,19292
+Grêmio,2017,15,19/07/2017,19:30,Quarta,07,Vitória,Vitória,3,1,Visitante,Pericles Bassols Pegado Cortez,27.9,4.0,179.8,7.4,28.9,3.6,182.9,7.2,Estádio Manoel Barradas,5541
+Grêmio,2017,16,24/07/2017,20:00,Segunda,07,São Paulo,Empate,1,1,Visitante,Ricardo Marques Ribeiro,27.4,3.8,179.4,6.4,27.5,2.8,182.2,7.3,MorumBIS,51511
+Grêmio,2017,17,30/07/2017,19:00,Domingo,07,Santos,Empate,1,1,Mandante,Braulio Da Silva Machado,27.9,3.9,179.2,6.6,27.9,4.5,182.7,6.0,Arena do Grêmio,30034
+Grêmio,2017,18,02/08/2017,21:45,Quarta,08,Atlético Goianiense,Vitória,1,0,Visitante,Igor Junio Benevenuto,25.6,3.8,177.3,6.0,26.7,2.3,180.5,6.5,Serra Dourada,5253
+Grêmio,2017,19,06/08/2017,16:00,Domingo,08,Atlético Mineiro,Vitória,2,0,Mandante,Flavio Rodrigues De Souza,28.2,5.4,179.7,5.6,25.4,4.5,181.5,7.6,Arena do Grêmio,22702
+Grêmio,2017,20,13/08/2017,19:00,Domingo,08,Botafogo,Derrota,0,1,Visitante,Reway Wagner,25.2,4.8,179.9,5.7,25.9,4.7,179.3,6.0,Estádio Nilton Santos,6352
+Grêmio,2017,21,20/08/2017,11:00,Domingo,08,Athletico,Empate,0,0,Mandante,Jailson Macedo Freitas,26.7,6.0,179.8,5.8,27.0,3.7,181.4,6.3,Arena do Grêmio,15369
+Grêmio,2017,22,02/09/2017,16:00,Sábado,09,Sport Recife,Vitória,5,0,Mandante,Andre Luiz de Freitas Castro,28.0,5.0,177.0,6.0,29.6,3.8,179.4,6.9,Arena do Grêmio,17518
+Grêmio,2017,23,09/09/2017,18:00,Sábado,09,Vasco da Gama,Derrota,0,1,Visitante,Heber Roberto Lopes,29.1,4.7,178.4,6.8,29.2,4.3,179.6,5.7,Estádio São Januário,N.A
+Grêmio,2017,24,17/09/2017,16:00,Domingo,09,Chapecoense,Derrota,0,1,Mandante,Marcelo de Lima Henrique,27.7,5.0,178.5,7.3,27.0,3.6,181.5,6.1,Arena do Grêmio,14618
+Grêmio,2017,25,24/09/2017,19:00,Domingo,09,Bahia,Derrota,0,1,Visitante,Luiz Flávio de Oliveira,28.0,3.3,178.3,6.3,26.4,3.7,180.4,6.9,Arena Fonte Nova,12789
+Grêmio,2017,26,01/10/2017,16:00,Domingo,10,Fluminense,Vitória,1,0,Mandante,Rafael Traci,28.5,6.0,179.7,7.0,24.9,4.2,181.0,7.6,Arena do Grêmio,15727
+Grêmio,2017,27,11/10/2017,21:45,Quarta,10,Cruzeiro,Derrota,0,1,Mandante,Rodrigo Batista Raposo,28.1,4.7,182.1,6.3,29.2,3.3,179.7,6.3,Arena do Grêmio,7851
+Grêmio,2017,28,15/10/2017,18:00,Domingo,10,Coritiba,Vitória,1,0,Visitante,Andre Luiz de Freitas Castro,28.6,4.0,180.2,7.6,27.2,3.4,178.6,5.4,Estádio Major Antônio Couto Pereira,10814
+Grêmio,2017,29,18/10/2017,20:45,Quarta,10,Corinthians,Empate,0,0,Visitante,Heber Roberto Lopes,28.0,4.1,180.3,7.5,26.6,4.3,179.3,8.8,Neo Química Arena,40008
+Grêmio,2017,30,22/10/2017,16:00,Domingo,10,Palmeiras,Derrota,1,3,Mandante,Ricardo Marques Ribeiro,28.5,4.8,180.9,5.7,28.7,4.9,180.2,6.6,Arena do Grêmio,16238
+Grêmio,2017,31,29/10/2017,18:00,Domingo,10,Avaí,Empate,2,2,Visitante,Dewson Fernando Freitas da Silva,26.0,4.6,181.0,5.7,27.4,4.9,180.7,6.6,Estádio da Ressacada,9880
+Grêmio,2017,32,05/11/2017,16:00,Domingo,11,Flamengo,Vitória,3,1,Mandante,Raphael Claus,28.2,3.4,179.3,7.1,28.3,3.7,179.5,6.9,Arena do Grêmio,18199
+Grêmio,2017,33,08/11/2017,18:30,Quarta,11,Ponte Preta,Vitória,1,0,Visitante,Sandro Meira Ricci,28.1,5.1,181.4,6.9,28.9,6.2,180.7,6.2,Moisés Lucarelli,6226
+Grêmio,2017,34,12/11/2017,16:00,Domingo,11,Vitória,Empate,1,1,Mandante,Marcelo Aparecido Ribeiro de Souza,28.0,5.5,180.0,7.5,25.9,4.1,181.0,7.1,Arena do Grêmio,14021
+Grêmio,2017,35,15/11/2017,18:30,Quarta,11,São Paulo,Vitória,1,0,Mandante,Rodolpho Toski Marques,28.1,4.1,180.3,7.5,28.4,4.1,182.0,4.9,Arena do Grêmio,20542
+Grêmio,2017,36,19/11/2017,18:00,Domingo,11,Santos,Derrota,0,1,Visitante,Pericles Bassols Pegado Cortez,24.5,4.7,179.8,6.2,29.2,5.2,182.3,6.1,Estádio Urbano Caldeira,4206
+Grêmio,2017,37,26/11/2017,16:00,Domingo,11,Atlético Goianiense,Empate,1,1,Mandante,Bruno Arleu de Araujo,24.4,5.3,179.7,6.1,26.4,2.6,181.7,5.1,Arena do Grêmio,6783
+Grêmio,2017,38,03/12/2017,16:00,Domingo,12,Atlético Mineiro,Derrota,3,4,Visitante,Marcelo Aparecido Ribeiro de Souza,21.1,3.4,179.9,6.4,29.9,5.6,180.5,8.4,Arena Independência,19116
+Grêmio,2018,1,14/04/2018,16:00,Sábado,04,Cruzeiro,Vitória,1,0,Visitante,Rodolpho Toski Marques,29.2,5.0,179.3,6.1,31.3,3.1,180.5,6.5,Governador Magalhães Pinto,19285
+Grêmio,2018,2,22/04/2018,19:00,Domingo,04,Athletico,Empate,0,0,Mandante,Raphael Claus,28.5,5.2,179.9,6.8,28.9,4.0,181.6,4.9,Arena do Grêmio,22049
+Grêmio,2018,3,28/04/2018,16:00,Sábado,04,Botafogo,Derrota,1,2,Visitante,Vinicius Goncalves Dias Araujo,27.6,2.9,182.1,4.2,27.3,4.6,181.2,7.0,Estádio Nilton Santos,10748
+Grêmio,2018,4,06/05/2018,19:00,Domingo,05,Santos,Vitória,5,1,Mandante,Pericles Bassols Pegado Cortez,28.7,5.1,179.7,6.7,25.2,4.3,180.4,6.8,Arena do Grêmio,25779
+Grêmio,2018,5,12/05/2018,16:00,Sábado,05,Internacional,Empate,0,0,Mandante,Wilton Pereira Sampaio,27.5,3.8,180.9,5.5,26.7,2.9,181.8,6.9,Arena do Grêmio,48035
+Grêmio,2018,6,20/05/2018,16:00,Domingo,05,Paraná Clube,Empate,0,0,Visitante,Rodrigo Batista Raposo,29.1,4.6,181.2,5.6,25.2,3.5,179.7,6.0,Durival Britto e Silva,7776
+Grêmio,2018,7,27/05/2018,19:00,Domingo,05,Ceará,Vitória,1,0,Visitante,Reway Wagner,29.0,5.0,180.6,6.0,29.8,2.7,178.0,8.0,Estádio Governador Plácido Castelo,14995
+Grêmio,2018,8,30/05/2018,21:45,Quarta,05,Fluminense,Empate,0,0,Mandante,Luiz Flávio de Oliveira,27.7,3.9,181.8,3.5,24.9,3.1,181.4,8.7,Arena do Grêmio,18149
+Grêmio,2018,9,03/06/2018,16:00,Domingo,06,Bahia,Vitória,2,0,Visitante,Pericles Bassols Pegado Cortez,26.2,4.0,181.2,6.0,26.7,4.0,181.2,8.9,Arena Fonte Nova,15623
+Grêmio,2018,10,06/06/2018,21:45,Quarta,06,Palmeiras,Derrota,0,2,Mandante,Rafael Traci,26.3,3.9,180.7,4.6,28.8,4.2,179.3,6.2,Arena do Grêmio,26556
+Grêmio,2018,11,10/06/2018,16:00,Domingo,06,América Mineiro,Vitória,1,0,Mandante,Rodrigo D'alonso Ferreira,28.0,5.3,180.2,4.6,26.8,4.0,181.3,6.5,Arena do Grêmio,12953
+Grêmio,2018,12,13/06/2018,19:30,Quarta,06,Sport Recife,Empate,0,0,Visitante,Ricardo Marques Ribeiro,28.3,5.3,179.9,5.9,28.6,3.1,181.5,7.0,Ilha do Retiro,14430
+Grêmio,2018,13,18/07/2018,21:45,Quarta,07,Atlético Mineiro,Vitória,2,0,Mandante,Flavio Rodrigues De Souza,29.8,4.9,180.6,6.3,28.9,5.1,176.6,9.2,Arena do Grêmio,20311
+Grêmio,2018,14,22/07/2018,16:00,Domingo,07,Vasco da Gama,Derrota,0,1,Visitante,Igor Junio Benevenuto,28.9,5.1,181.4,6.5,26.6,4.0,178.5,5.8,Estádio São Januário,8242
+Grêmio,2018,15,26/07/2018,19:30,Quinta,07,São Paulo,Vitória,2,1,Mandante,Grazianni Maciel Rocha,28.6,4.1,181.3,6.3,29.3,5.0,181.0,5.5,Arena do Grêmio,19865
+Grêmio,2018,16,29/07/2018,19:00,Domingo,07,Chapecoense,Empate,1,1,Visitante,Rodrigo Carvalhaes de Miranda,27.0,5.0,180.7,5.6,28.2,4.7,179.3,6.1,Arena Condá,14382
+Grêmio,2018,17,04/08/2018,19:00,Sábado,08,Flamengo,Vitória,2,0,Mandante,Rafael Traci,27.5,4.6,180.7,5.7,26.9,5.7,179.4,4.3,Arena do Grêmio,14649
+Grêmio,2018,18,12/08/2018,19:00,Domingo,08,Vitória,Vitória,4,0,Mandante,Bruno Arleu de Araujo,27.8,5.0,180.0,5.8,24.8,3.3,178.8,8.2,Arena do Grêmio,16146
+Grêmio,2018,19,18/08/2018,19:00,Sábado,08,Corinthians,Vitória,1,0,Visitante,Reway Wagner,27.7,4.2,181.5,7.0,27.9,4.7,178.1,7.5,Neo Química Arena,32583
+Grêmio,2018,20,22/08/2018,21:45,Quarta,08,Cruzeiro,Empate,1,1,Mandante,Marcelo de Lima Henrique,29.1,5.0,181.0,6.4,29.9,5.0,179.8,7.8,Arena do Grêmio,12773
+Grêmio,2018,21,25/08/2018,19:00,Sábado,08,Athletico,Derrota,1,2,Visitante,Marcelo Aparecido Ribeiro de Souza,28.1,4.8,179.5,5.4,26.3,4.9,179.5,6.6,Arena da Baixada,12188
+Grêmio,2018,22,01/09/2018,16:00,Sábado,09,Botafogo,Vitória,4,0,Mandante,Jailson Macedo Freitas,30.3,4.7,180.5,6.2,24.5,3.0,181.5,6.9,Arena do Grêmio,14852
+Grêmio,2018,23,06/09/2018,19:00,Quinta,09,Santos,Empate,0,0,Visitante,Wilton Pereira Sampaio,27.3,4.4,180.6,6.4,25.5,4.3,180.2,7.8,Estádio Urbano Caldeira,16083
+Grêmio,2018,24,09/09/2018,16:00,Domingo,09,Internacional,Derrota,0,1,Visitante,Pericles Bassols Pegado Cortez,29.4,4.8,180.5,6.2,27.8,2.8,180.9,5.5,Estádio Beira-Rio,41742
+Grêmio,2018,25,15/09/2018,16:00,Sábado,09,Paraná Clube,Vitória,2,0,Mandante,Igor Junio Benevenuto,27.5,6.5,178.5,5.0,26.6,2.9,180.5,4.4,Arena do Grêmio,19278
+Grêmio,2018,26,23/09/2018,11:00,Domingo,09,Ceará,Vitória,3,2,Mandante,Dewson Fernando Freitas da Silva,29.5,5.4,180.5,6.2,27.8,4.9,178.9,8.5,Arena do Grêmio,36789
+Grêmio,2018,27,29/09/2018,16:00,Sábado,09,Fluminense,Vitória,1,0,Visitante,Raphael Claus,27.4,5.1,180.3,5.0,25.9,4.1,180.2,8.8,Estádio do Maracanã,8721
+Grêmio,2018,28,06/10/2018,21:00,Sábado,10,Bahia,Empate,2,2,Mandante,Rodolpho Toski Marques,27.8,4.5,181.2,5.2,27.5,4.4,180.1,7.8,Arena do Grêmio,29612
+Grêmio,2018,29,14/10/2018,16:00,Domingo,10,Palmeiras,Derrota,0,2,Visitante,Ricardo Marques Ribeiro,28.6,4.3,182.1,4.9,28.9,4.1,180.7,6.6,Mercado Livre Arena Pacaembu,35812
+Grêmio,2018,30,20/10/2018,16:00,Sábado,10,América Mineiro,Empate,1,1,Visitante,Luiz Flávio de Oliveira,25.6,4.3,180.8,4.8,28.6,4.2,179.8,8.7,Arena Independência,5821
+Grêmio,2018,31,27/10/2018,16:30,Sábado,10,Sport Recife,Derrota,3,4,Mandante,Dewson Fernando Freitas da Silva,26.4,4.9,180.5,4.6,27.1,4.3,182.0,6.4,Arena do Grêmio,12165
+Grêmio,2018,32,03/11/2018,17:00,Sábado,11,Atlético Mineiro,Vitória,1,0,Visitante,Wagner do Nascimento Magalhaes,27.0,4.5,179.9,6.6,30.3,6.2,181.9,8.0,Arena Independência,16758
+Grêmio,2018,33,11/11/2018,16:00,Domingo,11,Vasco da Gama,Vitória,2,1,Mandante,Raphael Claus,31.0,4.4,180.9,5.5,26.9,5.2,180.6,5.9,Arena do Grêmio,20763
+Grêmio,2018,34,15/11/2018,18:00,Quinta,11,São Paulo,Empate,1,1,Visitante,Pericles Bassols Pegado Cortez,28.6,4.0,181.1,6.4,28.3,4.5,181.2,4.5,MorumBIS,24757
+Grêmio,2018,35,18/11/2018,18:00,Domingo,11,Chapecoense,Vitória,2,0,Mandante,Leandro Bizzio Marinho,29.8,5.3,180.5,5.2,29.1,4.1,181.0,7.1,Arena do Grêmio,13266
+Grêmio,2018,36,21/11/2018,20:45,Quarta,11,Flamengo,Derrota,0,2,Visitante,Braulio Da Silva Machado,27.2,4.7,179.8,6.5,29.5,3.2,180.8,8.0,Estádio do Maracanã,36978
+Grêmio,2018,37,25/11/2018,16:00,Domingo,11,Vitória,Empate,0,0,Visitante,Raphael Claus,29.5,5.3,179.8,6.2,24.5,3.4,178.8,6.4,Estádio Manoel Barradas,4283
+Grêmio,2018,38,02/12/2018,16:00,Domingo,12,Corinthians,Vitória,1,0,Mandante,Ricardo Marques Ribeiro,30.1,4.7,178.6,5.8,25.8,5.3,178.3,8.2,Arena do Grêmio,38974
+Grêmio,2019,1,28/04/2019,11:00,Domingo,04,Santos,Derrota,1,2,Mandante,Bruno Arleu de Araujo,27.5,4.7,181.0,5.1,26.0,4.1,180.2,10.3,Arena do Grêmio,32318
+Grêmio,2019,2,01/05/2019,19:15,Quarta,05,Avaí,Empate,1,1,Visitante,Wagner do Nascimento Magalhaes,27.1,4.6,180.3,5.5,27.6,4.9,182.8,7.4,Estádio da Ressacada,12181
+Grêmio,2019,3,05/05/2019,19:00,Domingo,05,Fluminense,Derrota,4,5,Mandante,Raphael Claus,28.7,5.6,179.8,5.3,27.1,4.1,181.3,5.5,Arena do Grêmio,8390
+Grêmio,2019,4,11/05/2019,19:00,Sábado,05,Corinthians,Empate,0,0,Visitante,Marcelo de Lima Henrique,26.6,4.0,179.5,5.6,29.0,4.2,177.5,9.3,Neo Química Arena,36360
+Grêmio,2019,5,19/05/2019,19:00,Domingo,05,Ceará,Derrota,1,2,Visitante,Igor Junio Benevenuto,26.5,4.0,180.1,5.6,28.7,2.8,179.7,6.4,Estádio Governador Plácido Castelo,17506
+Grêmio,2019,6,25/05/2019,19:00,Sábado,05,Atlético Mineiro,Vitória,1,0,Mandante,Rafael Traci,26.7,4.7,181.2,5.7,30.6,5.6,179.5,8.7,Arena do Grêmio,13714
+Grêmio,2019,7,01/06/2019,19:00,Sábado,06,Bahia,Derrota,0,1,Visitante,Dewson Fernando Freitas da Silva,25.2,4.3,180.9,5.8,28.2,4.2,180.3,9.0,Arena Fonte Nova,26930
+Grêmio,2019,8,08/06/2019,19:00,Sábado,06,Fortaleza,Vitória,1,0,Mandante,Savio Pereira Sampaio,28.4,6.4,182.4,4.8,29.4,3.4,177.5,6.6,Arena do Grêmio,3761
+Grêmio,2019,9,12/06/2019,19:15,Quarta,06,Botafogo,Vitória,1,0,Visitante,Marcelo Aparecido Ribeiro de Souza,25.9,4.4,181.2,4.7,28.7,5.4,181.0,6.3,Estadio Nilton Santos,17757
+Grêmio,2019,10,13/07/2019,17:00,Sábado,07,Vasco da Gama,Vitória,2,1,Mandante,Rodolpho Toski Marques,26.7,6.0,181.4,5.0,27.2,3.8,181.0,7.0,Arena do Grêmio,9701
+Grêmio,2019,11,20/07/2019,19:00,Sábado,07,Internacional,Empate,1,1,Visitante,Anderson Daronco,29.3,5.4,181.8,4.9,27.2,4.5,177.4,6.9,Estádio Beira-Rio,35103
+Grêmio,2019,12,29/07/2019,20:00,Segunda,07,CSA,Empate,0,0,Visitante,Caio Max Augusto Vieira,29.2,5.8,181.2,6.0,29.6,2.7,180.2,8.3,Estádio Rei Pelé,11918
+Grêmio,2019,13,05/08/2019,20:00,Segunda,08,Chapecoense,Empate,3,3,Mandante,Felipe Fernandes de Lima,27.8,4.7,181.0,5.1,29.3,4.7,178.4,5.3,Arena do Grêmio,13418
+Grêmio,2019,14,10/08/2019,19:00,Sábado,08,Flamengo,Derrota,1,3,Visitante,Braulio Da Silva Machado,27.9,5.6,180.6,5.4,27.9,4.4,181.5,5.7,Estádio do Maracanã,57644
+Grêmio,2019,15,17/08/2019,21:00,Sábado,08,Palmeiras,Empate,1,1,Mandante,Wagner do Nascimento Magalhaes,29.7,5.5,181.2,5.4,26.6,2.6,180.6,6.5,Arena do Grêmio,12897
+Grêmio,2019,16,24/08/2019,17:00,Sábado,08,Athletico,Vitória,2,1,Mandante,Bruno Arleu de Araujo,28.1,4.0,182.3,4.5,24.7,4.4,179.5,6.8,Arena do Grêmio,12748
+Grêmio,2019,17,31/08/2019,11:00,Sábado,08,São Paulo,Empate,0,0,Visitante,Caio Max Augusto Vieira,28.2,3.9,181.2,4.9,28.5,4.9,179.0,5.7,MorumBIS,46997
+Grêmio,2019,18,08/09/2019,11:00,Domingo,09,Cruzeiro,Vitória,4,1,Visitante,Rafael Traci,28.4,4.5,180.2,5.2,31.0,5.2,180.1,5.1,Arena Independência,14208
+Grêmio,2019,19,15/09/2019,16:00,Domingo,09,Goiás,Vitória,3,0,Mandante,Savio Pereira Sampaio,28.5,4.4,180.1,4.9,28.3,4.0,180.9,6.5,Arena do Grêmio,35584
+Grêmio,2019,20,21/09/2019,21:00,Sábado,09,Santos,Vitória,3,0,Visitante,Paulo Roberto Alves Junior,28.7,3.9,179.6,4.6,27.5,3.5,178.0,9.4,Estádio Urbano Caldeira,10898
+Grêmio,2019,21,26/09/2019,20:00,Quinta,09,Avaí,Vitória,6,1,Mandante,Rodolpho Toski Marques,28.7,3.8,180.3,4.2,26.0,4.2,181.8,5.1,Arena do Grêmio,14861
+Grêmio,2019,22,29/09/2019,16:00,Domingo,09,Fluminense,Derrota,1,2,Visitante,Caio Max Augusto Vieira,27.5,5.7,181.5,5.8,26.1,5.4,181.3,5.2,Estádio do Maracanã,17791
+Grêmio,2019,23,05/10/2019,19:00,Sábado,10,Corinthians,Empate,0,0,Mandante,Bruno Arleu de Araujo,29.9,5.2,180.3,4.8,29.0,4.7,177.7,9.6,Arena do Grêmio,14596
+Grêmio,2019,24,09/10/2019,21:00,Quarta,10,Ceará,Vitória,2,1,Mandante,Edina Alves Batista,31.5,4.8,180.6,5.3,29.4,3.9,181.3,6.6,Arena do Grêmio,6078
+Grêmio,2019,25,13/10/2019,19:00,Domingo,10,Atlético Mineiro,Vitória,4,1,Visitante,Luiz Flávio de Oliveira,29.8,3.5,181.5,5.2,28.3,5.3,178.9,8.8,Arena Independência,12974
+Grêmio,2019,26,16/10/2019,19:15,Quarta,10,Bahia,Derrota,0,1,Mandante,Rodolpho Toski Marques,30.5,5.4,180.2,5.1,27.8,4.2,179.6,7.6,Arena do Grêmio,11757
+Grêmio,2019,27,19/10/2019,17:00,Sábado,10,Fortaleza,Derrota,1,2,Visitante,Andre Luiz de Freitas Castro,26.9,3.7,181.6,4.2,29.7,4.2,176.8,9.3,Estádio Governador Plácido Castelo,26801
+Grêmio,2019,28,27/10/2019,16:00,Domingo,10,Botafogo,Vitória,3,0,Mandante,Rafael Traci,30.5,5.4,180.3,5.1,28.7,4.3,179.9,7.4,Arena do Grêmio,7608
+Grêmio,2019,29,30/10/2019,21:30,Quarta,10,Vasco da Gama,Vitória,3,1,Visitante,Wilton Pereira Sampaio,30.7,4.7,181.1,4.6,26.1,5.2,182.0,6.7,Estádio São Januário,15708
+Grêmio,2019,30,03/11/2019,18:00,Domingo,11,Internacional,Vitória,2,0,Mandante,Flavio Rodrigues De Souza,29.4,4.3,180.8,5.0,30.4,3.4,180.4,7.6,Arena do Grêmio,40618
+Grêmio,2019,31,07/11/2019,21:00,Quinta,11,CSA,Vitória,2,1,Mandante,Jose Mendonca da Silva Junior,30.6,5.4,180.3,5.1,29.4,4.6,179.2,8.5,Arena do Grêmio,11334
+Grêmio,2019,32,10/11/2019,19:00,Domingo,11,Chapecoense,Vitória,1,0,Visitante,Marcelo de Lima Henrique,27.2,4.4,179.2,5.1,30.4,3.8,179.1,5.8,Arena Condá,13335
+Grêmio,2019,33,17/11/2019,16:00,Domingo,11,Flamengo,Derrota,0,1,Mandante,Raphael Claus,31.7,4.6,180.6,5.4,26.5,5.4,179.7,6.4,Arena do Grêmio,28541
+Grêmio,2019,34,24/11/2019,16:00,Domingo,11,Palmeiras,Vitória,2,1,Visitante,Wilton Pereira Sampaio,30.6,5.4,180.3,5.1,28.7,1.8,179.9,6.0,Nubank Parque,22767
+Grêmio,2019,35,27/11/2019,21:30,Quarta,11,Athletico,Derrota,0,2,Visitante,Bruno Arleu de Araujo,29.0,4.0,180.0,5.1,29.9,4.1,178.6,7.4,Arena da Baixada,20974
+Grêmio,2019,36,01/12/2019,19:00,Domingo,12,São Paulo,Vitória,3,0,Mandante,Marcelo de Lima Henrique,30.3,5.2,179.8,5.3,27.4,5.3,180.5,5.7,Arena do Grêmio,22039
+Grêmio,2019,37,05/12/2019,19:15,Quinta,12,Cruzeiro,Vitória,2,0,Mandante,Andre Luiz de Freitas Castro,28.6,4.2,179.8,4.5,30.0,6.2,182.3,3.7,Arena do Grêmio,18306
+Grêmio,2019,38,08/12/2019,16:00,Domingo,12,Goiás,Derrota,2,3,Visitante,Ricardo Marques Ribeiro,21.6,0.8,179.0,5.3,27.8,3.8,180.1,6.7,Serra Dourada,7145
+Grêmio,2020,1,09/08/2020,19:00,Domingo,08,Fluminense,Vitória,1,0,Mandante,Wilton Pereira Sampaio,30.1,4.8,182.4,6.0,27.4,5.7,180.5,6.1,Arena do Grêmio,N.A
+Grêmio,2020,2,12/08/2020,21:30,Quarta,08,Ceará,Empate,1,1,Visitante,Dewson Fernando Freitas da Silva,27.0,4.2,180.4,5.2,27.5,5.5,182.3,8.9,Estádio Governador Plácido Castelo,N.A
+Grêmio,2020,3,15/08/2020,19:00,Sábado,08,Corinthians,Empate,0,0,Mandante,Bruno Arleu de Araujo,29.5,5.4,182.2,6.2,29.2,3.3,180.5,8.3,Arena do Grêmio,N.A
+Grêmio,2020,4,19/08/2020,19:15,Quarta,08,Flamengo,Empate,1,1,Visitante,Rafael Traci,29.5,5.4,182.2,6.2,27.9,4.3,181.5,4.8,Estádio do Maracanã,N.A
+Grêmio,2020,5,23/08/2020,16:00,Domingo,08,Vasco da Gama,Empate,0,0,Visitante,Savio Pereira Sampaio,27.4,4.3,180.3,4.4,26.8,5.5,179.8,5.7,Estádio São Januário,N.A
+Grêmio,2020,7,03/09/2020,19:00,Quinta,09,Sport Recife,Derrota,1,2,Mandante,Dyorgines Jose Padovani de Andrade,30.9,4.5,181.8,6.3,27.5,4.2,179.9,7.1,Arena do Grêmio,N.A
+Grêmio,2020,8,06/09/2020,19:00,Domingo,09,Atlético Goianiense,Empate,1,1,Visitante,Ricardo Marques Ribeiro,29.8,4.7,181.5,6.4,24.9,2.4,179.2,7.2,Serra Dourada,N.A
+Grêmio,2020,9,10/09/2020,19:15,Quinta,09,Bahia,Vitória,2,0,Visitante,Jose Mendonca da Silva Junior,29.4,5.1,180.5,6.7,27.7,4.2,179.1,7.1,Arena Fonte Nova,N.A
+Grêmio,2020,10,13/09/2020,16:00,Domingo,09,Fortaleza,Empate,1,1,Mandante,Igor Junio Benevenuto,30.8,5.0,181.7,7.0,30.2,4.7,177.5,7.3,Arena do Grêmio,N.A
+Grêmio,2020,11,20/09/2020,16:00,Domingo,09,Palmeiras,Empate,1,1,Mandante,Rodrigo D'alonso Ferreira,30.1,4.6,180.3,7.2,28.1,5.8,178.2,5.9,Arena do Grêmio,N.A
+Grêmio,2020,12,26/09/2020,21:00,Sábado,09,Atlético Mineiro,Derrota,1,3,Visitante,Caio Max Augusto Vieira,28.4,4.5,178.9,5.6,25.9,3.0,178.4,7.3,Arena Independência,N.A
+Grêmio,2020,13,03/10/2020,17:00,Sábado,10,Internacional,Empate,1,1,Mandante,Raphael Claus,29.1,5.0,180.9,6.6,29.9,4.0,180.9,5.4,Arena do Grêmio,N.A
+Grêmio,2020,14,07/10/2020,19:15,Quarta,10,Coritiba,Vitória,2,1,Mandante,Ramon Abatti Abel,29.9,4.7,180.9,6.7,26.3,4.9,181.7,4.9,Arena do Grêmio,N.A
+Grêmio,2020,15,11/10/2020,16:00,Domingo,10,Santos,Derrota,1,2,Visitante,Braulio Da Silva Machado,30.0,4.6,181.7,6.3,26.0,4.0,179.4,7.1,Estádio Urbano Caldeira,N.A
+Grêmio,2020,16,14/10/2020,19:15,Quarta,10,Botafogo,Vitória,3,1,Mandante,Luiz Flávio de Oliveira,30.3,5.1,181.3,7.5,25.3,5.2,181.4,7.8,Arena do Grêmio,N.A
+Grêmio,2020,17,17/10/2020,21:00,Sábado,10,São Paulo,Empate,0,0,Visitante,Rafael Traci,28.8,5.2,181.0,6.3,26.3,5.2,179.3,5.0,MorumBIS,N.A
+Grêmio,2020,18,25/10/2020,18:15,Domingo,10,Athletico,Vitória,2,1,Visitante,Flavio Rodrigues De Souza,27.6,4.4,180.6,5.0,27.0,5.6,179.9,5.5,Arena da Baixada,N.A
+Grêmio,2020,19,02/11/2020,20:00,Segunda,11,Red Bull Bragantino,Vitória,2,1,Mandante,Savio Pereira Sampaio,29.2,5.3,181.6,6.8,26.8,4.5,179.7,6.2,Arena do Grêmio,N.A
+Grêmio,2020,20,08/11/2020,20:30,Domingo,11,Fluminense,Vitória,1,0,Visitante,Edina Alves Batista,26.4,4.2,181.0,5.3,28.2,4.5,180.5,6.7,Estádio do Maracanã,N.A
+Grêmio,2020,21,14/11/2020,19:00,Sábado,11,Ceará,Vitória,4,2,Mandante,Jose Mendonca da Silva Junior,27.7,5.4,181.3,6.5,30.1,5.5,180.6,9.1,Arena do Grêmio,N.A
+Grêmio,2020,22,22/11/2020,20:30,Domingo,11,Corinthians,Empate,0,0,Visitante,Caio Max Augusto Vieira,27.8,5.8,181.9,6.8,29.5,3.7,179.0,8.6,Neo Química Arena,N.A
+Grêmio,2020,6,30/11/2020,18:00,Segunda,11,Goiás,Vitória,2,1,Mandante,Rodrigo D'alonso Ferreira,29.1,5.8,182.9,6.1,26.3,4.7,182.1,9.1,Arena do Grêmio,N.A
+Grêmio,2020,24,06/12/2020,16:00,Domingo,12,Vasco da Gama,Vitória,4,0,Mandante,Raphael Claus,30.3,4.9,181.2,5.4,27.0,5.5,182.4,6.1,Arena do Grêmio,N.A
+Grêmio,2020,25,12/12/2020,21:00,Sábado,12,Goiás,Empate,0,0,Visitante,Edina Alves Batista,27.4,4.6,181.2,6.3,27.2,5.6,185.9,5.9,Serra Dourada,N.A
+Grêmio,2020,26,19/12/2020,19:00,Sábado,12,Sport Recife,Empate,1,1,Visitante,Jose Mendonca da Silva Junior,28.0,4.9,181.7,6.0,27.5,3.7,181.8,6.2,Ilha do Retiro,N.A
+Grêmio,2020,27,27/12/2020,20:30,Domingo,12,Atlético Goianiense,Vitória,2,1,Mandante,Felipe Fernandes de Lima,27.8,5.3,180.5,6.9,26.8,2.8,180.2,5.1,Arena do Grêmio,N.A
+Grêmio,2020,28,06/01/2021,19:15,Quarta,01,Bahia,Vitória,2,1,Mandante,Ramon Abatti Abel,27.1,5.2,181.3,6.5,27.5,5.2,179.2,6.5,Arena do Grêmio,N.A
+Grêmio,2020,29,09/01/2021,21:00,Sábado,01,Fortaleza,Empate,0,0,Visitante,Jefferson Ferreira de Moraes,29.1,4.0,180.4,5.1,30.7,4.2,177.7,8.1,Estádio Governador Plácido Castelo,N.A
+Grêmio,2020,30,15/01/2021,21:30,Sexta,01,Palmeiras,Empate,1,1,Visitante,Bruno Arleu de Araujo,28.2,4.9,181.6,6.1,27.9,3.4,178.9,6.5,Nubank Parque,N.A
+Grêmio,2020,31,20/01/2021,19:15,Quarta,01,Atlético Mineiro,Empate,1,1,Mandante,Raphael Claus,28.6,4.6,182.3,5.8,27.7,4.0,179.4,8.4,Arena do Grêmio,N.A
+Grêmio,2020,32,24/01/2021,16:00,Domingo,01,Internacional,Derrota,1,2,Visitante,Luiz Flávio de Oliveira,29.5,4.9,181.8,6.3,26.1,5.2,181.9,5.9,Estádio Beira-Rio,N.A
+Grêmio,2020,23,28/01/2021,20:00,Quinta,01,Flamengo,Derrota,2,4,Mandante,Rodolpho Toski Marques,28.3,4.9,181.7,6.0,29.0,4.4,181.8,8.2,Arena do Grêmio,N.A
+Grêmio,2020,33,31/01/2021,16:00,Domingo,01,Coritiba,Empate,1,1,Visitante,Vinicius Goncalves Dias Araujo,27.2,5.1,179.6,5.3,25.9,4.9,178.7,5.7,Estádio Major Antônio Couto Pereira,N.A
+Grêmio,2020,34,03/02/2021,16:00,Quarta,02,Santos,Empate,3,3,Mandante,Wilton Pereira Sampaio,28.4,4.8,181.6,6.1,25.2,4.4,181.3,8.0,Arena do Grêmio,N.A
+Grêmio,2020,35,08/02/2021,20:00,Segunda,02,Botafogo,Vitória,5,2,Visitante,Rodrigo D'alonso Ferreira,28.9,5.4,180.7,5.3,21.4,2.4,180.4,6.4,Estadio Nilton Santos,N.A
+Grêmio,2020,36,14/02/2021,20:30,Domingo,02,São Paulo,Derrota,1,2,Mandante,Paulo Roberto Alves Junior,29.4,5.3,182.0,6.2,28.4,4.1,180.8,7.0,Arena do Grêmio,N.A
+Grêmio,2020,37,21/02/2021,18:15,Domingo,02,Athletico,Vitória,1,0,Mandante,Ricardo Marques Ribeiro,29.5,4.3,179.9,4.9,28.1,5.2,179.5,7.4,Arena do Grêmio,N.A
+Grêmio,2020,38,25/02/2021,21:30,Quinta,02,Red Bull Bragantino,Derrota,0,1,Visitante,Ramon Abatti Abel,27.1,5.1,180.4,6.4,27.3,4.3,180.3,7.1,Estádio Nabi Abi Chedid,N.A
+Grêmio,2021,1,30/05/2021,16:00,Domingo,05,Ceará,Derrota,2,3,Visitante,Savio Pereira Sampaio,24.9,5.1,180.6,5.7,25.5,3.5,182.0,8.1,Estádio Governador Plácido Castelo,N.A
+Grêmio,2021,3,13/06/2021,16:00,Domingo,06,Athletico,Derrota,0,1,Mandante,Ricardo Marques Ribeiro,29.0,5.7,180.6,5.4,25.7,3.8,183.6,5.4,Arena do Grêmio,N.A
+Grêmio,2021,4,17/06/2021,19:00,Quinta,06,Sport Recife,Derrota,0,1,Visitante,Denis da Silva Ribeiro Serafim,30.1,5.4,180.5,5.2,27.0,2.5,182.7,8.6,Ilha do Retiro,N.A
+Grêmio,2021,6,24/06/2021,21:30,Quinta,06,Santos,Empate,2,2,Mandante,Caio Max Augusto Vieira,28.1,5.9,181.0,6.5,26.5,4.5,178.3,7.4,Arena do Grêmio,N.A
+Grêmio,2021,7,27/06/2021,20:00,Domingo,06,Fortaleza,Empate,0,0,Mandante,Marcelo de Lima Henrique,29.0,5.5,181.0,6.5,27.7,3.4,178.3,6.1,Arena do Grêmio,N.A
+Grêmio,2021,8,30/06/2021,21:30,Quarta,06,Juventude,Derrota,0,2,Visitante,Vinicius Goncalves Dias Araujo,28.5,5.8,180.4,7.1,27.5,3.9,181.6,6.0,Estádio Alfredo Jaconi,N.A
+Grêmio,2021,9,04/07/2021,20:30,Domingo,07,Atlético Goianiense,Derrota,0,1,Mandante,Marielson Alves Silva,28.3,5.5,180.8,6.0,25.7,3.9,182.3,5.2,Arena do Grêmio,N.A
+Grêmio,2021,10,07/07/2021,19:00,Quarta,07,Palmeiras,Derrota,0,2,Visitante,Felipe Fernandes de Lima,28.1,5.9,179.9,6.3,26.5,5.1,178.2,5.5,Nubank Parque,N.A
+Grêmio,2021,11,10/07/2021,16:30,Sábado,07,Internacional,Empate,0,0,Mandante,Flavio Rodrigues De Souza,28.9,6.0,180.9,6.6,27.1,4.4,180.6,5.5,Arena do Grêmio,N.A
+Grêmio,2021,12,17/07/2021,21:00,Sábado,07,Fluminense,Vitória,1,0,Visitante,Paulo Roberto Alves Junior,26.5,6.3,181.6,6.3,27.6,6.0,179.2,6.2,Estádio do Maracanã,N.A
+Grêmio,2021,13,24/07/2021,17:00,Sábado,07,América Mineiro,Empate,1,1,Mandante,Alisson Sidnei Furtado,25.4,5.4,181.8,6.5,28.7,5.4,181.5,7.2,Arena do Grêmio,N.A
+Grêmio,2021,14,31/07/2021,21:00,Sábado,07,Red Bull Bragantino,Derrota,0,1,Visitante,Ricardo Marques Ribeiro,25.3,5.4,180.5,6.9,25.9,4.9,180.9,6.9,Estádio Nabi Abi Chedid,N.A
+Grêmio,2021,15,09/08/2021,20:00,Segunda,08,Chapecoense,Vitória,2,1,Mandante,Marcelo de Lima Henrique,27.3,5.3,180.5,6.9,27.0,4.4,181.5,4.3,Arena do Grêmio,N.A
+Grêmio,2021,16,14/08/2021,21:00,Sábado,08,São Paulo,Derrota,1,2,Visitante,Braulio Da Silva Machado,27.8,5.1,181.5,6.3,26.2,5.3,179.7,6.0,MorumBIS,N.A
+Grêmio,2021,5,18/08/2021,19:00,Quarta,08,Cuiabá,Vitória,1,0,Visitante,Leo Simao Holanda,27.6,5.4,180.4,6.7,28.7,4.2,179.9,6.3,Estádio Eurico Gaspar Dutra,N.A
+Grêmio,2021,17,21/08/2021,19:00,Sábado,08,Bahia,Vitória,2,0,Mandante,Caio Max Augusto Vieira,27.3,4.9,179.9,6.8,27.2,4.4,181.1,8.1,Arena do Grêmio,N.A
+Grêmio,2021,18,28/08/2021,21:00,Sábado,08,Corinthians,Derrota,0,1,Mandante,Ricardo Marques Ribeiro,25.6,4.8,179.3,7.2,29.0,5.2,179.9,8.8,Arena do Grêmio,N.A
+Grêmio,2021,20,12/09/2021,11:00,Domingo,09,Ceará,Vitória,2,0,Mandante,Flavio Rodrigues De Souza,26.8,5.6,180.9,6.4,29.7,2.9,181.6,6.2,Arena do Grêmio,N.A
+Grêmio,2021,21,19/09/2021,20:30,Domingo,09,Flamengo,Vitória,1,0,Visitante,Marielson Alves Silva,26.4,4.6,180.5,6.3,29.0,3.5,178.5,6.1,Estádio do Maracanã,N.A
+Grêmio,2021,22,26/09/2021,18:15,Domingo,09,Athletico,Derrota,2,4,Visitante,Luiz Flávio de Oliveira,26.4,4.6,180.5,6.3,26.5,3.8,181.7,5.2,Arena da Baixada,N.A
+Grêmio,2021,23,03/10/2021,20:30,Domingo,10,Sport Recife,Derrota,1,2,Mandante,Felipe Fernandes de Lima,26.6,4.8,179.6,6.7,26.5,4.8,181.6,7.5,Arena do Grêmio,N.A
+Grêmio,2021,24,06/10/2021,21:30,Quarta,10,Cuiabá,Empate,2,2,Mandante,Wilton Pereira Sampaio,28.1,5.5,178.7,6.8,27.1,3.9,180.7,6.4,Arena do Grêmio,4488
+Grêmio,2021,25,10/10/2021,16:00,Domingo,10,Santos,Derrota,0,1,Visitante,Bruno Arleu de Araujo,28.4,5.3,180.5,6.3,27.2,4.6,179.5,6.3,Estádio Urbano Caldeira,4165
+Grêmio,2021,26,13/10/2021,20:30,Quarta,10,Fortaleza,Derrota,0,1,Visitante,Vinicius Goncalves Dias Araujo,24.5,3.0,180.3,5.8,28.1,3.3,180.6,4.5,Estádio Governador Plácido Castelo,3499
+Grêmio,2021,27,17/10/2021,18:15,Domingo,10,Juventude,Vitória,3,2,Mandante,Marcelo de Lima Henrique,29.0,5.3,179.5,5.7,26.9,4.5,177.6,6.7,Arena do Grêmio,14776
+Grêmio,2021,28,25/10/2021,20:00,Segunda,10,Atlético Goianiense,Derrota,0,2,Visitante,Caio Max Augusto Vieira,29.0,5.3,179.5,5.7,27.3,4.1,180.2,7.6,Estádio Antônio Accioly,3852
+Grêmio,2021,29,31/10/2021,16:00,Domingo,10,Palmeiras,Derrota,1,3,Mandante,Savio Pereira Sampaio,29.1,5.4,180.6,5.8,29.5,4.0,178.5,7.0,Arena do Grêmio,13799
+Grêmio,2021,19,03/11/2021,21:00,Quarta,11,Atlético Mineiro,Derrota,1,2,Visitante,Luiz Flávio de Oliveira,29.1,5.1,181.1,6.3,29.3,4.6,180.5,7.5,Governador Magalhães Pinto,55624
+Grêmio,2021,30,06/11/2021,19:00,Sábado,11,Internacional,Derrota,0,1,Visitante,Marcelo de Lima Henrique,29.9,4.7,180.7,6.1,29.1,4.5,181.3,5.0,Estádio Beira-Rio,23015
+Grêmio,2021,31,09/11/2021,21:30,Terça,11,Fluminense,Vitória,1,0,Mandante,Vinicius Goncalves Dias Araujo,26.7,6.0,180.8,7.0,24.2,4.6,178.5,6.6,Arena do Grêmio,N.A
+Grêmio,2021,32,13/11/2021,18:30,Sábado,11,América Mineiro,Derrota,1,3,Visitante,Flavio Rodrigues De Souza,26.6,6.3,181.8,6.1,30.7,3.6,180.6,7.5,Arena Independência,3157
+Grêmio,2021,33,16/11/2021,18:00,Terça,11,Red Bull Bragantino,Vitória,3,0,Mandante,Caio Max Augusto Vieira,29.6,5.8,180.4,6.3,22.6,4.7,183.2,3.8,Arena do Grêmio,N.A
+Grêmio,2021,34,20/11/2021,19:00,Sábado,11,Chapecoense,Vitória,3,1,Visitante,Rodolpho Toski Marques,29.5,5.9,180.7,6.8,26.7,3.1,181.3,5.4,Arena Condá,2830
+Grêmio,2021,2,23/11/2021,21:00,Terça,11,Flamengo,Empate,2,2,Mandante,Braulio Da Silva Machado,28.7,6.2,181.1,7.1,26.8,4.3,182.5,8.4,Arena do Grêmio,N.A
+Grêmio,2021,36,26/11/2021,19:00,Sexta,11,Bahia,Derrota,1,3,Visitante,Bruno Arleu de Araujo,27.6,5.2,181.2,5.8,28.3,5.0,180.1,8.5,Arena Fonte Nova,29576
+Grêmio,2021,35,02/12/2021,20:00,Quinta,12,São Paulo,Vitória,3,0,Mandante,Savio Pereira Sampaio,29.8,5.3,180.2,7.3,26.9,4.7,180.3,5.8,Arena do Grêmio,8517
+Grêmio,2021,37,05/12/2021,16:00,Domingo,12,Corinthians,Empate,1,1,Visitante,Bruno Arleu de Araujo,29.0,5.7,180.8,6.8,30.1,5.5,182.3,7.4,Neo Química Arena,44187
+Grêmio,2021,38,09/12/2021,21:30,Quinta,12,Atlético Mineiro,Vitória,4,3,Mandante,Raphael Claus,28.0,5.3,180.4,7.3,26.3,4.3,178.0,7.0,Arena do Grêmio,33577
+Grêmio,2023,1,16/04/2023,18:30,Domingo,04,Santos,Vitória,1,0,Mandante,Wilton Pereira Sampaio,28.0,4.8,180.8,5.2,26.1,4.2,181.0,7.7,Estádio Alfredo Jaconi,13997
+Grêmio,2023,2,22/04/2023,21:00,Sábado,04,Cruzeiro,Derrota,0,1,Visitante,Flavio Rodrigues De Souza,29.1,3.9,180.9,4.4,29.3,3.0,179.6,6.9,Estadio Raimundo Sampaio (Arena Independencia),21605
+Grêmio,2023,3,30/04/2023,18:30,Domingo,04,Cuiabá,Vitória,2,1,Visitante,Bruno Arleu de Araujo,29.0,4.8,180.2,5.1,29.4,3.5,181.7,4.1,Arena Pantanal,21385
+Grêmio,2023,4,07/05/2023,18:30,Domingo,05,Red Bull Bragantino,Empate,3,3,Mandante,Paulo Cesar Zanovelli da Silva,28.0,5.1,181.3,4.8,24.2,3.1,180.9,7.2,Arena do Grêmio,23760
+Grêmio,2023,5,10/05/2023,21:30,Quarta,05,Palmeiras,Derrota,1,4,Visitante,Braulio Da Silva Machado,28.1,4.2,180.9,4.9,28.7,3.4,177.3,7.5,Nubank Parque,37532
+Grêmio,2023,6,14/05/2023,16:00,Domingo,05,Fortaleza,Empate,0,0,Mandante,Bruno Mota Correia,28.4,4.8,181.0,4.4,28.4,4.8,178.4,6.5,Arena do Grêmio,17396
+Grêmio,2023,7,21/05/2023,18:30,Domingo,05,Internacional,Vitória,3,1,Mandante,Flavio Rodrigues De Souza,29.6,4.3,180.6,5.4,28.8,6.1,181.5,5.4,Arena do Grêmio,39438
+Grêmio,2023,8,27/05/2023,16:00,Sábado,05,Athletico,Vitória,2,1,Visitante,Savio Pereira Sampaio,27.2,5.3,181.3,6.7,26.5,4.5,181.5,5.1,Arena da Baixada,25966
+Grêmio,2023,9,04/06/2023,16:00,Domingo,06,São Paulo,Vitória,2,1,Mandante,Wilton Pereira Sampaio,29.6,4.3,180.6,5.4,27.7,4.2,181.3,5.6,Arena do Grêmio,42207
+Grêmio,2023,10,11/06/2023,18:30,Domingo,06,Flamengo,Derrota,0,3,Visitante,Savio Pereira Sampaio,27.8,4.6,181.4,4.7,27.8,4.4,182.8,7.2,Estádio do Maracanã,62967
+Grêmio,2023,11,22/06/2023,19:00,Quinta,06,América Mineiro,Vitória,3,1,Mandante,Edina Alves Batista,26.5,5.3,180.8,4.8,29.9,4.8,181.9,7.4,Arena do Grêmio,15864
+Grêmio,2023,12,25/06/2023,16:00,Domingo,06,Coritiba,Vitória,5,1,Mandante,Joao Vitor Gobi,29.1,4.2,180.6,4.8,26.0,3.5,182.3,7.1,Arena do Grêmio,37048
+Grêmio,2023,13,01/07/2023,18:30,Sábado,07,Bahia,Vitória,2,1,Visitante,Marcelo de Lima Henrique,28.1,4.7,181.9,5.5,26.7,4.1,180.3,6.6,Arena Fonte Nova,34090
+Grêmio,2023,14,09/07/2023,18:30,Domingo,07,Botafogo,Derrota,0,2,Mandante,Flavio Rodrigues De Souza,29.1,4.2,181.3,4.7,28.4,4.3,183.2,6.5,Arena do Grêmio,47029
+Grêmio,2023,16,22/07/2023,21:00,Sábado,07,Atlético Mineiro,Vitória,1,0,Mandante,Luiz Flávio de Oliveira,27.3,4.5,182.6,5.2,29.2,4.9,180.9,7.1,Arena do Grêmio,37085
+Grêmio,2023,17,30/07/2023,18:30,Domingo,07,Goiás,Empate,1,1,Visitante,Paulo Cesar Zanovelli da Silva,26.4,5.1,183.1,5.1,29.1,3.2,180.9,6.9,Estádio da Serrinha,12311
+Grêmio,2023,18,06/08/2023,16:00,Domingo,08,Vasco da Gama,Derrota,0,1,Visitante,Luiz Flávio de Oliveira,28.6,4.2,180.8,4.8,25.8,3.8,179.4,6.0,Estádio São Januário,N.A
+Grêmio,2023,19,13/08/2023,16:00,Domingo,08,Fluminense,Vitória,2,1,Mandante,Rodrigo Jose Pereira de Lima,28.8,4.9,181.7,5.5,31.3,5.6,177.4,6.9,Arena do Grêmio,38712
+Grêmio,2023,20,20/08/2023,16:00,Domingo,08,Santos,Derrota,1,2,Visitante,Paulo Cesar Zanovelli da Silva,28.4,3.7,180.7,5.7,27.2,3.5,181.0,6.5,Estádio Urbano Caldeira,N.A
+Grêmio,2023,21,27/08/2023,19:00,Domingo,08,Cruzeiro,Vitória,3,0,Mandante,Marcelo de Lima Henrique,28.7,5.1,182.0,5.0,28.4,3.4,181.0,4.9,Arena do Grêmio,52203
+Grêmio,2023,22,03/09/2023,11:00,Domingo,09,Cuiabá,Vitória,2,0,Mandante,Yuri Elino Ferreira Da Cruz,29.4,3.5,182.3,6.1,28.9,4.6,183.3,5.0,Arena do Grêmio,39339
+Grêmio,2023,23,14/09/2023,21:30,Quinta,09,Red Bull Bragantino,Derrota,0,2,Visitante,Andre Luiz Skettino Policarpo Bento,29.2,3.8,181.7,4.8,26.7,3.1,180.7,5.2,Estádio Nabi Abi Chedid,5088
+Grêmio,2023,15,18/09/2023,21:00,Segunda,09,Corinthians,Empate,4,4,Visitante,Wilton Pereira Sampaio,29.8,3.9,181.1,5.6,28.1,6.9,180.9,7.5,Neo Química Arena,35796
+Grêmio,2023,24,21/09/2023,21:30,Quinta,09,Palmeiras,Vitória,1,0,Mandante,Bruno Arleu de Araujo,29.3,3.8,181.8,4.9,28.0,5.1,178.8,6.3,Arena do Grêmio,29057
+Grêmio,2023,25,30/09/2023,16:00,Sábado,09,Fortaleza,Empate,1,1,Visitante,Raphael Claus,30.1,4.5,181.8,5.2,29.8,4.1,178.4,6.7,Estádio Governador Plácido Castelo,23634
+Grêmio,2023,26,08/10/2023,16:00,Domingo,10,Internacional,Derrota,2,3,Visitante,Paulo Cesar Zanovelli da Silva,29.5,4.7,181.2,5.3,29.4,4.8,177.8,6.6,Estádio Beira-Rio,39133
+Grêmio,2023,27,18/10/2023,19:00,Quarta,10,Athletico,Derrota,1,2,Mandante,Luiz Flávio de Oliveira,30.0,5.3,179.8,6.6,27.3,5.3,181.6,4.5,Arena do Grêmio,24679
+Grêmio,2023,28,21/10/2023,18:30,Sábado,10,São Paulo,Derrota,0,3,Visitante,Andre Luiz Skettino Policarpo Bento,27.5,5.4,181.3,5.6,28.2,5.4,178.6,6.4,MorumBIS,47132
+Grêmio,2023,29,25/10/2023,21:30,Quarta,10,Flamengo,Vitória,3,2,Mandante,Rodrigo Jose Pereira de Lima,29.0,4.9,182.2,5.0,27.4,2.9,183.0,6.5,Arena do Grêmio,22325
+Grêmio,2023,30,28/10/2023,19:00,Sábado,10,América Mineiro,Vitória,4,3,Visitante,Matheus Delgado Candançan,28.5,4.6,181.0,5.0,30.0,4.0,181.1,7.6,Arena Independência,3008
+Grêmio,2023,31,01/11/2023,20:00,Quarta,11,Coritiba,Vitória,2,1,Visitante,Marcelo de Lima Henrique,30.7,4.6,181.3,5.8,28.7,4.9,181.2,6.7,Estádio Major Antônio Couto Pereira,24308
+Grêmio,2023,32,04/11/2023,19:30,Sábado,11,Bahia,Vitória,1,0,Mandante,Braulio Da Silva Machado,30.2,3.8,181.7,4.7,28.5,3.1,180.4,7.7,Arena do Grêmio,40154
+Grêmio,2023,33,09/11/2023,20:00,Quinta,11,Botafogo,Vitória,4,3,Visitante,Ramon Abatti Abel,28.1,5.1,181.1,4.7,29.1,3.7,182.7,6.6,Estádio São Januário,17708
+Grêmio,2023,34,12/11/2023,16:00,Domingo,11,Corinthians,Derrota,0,1,Mandante,Rodrigo Jose Pereira de Lima,28.7,4.6,180.1,4.7,28.9,5.5,179.8,7.6,Arena do Grêmio,49459
+Grêmio,2023,35,26/11/2023,16:00,Domingo,11,Atlético Mineiro,Derrota,0,3,Visitante,Braulio Da Silva Machado,28.8,5.2,181.8,6.3,29.5,4.1,179.4,6.2,Arena MRV,39337
+Grêmio,2023,36,30/11/2023,19:00,Quinta,11,Goiás,Vitória,2,1,Mandante,Marcelo de Lima Henrique,29.4,4.9,180.2,6.5,28.9,3.0,178.6,5.3,Arena do Grêmio,36875
+Grêmio,2023,37,03/12/2023,18:30,Domingo,12,Vasco da Gama,Vitória,1,0,Mandante,Ramon Abatti Abel,28.9,4.9,181.1,6.9,27.0,4.5,182.7,5.2,Arena do Grêmio,50481
+Grêmio,2023,38,06/12/2023,21:30,Quarta,12,Fluminense,Vitória,3,2,Visitante,Raphael Claus,29.1,3.7,181.7,6.2,31.5,6.9,178.4,6.0,Estádio do Maracanã,44190
+Grêmio,2024,1,14/04/2024,16:00,Domingo,04,Vasco da Gama,Derrota,1,2,Visitante,Flavio Rodrigues De Souza,28.9,4.3,178.0,8.3,28.3,4.6,178.6,5.5,Estádio São Januário,17722
+Grêmio,2024,2,17/04/2024,19:00,Quarta,04,Athletico,Vitória,2,0,Mandante,Marcelo de Lima Henrique,29.2,5.2,177.7,9.4,28.0,5.3,182.6,6.1,Arena do Grêmio,13236
+Grêmio,2024,3,20/04/2024,18:30,Sábado,04,Cuiabá,Vitória,1,0,Mandante,Bruno Pereira Vasconcelos,26.5,5.1,179.0,8.5,28.8,4.6,181.5,6.2,Arena do Grêmio,22904
+Grêmio,2024,4,27/04/2024,21:00,Sábado,04,Bahia,Derrota,0,1,Visitante,Braulio Da Silva Machado,30.5,3.7,177.2,8.3,28.3,3.6,180.5,5.6,Arena Fonte Nova,35836
+Grêmio,2024,7,01/06/2024,16:00,Sábado,06,Red Bull Bragantino,Derrota,0,2,Mandante,Ramon Abatti Abel,27.5,5.3,178.2,6.1,25.1,2.3,180.8,6.0,Arena do Grêmio,7563
+Grêmio,2024,8,13/06/2024,20:00,Quinta,06,Flamengo,Derrota,1,2,Visitante,Luiz Flávio de Oliveira,30.0,2.9,179.2,6.1,26.7,4.9,184.7,6.1,Estádio do Maracanã,51785
+Grêmio,2024,9,16/06/2024,18:30,Domingo,06,Botafogo,Derrota,1,2,Mandante,Paulo Cesar Zanovelli da Silva,28.1,5.3,179.1,9.6,29.0,4.3,182.4,6.7,Estádio Kleber Andrade,15595
+Grêmio,2024,10,19/06/2024,20:00,Quarta,06,Fortaleza,Derrota,0,1,Visitante,Joao Vitor Gobi,28.1,5.0,179.5,7.6,29.8,3.7,180.8,4.4,Estádio Governador Plácido Castelo,16935
+Grêmio,2024,11,22/06/2024,17:30,Sábado,06,Internacional,Derrota,0,1,Mandante,Ramon Abatti Abel,28.8,5.6,178.7,7.4,31.0,4.4,179.3,6.6,Estádio Major Antônio Couto Pereira,27961
+Grêmio,2024,12,26/06/2024,20:00,Quarta,06,Atlético Goianiense,Empate,1,1,Visitante,Bruno Arleu de Araujo,29.5,4.0,179.6,6.7,27.3,2.8,183.9,6.1,Estádio Antônio Accioly,7319
+Grêmio,2024,13,30/06/2024,16:00,Domingo,06,Fluminense,Vitória,1,0,Mandante,Paulo Cesar Zanovelli da Silva,30.2,5.4,178.8,7.2,33.1,5.1,179.1,7.0,Arena do Grêmio,8549
+Grêmio,2024,14,04/07/2024,19:00,Quinta,07,Palmeiras,Empate,2,2,Mandante,Marcelo de Lima Henrique,29.7,4.8,178.9,5.8,25.2,6.0,180.4,6.3,Arena do Grêmio,20797
+Grêmio,2024,15,07/07/2024,16:00,Domingo,07,Juventude,Derrota,0,3,Visitante,Matheus Delgado Candançan,29.3,5.6,178.5,7.3,29.1,4.0,180.6,7.1,Estádio Alfredo Jaconi,7984
+Grêmio,2024,16,10/07/2024,18:30,Quarta,07,Cruzeiro,Derrota,0,2,Mandante,Bruno Arleu de Araujo,29.0,5.2,178.0,6.7,26.3,3.1,176.7,7.6,Estádio Centenário,4623
+Grêmio,2024,17,17/07/2024,20:00,Quarta,07,São Paulo,Derrota,0,1,Visitante,Gustavo Ervino Bauermann,28.9,3.6,177.2,8.0,29.0,3.8,179.5,6.9,MorumBIS,53168
+Grêmio,2024,18,21/07/2024,11:00,Domingo,07,Vitória,Vitória,2,0,Mandante,Savio Pereira Sampaio,30.6,3.3,177.5,7.6,26.7,2.9,180.3,7.2,Estádio Centenário,25248
+Grêmio,2024,19,25/07/2024,20:00,Quinta,07,Corinthians,Empate,2,2,Visitante,Alex Gomes Stefano,31.5,3.2,178.0,7.6,26.5,3.3,181.0,7.9,Neo Química Arena,45183
+Grêmio,2024,20,28/07/2024,19:00,Domingo,07,Vasco da Gama,Vitória,1,0,Mandante,Paulo Cesar Zanovelli da Silva,30.4,3.1,177.4,8.3,28.6,4.3,180.2,6.0,Arena do Grêmio,17621
+Grêmio,2024,21,04/08/2024,16:00,Domingo,08,Athletico,Vitória,2,0,Visitante,Matheus Delgado Candançan,26.9,5.4,177.7,6.4,25.6,3.4,183.2,7.7,Arena da Baixada,27205
+Grêmio,2024,22,10/08/2024,19:00,Sábado,08,Cuiabá,Vitória,3,1,Visitante,Bruno Pereira Vasconcelos,26.8,5.2,180.5,7.4,28.6,4.3,184.0,3.7,Arena Pantanal,9853
+Grêmio,2024,23,17/08/2024,16:00,Sábado,08,Bahia,Derrota,0,2,Mandante,Matheus Delgado Candançan,25.8,5.5,180.9,7.5,28.6,3.6,180.5,5.6,Arena do Grêmio,56102
+Grêmio,2024,24,25/08/2024,16:00,Domingo,08,Criciúma,Vitória,1,0,Visitante,Lucas Paulo Torezin,29.7,4.2,177.8,7.7,31.0,3.9,181.8,5.6,Estádio Heriberto Hülse,17377
+Grêmio,2024,25,01/09/2024,11:00,Domingo,09,Atlético Mineiro,Derrota,2,3,Mandante,Raphael Claus,29.1,4.8,178.0,8.1,30.4,3.0,179.4,7.6,Arena do Grêmio,27442
+Grêmio,2024,26,15/09/2024,16:00,Domingo,09,Red Bull Bragantino,Empate,2,2,Visitante,Bruno Arleu de Araujo,29.8,4.2,177.4,7.2,25.6,3.6,180.6,5.3,Estádio Nabi Abi Chedid,5228
+Grêmio,2024,27,22/09/2024,18:30,Domingo,09,Flamengo,Vitória,3,2,Mandante,Matheus Delgado Candançan,29.1,4.8,178.0,8.1,24.2,5.2,184.0,7.5,Arena do Grêmio,48504
+Grêmio,2024,5,25/09/2024,19:00,Quarta,09,Criciúma,Derrota,1,2,Mandante,Davi de Oliveira Lacerda,28.9,4.7,178.0,8.1,30.2,3.4,180.1,7.1,Arena do Grêmio,18457
+Grêmio,2024,28,28/09/2024,21:00,Sábado,09,Botafogo,Empate,0,0,Visitante,Maguielson Lima Barbosa,29.8,4.9,180.4,5.2,28.7,4.6,182.1,7.5,Arena BRB Mané Garrincha,42220
+Grêmio,2024,29,04/10/2024,21:30,Sexta,10,Fortaleza,Vitória,3,1,Mandante,Davi de Oliveira Lacerda,29.0,4.4,180.5,7.8,29.8,3.3,178.9,5.8,Arena do Grêmio,22204
+Grêmio,2024,6,09/10/2024,19:30,Quarta,10,Atlético Mineiro,Derrota,1,2,Visitante,Luiz Flávio de Oliveira,29.8,5.2,179.5,5.7,29.3,4.5,181.3,5.8,Arena MRV,22053
+Grêmio,2024,30,19/10/2024,16:00,Sábado,10,Internacional,Derrota,0,1,Visitante,Bruno Arleu de Araujo,29.8,4.1,178.4,6.0,26.7,4.9,178.4,6.8,Estádio Beira-Rio,48049
+Grêmio,2024,31,26/10/2024,16:30,Sábado,10,Atlético Goianiense,Vitória,3,1,Mandante,Edina Alves Batista,29.2,4.8,179.0,7.4,27.3,1.9,181.8,7.1,Arena do Grêmio,36959
+Grêmio,2024,32,01/11/2024,21:00,Sexta,11,Fluminense,Empate,2,2,Visitante,Matheus Delgado Candançan,30.6,4.1,177.5,7.8,32.1,7.0,178.3,6.0,Estádio do Maracanã,35278
+Grêmio,2024,33,08/11/2024,21:30,Sexta,11,Palmeiras,Derrota,0,1,Visitante,Marcelo de Lima Henrique,30.7,4.1,177.5,7.8,28.7,5.3,178.8,6.5,Nubank Parque,33670
+Grêmio,2024,34,20/11/2024,19:00,Quarta,11,Juventude,Empate,2,2,Mandante,Bruno Arleu de Araujo,32.6,4.0,181.1,6.4,26.8,2.9,179.8,7.6,Arena do Grêmio,40426
+Grêmio,2024,35,27/11/2024,21:00,Quarta,11,Cruzeiro,Empate,1,1,Visitante,Raphael Claus,30.1,3.9,177.1,7.3,28.5,4.0,178.9,7.4,Governador Magalhães Pinto,21009
+Grêmio,2024,36,01/12/2024,16:00,Domingo,12,São Paulo,Vitória,2,1,Mandante,Ramon Abatti Abel,30.8,4.7,177.7,8.1,31.2,4.4,179.8,6.6,Arena do Grêmio,39197
+Grêmio,2024,37,04/12/2024,20:00,Quarta,12,Vitória,Empate,1,1,Visitante,Alex Gomes Stefano,29.4,4.8,179.4,4.9,27.8,3.3,181.6,7.2,Estádio Manoel Barradas,26842
+Grêmio,2024,38,08/12/2024,16:00,Domingo,12,Corinthians,Derrota,0,3,Mandante,Paulo Cesar Zanovelli da Silva,31.3,4.0,179.3,10.2,27.0,3.9,180.5,7.5,Arena do Grêmio,42945
+Grêmio,2025,1,29/03/2025,18:30,Sábado,03,Atlético Mineiro,Vitória,2,1,Mandante,Raphael Claus,27.1,4.8,177.9,6.1,29.3,4.4,178.5,7.0,Arena do Grêmio,20111
+Grêmio,2025,2,05/04/2025,18:30,Sábado,04,Ceará,Derrota,0,2,Visitante,Edina Alves Batista,27.7,4.6,177.8,6.3,28.8,2.8,181.2,7.8,Estádio Governador Plácido Castelo,26777
+Grêmio,2025,3,13/04/2025,17:30,Domingo,04,Flamengo,Derrota,0,2,Mandante,Ramon Abatti Abel,29.6,3.4,178.7,6.3,29.6,3.3,180.8,8.6,Arena do Grêmio,23367
+Grêmio,2025,4,16/04/2025,19:00,Quarta,04,Mirassol,Derrota,1,4,Visitante,Lucas Paulo Torezin,28.9,3.2,177.9,6.3,30.3,3.7,180.9,6.9,Estádio José Maria de Campos Maia,4147
+Grêmio,2025,5,19/04/2025,21:00,Sábado,04,Internacional,Empate,1,1,Mandante,Braulio Da Silva Machado,29.1,4.4,178.6,5.9,29.1,5.1,180.2,6.4,Arena do Grêmio,27286
+Grêmio,2025,6,27/04/2025,18:30,Domingo,04,Vitória,Empate,1,1,Visitante,Felipe Fernandes de Lima,29.0,4.6,178.5,5.9,26.7,1.0,179.3,8.4,Estádio Manoel Barradas,18688
+Grêmio,2025,7,04/05/2025,16:00,Domingo,05,Santos,Vitória,1,0,Mandante,Bruno Arleu de Araujo,29.4,4.7,178.3,6.0,27.8,4.7,180.9,9.3,Arena do Grêmio,27085
+Grêmio,2025,8,10/05/2025,18:30,Sábado,05,Red Bull Bragantino,Empate,1,1,Mandante,Davi de Oliveira Lacerda,27.4,5.0,179.4,6.0,27.0,3.7,179.1,8.0,Arena do Grêmio,15156
+Grêmio,2025,9,17/05/2025,21:00,Sábado,05,São Paulo,Derrota,1,2,Visitante,Rodrigo Jose Pereira de Lima,27.6,4.8,179.8,5.4,29.4,4.6,181.4,7.2,MorumBIS,34579
+Grêmio,2025,10,25/05/2025,11:00,Domingo,05,Bahia,Vitória,1,0,Mandante,Bruno Arleu de Araujo,29.1,3.5,177.9,6.3,28.0,3.9,179.3,6.6,Arena do Grêmio,13859
+Grêmio,2025,11,01/06/2025,16:00,Domingo,06,Juventude,Vitória,2,0,Visitante,Raphael Claus,28.0,4.8,180.3,6.9,29.3,6.1,178.5,5.6,Estádio Alfredo Jaconi,9098
+Grêmio,2025,12,12/06/2025,20:00,Quinta,06,Corinthians,Empate,1,1,Mandante,Davi de Oliveira Lacerda,28.0,4.8,180.3,6.9,26.6,3.8,180.5,7.9,Arena do Grêmio,20465
+Grêmio,2025,13,13/07/2025,20:30,Domingo,07,Cruzeiro,Derrota,1,4,Visitante,Lucas Paulo Torezin,27.1,4.6,180.6,6.6,29.3,4.3,179.2,7.9,Governador Magalhães Pinto,31668
+Grêmio,2025,15,19/07/2025,17:30,Sábado,07,Vasco da Gama,Empate,1,1,Visitante,Felipe Fernandes de Lima,28.9,5.3,180.6,6.8,28.0,4.5,180.5,5.4,Estádio São Januário,15556
+Grêmio,2025,17,26/07/2025,21:00,Sábado,07,Palmeiras,Derrota,0,1,Visitante,Paulo Cesar Zanovelli da Silva,27.0,5.0,179.5,7.3,26.3,5.2,181.7,5.1,Nubank Parque,37132
+Grêmio,2025,14,29/07/2025,20:30,Terça,07,Fortaleza,Vitória,2,1,Mandante,Alex Gomes Stefano,27.2,5.5,180.8,6.6,28.0,4.6,179.5,7.3,Arena do Grêmio,18695
+Grêmio,2025,18,02/08/2025,21:00,Sábado,08,Fluminense,Derrota,0,1,Visitante,Lucas Paulo Torezin,27.9,5.2,179.2,6.5,33.2,6.4,178.5,5.8,Estádio do Maracanã,15344
+Grêmio,2025,19,10/08/2025,20:30,Domingo,08,Sport Recife,Derrota,0,1,Mandante,Yuri Elino Ferreira Da Cruz,28.2,5.7,179.6,6.5,28.6,4.7,181.8,8.7,Arena do Grêmio,35087
+Grêmio,2025,20,17/08/2025,16:00,Domingo,08,Atlético Mineiro,Vitória,3,1,Visitante,Alex Gomes Stefano,29.4,5.3,181.5,6.3,27.9,5.8,179.9,5.8,Arena MRV,34774
+Grêmio,2025,21,23/08/2025,21:00,Sábado,08,Ceará,Empate,0,0,Mandante,Davi de Oliveira Lacerda,31.3,5.3,180.0,5.6,29.9,2.9,179.0,8.9,Arena do Grêmio,25138
+Grêmio,2025,22,31/08/2025,16:00,Domingo,08,Flamengo,Empate,1,1,Visitante,Paulo Cesar Zanovelli da Silva,31.3,4.4,179.1,6.7,29.0,2.2,180.5,7.9,Estádio do Maracanã,69477
+Grêmio,2025,23,13/09/2025,16:00,Sábado,09,Mirassol,Derrota,0,1,Mandante,Lucas Casagrande,29.5,4.5,179.0,5.7,29.4,4.0,179.3,7.3,Arena do Grêmio,45724
+Grêmio,2025,24,21/09/2025,17:30,Domingo,09,Internacional,Vitória,3,2,Visitante,Marcelo de Lima Henrique,31.4,4.2,179.1,6.8,28.7,3.2,178.3,7.8,Estádio Beira-Rio,28176
+Grêmio,2025,16,24/09/2025,19:30,Quarta,09,Botafogo,Empate,1,1,Mandante,Lucas Paulo Torezin,30.7,5.2,179.9,7.6,27.6,3.0,182.9,7.5,Arena do Grêmio,18551
+Grêmio,2025,25,28/09/2025,11:00,Domingo,09,Vitória,Vitória,3,1,Mandante,Raphael Claus,29.8,5.2,180.5,7.6,28.5,2.6,180.7,6.4,Arena do Grêmio,41025
+Grêmio,2025,26,01/10/2025,21:30,Quarta,10,Santos,Empate,1,1,Visitante,Paulo Cesar Zanovelli da Silva,26.8,4.2,180.9,8.3,28.8,3.0,179.9,6.5,Estádio Urbano Caldeira,9306
+Grêmio,2025,27,04/10/2025,18:30,Sábado,10,Red Bull Bragantino,Derrota,0,1,Visitante,Lucas Casagrande,27.9,4.2,179.7,8.3,25.5,2.3,183.7,5.1,Estádio Cícero de Souza Marques,3781
+Grêmio,2025,28,16/10/2025,19:00,Quinta,10,São Paulo,Vitória,2,0,Mandante,Davi de Oliveira Lacerda,28.1,4.8,179.1,8.1,29.4,4.4,179.6,7.5,Arena do Grêmio,21526
+Grêmio,2025,29,19/10/2025,20:30,Domingo,10,Bahia,Derrota,0,4,Visitante,Raphael Claus,29.5,4.9,180.7,7.5,28.5,3.6,182.1,6.7,Arena Fonte Nova,29272
+Grêmio,2025,30,26/10/2025,16:00,Domingo,10,Juventude,Vitória,3,1,Mandante,Alex Gomes Stefano,29.1,4.7,179.6,7.0,30.1,3.9,178.4,4.6,Arena do Grêmio,32444
+Grêmio,2025,31,02/11/2025,16:00,Domingo,11,Corinthians,Derrota,0,2,Visitante,Davi de Oliveira Lacerda,28.4,4.4,179.9,7.2,28.3,3.7,182.0,9.3,Neo Química Arena,42081
+Grêmio,2025,32,05/11/2025,20:00,Quarta,11,Cruzeiro,Derrota,0,1,Mandante,Lucas Paulo Torezin,29.2,4.7,179.6,7.0,28.6,5.1,179.3,7.8,Arena do Grêmio,19841
+Grêmio,2025,33,09/11/2025,20:30,Domingo,11,Fortaleza,Empate,2,2,Visitante,Jefferson Ferreira de Moraes,29.5,4.8,180.2,6.4,29.5,3.8,179.0,4.4,Estádio Governador Plácido Castelo,16025
+Grêmio,2025,34,19/11/2025,21:30,Quarta,11,Vasco da Gama,Vitória,2,0,Mandante,Raphael Claus,29.5,3.7,178.6,8.4,27.8,5.3,180.5,5.7,Arena do Grêmio,33807
+Grêmio,2025,35,22/11/2025,19:30,Sábado,11,Botafogo,Derrota,2,3,Visitante,Felipe Fernandes de Lima,28.7,5.6,180.2,7.4,26.3,3.9,181.7,8.5,Estádio Nilton Santos,16755
+Grêmio,2025,36,25/11/2025,21:30,Terça,11,Palmeiras,Vitória,3,2,Mandante,Savio Pereira Sampaio,31.2,3.6,177.9,7.6,26.3,5.1,182.0,6.8,Arena do Grêmio,25898
+Grêmio,2025,37,02/12/2025,21:30,Terça,12,Fluminense,Derrota,1,2,Mandante,Raphael Claus,29.1,5.4,179.8,7.9,31.2,5.6,175.8,10.0,Arena do Grêmio,23487
+Grêmio,2025,38,07/12/2025,16:00,Domingo,12,Sport Recife,Vitória,4,0,Visitante,Edina Alves Batista,28.7,5.0,181.1,7.4,30.2,2.9,181.2,8.0,Ilha do Retiro,3339

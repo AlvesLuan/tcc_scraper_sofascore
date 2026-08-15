@@ -2,18 +2,18 @@
 # TIME ALVO — descomente apenas os times que quer rodar (tirado de https://www.sofascore.com/api/v1/unique-tournament/325/season/(id da temporada)/standings/total?cacheBust)
 # ======================================================
 TIMES_ALVO = [
-    # ("Flamengo",         5981),
-    # ("São Paulo",        1981),
-    # ("Palmeiras",        1963),
+    #("Flamengo",         5981),
+    ("São Paulo",        1981),
+    #("Palmeiras",        1963),
     # ("Santos",           1968),
     # ("Corinthians",      1957),
     # ("Botafogo",         1958),
     # ("Vasco da Gama",    1974),
     # ("Fluminense",       1961),
-    ("Atlético Mineiro", 1977),
-    # ("Cruzeiro",         1954),
-    # ("Grêmio",           5926),
-    # ("Internacional",    1966),
+    #("Atlético Mineiro", 1977),
+    #("Cruzeiro",         1954),
+    #("Grêmio",           5926),
+    #("Internacional",    1966),
 ]
 
 
@@ -45,7 +45,7 @@ UNIQUE_TOURNAMENT_ID = 325  # Brasileirão Serie A
 # SCRAPING
 # ======================================================
 
-REQUEST_DELAY = 3  # segundos entre requisições
+REQUEST_DELAY = 8  # segundos entre requisições
 
 # ======================================================
 # OUTPUT

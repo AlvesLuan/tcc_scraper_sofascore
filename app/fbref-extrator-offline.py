@@ -24,7 +24,8 @@ def extrair_publico_html(caminho_html: str) -> dict:
     # Anda nas linhas do corpo da tabela
     for linha in tabela.select("tbody tr"):
         comp = linha.select_one("td[data-stat='comp']")
-        if not comp or "Série A" not in comp.text:
+
+        if comp and "Série A" not in comp.text:
             continue
 
         # Pego a rodada e o público da partida

@@ -3,6 +3,11 @@ from config import UNIQUE_TOURNAMENT_ID
 
 def get_z4(standings_json: dict) -> set[int]:
     #Retorna IDs dos 4 rebaixados (promotion.text == 'Relegation').
+##########
+    if "standings" not in standings_json:
+        print(f"  Resposta inesperada da API: {standings_json}")
+        return set()
+##########
     z4 = set()
     for row in standings_json["standings"][0]["rows"]:
         if row.get("promotion", {}).get("text") == "Relegation":
@@ -11,6 +16,10 @@ def get_z4(standings_json: dict) -> set[int]:
 
 def get_times_na_serie_a(standings_json: dict) -> set[int]:
     #Retorna IDs de todos os times da edição
+    ################
+    if "standings" not in standings_json:
+        return set()
+    ################
     return {row["team"]["id"] for row in standings_json["standings"][0]["rows"]}
 
 def filtrar_jogos_brasileirao(events: list[dict], season_id: int) -> list[dict]:
