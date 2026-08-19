@@ -3,12 +3,12 @@
 # ======================================================
 TIMES_ALVO = [
     #("Flamengo",         5981),
-    ("São Paulo",        1981),
-    #("Palmeiras",        1963),
+    #("São Paulo",        1981),
+    # ("Palmeiras",        1963),
     # ("Santos",           1968),
     # ("Corinthians",      1957),
     # ("Botafogo",         1958),
-    # ("Vasco da Gama",    1974),
+    ("Vasco da Gama",    1974),
     # ("Fluminense",       1961),
     #("Atlético Mineiro", 1977),
     #("Cruzeiro",         1954),
@@ -45,7 +45,7 @@ UNIQUE_TOURNAMENT_ID = 325  # Brasileirão Serie A
 # SCRAPING
 # ======================================================
 
-REQUEST_DELAY = 8  # segundos entre requisições
+REQUEST_DELAY = 7  # segundos entre requisições
 
 # ======================================================
 # OUTPUT

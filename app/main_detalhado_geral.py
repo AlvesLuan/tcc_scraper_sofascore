@@ -1,7 +1,8 @@
 import csv
 import math
 import os
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, time, timezone, timedelta
+import time
 from scraper import get_classificacao, get_jogos_time, buscar, close
 from analysis import get_z4, get_times_na_serie_a, filtrar_jogos_brasileirao
 from config import TIMES_ALVO, SEASONS
@@ -177,6 +178,11 @@ def salvar_linha_csv(linha: dict):
 def rodar_detalhado(time_nome: str, time_id: int):
     for ano, season_id in SEASONS.items():
         print(f"\n[{time_nome}] Processando {ano}...")
+
+        # Fecha e reabre o browser a cada ano para limpar a sessão
+        close()
+        time.sleep(10)
+        
 
         try:
             standings = get_classificacao(season_id)

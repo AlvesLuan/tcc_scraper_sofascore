@@ -1,8 +1,10 @@
 import time
-from playwright.sync_api import (
+"""from playwright.sync_api import (
     sync_playwright,
     Page
-)
+)"""
+from patchright.sync_api import sync_playwright, Page
+
 from config import (REQUEST_DELAY, UNIQUE_TOURNAMENT_ID)
 
 
@@ -14,7 +16,8 @@ def get_page() -> Page:
     global _playwright, _browser, _page
     if _page is None:
         _playwright = sync_playwright().start()
-        _browser = _playwright.chromium.launch(headless=True)
+        #_browser = _playwright.chromium.launch(headless=True)
+        _browser = _playwright.firefox.launch(headless=True)
         _page = _browser.new_page()
         # Abre o Sofascore uma vez para pegar cookies de sessão
         _page.goto("https://www.sofascore.com", wait_until="domcontentloaded")
@@ -25,6 +28,12 @@ def buscar(url: str) -> dict:
     time.sleep(REQUEST_DELAY)
     page = get_page()
     response = page.goto(url, wait_until="domcontentloaded")
+
+    # Se houve redirecionamento, aguarda mais um pouco e tenta pegar o conteúdo
+    if response and response.status in (301, 302, 303, 307, 308):
+        time.sleep(5)
+        response = page.goto(url, wait_until="networkidle")
+    
     return response.json()
 
 def close():
