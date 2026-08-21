@@ -1,0 +1,417 @@
+time,temporada,rodada,data,horario,dia_semana,mes,adversario,resultado,gols_favor,gols_sofridos,condicao,arbitro,idade_media_titular_time,desvio_idade_media_time,altura_media_titular_time,desvio_altura_media_time,idade_media_titular_adv,desvio_idade_media_adv,altura_media_titular_adv,desvio_altura_media_adv,estadio,publico
+Fluminense,2015,1,09/05/2015,21:00,Sábado,05,Joinville,Vitória,1,0,Mandante,Thiago Duarte Peixoto,26.3,5.2,181.5,5.9,28.5,4.3,180.4,4.9,Estádio do Maracanã,19185
+Fluminense,2015,2,17/05/2015,16:00,Domingo,05,Atlético Mineiro,Derrota,1,4,Visitante,Anderson Daronco,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Arena Independência,11958
+Fluminense,2015,3,24/05/2015,16:00,Domingo,05,Corinthians,Empate,0,0,Mandante,Heber Roberto Lopes,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio do Maracanã,28572
+Fluminense,2015,4,31/05/2015,18:30,Domingo,05,Flamengo,Vitória,3,2,Visitante,Sandro Meira Ricci,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio do Maracanã,28663
+Fluminense,2015,5,04/06/2015,16:00,Quinta,06,Coritiba,Vitória,2,0,Mandante,Cleisson Veloso Pereira,27.4,4.3,181.3,5.9,26.5,3.3,179.5,5.7,Estádio do Maracanã,32944
+Fluminense,2015,6,07/06/2015,19:30,Domingo,06,Sport Recife,Empate,0,0,Mandante,Paulo Roberto Alves Junior,27.5,4.2,181.4,5.9,26.9,4.7,178.7,8.0,Estádio do Maracanã,15411
+Fluminense,2015,7,14/06/2015,16:00,Domingo,06,Palmeiras,Derrota,1,2,Visitante,Dewson Fernando Freitas da Silva,28.5,5.5,180.3,6.3,29.4,5.5,179.4,8.4,Nubank Parque,26181
+Fluminense,2015,8,24/06/2015,19:30,Quarta,06,Ponte Preta,Vitória,2,0,Mandante,Leandro Pedro Vuaden,26.8,4.7,181.2,5.6,27.8,3.6,178.2,6.2,Estádio do Maracanã,7033
+Fluminense,2015,9,28/06/2015,16:00,Domingo,06,Goiás,Vitória,2,1,Visitante,Luiz Flávio de Oliveira,28.4,5.3,180.7,5.9,24.6,3.1,179.3,6.0,Serra Dourada,3053
+Fluminense,2015,10,02/07/2015,21:00,Quinta,07,Santos,Vitória,2,1,Mandante,Ricardo Marques Ribeiro,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio do Maracanã,11437
+Fluminense,2015,11,05/07/2015,16:00,Domingo,07,São Paulo,Empate,0,0,Visitante,Leandro Pedro Vuaden,27.8,4.6,180.4,7.3,28.2,6.0,182.4,3.9,MorumBIS,16469
+Fluminense,2015,12,09/07/2015,21:00,Quinta,07,Cruzeiro,Vitória,1,0,Mandante,Heber Roberto Lopes,27.2,5.2,180.5,7.9,27.2,4.3,180.5,5.9,Estádio do Maracanã,16391
+Fluminense,2015,13,12/07/2015,16:00,Domingo,07,Athletico,Vitória,2,1,Visitante,Anderson Daronco,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Arena da Baixada,17522
+Fluminense,2015,14,19/07/2015,16:00,Domingo,07,Vasco da Gama,Derrota,1,2,Mandante,Luiz Flávio de Oliveira,26.8,4.6,180.8,6.9,27.8,4.5,182.7,5.1,Estádio do Maracanã,37687
+Fluminense,2015,15,26/07/2015,11:00,Domingo,07,Chapecoense,Derrota,1,2,Visitante,Raphael Claus,27.6,3.7,179.4,7.4,29.1,2.9,180.5,6.8,Arena Condá,8494
+Fluminense,2015,16,01/08/2015,18:30,Sábado,08,Grêmio,Vitória,1,0,Mandante,Wilton Pereira Sampaio,26.8,5.2,179.3,7.1,25.3,4.4,183.3,5.6,Estádio do Maracanã,33288
+Fluminense,2015,17,08/08/2015,18:30,Sábado,08,Avaí,Derrota,0,1,Visitante,Thiago Duarte Peixoto,28.5,6.2,179.3,6.2,28.5,4.5,178.6,7.2,Estádio da Ressacada,11033
+Fluminense,2015,18,12/08/2015,22:00,Quarta,08,Internacional,Derrota,0,1,Visitante,Flavio Rodrigues Guerra,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio Beira-Rio,9222
+Fluminense,2015,19,16/08/2015,16:00,Domingo,08,Figueirense,Vitória,2,1,Mandante,Diego Almeida Real,27.7,4.3,180.1,6.0,26.2,3.4,181.1,4.5,Estádio do Maracanã,23130
+Fluminense,2015,20,23/08/2015,16:00,Domingo,08,Joinville,Derrota,1,2,Visitante,Emerson Luiz Sobral,27.0,4.2,180.2,7.1,25.4,5.5,180.5,4.8,Arena Joinville,12395
+Fluminense,2015,21,30/08/2015,16:00,Domingo,08,Atlético Mineiro,Derrota,1,2,Mandante,Marielson Alves Silva,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio do Maracanã,20533
+Fluminense,2015,22,02/09/2015,22:00,Quarta,09,Corinthians,Derrota,0,2,Visitante,Sandro Meira Ricci,27.5,4.9,180.2,6.8,27.7,5.9,180.4,9.2,Neo Química Arena,29328
+Fluminense,2015,23,06/09/2015,16:00,Domingo,09,Flamengo,Derrota,1,3,Mandante,Ricardo Marques Ribeiro,27.9,4.7,179.2,7.3,28.1,3.9,178.0,5.9,Estádio do Maracanã,55999
+Fluminense,2015,24,09/09/2015,22:00,Quarta,09,Coritiba,Empate,1,1,Visitante,Leandro Pedro Vuaden,25.1,5.1,180.7,7.9,28.0,4.6,176.9,6.3,Estádio Major Antônio Couto Pereira,12619
+Fluminense,2015,25,13/09/2015,18:30,Domingo,09,Sport Recife,Derrota,0,1,Visitante,Heber Roberto Lopes,25.2,5.0,180.6,6.9,27.7,3.3,182.5,6.3,Ilha do Retiro,5333
+Fluminense,2015,26,16/09/2015,19:30,Quarta,09,Palmeiras,Derrota,1,4,Mandante,Anderson Daronco,26.3,5.3,180.5,6.4,29.4,6.0,179.5,7.1,Estádio do Maracanã,9842
+Fluminense,2015,27,19/09/2015,21:00,Sábado,09,Ponte Preta,Derrota,1,3,Visitante,Andre Luiz de Freitas Castro,25.8,5.0,180.5,5.9,29.0,3.7,179.0,5.8,Moisés Lucarelli,5470
+Fluminense,2015,28,26/09/2015,18:30,Sábado,09,Goiás,Vitória,2,0,Mandante,Marielson Alves Silva,27.6,6.1,181.1,5.9,25.7,4.0,179.6,4.8,Estádio do Maracanã,11725
+Fluminense,2015,29,04/10/2015,16:00,Domingo,10,Santos,Derrota,1,3,Visitante,Sandro Meira Ricci,26.5,5.4,179.5,8.2,26.4,5.8,181.3,7.7,Estádio Urbano Caldeira,7491
+Fluminense,2015,30,14/10/2015,22:00,Quarta,10,São Paulo,Vitória,2,0,Mandante,Braulio Da Silva Machado,26.0,5.0,180.2,6.8,27.1,6.4,182.5,4.6,Estádio do Maracanã,8357
+Fluminense,2015,31,18/10/2015,10:00,Domingo,10,Cruzeiro,Derrota,0,2,Visitante,Andre Luiz de Freitas Castro,25.4,5.4,180.1,6.8,28.6,4.5,180.4,5.7,Governador Magalhães Pinto,38577
+Fluminense,2015,32,24/10/2015,16:00,Sábado,10,Athletico,Derrota,0,1,Mandante,Luiz Flávio de Oliveira,27.6,5.9,178.8,6.0,25.7,3.8,179.0,6.9,Estádio do Maracanã,8995
+Fluminense,2015,33,01/11/2015,17:00,Domingo,11,Vasco da Gama,Vitória,1,0,Visitante,Luiz Flávio de Oliveira,27.1,4.9,178.9,6.5,30.9,4.1,181.4,5.8,Estádio Nilton Santos,11957
+Fluminense,2015,34,07/11/2015,20:00,Sábado,11,Chapecoense,Derrota,2,3,Mandante,Nielson Nogueira Dias,26.2,4.6,178.5,7.1,28.9,2.6,179.5,9.1,Estádio do Maracanã,4153
+Fluminense,2015,35,19/11/2015,18:30,Quinta,11,Grêmio,Derrota,0,1,Visitante,Reway Wagner,28.3,4.4,178.0,7.4,25.4,4.2,180.5,7.2,Arena do Grêmio,15909
+Fluminense,2015,36,22/11/2015,18:30,Domingo,11,Avaí,Vitória,3,1,Mandante,Flavio Rodrigues Guerra,27.7,4.7,178.6,6.9,26.5,4.0,180.2,7.8,Estádio Kleber Andrade,9183
+Fluminense,2015,37,28/11/2015,18:30,Sábado,11,Internacional,Empate,1,1,Mandante,Marielson Alves Silva,25.6,5.0,179.5,6.3,26.8,4.6,180.5,5.4,Estádio do Maracanã,7691
+Fluminense,2015,38,06/12/2015,16:00,Domingo,12,Figueirense,Derrota,0,1,Visitante,Dewson Fernando Freitas da Silva,27.0,5.9,180.1,6.9,25.6,3.2,179.2,4.8,Orlando Scarpelli,16047
+Fluminense,2016,1,15/05/2016,16:00,Domingo,05,América Mineiro,Vitória,1,0,Visitante,Thiago Duarte Peixoto,28.3,4.3,180.8,6.4,28.1,4.0,182.3,4.9,Arena Independência,2078
+Fluminense,2016,2,21/05/2016,18:30,Sábado,05,Santa Cruz,Empate,2,2,Mandante,Jailson Macedo Freitas,29.2,4.4,179.8,6.8,28.9,4.9,181.7,5.9,Estádio Giulite Coutinho,3380
+Fluminense,2016,3,25/05/2016,21:45,Quarta,05,Palmeiras,Derrota,0,2,Visitante,Sandro Meira Ricci,29.7,3.4,179.7,6.8,25.9,5.8,178.6,6.8,Nubank Parque,28534
+Fluminense,2016,4,29/05/2016,16:00,Domingo,05,Botafogo,Vitória,1,0,Mandante,Marcelo Aparecido Ribeiro de Souza,28.7,4.6,181.5,6.0,25.9,5.2,181.0,6.3,Estádio Raulino de Oliveira,4550
+Fluminense,2016,5,01/06/2016,21:45,Quarta,06,Atlético Mineiro,Empate,1,1,Visitante,Luiz Flávio de Oliveira,27.4,5.0,181.5,5.8,27.2,4.4,180.2,6.8,Arena Independência,8144
+Fluminense,2016,6,04/06/2016,20:30,Sábado,06,Chapecoense,Empate,0,0,Visitante,Ricardo Marques Ribeiro,27.4,5.0,181.5,5.8,26.6,3.6,179.1,4.3,Arena Condá,5817
+Fluminense,2016,7,11/06/2016,18:30,Sábado,06,Grêmio,Empate,1,1,Mandante,Andre Luiz de Freitas Castro,26.9,4.7,179.6,6.7,27.8,4.3,179.9,7.7,Estádio Giulite Coutinho,3636
+Fluminense,2016,8,16/06/2016,20:00,Quinta,06,Corinthians,Vitória,1,0,Mandante,Ricardo Marques Ribeiro,26.7,4.8,179.5,7.0,26.6,2.1,178.8,6.1,Estádio Giulite Coutinho,21148
+Fluminense,2016,9,19/06/2016,16:00,Domingo,06,Sport Recife,Derrota,1,2,Visitante,Raphael Claus,26.7,4.8,179.5,7.0,28.9,5.8,178.2,8.0,Ilha do Retiro,8065
+Fluminense,2016,10,22/06/2016,21:45,Quarta,06,Santos,Derrota,2,4,Mandante,Rodolpho Toski Marques,29.5,5.7,177.7,7.0,24.7,5.3,182.3,7.5,Estádio Giulite Coutinho,5310
+Fluminense,2016,11,26/06/2016,16:00,Domingo,06,Flamengo,Vitória,2,1,Visitante,Luiz Flávio de Oliveira,28.6,5.4,180.0,6.1,27.8,3.8,182.0,5.9,Arena das Dunas,25946
+Fluminense,2016,12,29/06/2016,21:45,Quarta,06,São Paulo,Derrota,1,2,Visitante,Anderson Daronco,28.6,5.4,180.0,6.1,26.9,3.3,181.2,6.8,MorumBIS,10323
+Fluminense,2016,13,02/07/2016,16:00,Sábado,07,Coritiba,Empate,0,0,Mandante,Leandro Pedro Vuaden,29.6,4.9,179.9,6.6,27.0,5.2,176.6,7.2,Estádio Giulite Coutinho,1826
+Fluminense,2016,14,10/07/2016,19:30,Domingo,07,Vitória,Empate,0,0,Visitante,Marcelo Aparecido Ribeiro de Souza,28.8,5.1,178.6,6.7,26.3,4.6,179.3,8.8,Estádio Manoel Barradas,6938
+Fluminense,2016,15,17/07/2016,16:00,Domingo,07,Cruzeiro,Vitória,2,0,Mandante,Wilton Pereira Sampaio,26.9,4.6,180.0,8.2,28.1,4.5,180.8,5.9,Estádio Giulite Coutinho,9681
+Fluminense,2016,16,24/07/2016,16:00,Domingo,07,Athletico,Derrota,0,1,Visitante,Francisco Carlos Do Nascimento,26.8,4.5,180.6,7.7,24.5,2.6,179.7,6.8,Arena da Baixada,14959
+Fluminense,2016,17,31/07/2016,11:00,Domingo,07,Ponte Preta,Vitória,3,0,Mandante,Igor Junio Benevenuto,27.1,4.1,181.4,6.9,27.6,4.3,179.3,8.0,Estádio Giulite Coutinho,9574
+Fluminense,2016,19,07/08/2016,16:15,Domingo,08,Internacional,Empate,2,2,Visitante,Rafael Traci,27.0,4.2,179.8,7.3,26.7,3.2,180.8,6.3,Estádio Beira-Rio,19552
+Fluminense,2016,20,14/08/2016,11:00,Domingo,08,América Mineiro,Vitória,1,0,Mandante,Diego Almeida Real,26.7,4.1,179.8,7.3,26.4,3.6,179.9,7.2,Estádio Giulite Coutinho,6775
+Fluminense,2016,21,21/08/2016,16:00,Domingo,08,Santa Cruz,Vitória,1,0,Visitante,Luiz Flávio de Oliveira,26.9,3.9,179.9,7.7,29.5,4.8,180.6,7.9,Estádio do Arruda,8279
+Fluminense,2016,22,28/08/2016,16:00,Domingo,08,Palmeiras,Derrota,0,2,Mandante,Ricardo Marques Ribeiro,27.1,4.2,179.8,7.3,27.0,6.3,178.0,8.3,Estádio Giulite Coutinho,12037
+Fluminense,2016,18,03/09/2016,16:00,Sábado,09,Figueirense,Vitória,3,2,Mandante,Rodrigo Batista Raposo,27.7,4.5,179.9,6.2,28.1,3.3,180.7,6.2,Estádio Giulite Coutinho,6136
+Fluminense,2016,23,07/09/2016,16:00,Quarta,09,Botafogo,Derrota,0,1,Visitante,Rodolpho Toski Marques,28.5,3.9,181.5,6.4,27.9,4.6,180.2,7.5,Estádio Luso Brasileiro,10156
+Fluminense,2016,24,12/09/2016,20:00,Segunda,09,Atlético Mineiro,Vitória,4,2,Mandante,Eduardo Tomaz de Aquino Valadao,27.0,3.8,178.3,8.6,30.6,3.6,182.8,6.6,Estádio Giulite Coutinho,9004
+Fluminense,2016,26,18/09/2016,16:00,Domingo,09,Grêmio,Vitória,1,0,Visitante,Wilton Pereira Sampaio,28.2,3.6,179.5,7.4,27.4,4.2,181.3,6.5,Arena do Grêmio,12136
+Fluminense,2016,27,25/09/2016,16:00,Domingo,09,Corinthians,Vitória,1,0,Visitante,Anderson Daronco,26.9,4.6,178.7,7.8,25.6,2.5,179.1,5.8,Neo Química Arena,18838
+Fluminense,2016,28,01/10/2016,11:00,Sábado,10,Sport Recife,Vitória,3,1,Mandante,Leandro Pedro Vuaden,27.5,4.4,178.9,7.8,28.4,5.4,177.3,7.3,Estádio Giulite Coutinho,7801
+Fluminense,2016,29,05/10/2016,21:00,Quarta,10,Santos,Derrota,1,2,Visitante,Igor Junio Benevenuto,27.5,4.4,178.9,7.8,28.1,5.5,180.6,6.9,Estádio Urbano Caldeira,5253
+Fluminense,2016,30,13/10/2016,21:00,Quinta,10,Flamengo,Derrota,1,2,Mandante,Sandro Meira Ricci,27.5,4.4,179.9,7.6,28.2,3.5,180.5,7.2,Estádio Raulino de Oliveira,11166
+Fluminense,2016,31,17/10/2016,19:00,Segunda,10,São Paulo,Derrota,1,2,Mandante,Nielson Nogueira Dias,27.6,4.4,179.5,7.4,26.4,2.2,179.5,6.8,Estádio Giulite Coutinho,6664
+Fluminense,2016,32,23/10/2016,17:30,Domingo,10,Coritiba,Empate,1,1,Visitante,Raphael Claus,27.2,4.9,180.0,6.6,27.2,4.4,179.0,5.6,Estádio Major Antônio Couto Pereira,9819
+Fluminense,2016,33,28/10/2016,18:30,Sexta,10,Vitória,Empate,2,2,Mandante,Nielson Nogueira Dias,27.3,4.9,180.0,6.6,27.5,3.2,178.5,8.2,Estádio Giulite Coutinho,20005
+Fluminense,2016,34,06/11/2016,16:00,Domingo,11,Cruzeiro,Derrota,2,4,Visitante,Elmo Alves Resende Cunha,26.9,3.7,181.4,6.5,27.5,3.5,178.6,7.4,Governador Magalhães Pinto,7735
+Fluminense,2016,35,15/11/2016,16:00,Terça,11,Athletico,Empate,1,1,Mandante,Luiz Flávio de Oliveira,28.7,3.5,181.2,6.4,26.6,4.9,182.1,6.2,Estádio Giulite Coutinho,43691
+Fluminense,2016,36,20/11/2016,16:00,Domingo,11,Ponte Preta,Derrota,0,1,Visitante,Marielson Alves Silva,27.9,4.8,181.1,5.8,27.1,4.9,180.6,8.7,Moisés Lucarelli,4981
+Fluminense,2016,37,27/11/2016,18:30,Domingo,11,Figueirense,Derrota,0,1,Visitante,Jean Pierre Goncalves Lima,27.2,4.6,179.5,7.6,26.2,4.9,181.0,9.1,Orlando Scarpelli,1842
+Fluminense,2016,38,11/12/2016,16:00,Domingo,12,Internacional,Empate,1,1,Mandante,Heber Roberto Lopes,25.2,3.7,181.6,6.2,26.5,4.1,180.5,5.1,Estádio Giulite Coutinho,3377
+Fluminense,2017,1,14/05/2017,11:00,Domingo,05,Santos,Vitória,3,2,Mandante,Reway Wagner,25.6,4.4,180.5,6.9,27.4,5.9,181.5,6.1,Estádio Giulite Coutinho,11835
+Fluminense,2017,2,21/05/2017,16:00,Domingo,05,Atlético Mineiro,Vitória,2,1,Visitante,Jean Pierre Goncalves Lima,25.1,4.5,181.3,6.4,29.2,3.8,179.8,8.4,Arena Independência,16145
+Fluminense,2017,3,27/05/2017,16:00,Sábado,05,Vasco da Gama,Derrota,2,3,Visitante,Raphael Claus,24.8,4.7,181.9,5.0,26.1,5.5,180.2,6.6,Estádio São Januário,20442
+Fluminense,2017,4,03/06/2017,18:00,Sábado,06,Vitória,Vitória,2,1,Mandante,Ricardo Marques Ribeiro,25.4,3.8,182.8,5.7,29.3,2.9,181.3,7.3,Estádio Giulite Coutinho,13801
+Fluminense,2017,5,06/06/2017,20:00,Terça,06,Athletico,Empate,1,1,Mandante,Igor Junio Benevenuto,25.2,3.9,182.2,5.9,28.0,4.8,180.8,6.5,Estádio Giulite Coutinho,14843
+Fluminense,2017,6,10/06/2017,16:00,Sábado,06,Palmeiras,Derrota,1,3,Visitante,Andre Luiz de Freitas Castro,25.6,4.1,181.7,6.2,31.0,6.5,178.8,6.9,Nubank Parque,33066
+Fluminense,2017,7,15/06/2017,21:00,Quinta,06,Grêmio,Derrota,0,2,Mandante,Elmo Alves Resende Cunha,24.5,4.1,181.5,6.7,27.3,3.8,179.4,6.4,Estádio do Maracanã,11652
+Fluminense,2017,8,18/06/2017,16:00,Domingo,06,Flamengo,Empate,2,2,Mandante,Vinicius Goncalves Dias Araujo,24.6,4.2,182.3,6.2,28.3,6.0,178.8,6.5,Estádio do Maracanã,33112
+Fluminense,2017,9,21/06/2017,21:45,Quarta,06,Avaí,Vitória,3,0,Visitante,Marielson Alves Silva,24.6,4.0,181.7,6.6,29.5,5.4,178.9,7.2,Estádio da Ressacada,5239
+Fluminense,2017,10,25/06/2017,16:00,Domingo,06,São Paulo,Empate,1,1,Visitante,Anderson Daronco,24.9,4.0,182.5,6.2,25.7,4.5,181.7,6.9,MorumBIS,17742
+Fluminense,2017,11,03/07/2017,20:00,Segunda,07,Chapecoense,Empate,3,3,Mandante,Eduardo Tomaz de Aquino Valadao,24.2,4.1,182.7,6.2,25.5,3.5,181.3,7.2,Estádio Giulite Coutinho,7536
+Fluminense,2017,12,09/07/2017,16:00,Domingo,07,Bahia,Empate,1,1,Visitante,Flavio Rodrigues De Souza,25.3,3.7,181.5,7.2,26.5,3.3,178.7,7.1,Arena Fonte Nova,18267
+Fluminense,2017,13,12/07/2017,21:00,Quarta,07,Botafogo,Derrota,0,1,Mandante,Reway Wagner,24.3,4.2,182.3,6.6,26.8,4.5,181.4,6.9,Estádio Giulite Coutinho,14851
+Fluminense,2017,14,16/07/2017,19:00,Domingo,07,Coritiba,Vitória,2,1,Visitante,Leandro Bizzio Marinho,23.6,3.5,184.1,5.3,27.3,2.8,180.5,5.0,Estádio Major Antônio Couto Pereira,10843
+Fluminense,2017,15,20/07/2017,19:30,Quinta,07,Cruzeiro,Empate,1,1,Mandante,Leandro Pedro Vuaden,24.0,4.1,183.4,4.5,27.5,4.8,180.2,6.8,Estádio Giulite Coutinho,5753
+Fluminense,2017,16,23/07/2017,16:00,Domingo,07,Corinthians,Derrota,0,1,Mandante,Rafael Traci,24.5,3.9,183.3,4.3,25.8,3.6,180.1,8.1,Estádio do Maracanã,23863
+Fluminense,2017,18,02/08/2017,19:30,Quarta,08,Sport Recife,Empate,2,2,Visitante,Marcelo Aparecido Ribeiro de Souza,25.6,3.8,181.3,5.8,28.8,5.5,178.7,6.9,Ilha do Retiro,15469
+Fluminense,2017,19,05/08/2017,19:00,Sábado,08,Atlético Goianiense,Vitória,3,1,Mandante,Paulo Roberto Alves Junior,24.5,3.9,180.0,6.3,26.4,2.7,180.5,6.5,Estádio do Maracanã,27278
+Fluminense,2017,17,09/08/2017,20:00,Quarta,08,Ponte Preta,Empate,0,0,Visitante,Heber Roberto Lopes,25.6,3.8,181.5,5.9,27.0,5.4,179.3,7.7,Moisés Lucarelli,5977
+Fluminense,2017,20,14/08/2017,20:00,Segunda,08,Santos,Empate,0,0,Visitante,Andre Luiz de Freitas Castro,25.7,3.6,181.7,5.7,27.7,4.6,180.6,9.8,Estádio Urbano Caldeira,22018
+Fluminense,2017,21,21/08/2017,20:00,Segunda,08,Atlético Mineiro,Vitória,2,1,Mandante,Vinicius Goncalves Dias Araujo,25.7,3.6,181.7,5.7,29.7,5.3,181.2,8.3,Estádio Giulite Coutinho,10412
+Fluminense,2017,22,26/08/2017,16:00,Sábado,08,Vasco da Gama,Derrota,0,1,Mandante,Ricardo Marques Ribeiro,25.7,3.6,181.7,5.7,28.4,4.7,180.2,5.6,Estádio Giulite Coutinho,23460
+Fluminense,2017,23,10/09/2017,16:00,Domingo,09,Vitória,Empate,2,2,Visitante,Reway Wagner,25.5,3.9,180.2,6.1,27.7,3.3,179.1,7.9,Estádio Manoel Barradas,12444
+Fluminense,2017,24,17/09/2017,16:00,Domingo,09,Athletico,Derrota,1,3,Visitante,Raphael Claus,23.5,3.2,182.1,6.7,27.9,4.2,181.8,5.6,Arena da Baixada,11329
+Fluminense,2017,25,24/09/2017,16:00,Domingo,09,Palmeiras,Derrota,0,1,Mandante,Anderson Daronco,24.1,3.6,181.7,5.5,29.4,4.9,179.2,7.6,Estádio do Maracanã,13145
+Fluminense,2017,26,01/10/2017,16:00,Domingo,10,Grêmio,Derrota,0,1,Visitante,Rafael Traci,24.9,4.2,181.0,7.6,28.5,6.0,179.7,7.0,Arena do Grêmio,15727
+Fluminense,2017,27,12/10/2017,17:00,Quinta,10,Flamengo,Empate,1,1,Visitante,Luiz Flávio de Oliveira,26.0,4.3,180.1,9.2,29.6,4.7,179.7,6.4,Estádio Luso Brasileiro,38629
+Fluminense,2017,28,15/10/2017,16:00,Domingo,10,Avaí,Vitória,1,0,Mandante,Flavio Rodrigues De Souza,25.8,4.3,180.8,8.9,27.4,4.9,177.9,7.8,Estádio Giulite Coutinho,18006
+Fluminense,2017,29,18/10/2017,20:45,Quarta,10,São Paulo,Vitória,3,1,Mandante,Leandro Pedro Vuaden,26.1,4.3,180.1,9.2,25.8,4.8,180.9,6.3,Estádio Giulite Coutinho,22999
+Fluminense,2017,30,22/10/2017,18:00,Domingo,10,Chapecoense,Derrota,0,2,Visitante,Claudio Francisco Lima E. Silva,25.2,4.7,182.6,7.7,27.8,3.3,181.8,5.6,Arena Condá,10010
+Fluminense,2017,31,29/10/2017,16:00,Domingo,10,Bahia,Empate,1,1,Mandante,Wilton Pereira Sampaio,26.1,4.3,180.1,9.2,27.5,3.6,180.2,6.9,Estádio do Maracanã,12841
+Fluminense,2017,32,04/11/2017,18:00,Sábado,11,Botafogo,Vitória,2,1,Visitante,Luiz Flávio de Oliveira,25.5,4.3,178.9,8.2,26.2,3.8,182.2,6.4,Estádio Nilton Santos,11776
+Fluminense,2017,33,09/11/2017,20:00,Quinta,11,Coritiba,Empate,2,2,Mandante,Ricardo Marques Ribeiro,26.0,4.4,177.4,7.3,27.4,3.1,178.7,4.7,Estádio Giulite Coutinho,10908
+Fluminense,2017,34,12/11/2017,18:00,Domingo,11,Cruzeiro,Derrota,1,3,Visitante,Andre Luiz de Freitas Castro,25.1,4.8,179.9,6.5,28.5,4.9,178.2,7.2,Governador Magalhães Pinto,8644
+Fluminense,2017,35,15/11/2017,20:45,Quarta,11,Corinthians,Derrota,1,3,Visitante,Braulio Da Silva Machado,26.0,4.2,180.3,8.2,25.6,3.2,178.7,7.9,Neo Química Arena,45775
+Fluminense,2017,36,20/11/2017,16:00,Segunda,11,Ponte Preta,Vitória,2,0,Mandante,Anderson Daronco,26.2,4.3,178.5,7.4,28.2,5.0,181.7,7.6,Estádio do Maracanã,19686
+Fluminense,2017,37,25/11/2017,16:00,Sábado,11,Sport Recife,Derrota,1,2,Mandante,Dewson Fernando Freitas da Silva,26.2,4.3,178.5,7.4,30.5,4.4,180.8,4.6,Estádio do Maracanã,12819
+Fluminense,2017,38,03/12/2017,16:00,Domingo,12,Atlético Goianiense,Empate,1,1,Visitante,Anderson Daronco,25.8,4.6,178.8,6.8,25.4,2.4,181.8,5.3,Estádio Olímpico Pedro Ludovico,2996
+Fluminense,2018,1,15/04/2018,16:00,Domingo,04,Corinthians,Derrota,1,2,Visitante,Anderson Daronco,25.0,4.0,181.7,7.9,27.7,3.8,179.2,8.1,Neo Química Arena,28777
+Fluminense,2018,2,22/04/2018,16:00,Domingo,04,Cruzeiro,Vitória,1,0,Mandante,Flavio Rodrigues De Souza,25.4,3.7,181.3,8.9,29.1,4.3,179.5,7.0,Estádio do Maracanã,10016
+Fluminense,2018,3,29/04/2018,16:00,Domingo,04,São Paulo,Empate,1,1,Mandante,Rodolpho Toski Marques,25.5,3.7,180.4,9.3,28.8,5.0,182.5,4.7,Estádio do Maracanã,19237
+Fluminense,2018,4,06/05/2018,16:00,Domingo,05,Vitória,Vitória,2,1,Visitante,Rodrigo D'alonso Ferreira,25.0,3.1,180.9,8.8,26.4,3.9,181.6,9.7,Estádio Manoel Barradas,6652
+Fluminense,2018,5,14/05/2018,20:00,Segunda,05,Botafogo,Derrota,1,2,Visitante,Raphael Claus,25.6,3.6,181.5,9.1,27.0,5.0,182.6,5.2,Estádio Nilton Santos,10382
+Fluminense,2018,6,20/05/2018,19:00,Domingo,05,Athletico,Vitória,2,0,Mandante,Igor Junio Benevenuto,25.6,3.6,181.4,9.1,27.3,4.5,180.8,4.9,Estádio do Maracanã,9172
+Fluminense,2018,7,26/05/2018,16:00,Sábado,05,Chapecoense,Vitória,3,1,Mandante,Rafael Traci,25.6,3.6,181.4,9.1,29.6,3.5,179.9,6.3,Estádio do Maracanã,14541
+Fluminense,2018,8,30/05/2018,21:45,Quarta,05,Grêmio,Empate,0,0,Visitante,Luiz Flávio de Oliveira,24.9,3.1,181.4,8.7,27.7,3.9,181.8,3.5,Arena do Grêmio,18149
+Fluminense,2018,9,04/06/2018,20:00,Segunda,06,Paraná Clube,Derrota,1,2,Visitante,Leandro Bizzio Marinho,26.0,3.3,180.5,9.7,27.1,2.8,180.0,6.0,Durival Britto e Silva,3491
+Fluminense,2018,10,07/06/2018,20:00,Quinta,06,Flamengo,Derrota,0,2,Mandante,Dewson Fernando Freitas da Silva,25.5,3.6,182.0,8.4,25.7,4.5,179.5,6.2,Arena BRB Mané Garrincha,60000
+Fluminense,2018,11,10/06/2018,16:00,Domingo,06,Atlético Mineiro,Derrota,2,5,Visitante,Flavio Rodrigues De Souza,23.9,3.4,182.4,7.4,29.3,6.2,180.2,7.3,Arena Independência,14476
+Fluminense,2018,12,13/06/2018,19:00,Quarta,06,Santos,Derrota,0,1,Mandante,Rafael Traci,23.8,3.4,181.7,7.6,27.0,3.4,181.8,7.4,Estádio do Maracanã,7438
+Fluminense,2018,13,19/07/2018,20:00,Quinta,07,Vasco da Gama,Empate,1,1,Visitante,Marcelo Aparecido Ribeiro de Souza,25.9,3.9,178.9,9.7,27.3,4.4,178.5,5.8,Estádio São Januário,11901
+Fluminense,2018,14,22/07/2018,16:00,Domingo,07,Sport Recife,Vitória,2,1,Visitante,Braulio Da Silva Machado,25.7,4.0,179.1,9.6,30.5,4.8,180.5,5.1,Ilha do Retiro,11119
+Fluminense,2018,15,25/07/2018,19:30,Quarta,07,Palmeiras,Vitória,1,0,Mandante,Rodrigo D'Alonso Ferreira,26.7,4.0,181.2,7.6,29.6,3.8,180.5,7.1,Estádio do Maracanã,22827
+Fluminense,2018,16,28/07/2018,16:00,Sábado,07,Ceará,Derrota,0,1,Visitante,Leandro Bizzio Marinho,26.2,4.1,182.1,8.3,28.6,4.6,179.9,8.6,Estádio Presidente Vargas,11119
+Fluminense,2018,17,05/08/2018,19:00,Domingo,08,Bahia,Empate,1,1,Mandante,Luiz Flávio de Oliveira,26.3,3.9,178.1,8.8,28.5,3.5,182.2,6.4,Estádio do Maracanã,16548
+Fluminense,2018,19,19/08/2018,19:00,Domingo,08,América Mineiro,Empate,0,0,Visitante,Caio Max Augusto Vieira,25.3,4.3,181.6,8.3,30.9,3.3,180.9,8.2,Arena Independência,4851
+Fluminense,2018,20,22/08/2018,21:45,Quarta,08,Corinthians,Vitória,1,0,Mandante,Ricardo Marques Ribeiro,25.8,3.9,180.3,8.9,27.7,4.9,178.2,9.1,Estádio do Maracanã,8444
+Fluminense,2018,21,25/08/2018,21:00,Sábado,08,Cruzeiro,Derrota,1,2,Visitante,Rafael Traci,24.6,4.0,180.0,8.9,27.9,5.2,180.0,7.4,Governador Magalhães Pinto,14449
+Fluminense,2018,22,02/09/2018,16:00,Domingo,09,São Paulo,Empate,1,1,Visitante,Dewson Fernando Freitas da Silva,25.6,3.8,178.6,8.8,29.0,4.4,180.5,4.7,MorumBIS,49348
+Fluminense,2018,23,06/09/2018,19:00,Quinta,09,Vitória,Empate,0,0,Mandante,Jean Pierre Goncalves Lima,26.6,4.0,180.4,8.1,22.8,2.5,181.6,8.0,Estádio do Maracanã,8952
+Fluminense,2018,24,09/09/2018,16:00,Domingo,09,Botafogo,Vitória,1,0,Mandante,Leandro Pedro Vuaden,26.8,3.8,180.4,8.1,24.1,3.3,180.9,5.6,Estádio do Maracanã,10699
+Fluminense,2018,25,16/09/2018,16:00,Domingo,09,Athletico,Derrota,1,3,Visitante,Andre Luiz de Freitas Castro,26.9,3.7,180.2,8.1,27.6,5.2,179.8,7.0,Arena da Baixada,9872
+Fluminense,2018,26,24/09/2018,20:00,Segunda,09,Chapecoense,Vitória,2,1,Visitante,Anderson Daronco,26.1,3.9,180.4,8.6,28.4,3.6,179.5,7.1,Arena Condá,5170
+Fluminense,2018,27,29/09/2018,16:00,Sábado,09,Grêmio,Derrota,0,1,Mandante,Raphael Claus,25.9,4.1,180.2,8.8,27.4,5.1,180.3,5.0,Estádio do Maracanã,8721
+Fluminense,2018,28,08/10/2018,20:00,Segunda,10,Paraná Clube,Vitória,4,0,Mandante,Marcelo Aparecido Ribeiro de Souza,26.2,3.9,180.5,8.5,26.8,3.0,180.0,4.0,Estádio do Maracanã,6715
+Fluminense,2018,29,13/10/2018,17:00,Sábado,10,Flamengo,Derrota,0,3,Visitante,Wilton Pereira Sampaio,25.8,4.1,180.6,8.3,27.3,3.8,180.5,6.7,Estádio do Maracanã,52924
+Fluminense,2018,30,21/10/2018,16:00,Domingo,10,Atlético Mineiro,Vitória,1,0,Mandante,Jean Pierre Goncalves Lima,25.9,4.0,180.7,8.3,29.2,5.6,179.7,8.4,Estadio Nilton Santos,4762
+Fluminense,2018,31,27/10/2018,16:30,Sábado,10,Santos,Derrota,0,3,Visitante,Heber Roberto Lopes,25.1,2.8,179.2,7.3,26.4,5.0,180.4,6.8,Estádio Urbano Caldeira,8680
+Fluminense,2018,32,03/11/2018,17:00,Sábado,11,Vasco da Gama,Derrota,0,1,Mandante,Luiz Flávio de Oliveira,25.3,3.5,180.0,8.5,28.1,5.3,181.1,6.1,Estádio do Maracanã,14275
+Fluminense,2018,33,11/11/2018,18:00,Domingo,11,Sport Recife,Empate,0,0,Mandante,Flavio Rodrigues De Souza,26.3,3.2,180.8,8.1,27.5,4.4,182.1,6.3,Estádio do Maracanã,12256
+Fluminense,2018,34,14/11/2018,20:45,Quarta,11,Palmeiras,Derrota,0,3,Visitante,Braulio Da Silva Machado,25.9,3.4,181.5,7.8,27.8,2.2,179.6,6.2,Nubank Parque,37430
+Fluminense,2018,35,19/11/2018,19:00,Segunda,11,Ceará,Empate,0,0,Mandante,Anderson Daronco,26.5,3.8,181.1,7.7,28.6,3.9,178.7,8.2,Estádio do Maracanã,6435
+Fluminense,2018,36,22/11/2018,20:00,Quinta,11,Bahia,Derrota,0,2,Visitante,Flavio Rodrigues De Souza,26.4,3.0,179.2,7.8,27.3,4.1,181.3,8.0,Arena Fonte Nova,16784
+Fluminense,2018,37,25/11/2018,18:00,Domingo,11,Internacional,Derrota,0,2,Visitante,Heber Roberto Lopes,26.2,2.6,181.4,7.1,28.6,4.1,182.1,5.2,Estádio Beira-Rio,28446
+Fluminense,2018,38,02/12/2018,16:00,Domingo,12,América Mineiro,Vitória,1,0,Mandante,Rafael Traci,27.5,3.5,181.1,7.6,29.7,4.2,179.5,8.8,Estádio do Maracanã,38870
+Fluminense,2019,1,28/04/2019,19:00,Domingo,04,Goiás,Derrota,0,1,Mandante,Dewson Fernando Freitas da Silva,26.5,4.0,181.1,5.8,26.0,3.2,178.8,6.5,Estádio do Maracanã,17420
+Fluminense,2019,2,02/05/2019,19:15,Quinta,05,Santos,Derrota,1,2,Visitante,Wilton Pereira Sampaio,26.6,4.0,181.1,5.8,26.2,4.7,179.6,10.9,Estádio Urbano Caldeira,10564
+Fluminense,2019,3,05/05/2019,19:00,Domingo,05,Grêmio,Vitória,5,4,Visitante,Raphael Claus,27.1,4.1,181.3,5.5,28.7,5.6,179.8,5.3,Arena do Grêmio,8390
+Fluminense,2019,4,11/05/2019,16:00,Sábado,05,Botafogo,Derrota,0,1,Mandante,Marcelo Aparecido Ribeiro de Souza,25.5,3.8,182.2,5.8,27.4,5.1,180.5,7.0,Estádio do Maracanã,24600
+Fluminense,2019,5,18/05/2019,18:00,Sábado,05,Cruzeiro,Vitória,4,1,Mandante,Flavio Rodrigues De Souza,25.8,3.7,181.2,5.6,30.1,3.7,180.2,7.5,Estádio do Maracanã,11437
+Fluminense,2019,6,26/05/2019,19:00,Domingo,05,Bahia,Derrota,2,3,Visitante,Igor Junio Benevenuto,24.6,4.2,182.5,4.9,27.0,4.8,178.6,8.1,Arena Fonte Nova,21776
+Fluminense,2019,7,02/06/2019,16:00,Domingo,06,Athletico,Derrota,0,3,Visitante,Reway Wagner,24.8,4.2,180.5,6.0,27.6,5.3,179.8,7.0,Arena da Baixada,11709
+Fluminense,2019,8,09/06/2019,19:00,Domingo,06,Flamengo,Empate,0,0,Mandante,Wagner do Nascimento Magalhaes,23.9,3.5,179.8,5.1,28.2,4.0,178.9,4.8,Estádio do Maracanã,42726
+Fluminense,2019,9,13/06/2019,20:00,Quinta,06,Chapecoense,Empate,1,1,Visitante,Ricardo Marques Ribeiro,23.1,3.8,180.4,5.5,28.8,5.0,178.8,5.9,Arena Condá,6257
+Fluminense,2019,10,15/07/2019,20:00,Segunda,07,Ceará,Empate,1,1,Mandante,Douglas Marques das Flores,24.9,3.9,182.8,4.2,28.8,4.7,180.5,7.1,Estádio do Maracanã,23484
+Fluminense,2019,11,20/07/2019,11:00,Sábado,07,Vasco da Gama,Derrota,1,2,Visitante,Bruno Arleu de Araujo,26.4,5.6,182.3,4.4,27.3,4.9,180.9,7.0,Estádio São Januário,20904
+Fluminense,2019,12,27/07/2019,19:00,Sábado,07,São Paulo,Derrota,1,2,Mandante,Anderson Daronco,24.5,3.7,182.1,5.5,26.4,4.4,179.3,5.5,Estádio do Maracanã,21741
+Fluminense,2019,13,03/08/2019,19:00,Sábado,08,Internacional,Vitória,2,1,Mandante,Rodolpho Toski Marques,24.9,4.2,181.9,6.1,26.6,4.4,178.2,8.1,Estádio do Maracanã,16485
+Fluminense,2019,14,10/08/2019,21:00,Sábado,08,Atlético Mineiro,Derrota,1,2,Visitante,Wilton Pereira Sampaio,25.0,4.2,181.9,6.1,29.7,5.1,180.2,8.1,Arena Independência,19081
+Fluminense,2019,15,18/08/2019,16:00,Domingo,08,CSA,Derrota,0,1,Mandante,Reway Wagner,24.0,4.1,181.2,5.7,30.1,3.7,179.9,7.6,Estádio do Maracanã,25049
+Fluminense,2019,17,02/09/2019,20:00,Segunda,09,Avaí,Derrota,0,1,Mandante,Raphael Claus,26.8,5.5,180.5,6.9,27.2,4.0,181.6,8.0,Estádio do Maracanã,16811
+Fluminense,2019,18,07/09/2019,17:00,Sábado,09,Fortaleza,Vitória,1,0,Visitante,Wilton Pereira Sampaio,27.6,5.4,181.7,6.1,27.8,4.1,181.8,3.5,Estádio Governador Plácido Castelo,35474
+Fluminense,2019,16,10/09/2019,21:00,Terça,09,Palmeiras,Derrota,0,3,Visitante,Anderson Daronco,27.6,5.4,181.7,6.1,30.8,4.5,180.1,6.7,Nubank Parque,27956
+Fluminense,2019,19,15/09/2019,16:00,Domingo,09,Corinthians,Vitória,1,0,Mandante,Jean Pierre Goncalves Lima,26.7,5.5,182.5,4.7,25.7,4.8,179.3,10.1,Estádio do Maracanã,15733
+Fluminense,2019,20,22/09/2019,19:00,Domingo,09,Goiás,Derrota,0,3,Visitante,Rafael Traci,26.8,5.5,182.5,4.6,27.0,3.1,179.3,6.1,Serra Dourada,6806
+Fluminense,2019,21,26/09/2019,20:00,Quinta,09,Santos,Empate,1,1,Mandante,Wilton Pereira Sampaio,26.7,5.5,182.5,4.7,26.3,2.8,180.5,10.1,Estádio do Maracanã,11032
+Fluminense,2019,22,29/09/2019,16:00,Domingo,09,Grêmio,Vitória,2,1,Mandante,Caio Max Augusto Vieira,26.1,5.4,181.3,5.2,27.5,5.7,181.5,5.8,Estádio do Maracanã,17791
+Fluminense,2019,23,06/10/2019,16:00,Domingo,10,Botafogo,Vitória,1,0,Visitante,Rodolpho Toski Marques,26.6,5.6,181.6,5.4,28.6,4.7,181.0,6.6,Estadio Nilton Santos,12404
+Fluminense,2019,24,09/10/2019,21:30,Quarta,10,Cruzeiro,Empate,0,0,Visitante,Jean Pierre Goncalves Lima,26.4,5.2,182.8,4.4,30.8,4.9,180.5,7.5,Governador Magalhães Pinto,38113
+Fluminense,2019,25,12/10/2019,19:00,Sábado,10,Bahia,Vitória,2,0,Mandante,Heber Roberto Lopes,27.3,5.3,180.9,6.5,27.9,4.1,180.3,6.8,Estádio do Maracanã,17637
+Fluminense,2019,26,17/10/2019,21:00,Quinta,10,Athletico,Derrota,1,2,Mandante,Rodrigo D'alonso Ferreira,25.9,5.4,181.6,5.4,26.3,3.4,180.5,6.9,Estádio do Maracanã,16109
+Fluminense,2019,27,20/10/2019,18:00,Domingo,10,Flamengo,Derrota,0,2,Visitante,Anderson Daronco,26.8,4.8,180.2,7.1,27.7,3.8,181.3,5.0,Estádio do Maracanã,52279
+Fluminense,2019,28,26/10/2019,19:30,Sábado,10,Chapecoense,Empate,1,1,Mandante,Savio Pereira Sampaio,26.5,5.4,180.4,7.2,31.9,2.8,178.1,5.1,Estádio do Maracanã,18751
+Fluminense,2019,29,30/10/2019,21:30,Quarta,10,Ceará,Derrota,0,2,Visitante,Leandro Pedro Vuaden,27.0,5.4,183.0,4.6,30.3,2.1,180.4,7.2,Estádio Governador Plácido Castelo,19660
+Fluminense,2019,30,02/11/2019,19:00,Sábado,11,Vasco da Gama,Empate,0,0,Mandante,Raphael Claus,25.6,4.1,182.2,5.6,27.2,5.1,181.4,7.6,Estádio do Maracanã,16056
+Fluminense,2019,31,07/11/2019,19:30,Quinta,11,São Paulo,Vitória,2,0,Visitante,Daniel Nobre Bins,25.6,4.1,182.2,5.6,27.7,4.3,180.5,5.9,MorumBIS,17650
+Fluminense,2019,32,10/11/2019,16:00,Domingo,11,Internacional,Derrota,1,2,Visitante,Rodolpho Toski Marques,26.4,5.4,181.9,5.6,30.4,4.9,180.7,5.2,Estádio Beira-Rio,11781
+Fluminense,2019,33,16/11/2019,19:00,Sábado,11,Atlético Mineiro,Empate,1,1,Mandante,Leandro Pedro Vuaden,25.0,3.4,182.3,5.4,26.9,5.1,180.6,8.5,Estádio do Maracanã,24405
+Fluminense,2019,34,25/11/2019,20:00,Segunda,11,CSA,Vitória,1,0,Visitante,Luiz Flávio de Oliveira,24.8,3.5,182.1,5.5,28.8,2.9,180.8,7.2,Estádio Rei Pelé,8916
+Fluminense,2019,35,28/11/2019,19:30,Quinta,11,Palmeiras,Vitória,1,0,Mandante,Leandro Pedro Vuaden,25.2,3.7,181.8,5.5,28.1,3.5,180.7,5.4,Estádio do Maracanã,30947
+Fluminense,2019,36,01/12/2019,16:00,Domingo,12,Avaí,Empate,1,1,Visitante,Daniel Nobre Bins,25.2,4.8,181.0,5.9,25.4,5.2,181.8,8.1,Estádio da Ressacada,3237
+Fluminense,2019,37,04/12/2019,21:30,Quarta,12,Fortaleza,Empate,0,0,Mandante,Raphael Claus,25.7,5.0,181.5,6.0,29.9,4.2,176.5,9.1,Estádio do Maracanã,39965
+Fluminense,2019,38,08/12/2019,16:00,Domingo,12,Corinthians,Vitória,2,1,Visitante,Rodrigo D'alonso Ferreira,25.0,4.9,181.5,4.8,28.6,5.1,178.5,9.7,Neo Química Arena,36316
+Fluminense,2020,1,09/08/2020,19:00,Domingo,08,Grêmio,Derrota,0,1,Visitante,Wilton Pereira Sampaio,27.4,5.7,180.5,6.1,30.1,4.8,182.4,6.0,Arena do Grêmio,N.A
+Fluminense,2020,2,12/08/2020,21:30,Quarta,08,Palmeiras,Empate,1,1,Mandante,Rafael Traci,28.8,5.9,180.0,6.0,28.3,5.1,179.3,5.8,Estádio do Maracanã,N.A
+Fluminense,2020,3,16/08/2020,18:00,Domingo,08,Internacional,Vitória,2,1,Mandante,Raphael Claus,27.2,5.8,180.9,5.8,29.2,4.2,181.2,4.7,Estádio do Maracanã,N.A
+Fluminense,2020,4,19/08/2020,19:15,Quarta,08,Red Bull Bragantino,Derrota,1,2,Visitante,Jean Pierre Goncalves Lima,27.2,5.8,180.9,5.8,25.4,3.7,180.3,7.7,Estádio Nabi Abi Chedid,N.A
+Fluminense,2020,5,22/08/2020,16:00,Sábado,08,Athletico,Vitória,1,0,Visitante,Daniel Nobre Bins,26.5,5.5,180.8,6.2,26.5,4.4,181.5,6.9,Arena da Baixada,N.A
+Fluminense,2020,6,29/08/2020,19:00,Sábado,08,Vasco da Gama,Vitória,2,1,Mandante,Braulio Da Silva Machado,25.8,5.9,180.5,6.1,27.8,4.8,178.9,6.2,Estádio do Maracanã,N.A
+Fluminense,2020,7,02/09/2020,19:15,Quarta,09,Atlético Goianiense,Empate,1,1,Mandante,Marielson Alves Silva,26.7,6.4,180.5,6.4,24.8,2.4,178.6,7.0,Estádio do Maracanã,N.A
+Fluminense,2020,8,06/09/2020,16:00,Domingo,09,São Paulo,Derrota,1,3,Visitante,Paulo Roberto Alves Junior,26.4,5.7,179.5,6.8,26.3,4.3,179.5,5.0,MorumBIS,N.A
+Fluminense,2020,9,09/09/2020,21:30,Quarta,09,Flamengo,Derrota,1,2,Mandante,Raphael Claus,28.2,5.9,178.5,6.6,28.0,4.6,180.5,6.5,Estádio do Maracanã,N.A
+Fluminense,2020,10,13/09/2020,16:00,Domingo,09,Corinthians,Vitória,2,1,Mandante,Braulio Da Silva Machado,28.2,5.9,179.9,7.0,27.2,5.0,180.2,9.0,Estádio do Maracanã,N.A
+Fluminense,2020,11,20/09/2020,20:30,Domingo,09,Sport Recife,Derrota,0,1,Visitante,Leandro Pedro Vuaden,26.8,5.6,179.4,6.2,28.0,3.8,181.7,6.5,Ilha do Retiro,N.A
+Fluminense,2020,12,28/09/2020,20:00,Segunda,09,Coritiba,Vitória,4,0,Mandante,Vinicius Goncalves Dias Araujo,30.3,5.4,181.0,7.2,27.0,4.9,180.0,4.4,Estádio do Maracanã,N.A
+Fluminense,2020,13,04/10/2020,11:00,Domingo,10,Botafogo,Empate,1,1,Visitante,Anderson Daronco,29.7,5.9,181.5,6.6,26.6,5.3,180.5,6.3,Estadio Nilton Santos,N.A
+Fluminense,2020,14,07/10/2020,20:30,Quarta,10,Goiás,Vitória,4,2,Visitante,Luiz Flávio de Oliveira,29.6,5.6,180.8,6.6,26.2,5.4,178.6,6.4,Serra Dourada,N.A
+Fluminense,2020,15,11/10/2020,16:00,Domingo,10,Bahia,Vitória,1,0,Mandante,Jose Mendonca da Silva Junior,29.6,5.6,180.8,6.6,29.0,4.1,179.1,8.1,Estádio do Maracanã,N.A
+Fluminense,2020,16,14/10/2020,21:30,Quarta,10,Atlético Mineiro,Empate,1,1,Visitante,Raphael Claus,26.9,5.1,180.3,6.6,26.2,4.9,179.5,7.7,Arena Independência,N.A
+Fluminense,2020,17,17/10/2020,19:00,Sábado,10,Ceará,Empate,2,2,Mandante,Gilberto Rodrigues Castro Junior,29.5,5.8,181.5,6.3,29.4,5.9,181.4,5.9,Estádio do Maracanã,N.A
+Fluminense,2020,18,25/10/2020,16:00,Domingo,10,Santos,Vitória,3,1,Mandante,Anderson Daronco,29.2,5.5,181.5,5.8,26.1,2.3,180.6,9.2,Estádio do Maracanã,N.A
+Fluminense,2020,19,31/10/2020,21:00,Sábado,10,Fortaleza,Vitória,1,0,Visitante,Marielson Alves Silva,27.3,3.9,182.5,5.1,28.5,4.6,177.5,7.5,Estádio Governador Plácido Castelo,N.A
+Fluminense,2020,20,08/11/2020,20:30,Domingo,11,Grêmio,Derrota,0,1,Mandante,Edina Alves Batista,28.2,4.5,180.5,6.7,26.4,4.2,181.0,5.3,Estádio do Maracanã,N.A
+Fluminense,2020,21,14/11/2020,21:30,Sábado,11,Palmeiras,Derrota,0,2,Visitante,Leandro Pedro Vuaden,28.4,4.9,180.5,6.8,27.2,6.2,178.3,4.4,Nubank Parque,N.A
+Fluminense,2020,22,22/11/2020,18:15,Domingo,11,Internacional,Vitória,2,1,Visitante,Luiz Flávio de Oliveira,28.5,5.7,180.7,6.4,27.2,5.1,179.7,5.3,Estádio Beira-Rio,N.A
+Fluminense,2020,23,30/11/2020,20:00,Segunda,11,Red Bull Bragantino,Empate,0,0,Mandante,Dyorgines Jose Padovani de Andrade,26.5,6.7,179.5,6.5,25.5,4.3,180.3,6.6,Estádio do Maracanã,N.A
+Fluminense,2020,24,05/12/2020,19:00,Sábado,12,Athletico,Vitória,3,1,Mandante,Ramon Abatti Abel,27.8,6.8,179.9,6.3,26.6,3.3,180.5,6.3,Estádio do Maracanã,N.A
+Fluminense,2020,25,13/12/2020,20:30,Domingo,12,Vasco da Gama,Empate,1,1,Visitante,Rodolpho Toski Marques,29.2,5.6,180.9,5.7,28.8,4.9,179.8,6.3,Estádio São Januário,N.A
+Fluminense,2020,26,16/12/2020,21:30,Quarta,12,Atlético Goianiense,Derrota,1,2,Visitante,Rodrigo D'alonso Ferreira,28.5,5.7,182.9,4.2,26.1,2.4,179.5,6.7,Serra Dourada,N.A
+Fluminense,2020,27,26/12/2020,21:00,Sábado,12,São Paulo,Derrota,1,2,Mandante,Anderson Daronco,26.7,5.5,181.8,7.0,26.8,5.1,179.4,5.5,Estádio do Maracanã,N.A
+Fluminense,2020,28,06/01/2021,21:30,Quarta,01,Flamengo,Vitória,2,1,Visitante,Leandro Pedro Vuaden,28.4,5.1,180.6,6.6,27.5,4.6,182.1,6.9,Estádio do Maracanã,N.A
+Fluminense,2020,29,13/01/2021,21:30,Quarta,01,Corinthians,Derrota,0,5,Visitante,Rafael Traci,28.5,5.1,180.6,6.6,29.7,4.0,179.4,9.1,Neo Química Arena,N.A
+Fluminense,2020,30,16/01/2021,19:00,Sábado,01,Sport Recife,Vitória,1,0,Mandante,Heber Roberto Lopes,26.9,6.0,181.0,5.9,27.4,3.2,181.3,6.2,Estádio Nilton Santos,N.A
+Fluminense,2020,31,20/01/2021,20:30,Quarta,01,Coritiba,Empate,3,3,Visitante,Felipe Fernandes de Lima,27.4,6.4,180.2,5.7,25.2,5.1,179.5,6.3,Estádio Major Antônio Couto Pereira,N.A
+Fluminense,2020,32,24/01/2021,20:30,Domingo,01,Botafogo,Vitória,2,0,Mandante,Edina Alves Batista,26.0,6.6,179.2,5.6,25.7,5.1,181.4,5.5,Estádio do Maracanã,N.A
+Fluminense,2020,33,31/01/2021,20:30,Domingo,01,Goiás,Vitória,3,0,Mandante,Raphael Claus,28.3,7.0,180.7,5.1,27.0,5.8,185.1,4.9,Estádio do Maracanã,N.A
+Fluminense,2020,34,03/02/2021,21:30,Quarta,02,Bahia,Vitória,1,0,Visitante,Flavio Rodrigues De Souza,27.7,6.9,180.3,5.4,27.7,5.3,180.6,5.3,Arena Fonte Nova,N.A
+Fluminense,2020,35,10/02/2021,21:30,Quarta,02,Atlético Mineiro,Empate,0,0,Mandante,Luiz Flávio de Oliveira,28.8,7.2,180.5,5.7,27.2,4.1,177.8,7.9,Estádio do Maracanã,N.A
+Fluminense,2020,36,15/02/2021,18:00,Segunda,02,Ceará,Vitória,3,1,Visitante,Wilton Pereira Sampaio,26.0,6.6,179.2,5.6,28.7,4.2,181.3,6.0,Estádio Governador Plácido Castelo,N.A
+Fluminense,2020,37,21/02/2021,18:15,Domingo,02,Santos,Empate,1,1,Visitante,Savio Pereira Sampaio,27.8,6.9,180.3,5.4,25.3,4.9,179.6,6.6,Estádio Urbano Caldeira,N.A
+Fluminense,2020,38,25/02/2021,21:30,Quinta,02,Fortaleza,Vitória,2,0,Mandante,Anderson Daronco,28.4,6.9,181.3,5.8,30.8,4.0,177.8,7.7,Estádio do Maracanã,N.A
+Fluminense,2021,1,29/05/2021,21:00,Sábado,05,São Paulo,Empate,0,0,Visitante,Rodolpho Toski Marques,27.7,5.9,179.2,7.1,27.0,4.7,180.5,5.2,MorumBIS,N.A
+Fluminense,2021,2,06/06/2021,11:00,Domingo,06,Cuiabá,Vitória,1,0,Mandante,Edina Alves Batista,29.0,6.5,178.6,6.7,28.5,4.2,179.5,6.0,Estádio do Maracanã,N.A
+Fluminense,2021,3,13/06/2021,20:30,Domingo,06,Red Bull Bragantino,Empate,2,2,Visitante,Leandro Pedro Vuaden,28.4,4.5,180.8,7.0,24.5,4.2,180.1,6.9,Estádio Nabi Abi Chedid,N.A
+Fluminense,2021,4,17/06/2021,19:00,Quinta,06,Santos,Vitória,1,0,Mandante,Paulo Roberto Alves Junior,27.9,7.0,179.1,5.9,26.0,4.6,178.5,8.3,Estádio do Maracanã,N.A
+Fluminense,2021,5,20/06/2021,18:15,Domingo,06,Fortaleza,Empate,1,1,Visitante,Flavio Rodrigues De Souza,26.7,7.3,179.8,6.3,27.6,3.6,179.1,6.0,Estádio Governador Plácido Castelo,N.A
+Fluminense,2021,6,23/06/2021,19:00,Quarta,06,Atlético Goianiense,Derrota,0,1,Visitante,Paulo Cesar Zanovelli da Silva,26.4,7.0,179.6,6.7,27.5,3.8,178.1,8.8,Serra Dourada,N.A
+Fluminense,2021,7,27/06/2021,16:00,Domingo,06,Corinthians,Empate,1,1,Mandante,Savio Pereira Sampaio,26.5,5.0,178.6,7.0,27.1,5.4,179.4,9.0,Estádio do Maracanã,N.A
+Fluminense,2021,8,30/06/2021,16:00,Quarta,06,Athletico,Derrota,1,4,Mandante,Ricardo Marques Ribeiro,27.9,6.9,178.4,6.8,26.7,3.3,181.8,6.2,Estádio Raulino de Oliveira,N.A
+Fluminense,2021,9,04/07/2021,16:00,Domingo,07,Flamengo,Vitória,1,0,Visitante,Luiz Flávio de Oliveira,27.4,5.5,178.2,7.6,27.8,4.9,180.7,7.6,Estádio do Maracanã,N.A
+Fluminense,2021,10,07/07/2021,21:30,Quarta,07,Ceará,Empate,0,0,Mandante,Ramon Abatti Abel,26.7,5.8,179.3,7.2,27.3,2.8,180.9,8.2,Estádio do Maracanã,N.A
+Fluminense,2021,11,10/07/2021,19:00,Sábado,07,Sport Recife,Vitória,2,1,Visitante,Antonio Dib Moraes de Sousa,29.2,6.3,180.2,6.4,28.9,3.6,182.7,7.1,Ilha do Retiro,N.A
+Fluminense,2021,12,17/07/2021,21:00,Sábado,07,Grêmio,Derrota,0,1,Mandante,Paulo Roberto Alves Junior,27.6,6.0,179.2,6.2,26.5,6.3,181.6,6.3,Estádio do Maracanã,N.A
+Fluminense,2021,13,24/07/2021,19:00,Sábado,07,Palmeiras,Derrota,0,1,Visitante,Savio Pereira Sampaio,29.5,6.6,179.1,7.0,27.8,5.5,180.2,4.8,Nubank Parque,N.A
+Fluminense,2021,15,08/08/2021,16:00,Domingo,08,América Mineiro,Derrota,0,1,Visitante,Marielson Alves Silva,29.7,6.5,178.6,5.9,29.0,4.8,180.5,7.4,Arena Independência,N.A
+Fluminense,2021,16,15/08/2021,20:30,Domingo,08,Internacional,Derrota,2,4,Visitante,Luiz Flávio de Oliveira,26.9,5.1,179.9,6.5,28.2,4.1,181.4,5.1,Estádio Beira-Rio,N.A
+Fluminense,2021,17,23/08/2021,20:00,Segunda,08,Atlético Mineiro,Empate,1,1,Mandante,Flavio Rodrigues De Souza,27.5,5.9,179.4,6.4,27.5,4.0,178.0,6.8,Estádio do Maracanã,N.A
+Fluminense,2021,18,30/08/2021,19:00,Segunda,08,Bahia,Vitória,2,0,Mandante,Edina Alves Batista,27.4,5.1,179.1,7.2,28.1,4.3,180.1,8.2,Estádio do Maracanã,N.A
+Fluminense,2021,14,02/09/2021,19:00,Quinta,09,Juventude,Empate,1,1,Mandante,Heber Roberto Lopes,28.2,5.2,178.1,6.9,27.9,4.3,180.5,6.4,Estádio do Maracanã,N.A
+Fluminense,2021,19,07/09/2021,21:30,Terça,09,Chapecoense,Vitória,2,1,Visitante,Savio Pereira Sampaio,26.7,4.8,179.7,6.4,27.2,4.6,181.8,6.5,Arena Condá,N.A
+Fluminense,2021,20,12/09/2021,20:30,Domingo,09,São Paulo,Vitória,2,1,Mandante,Jefferson Ferreira de Moraes,25.6,5.2,181.0,5.9,27.4,4.8,180.7,5.6,Estádio do Maracanã,N.A
+Fluminense,2021,21,20/09/2021,20:00,Segunda,09,Cuiabá,Empate,2,2,Visitante,Ramon Abatti Abel,26.3,4.3,180.1,6.7,29.5,4.0,178.5,5.9,Arena Pantanal,N.A
+Fluminense,2021,22,26/09/2021,16:00,Domingo,09,Red Bull Bragantino,Vitória,2,1,Mandante,Leandro Pedro Vuaden,25.6,5.2,181.0,5.9,23.1,4.5,182.0,4.8,Estádio do Maracanã,N.A
+Fluminense,2021,24,06/10/2021,21:30,Quarta,10,Fortaleza,Derrota,0,2,Mandante,Paulo Roberto Alves Junior,25.7,5.2,181.0,5.9,27.7,3.3,178.3,6.3,Estádio do Maracanã,4448
+Fluminense,2021,25,09/10/2021,16:30,Sábado,10,Atlético Goianiense,Empate,0,0,Mandante,Edina Alves Batista,26.7,5.0,180.5,6.8,27.6,4.1,181.0,5.7,Estádio do Maracanã,N.A
+Fluminense,2021,26,13/10/2021,21:00,Quarta,10,Corinthians,Derrota,0,1,Visitante,Marielson Alves Silva,26.8,4.8,180.5,6.9,30.2,5.0,181.0,7.8,Neo Química Arena,11892
+Fluminense,2021,27,17/10/2021,16:00,Domingo,10,Athletico,Vitória,1,0,Visitante,Felipe Fernandes de Lima,25.0,4.3,178.8,7.4,24.1,3.5,180.5,5.7,Arena da Baixada,1486
+Fluminense,2021,28,23/10/2021,19:00,Sábado,10,Flamengo,Vitória,3,1,Mandante,Vinicius Goncalves Dias Araujo,25.5,4.6,178.3,6.9,28.2,5.0,178.7,8.1,Estádio do Maracanã,10029
+Fluminense,2021,23,27/10/2021,19:00,Quarta,10,Santos,Derrota,0,2,Visitante,Braulio Da Silva Machado,25.5,4.6,178.3,6.9,26.5,4.4,181.7,7.1,Estádio Urbano Caldeira,N.A
+Fluminense,2021,29,31/10/2021,16:00,Domingo,10,Ceará,Derrota,0,1,Visitante,Raphael Claus,25.5,4.6,180.1,7.2,29.9,3.3,181.1,6.9,Estádio Governador Plácido Castelo,8095
+Fluminense,2021,30,06/11/2021,21:00,Sábado,11,Sport Recife,Vitória,1,0,Mandante,Jefferson Ferreira de Moraes,25.8,6.0,179.1,7.4,27.9,4.3,181.2,8.1,Estádio do Maracanã,3870
+Fluminense,2021,31,09/11/2021,21:30,Terça,11,Grêmio,Derrota,0,1,Visitante,Vinicius Goncalves Dias Araujo,24.2,4.6,178.5,6.6,26.7,6.0,180.8,7.0,Arena do Grêmio,N.A
+Fluminense,2021,32,14/11/2021,18:15,Domingo,11,Palmeiras,Vitória,2,1,Mandante,Caio Max Augusto Vieira,28.1,5.1,178.5,7.1,29.3,3.6,178.5,6.9,Estádio do Maracanã,7969
+Fluminense,2021,33,17/11/2021,20:30,Quarta,11,Juventude,Derrota,0,1,Visitante,Ricardo Marques Ribeiro,25.0,4.5,179.3,6.3,28.1,4.0,179.9,7.1,Estádio Alfredo Jaconi,6000
+Fluminense,2021,34,21/11/2021,17:00,Domingo,11,América Mineiro,Vitória,2,0,Mandante,Heber Roberto Lopes,26.4,5.7,180.5,6.8,30.8,3.6,180.6,7.5,Estádio do Maracanã,14168
+Fluminense,2021,35,24/11/2021,21:30,Quarta,11,Internacional,Vitória,1,0,Mandante,Felipe Fernandes de Lima,27.8,5.5,179.2,7.0,29.4,4.5,180.8,4.9,Estádio do Maracanã,18617
+Fluminense,2021,36,28/11/2021,16:00,Domingo,11,Atlético Mineiro,Derrota,1,2,Visitante,Marielson Alves Silva,28.0,5.5,179.6,6.6,29.2,4.3,179.5,6.4,Governador Magalhães Pinto,59900
+Fluminense,2021,37,05/12/2021,16:00,Domingo,12,Bahia,Derrota,0,2,Visitante,Luiz Flávio de Oliveira,28.2,5.1,179.9,6.5,28.4,4.8,179.7,8.7,Arena Fonte Nova,26048
+Fluminense,2021,38,09/12/2021,21:30,Quinta,12,Chapecoense,Vitória,3,0,Mandante,Leandro Pedro Vuaden,26.9,5.2,177.8,6.9,22.5,2.7,183.8,5.5,Estádio do Maracanã,48198
+Fluminense,2022,1,09/04/2022,16:30,Sábado,04,Santos,Empate,0,0,Mandante,Anderson Daronco,28.6,6.2,178.8,6.2,26.0,4.3,181.2,6.5,Estádio do Maracanã,22855
+Fluminense,2022,2,16/04/2022,21:00,Sábado,04,Cuiabá,Vitória,1,0,Visitante,Savio Pereira Sampaio,29.2,6.6,178.8,6.9,29.9,4.1,181.8,4.2,Arena Pantanal,10791
+Fluminense,2022,3,23/04/2022,19:00,Sábado,04,Internacional,Derrota,0,1,Mandante,Braulio Da Silva Machado,29.3,7.0,179.7,6.1,29.0,4.0,178.1,7.2,Estádio do Maracanã,16176
+Fluminense,2022,4,01/05/2022,16:00,Domingo,05,Coritiba,Derrota,2,3,Visitante,Raphael Claus,28.6,6.0,178.9,6.3,27.7,4.8,181.8,7.5,Estádio Major Antônio Couto Pereira,24622
+Fluminense,2022,5,08/05/2022,16:00,Domingo,05,Palmeiras,Empate,1,1,Visitante,Savio Pereira Sampaio,30.6,5.3,178.6,7.3,27.5,4.0,178.0,7.2,Nubank Parque,28776
+Fluminense,2022,6,14/05/2022,21:00,Sábado,05,Athletico,Vitória,2,1,Mandante,Ramon Abatti Abel,28.5,6.4,178.8,6.1,24.1,2.3,181.6,5.0,Estádio Raulino de Oliveira,4722
+Fluminense,2022,7,22/05/2022,16:00,Domingo,05,Fortaleza,Vitória,1,0,Visitante,Anderson Daronco,29.2,6.1,180.3,5.4,28.1,3.8,177.7,4.0,Estádio Governador Plácido Castelo,37507
+Fluminense,2022,8,29/05/2022,18:00,Domingo,05,Flamengo,Derrota,1,2,Mandante,Raphael Claus,30.3,6.0,178.0,6.8,28.1,4.0,180.8,7.6,Estádio do Maracanã,57919
+Fluminense,2022,9,05/06/2022,11:00,Domingo,06,Juventude,Derrota,0,1,Visitante,Jefferson Ferreira de Moraes,30.6,6.0,178.5,6.3,27.5,3.4,181.3,6.1,Estádio Alfredo Jaconi,2573
+Fluminense,2022,10,08/06/2022,21:30,Quarta,06,Atlético Mineiro,Vitória,5,3,Mandante,Leandro Pedro Vuaden,30.5,5.9,178.4,6.7,29.3,4.4,179.3,6.0,Estádio do Maracanã,16143
+Fluminense,2022,11,11/06/2022,19:00,Sábado,06,Atlético Goianiense,Derrota,0,2,Mandante,Luiz Flávio de Oliveira,30.8,6.1,177.2,6.7,27.9,2.8,181.7,5.6,Estádio do Maracanã,27859
+Fluminense,2022,12,15/06/2022,21:30,Quarta,06,América Mineiro,Empate,0,0,Visitante,Anderson Daronco,29.2,6.3,179.6,6.5,31.4,4.3,180.4,6.2,Arena Independência,2599
+Fluminense,2022,13,19/06/2022,19:00,Domingo,06,Avaí,Vitória,2,0,Mandante,Rodolpho Toski Marques,28.5,6.2,179.1,6.9,29.0,5.0,180.3,5.8,Estádio do Maracanã,15530
+Fluminense,2022,14,26/06/2022,16:00,Domingo,06,Botafogo,Vitória,1,0,Visitante,Anderson Daronco,28.6,6.2,179.1,6.9,27.6,5.7,182.1,6.3,Estádio Nilton Santos,29791
+Fluminense,2022,15,02/07/2022,16:30,Sábado,07,Corinthians,Vitória,4,0,Mandante,Wilton Pereira Sampaio,28.0,6.8,179.0,6.7,25.1,5.9,181.9,5.8,Estádio do Maracanã,44782
+Fluminense,2022,16,09/07/2022,19:00,Sábado,07,Ceará,Vitória,2,1,Mandante,Luiz Flávio de Oliveira,28.4,6.5,178.8,6.8,30.4,2.7,182.5,7.0,Estádio do Maracanã,63707
+Fluminense,2022,17,17/07/2022,16:00,Domingo,07,São Paulo,Empate,2,2,Visitante,Wilton Pereira Sampaio,28.6,6.8,178.5,6.2,26.7,5.8,179.7,3.9,MorumBIS,47141
+Fluminense,2022,18,20/07/2022,19:00,Quarta,07,Goiás,Vitória,3,2,Visitante,Paulo Roberto Alves Junior,28.4,6.5,178.8,6.8,26.9,2.2,178.9,7.4,Estádio da Serrinha,11974
+Fluminense,2022,19,24/07/2022,16:00,Domingo,07,Red Bull Bragantino,Vitória,2,1,Mandante,Andre Luiz de Freitas Castro,29.1,5.9,178.6,6.9,23.5,3.5,181.5,7.0,Estádio Raulino de Oliveira,9877
+Fluminense,2022,20,01/08/2022,20:00,Segunda,08,Santos,Empate,2,2,Visitante,Braulio Da Silva Machado,28.3,6.4,178.8,6.8,27.5,5.5,182.9,6.5,Estádio Urbano Caldeira,11943
+Fluminense,2022,21,07/08/2022,16:00,Domingo,08,Cuiabá,Vitória,1,0,Mandante,Flavio Rodrigues De Souza,30.6,6.5,178.2,7.2,28.2,4.1,180.7,5.4,Estádio do Maracanã,46323
+Fluminense,2022,22,14/08/2022,19:00,Domingo,08,Internacional,Derrota,0,3,Visitante,Ramon Abatti Abel,28.1,6.8,179.0,6.7,27.0,4.3,178.1,6.4,Estádio Beira-Rio,14824
+Fluminense,2022,23,20/08/2022,19:00,Sábado,08,Coritiba,Vitória,5,2,Mandante,Paulo Cesar Zanovelli da Silva,27.9,6.4,178.2,6.6,26.6,5.7,184.5,6.8,Estádio do Maracanã,24029
+Fluminense,2022,24,27/08/2022,19:00,Sábado,08,Palmeiras,Empate,1,1,Mandante,Braulio Da Silva Machado,28.9,6.4,178.3,6.6,28.3,3.8,178.2,7.1,Estádio do Maracanã,45084
+Fluminense,2022,25,03/09/2022,19:00,Sábado,09,Athletico,Derrota,0,1,Visitante,Flavio Rodrigues De Souza,29.6,6.6,179.0,6.6,25.2,3.1,183.0,5.6,Arena da Baixada,14037
+Fluminense,2022,26,10/09/2022,19:00,Sábado,09,Fortaleza,Vitória,2,1,Mandante,Paulo Roberto Alves Junior,28.8,6.4,178.8,6.8,30.0,4.0,179.5,5.2,Estádio do Maracanã,26533
+Fluminense,2022,27,18/09/2022,16:00,Domingo,09,Flamengo,Vitória,2,1,Visitante,Raphael Claus,28.2,6.8,179.0,6.7,29.3,4.6,180.7,5.9,Estádio do Maracanã,55170
+Fluminense,2022,28,28/09/2022,19:00,Quarta,09,Juventude,Vitória,4,0,Mandante,Edina Alves Batista,29.3,7.3,178.5,6.6,28.7,3.4,180.2,6.7,Estádio do Maracanã,23396
+Fluminense,2022,29,01/10/2022,15:00,Sábado,10,Atlético Mineiro,Derrota,0,2,Visitante,Luiz Flávio de Oliveira,29.5,7.4,178.5,6.3,29.5,4.5,177.8,6.9,Governador Magalhães Pinto,20858
+Fluminense,2022,30,05/10/2022,19:00,Quarta,10,Atlético Goianiense,Derrota,2,3,Visitante,Anderson Daronco,28.9,7.1,178.8,5.9,27.3,3.5,181.1,4.7,Estádio Antônio Accioly,6075
+Fluminense,2022,31,09/10/2022,18:00,Domingo,10,América Mineiro,Derrota,0,2,Mandante,Leandro Pedro Vuaden,28.3,6.8,179.0,6.7,30.1,4.6,180.1,8.9,Estádio do Maracanã,23324
+Fluminense,2022,32,16/10/2022,19:00,Domingo,10,Avaí,Vitória,3,0,Visitante,Anderson Daronco,29.6,6.7,177.3,6.8,29.5,4.1,178.7,6.7,Estádio da Ressacada,79
+Fluminense,2022,33,23/10/2022,16:00,Domingo,10,Botafogo,Empate,2,2,Mandante,Ramon Abatti Abel,28.7,6.5,177.4,7.0,29.5,4.2,183.3,5.1,Estádio do Maracanã,N.A
+Fluminense,2022,34,26/10/2022,21:45,Quarta,10,Corinthians,Vitória,2,0,Visitante,Leandro Pedro Vuaden,28.8,6.5,177.4,7.0,29.9,5.4,180.5,8.5,Neo Química Arena,37920
+Fluminense,2022,35,31/10/2022,20:00,Segunda,10,Ceará,Vitória,1,0,Visitante,Raphael Claus,29.5,6.0,178.0,6.7,29.5,4.9,181.5,8.6,Estádio Governador Plácido Castelo,N.A
+Fluminense,2022,36,05/11/2022,16:30,Sábado,11,São Paulo,Vitória,3,1,Mandante,Anderson Daronco,29.6,6.0,178.0,6.7,28.2,5.1,179.6,5.3,Estádio do Maracanã,N.A
+Fluminense,2022,37,09/11/2022,19:00,Quarta,11,Goiás,Vitória,3,0,Mandante,Paulo Cesar Zanovelli da Silva,28.6,6.7,178.0,6.7,27.3,2.6,178.8,7.9,Estádio do Maracanã,N.A
+Fluminense,2022,38,13/11/2022,16:00,Domingo,11,Red Bull Bragantino,Vitória,1,0,Visitante,Jean Pierre Goncalves Lima,27.4,7.0,177.5,6.4,24.4,3.2,182.2,6.5,Estádio Nabi Abi Chedid,N.A
+Fluminense,2023,1,15/04/2023,16:00,Sábado,04,América Mineiro,Vitória,3,0,Visitante,Braulio Da Silva Machado,27.7,7.1,178.7,7.0,32.1,3.7,179.6,8.3,Arena Independência,6653
+Fluminense,2023,2,22/04/2023,16:00,Sábado,04,Athletico,Vitória,2,0,Mandante,Paulo Cesar Zanovelli da Silva,30.7,7.0,178.5,6.7,27.9,5.2,181.4,4.7,Estádio do Maracanã,38598
+Fluminense,2023,3,29/04/2023,16:30,Sábado,04,Fortaleza,Derrota,2,4,Visitante,Raphael Claus,26.9,6.7,179.6,6.3,29.4,4.9,179.2,5.3,Estádio Governador Plácido Castelo,39943
+Fluminense,2023,4,06/05/2023,21:00,Sábado,05,Vasco da Gama,Empate,1,1,Mandante,Wilton Pereira Sampaio,30.8,7.0,178.5,6.7,25.5,3.9,180.8,5.3,Estádio do Maracanã,39850
+Fluminense,2023,5,10/05/2023,21:30,Quarta,05,Cruzeiro,Vitória,2,0,Visitante,Flavio Rodrigues De Souza,30.1,7.2,179.2,5.8,28.3,3.4,179.0,4.8,Governador Magalhães Pinto,51846
+Fluminense,2023,6,13/05/2023,18:30,Sábado,05,Cuiabá,Vitória,2,0,Mandante,Edina Alves Batista,31.3,6.5,179.2,6.0,28.7,3.8,181.2,5.7,Estádio do Maracanã,39040
+Fluminense,2023,7,20/05/2023,18:30,Sábado,05,Botafogo,Derrota,0,1,Visitante,Braulio Da Silva Machado,30.1,6.9,177.7,7.2,29.9,4.1,183.5,6.4,Estádio Nilton Santos,24732
+Fluminense,2023,8,28/05/2023,16:00,Domingo,05,Corinthians,Derrota,0,2,Visitante,Leandro Pedro Vuaden,30.1,6.8,178.3,6.8,25.9,5.0,180.7,7.2,Neo Química Arena,34624
+Fluminense,2023,9,04/06/2023,16:00,Domingo,06,Red Bull Bragantino,Vitória,2,1,Mandante,Rodrigo Jose Pereira de Lima,30.2,6.8,178.3,6.8,24.7,2.9,180.5,6.1,Estádio do Maracanã,27228
+Fluminense,2023,10,11/06/2023,18:30,Domingo,06,Goiás,Empate,2,2,Visitante,Leandro Pedro Vuaden,27.8,6.4,179.0,6.7,28.8,4.0,181.5,5.0,Estádio da Serrinha,10260
+Fluminense,2023,11,21/06/2023,21:30,Quarta,06,Atlético Mineiro,Empate,1,1,Mandante,Ramon Abatti Abel,31.0,6.0,180.2,7.3,29.6,4.6,179.6,7.5,Estádio Raulino de Oliveira,7788
+Fluminense,2023,12,24/06/2023,18:30,Sábado,06,Bahia,Vitória,2,1,Mandante,Savio Pereira Sampaio,29.9,6.4,178.5,8.1,27.4,4.8,180.7,6.6,Estádio do Maracanã,24507
+Fluminense,2023,13,01/07/2023,16:00,Sábado,07,São Paulo,Derrota,0,1,Visitante,Anderson Daronco,31.8,6.7,176.3,6.2,26.5,5.9,179.9,6.2,MorumBIS,49153
+Fluminense,2023,14,09/07/2023,16:00,Domingo,07,Internacional,Vitória,2,0,Mandante,Luiz Flávio de Oliveira,31.2,6.8,179.2,6.9,30.0,4.3,179.5,7.2,Estádio do Maracanã,34166
+Fluminense,2023,15,16/07/2023,16:00,Domingo,07,Flamengo,Empate,0,0,Mandante,Savio Pereira Sampaio,31.2,6.8,178.4,6.8,28.5,5.3,181.2,6.5,Estádio do Maracanã,62354
+Fluminense,2023,16,24/07/2023,19:00,Segunda,07,Coritiba,Derrota,0,2,Visitante,Flavio Rodrigues De Souza,31.1,6.1,179.9,7.3,27.4,4.2,181.6,7.2,Estádio Major Antônio Couto Pereira,32872
+Fluminense,2023,17,29/07/2023,16:00,Sábado,07,Santos,Vitória,1,0,Mandante,Rodrigo Jose Pereira de Lima,29.1,6.0,177.3,7.3,27.1,3.6,178.9,6.6,Estádio do Maracanã,34211
+Fluminense,2023,18,05/08/2023,21:00,Sábado,08,Palmeiras,Vitória,2,1,Mandante,Ramon Abatti Abel,30.2,6.5,175.5,7.1,26.0,6.2,180.9,5.9,Estádio do Maracanã,77973
+Fluminense,2023,19,13/08/2023,16:00,Domingo,08,Grêmio,Derrota,1,2,Visitante,Rodrigo Jose Pereira de Lima,31.3,5.6,177.4,6.9,28.8,4.9,181.7,5.5,Arena do Grêmio,38712
+Fluminense,2023,20,19/08/2023,18:30,Sábado,08,América Mineiro,Vitória,3,1,Mandante,Flavio Rodrigues De Souza,32.4,6.1,178.2,6.9,30.8,4.7,182.4,7.0,Estádio do Maracanã,35562
+Fluminense,2023,21,27/08/2023,18:30,Domingo,08,Athletico,Empate,2,2,Visitante,Raphael Claus,27.5,4.1,180.2,7.3,26.5,5.5,181.0,5.6,Arena da Baixada,23630
+Fluminense,2023,22,03/09/2023,16:00,Domingo,09,Fortaleza,Vitória,1,0,Mandante,Andre Luiz Skettino Policarpo Bento,31.1,7.5,177.4,6.5,30.5,3.1,178.4,5.0,Estádio Raulino de Oliveira,10035
+Fluminense,2023,23,16/09/2023,16:00,Sábado,09,Vasco da Gama,Derrota,2,4,Visitante,Raphael Claus,28.8,6.9,177.5,5.8,27.1,4.7,182.3,6.2,Estádio Nilton Santos,35850
+Fluminense,2023,24,20/09/2023,21:30,Quarta,09,Cruzeiro,Vitória,1,0,Mandante,Matheus Delgado Candançan,30.4,7.3,178.5,6.2,29.2,3.0,180.4,5.3,Estádio do Maracanã,28985
+Fluminense,2023,25,30/09/2023,18:30,Sábado,09,Cuiabá,Derrota,0,3,Visitante,Paulo Cesar Zanovelli da Silva,28.8,4.3,178.7,7.6,29.3,3.8,182.6,7.3,Arena Pantanal,8358
+Fluminense,2023,26,08/10/2023,16:00,Domingo,10,Botafogo,Derrota,0,2,Mandante,Leandro Pedro Vuaden,30.9,6.3,177.4,6.9,30.5,3.1,183.2,6.4,Estádio do Maracanã,45193
+Fluminense,2023,27,19/10/2023,21:30,Quinta,10,Corinthians,Empate,3,3,Mandante,Paulo Cesar Zanovelli da Silva,32.4,6.4,178.2,5.8,28.8,6.7,179.3,8.0,Estádio do Maracanã,35096
+Fluminense,2023,28,22/10/2023,18:30,Domingo,10,Red Bull Bragantino,Derrota,0,1,Visitante,Wilton Pereira Sampaio,29.4,6.6,176.3,5.6,26.1,4.0,180.2,5.4,Estádio Nabi Abi Chedid,6813
+Fluminense,2023,29,25/10/2023,19:00,Quarta,10,Goiás,Vitória,5,3,Mandante,Leandro Pedro Vuaden,32.3,6.5,177.2,6.2,29.1,2.7,180.8,5.4,Estádio Raulino de Oliveira,4793
+Fluminense,2023,30,28/10/2023,21:00,Sábado,10,Atlético Mineiro,Derrota,0,2,Visitante,Raphael Claus,28.8,6.5,178.5,6.2,28.4,4.3,178.9,6.2,Arena MRV,23003
+Fluminense,2023,31,31/10/2023,19:00,Terça,10,Bahia,Derrota,0,1,Visitante,Edina Alves Batista,26.6,4.9,180.2,7.8,28.6,2.6,180.4,6.2,Arena Fonte Nova,34319
+Fluminense,2023,33,08/11/2023,19:00,Quarta,11,Internacional,Empate,0,0,Visitante,Caio Max Augusto Vieira,27.0,5.9,177.7,6.7,29.4,4.8,178.5,6.5,Estádio Beira-Rio,18669
+Fluminense,2023,34,11/11/2023,18:30,Sábado,11,Flamengo,Empate,1,1,Visitante,Wilton Pereira Sampaio,29.7,6.5,177.4,6.9,28.4,3.5,182.5,7.8,Estádio do Maracanã,59970
+Fluminense,2023,32,22/11/2023,21:30,Quarta,11,São Paulo,Vitória,1,0,Mandante,Andre Luiz Skettino Policarpo Bento,32.0,6.4,179.4,6.0,27.1,5.5,178.5,6.6,Estádio do Maracanã,44694
+Fluminense,2023,35,25/11/2023,21:00,Sábado,11,Coritiba,Vitória,2,1,Mandante,Matheus Delgado Candançan,30.2,7.0,177.7,6.0,25.6,3.4,180.4,8.1,Estádio do Maracanã,19919
+Fluminense,2023,36,29/11/2023,19:00,Quarta,11,Santos,Vitória,3,0,Visitante,Anderson Daronco,30.5,6.2,178.7,5.7,27.3,3.0,178.0,9.1,Estádio Urbano Caldeira,12855
+Fluminense,2023,37,03/12/2023,16:00,Domingo,12,Palmeiras,Derrota,0,1,Visitante,Braulio Da Silva Machado,28.8,6.9,179.5,6.3,28.4,5.0,180.5,5.3,Nubank Parque,29986
+Fluminense,2023,38,06/12/2023,21:30,Quarta,12,Grêmio,Derrota,2,3,Mandante,Raphael Claus,31.5,6.9,178.4,6.0,29.1,3.7,181.7,6.2,Estádio do Maracanã,44190
+Fluminense,2024,1,13/04/2024,21:00,Sábado,04,Red Bull Bragantino,Empate,2,2,Mandante,Maguielson Lima Barbosa,31.4,7.3,177.2,6.1,24.5,3.5,179.7,5.8,Estádio do Maracanã,17645
+Fluminense,2024,2,16/04/2024,21:30,Terça,04,Bahia,Derrota,1,2,Visitante,Joao Vitor Gobi,30.4,6.6,177.6,6.0,28.7,3.9,179.7,6.2,Arena Fonte Nova,23080
+Fluminense,2024,3,20/04/2024,16:00,Sábado,04,Vasco da Gama,Vitória,2,1,Mandante,Wilton Pereira Sampaio,32.0,7.3,177.3,6.2,28.2,4.4,180.5,6.0,Estádio do Maracanã,25842
+Fluminense,2024,4,28/04/2024,16:00,Domingo,04,Corinthians,Derrota,0,3,Visitante,Ramon Abatti Abel,31.7,7.1,178.4,5.3,27.0,4.9,181.5,8.7,Neo Química Arena,42119
+Fluminense,2024,5,04/05/2024,16:00,Sábado,05,Atlético Mineiro,Empate,2,2,Mandante,Raphael Claus,32.5,6.8,178.3,5.4,30.0,3.9,178.9,6.3,Estádio do Maracanã,5168
+Fluminense,2024,6,13/05/2024,20:00,Segunda,05,São Paulo,Derrota,1,2,Visitante,Anderson Daronco,28.4,7.3,179.5,5.8,27.4,4.3,180.2,5.6,MorumBIS,39515
+Fluminense,2024,7,01/06/2024,18:30,Sábado,06,Juventude,Empate,1,1,Mandante,Matheus Delgado Candançan,31.5,7.6,178.2,5.1,28.9,5.7,180.2,8.8,Estádio do Maracanã,21037
+Fluminense,2024,8,11/06/2024,20:00,Terça,06,Botafogo,Derrota,0,1,Visitante,Flavio Rodrigues De Souza,31.1,6.8,177.9,5.9,29.6,4.1,183.9,7.0,Estádio Nilton Santos,27239
+Fluminense,2024,9,15/06/2024,21:00,Sábado,06,Atlético Goianiense,Derrota,1,2,Mandante,Gustavo Ervino Bauermann,32.7,7.0,178.3,5.8,27.1,3.1,183.3,7.5,Estádio do Maracanã,14485
+Fluminense,2024,10,19/06/2024,21:30,Quarta,06,Cruzeiro,Derrota,0,2,Visitante,Matheus Delgado Candançan,31.1,6.7,179.8,5.9,26.7,3.6,178.7,6.7,Governador Magalhães Pinto,28812
+Fluminense,2024,11,23/06/2024,16:00,Domingo,06,Flamengo,Derrota,0,1,Mandante,Rafael Rodrigo Klein,32.0,6.0,180.5,7.0,27.7,4.9,184.5,5.7,Estádio do Maracanã,57098
+Fluminense,2024,12,27/06/2024,19:00,Quinta,06,Vitória,Derrota,0,1,Mandante,Flavio Rodrigues De Souza,33.6,4.9,179.3,7.1,27.4,3.9,178.9,7.1,Estádio do Maracanã,24269
+Fluminense,2024,13,30/06/2024,16:00,Domingo,06,Grêmio,Derrota,0,1,Visitante,Paulo Cesar Zanovelli da Silva,33.1,5.1,179.1,7.0,30.2,5.4,178.8,7.2,Arena do Grêmio,8549
+Fluminense,2024,14,04/07/2024,20:00,Quinta,07,Internacional,Empate,1,1,Mandante,Felipe Fernandes de Lima,31.7,6.6,179.1,6.6,29.5,6.3,181.7,5.3,Estádio do Maracanã,40337
+Fluminense,2024,15,07/07/2024,16:00,Domingo,07,Fortaleza,Derrota,0,1,Visitante,Davi de Oliveira Lacerda,29.7,7.2,178.1,7.0,30.7,2.8,179.2,4.9,Estádio Governador Plácido Castelo,34831
+Fluminense,2024,16,11/07/2024,20:00,Quinta,07,Criciúma,Empate,1,1,Visitante,Anderson Daronco,30.4,6.9,178.5,6.9,30.3,4.1,181.0,7.2,Estádio Heriberto Hülse,11486
+Fluminense,2024,18,21/07/2024,20:00,Domingo,07,Cuiabá,Vitória,1,0,Visitante,Anderson Daronco,31.8,7.1,177.5,5.9,28.4,4.2,183.3,5.0,Arena Pantanal,13231
+Fluminense,2024,19,24/07/2024,21:30,Quarta,07,Palmeiras,Vitória,1,0,Mandante,Wilton Pereira Sampaio,31.8,7.1,177.5,5.9,28.8,5.5,179.7,6.6,Estádio do Maracanã,51375
+Fluminense,2024,20,28/07/2024,11:00,Domingo,07,Red Bull Bragantino,Vitória,1,0,Visitante,Lucas Paulo Torezin,30.3,7.3,179.4,6.9,24.7,2.7,183.1,4.6,Estádio Nabi Abi Chedid,7304
+Fluminense,2024,21,04/08/2024,16:00,Domingo,08,Bahia,Vitória,1,0,Mandante,Davi de Oliveira Lacerda,30.7,7.4,178.5,5.9,27.5,4.2,180.5,6.1,Estádio do Maracanã,50262
+Fluminense,2024,22,10/08/2024,21:30,Sábado,08,Vasco da Gama,Derrota,0,2,Visitante,Anderson Daronco,30.1,7.2,179.0,7.2,29.8,4.7,180.5,5.9,Estádio São Januário,20003
+Fluminense,2024,23,17/08/2024,21:00,Sábado,08,Corinthians,Empate,0,0,Mandante,Braulio Da Silva Machado,26.9,8.5,180.5,6.6,26.0,3.0,182.2,8.9,Estádio do Maracanã,30475
+Fluminense,2024,24,24/08/2024,21:00,Sábado,08,Atlético Mineiro,Vitória,2,0,Visitante,Flavio Rodrigues De Souza,30.8,8.1,179.4,4.9,29.1,4.3,180.4,8.1,Arena MRV,32068
+Fluminense,2024,25,01/09/2024,18:30,Domingo,09,São Paulo,Vitória,2,0,Mandante,Paulo Cesar Zanovelli da Silva,31.3,7.6,178.7,6.6,30.2,6.0,179.1,7.6,Estádio do Maracanã,45759
+Fluminense,2024,26,15/09/2024,16:00,Domingo,09,Juventude,Derrota,1,2,Visitante,Flavio Rodrigues De Souza,31.0,7.8,178.9,6.5,29.8,5.2,181.7,7.5,Estádio Alfredo Jaconi,6232
+Fluminense,2024,27,21/09/2024,18:30,Sábado,09,Botafogo,Derrota,0,1,Mandante,Wilton Pereira Sampaio,31.2,6.4,179.3,7.4,28.2,4.5,182.5,7.5,Estádio do Maracanã,22000
+Fluminense,2024,28,29/09/2024,16:00,Domingo,09,Atlético Goianiense,Derrota,0,1,Visitante,Ramon Abatti Abel,32.3,6.2,179.4,7.5,25.8,2.0,179.6,10.9,Estádio Antônio Accioly,7871
+Fluminense,2024,29,03/10/2024,21:30,Quinta,10,Cruzeiro,Vitória,1,0,Mandante,Gustavo Ervino Bauermann,31.2,7.5,177.9,6.2,28.1,3.9,178.8,6.8,Estádio do Maracanã,30242
+Fluminense,2024,30,17/10/2024,20:00,Quinta,10,Flamengo,Vitória,2,0,Visitante,Raphael Claus,29.8,7.5,180.0,5.8,26.8,4.1,182.8,6.8,Estádio do Maracanã,58117
+Fluminense,2024,17,22/10/2024,19:30,Terça,10,Athletico,Vitória,1,0,Mandante,Braulio Da Silva Machado,30.3,7.1,179.5,6.4,27.2,5.0,183.1,6.1,Estádio do Maracanã,39465
+Fluminense,2024,31,26/10/2024,16:30,Sábado,10,Vitória,Derrota,1,2,Visitante,Flavio Rodrigues De Souza,30.3,7.2,179.1,6.0,28.4,3.2,178.2,8.2,Estádio Manoel Barradas,29497
+Fluminense,2024,32,01/11/2024,21:00,Sexta,11,Grêmio,Empate,2,2,Mandante,Matheus Delgado Candançan,32.1,7.0,178.3,6.0,30.6,4.1,177.5,7.8,Estádio do Maracanã,35278
+Fluminense,2024,33,08/11/2024,19:00,Sexta,11,Internacional,Derrota,0,2,Visitante,Luiz Flávio de Oliveira,30.8,5.8,179.2,7.3,27.6,3.1,179.2,6.5,Estádio Beira-Rio,35877
+Fluminense,2024,34,22/11/2024,21:30,Sexta,11,Fortaleza,Empate,2,2,Mandante,Raphael Claus,32.2,7.0,178.3,6.0,30.9,3.9,178.7,5.7,Estádio do Maracanã,37969
+Fluminense,2024,35,26/11/2024,19:00,Terça,11,Criciúma,Empate,0,0,Mandante,Luiz Flávio de Oliveira,31.5,7.6,178.8,6.5,30.6,3.7,182.1,5.8,Estádio do Maracanã,41240
+Fluminense,2024,36,01/12/2024,18:30,Domingo,12,Athletico,Empate,1,1,Visitante,Eduardo Senna,30.2,7.6,179.2,6.2,27.3,5.1,180.5,6.0,Arena da Baixada,41375
+Fluminense,2024,37,05/12/2024,20:00,Quinta,12,Cuiabá,Vitória,1,0,Mandante,Rafael Rodrigo Klein,31.5,6.9,178.8,6.2,28.2,4.4,181.1,6.6,Estádio do Maracanã,59730
+Fluminense,2024,38,08/12/2024,16:00,Domingo,12,Palmeiras,Vitória,1,0,Visitante,Ramon Abatti Abel,32.0,6.3,177.6,5.8,25.8,5.1,181.9,5.3,Nubank Parque,34571
+Fluminense,2025,1,29/03/2025,18:30,Sábado,03,Fortaleza,Derrota,0,2,Visitante,Rodrigo Jose Pereira de Lima,30.5,6.8,177.6,4.8,33.4,2.3,179.0,5.8,Estádio Governador Plácido Castelo,19484
+Fluminense,2025,2,06/04/2025,16:00,Domingo,04,Red Bull Bragantino,Vitória,2,1,Mandante,Wilton Pereira Sampaio,30.7,6.8,177.6,4.8,26.9,3.7,179.4,6.0,Estádio do Maracanã,19729
+Fluminense,2025,3,13/04/2025,19:30,Domingo,04,Santos,Vitória,1,0,Mandante,Felipe Fernandes de Lima,31.5,6.7,177.0,5.8,30.2,3.7,181.1,6.7,Estádio do Maracanã,46172
+Fluminense,2025,4,16/04/2025,19:30,Quarta,04,Corinthians,Vitória,2,0,Visitante,Rodrigo Jose Pereira de Lima,30.1,6.4,178.8,7.6,28.1,4.3,182.2,6.2,Neo Química Arena,34624
+Fluminense,2025,5,20/04/2025,18:30,Domingo,04,Vitória,Empate,1,1,Mandante,Matheus Delgado Candançan,31.0,6.3,178.3,7.3,26.9,1.6,179.3,8.0,Estádio do Maracanã,29065
+Fluminense,2025,6,26/04/2025,21:00,Sábado,04,Botafogo,Derrota,0,2,Visitante,Bruno Arleu de Araujo,30.7,6.6,179.1,7.7,26.8,4.0,183.2,8.8,Estádio Nilton Santos,12943
+Fluminense,2025,7,03/05/2025,18:30,Sábado,05,Sport Recife,Vitória,2,1,Mandante,Rafael Rodrigo Klein,30.3,6.0,179.3,7.2,27.5,4.8,181.3,4.9,Estádio do Maracanã,18754
+Fluminense,2025,8,11/05/2025,17:30,Domingo,05,Atlético Mineiro,Derrota,2,3,Visitante,Ramon Abatti Abel,30.4,6.9,178.2,6.4,29.1,4.7,179.1,7.0,Arena MRV,25018
+Fluminense,2025,9,18/05/2025,16:00,Domingo,05,Juventude,Empate,1,1,Visitante,Wilton Pereira Sampaio,30.7,6.6,177.9,5.8,29.8,4.5,178.2,5.7,Estádio Alfredo Jaconi,8120
+Fluminense,2025,10,24/05/2025,18:30,Sábado,05,Vasco da Gama,Vitória,2,1,Mandante,Rodrigo Jose Pereira de Lima,30.6,6.5,178.6,4.8,26.8,5.1,181.0,5.8,Estádio do Maracanã,42422
+Fluminense,2025,11,01/06/2025,20:30,Domingo,06,Internacional,Vitória,2,0,Visitante,Lucas Paulo Torezin,32.2,6.3,177.6,6.0,28.9,4.8,180.2,5.3,Estádio Beira-Rio,13502
+Fluminense,2025,14,17/07/2025,19:30,Quinta,07,Cruzeiro,Derrota,0,2,Mandante,Rafael Rodrigo Klein,31.3,6.8,175.5,7.5,29.4,5.7,179.4,8.3,Estádio do Maracanã,45681
+Fluminense,2025,15,20/07/2025,19:30,Domingo,07,Flamengo,Derrota,0,1,Visitante,Raphael Claus,30.5,6.8,180.9,5.9,29.8,3.4,180.0,7.4,Estádio do Maracanã,58416
+Fluminense,2025,16,23/07/2025,19:00,Quarta,07,Palmeiras,Derrota,1,2,Mandante,Ramon Abatti Abel,30.2,6.1,177.5,8.6,27.1,5.1,180.5,5.5,Estádio do Maracanã,21081
+Fluminense,2025,17,27/07/2025,16:00,Domingo,07,São Paulo,Derrota,1,3,Visitante,Davi de Oliveira Lacerda,30.2,7.2,179.9,4.9,30.0,3.7,179.5,7.4,MorumBIS,42529
+Fluminense,2025,18,02/08/2025,21:00,Sábado,08,Grêmio,Vitória,1,0,Mandante,Lucas Paulo Torezin,33.2,6.4,178.5,5.8,27.9,5.2,179.2,6.5,Estádio do Maracanã,15344
+Fluminense,2025,19,09/08/2025,21:00,Sábado,08,Bahia,Empate,3,3,Visitante,Jefferson Ferreira de Moraes,30.9,7.8,180.8,4.5,28.9,4.1,181.1,7.3,Arena Fonte Nova,35505
+Fluminense,2025,20,16/08/2025,16:00,Sábado,08,Fortaleza,Vitória,2,1,Mandante,Rafael Rodrigo Klein,32.1,7.1,179.2,6.3,29.4,5.2,178.3,8.1,Estádio do Maracanã,28771
+Fluminense,2025,21,23/08/2025,16:00,Sábado,08,Red Bull Bragantino,Derrota,2,4,Visitante,Lucas Paulo Torezin,30.2,6.4,178.4,7.3,25.9,3.3,181.1,5.7,Estádio Cícero de Souza Marques,3932
+Fluminense,2025,22,31/08/2025,16:00,Domingo,08,Santos,Empate,0,0,Visitante,Wilton Pereira Sampaio,31.1,6.8,176.4,6.9,29.9,4.0,179.9,6.5,Estádio Urbano Caldeira,12515
+Fluminense,2025,23,13/09/2025,21:00,Sábado,09,Corinthians,Derrota,0,1,Mandante,Felipe Fernandes de Lima,30.3,7.0,181.9,6.6,27.1,4.8,180.5,9.0,Estádio do Maracanã,21091
+Fluminense,2025,24,20/09/2025,16:00,Sábado,09,Vitória,Vitória,1,0,Visitante,Matheus Delgado Candançan,30.7,5.5,180.6,6.4,29.2,3.9,179.7,7.8,Estádio Manoel Barradas,27183
+Fluminense,2025,25,28/09/2025,16:00,Domingo,09,Botafogo,Vitória,2,0,Mandante,Ramon Abatti Abel,32.1,6.7,176.1,7.4,27.2,3.8,182.6,8.1,Estádio do Maracanã,15781
+Fluminense,2025,26,01/10/2025,19:00,Quarta,10,Sport Recife,Empate,2,2,Visitante,Raphael Claus,30.2,6.0,177.7,8.0,27.9,4.4,181.7,8.2,Ilha do Retiro,14172
+Fluminense,2025,27,04/10/2025,18:30,Sábado,10,Atlético Mineiro,Vitória,3,0,Mandante,Davi de Oliveira Lacerda,30.8,6.9,175.8,7.4,30.0,5.4,178.5,8.4,Estádio do Maracanã,20198
+Fluminense,2025,13,08/10/2025,21:00,Quarta,10,Mirassol,Derrota,1,2,Visitante,Rodrigo Jose Pereira de Lima,31.6,6.9,175.2,7.2,31.1,4.3,179.2,7.3,Estádio José Maria de Campos Maia,5088
+Fluminense,2025,28,16/10/2025,21:30,Quinta,10,Juventude,Vitória,1,0,Mandante,Jefferson Ferreira de Moraes,31.9,6.7,178.0,5.4,28.9,4.9,178.5,5.2,Estádio do Maracanã,15639
+Fluminense,2025,29,20/10/2025,19:30,Segunda,10,Vasco da Gama,Derrota,0,2,Visitante,Wagner do Nascimento Magalhaes,32.1,6.7,176.1,7.4,26.4,4.5,178.5,5.7,Estádio do Maracanã,53746
+Fluminense,2025,30,25/10/2025,17:30,Sábado,10,Internacional,Vitória,1,0,Mandante,Raphael Claus,31.0,6.9,177.7,9.1,28.6,5.8,181.0,6.3,Estádio do Maracanã,21298
+Fluminense,2025,12,29/10/2025,19:00,Quarta,10,Ceará,Vitória,1,0,Mandante,Flavio Rodrigues De Souza,30.9,6.9,175.8,7.4,28.8,3.1,180.5,8.4,Estádio do Maracanã,21298
+Fluminense,2025,31,02/11/2025,16:00,Domingo,11,Ceará,Derrota,0,2,Visitante,Lucas Paulo Torezin,28.8,5.8,179.4,5.9,28.8,3.8,181.8,7.3,Estádio Governador Plácido Castelo,28700
+Fluminense,2025,32,06/11/2025,19:30,Quinta,11,Mirassol,Vitória,1,0,Mandante,Anderson Daronco,31.9,6.5,176.5,7.5,30.6,3.7,179.1,6.7,Estádio do Maracanã,15952
+Fluminense,2025,33,09/11/2025,16:00,Domingo,11,Cruzeiro,Empate,0,0,Visitante,Rodrigo Jose Pereira de Lima,31.7,6.7,177.5,8.1,28.9,5.4,179.5,7.9,Governador Magalhães Pinto,53283
+Fluminense,2025,34,19/11/2025,21:30,Quarta,11,Flamengo,Vitória,2,1,Mandante,Davi de Oliveira Lacerda,31.9,6.5,176.5,7.5,28.6,3.9,183.6,5.4,Estádio do Maracanã,69591
+Fluminense,2025,35,22/11/2025,21:30,Sábado,11,Palmeiras,Empate,0,0,Visitante,Jonathan Benkenstein Pinheiro,31.1,5.8,179.7,6.7,26.1,3.1,182.9,8.3,Nubank Parque,40245
+Fluminense,2025,36,27/11/2025,20:30,Quinta,11,São Paulo,Vitória,6,0,Mandante,Lucas Paulo Torezin,31.9,6.5,176.5,7.5,26.2,5.3,181.2,8.5,Estádio do Maracanã,30427
+Fluminense,2025,37,02/12/2025,21:30,Terça,12,Grêmio,Vitória,2,1,Visitante,Raphael Claus,31.2,5.6,175.8,10.0,29.1,5.4,179.8,7.9,Arena do Grêmio,23487
+Fluminense,2025,38,07/12/2025,16:00,Domingo,12,Bahia,Vitória,2,0,Mandante,Matheus Delgado Candançan,32.2,6.3,176.2,7.5,28.9,3.8,179.8,7.7,Estádio do Maracanã,52268

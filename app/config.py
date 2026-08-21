@@ -4,17 +4,17 @@
 TIMES_ALVO = [
     #("Flamengo",         5981),
     #("São Paulo",        1981),
-    # ("Palmeiras",        1963),
-    # ("Santos",           1968),
+    #("Palmeiras",        1963),
+    #("Santos",           1968),
     #("Corinthians",      1957),
-    # ("Botafogo",         1958),
+    #("Botafogo",         1958),
     #("Vasco da Gama",    1974),
-    # ("Fluminense",       1961),
+    #("Fluminense",       1961),
     #("Atlético Mineiro", 1977),
     #("Cruzeiro",         1954),
     #("Grêmio",           5926),
     #("Internacional",    1966),
-    ("Bahia",             1955)
+    #("Bahia",             1955)
 ]
 
 
