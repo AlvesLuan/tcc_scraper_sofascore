@@ -1,0 +1,49 @@
+CONFIGURAÇÃO (melhor combinação via GridSearchCV)
+criterion=gini
+max_depth=5
+min_samples_leaf=5
+min_samples_split=2
+
+REGRAS DA ÁRVORE
+================================================================================
+
+|--- condicao_Visitante <= 0.50
+|   |--- altura_media_titular_time <= 183.35
+|   |   |--- altura_media_titular_time <= 182.80
+|   |   |   |--- temporada <= 2018.50
+|   |   |   |   |--- idade_media_titular_adv <= 28.55
+|   |   |   |   |   |--- class: Vitória
+|   |   |   |   |--- idade_media_titular_adv >  28.55
+|   |   |   |   |   |--- class: Vitória
+|   |   |   |--- temporada >  2018.50
+|   |   |   |   |--- altura_media_titular_time <= 179.85
+|   |   |   |   |   |--- class: Vitória
+|   |   |   |   |--- altura_media_titular_time >  179.85
+|   |   |   |   |   |--- class: Vitória
+|   |   |--- altura_media_titular_time >  182.80
+|   |   |   |--- class: Derrota
+|   |--- altura_media_titular_time >  183.35
+|   |   |--- class: Empate
+|--- condicao_Visitante >  0.50
+|   |--- idade_media_titular_time <= 30.55
+|   |   |--- publico <= 25281.00
+|   |   |   |--- mes <= 4.50
+|   |   |   |   |--- idade_media_titular_time <= 27.25
+|   |   |   |   |   |--- class: Empate
+|   |   |   |   |--- idade_media_titular_time >  27.25
+|   |   |   |   |   |--- class: Derrota
+|   |   |   |--- mes >  4.50
+|   |   |   |   |--- idade_media_titular_adv <= 24.85
+|   |   |   |   |   |--- class: Vitória
+|   |   |   |   |--- idade_media_titular_adv >  24.85
+|   |   |   |   |   |--- class: Vitória
+|   |   |--- publico >  25281.00
+|   |   |   |--- publico <= 27035.00
+|   |   |   |   |--- class: Derrota
+|   |   |   |--- publico >  27035.00
+|   |   |   |   |--- mes <= 7.50
+|   |   |   |   |   |--- class: Vitória
+|   |   |   |   |--- mes >  7.50
+|   |   |   |   |   |--- class: Vitória
+|   |--- idade_media_titular_time >  30.55
+|   |   |--- class: Derrota

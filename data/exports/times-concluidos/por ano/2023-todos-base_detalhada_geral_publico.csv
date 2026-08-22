@@ -1,0 +1,495 @@
+﻿time,temporada,rodada,data,horario,dia_semana,mes,adversario,resultado,gols_favor,gols_sofridos,condicao,arbitro,idade_media_titular_time,desvio_idade_media_time,altura_media_titular_time,desvio_altura_media_time,idade_media_titular_adv,desvio_idade_media_adv,altura_media_titular_adv,desvio_altura_media_adv,estadio,publico
+Atlético Mineiro,2023,1,15/04/2023,21:00,Sábado,4,Vasco da Gama,Derrota,1,2,Mandante,Raphael Claus,28.5,4.1,178.3,6.8,25.4,3.9,180.4,5.8,Governador Magalhães Pinto,34980
+Atlético Mineiro,2023,2,23/04/2023,16:00,Domingo,4,Santos,Empate,0,0,Visitante,Braulio Da Silva Machado,28.4,4.5,179.4,6.9,24.9,4.2,179.8,7.1,Estádio Urbano Caldeira,11233
+Atlético Mineiro,2023,3,29/04/2023,21:00,Sábado,4,Athletico,Vitória,2,1,Mandante,Ramon Abatti Abel,29.0,4.3,178.8,6.2,25.0,4.3,181.0,6.1,Governador Magalhães Pinto,15037
+Atlético Mineiro,2023,4,07/05/2023,18:30,Domingo,5,Botafogo,Derrota,0,2,Visitante,Flavio Rodrigues De Souza,30.0,4.9,180.0,6.4,26.9,4.0,183.0,6.5,Estádio Nilton Santos,18218
+Atlético Mineiro,2023,5,10/05/2023,20:00,Quarta,5,Cuiabá,Vitória,4,0,Visitante,Wilton Pereira Sampaio,29.9,3.7,180.1,7.5,28.4,3.8,180.7,6.0,Arena Pantanal,12029
+Atlético Mineiro,2023,6,13/05/2023,21:00,Sábado,5,Internacional,Vitória,2,0,Mandante,Raphael Claus,29.0,4.5,178.6,6.9,27.1,5.8,180.3,6.6,Governador Magalhães Pinto,36080
+Atlético Mineiro,2023,7,20/05/2023,18:30,Sábado,5,Coritiba,Vitória,2,1,Visitante,Rodrigo Jose Pereira de Lima,30.4,3.7,180.5,6.2,28.1,4.3,181.5,7.5,Estádio Major Antônio Couto Pereira,20047
+Atlético Mineiro,2023,8,28/05/2023,18:30,Domingo,5,Palmeiras,Empate,1,1,Mandante,Braulio Da Silva Machado,29.3,4.9,179.1,6.8,28.7,4.3,177.1,7.5,Governador Magalhães Pinto,53236
+Atlético Mineiro,2023,9,03/06/2023,18:30,Sábado,6,Cruzeiro,Vitória,1,0,Visitante,Savio Pereira Sampaio,29.6,4.3,179.9,5.9,28.6,3.5,180.8,5.1,Parque do Sabiá,34344
+Atlético Mineiro,2023,10,10/06/2023,18:30,Sábado,6,Red Bull Bragantino,Empate,1,1,Mandante,Rafael Rodrigo Klein,28.7,4.7,179.7,7.0,24.6,2.9,180.4,7.2,Governador Magalhães Pinto,28786
+Atlético Mineiro,2023,11,21/06/2023,21:30,Quarta,6,Fluminense,Empate,1,1,Visitante,Ramon Abatti Abel,29.6,4.6,179.6,7.5,31.0,6.0,180.2,7.3,Estádio Raulino de Oliveira,7788
+Atlético Mineiro,2023,12,24/06/2023,18:30,Sábado,6,Fortaleza,Derrota,1,2,Visitante,Leandro Pedro Vuaden,29.0,4.0,179.7,7.5,30.0,3.9,179.0,5.1,Estádio Governador Plácido Castelo,27109
+Atlético Mineiro,2023,13,02/07/2023,16:00,Domingo,7,América Mineiro,Empate,2,2,Mandante,Wilton Pereira Sampaio,30.4,4.3,180.0,6.9,30.1,4.7,181.9,6.7,Governador Magalhães Pinto,34507
+Atlético Mineiro,2023,14,08/07/2023,18:30,Sábado,7,Corinthians,Derrota,0,1,Mandante,Rodrigo Jose Pereira de Lima,29.9,4.3,180.8,6.7,27.5,6.8,182.2,6.8,Governador Magalhães Pinto,21086
+Atlético Mineiro,2023,15,17/07/2023,20:00,Segunda,7,Goiás,Empate,0,0,Visitante,Raphael Claus,29.1,4.1,180.0,6.4,28.5,3.1,180.5,7.1,Estádio da Serrinha,12303
+Atlético Mineiro,2023,16,22/07/2023,21:00,Sábado,7,Grêmio,Derrota,0,1,Visitante,Luiz Flávio de Oliveira,29.2,4.9,180.9,7.1,27.3,4.5,182.6,5.2,Arena do Grêmio,37085
+Atlético Mineiro,2023,17,29/07/2023,21:00,Sábado,7,Flamengo,Derrota,1,2,Mandante,Flavio Rodrigues De Souza,29.4,3.7,179.6,7.6,27.3,5.6,182.7,6.6,Governador Magalhães Pinto,22441
+Atlético Mineiro,2023,18,06/08/2023,16:00,Domingo,8,São Paulo,Vitória,2,0,Visitante,Rodrigo Jose Pereira de Lima,29.0,3.7,179.9,7.3,26.7,5.5,180.5,5.5,MorumBIS,53460
+Atlético Mineiro,2023,19,13/08/2023,11:00,Domingo,8,Bahia,Vitória,1,0,Mandante,Savio Pereira Sampaio,29.9,4.5,180.2,6.7,28.9,1.8,181.4,5.4,Governador Magalhães Pinto,29847
+Atlético Mineiro,2023,20,20/08/2023,11:00,Domingo,8,Vasco da Gama,Derrota,0,1,Visitante,Braulio Da Silva Machado,29.8,4.0,180.8,5.9,27.2,4.5,180.4,6.0,Estádio São Januário,53540
+Atlético Mineiro,2023,21,27/08/2023,16:00,Domingo,8,Santos,Vitória,2,0,Mandante,Rafael Rodrigo Klein,30.0,4.4,179.3,7.1,28.1,4.2,179.6,6.3,Arena MRV,29782
+Atlético Mineiro,2023,22,02/09/2023,16:00,Sábado,9,Athletico,Empate,1,1,Visitante,Flavio Rodrigues De Souza,29.9,4.7,178.5,7.2,27.7,6.4,183.1,5.9,Arena da Baixada,18009
+Atlético Mineiro,2023,23,16/09/2023,21:00,Sábado,9,Botafogo,Vitória,1,0,Mandante,Ramon Abatti Abel,29.2,4.3,180.3,7.8,30.4,3.1,183.2,6.4,Governador Magalhães Pinto,31729
+Atlético Mineiro,2023,24,23/09/2023,21:00,Sábado,9,Cuiabá,Vitória,1,0,Mandante,Rodrigo Jose Pereira de Lima,29.5,4.6,179.8,7.6,29.6,3.9,180.7,6.9,Arena MRV,36104
+Atlético Mineiro,2023,25,30/09/2023,21:00,Sábado,9,Internacional,Vitória,2,0,Visitante,Ramon Abatti Abel,29.9,4.8,180.0,7.5,27.7,5.1,181.5,5.1,Estádio Beira-Rio,23937
+Atlético Mineiro,2023,26,08/10/2023,18:30,Domingo,10,Coritiba,Derrota,1,2,Mandante,Marcelo de Lima Henrique,28.8,4.8,179.5,7.2,29.9,4.4,182.8,7.3,Governador Magalhães Pinto,38350
+Atlético Mineiro,2023,27,19/10/2023,19:00,Quinta,10,Palmeiras,Vitória,2,0,Visitante,Bruno Arleu de Araujo,28.0,4.1,179.8,6.9,27.0,5.0,178.7,6.4,Nubank Parque,27718
+Atlético Mineiro,2023,28,22/10/2023,16:00,Domingo,10,Cruzeiro,Derrota,0,1,Mandante,Ramon Abatti Abel,28.0,4.1,179.8,6.9,28.5,3.7,179.7,5.8,Governador Magalhães Pinto,42058
+Atlético Mineiro,2023,29,25/10/2023,19:00,Quarta,10,Red Bull Bragantino,Vitória,2,1,Visitante,Marcelo de Lima Henrique,28.3,4.3,179.1,6.9,25.8,4.2,180.9,5.3,Estádio Nabi Abi Chedid,5494
+Atlético Mineiro,2023,30,28/10/2023,21:00,Sábado,10,Fluminense,Vitória,2,0,Mandante,Raphael Claus,28.4,4.3,178.9,6.2,28.8,6.5,178.5,6.2,Arena MRV,23003
+Atlético Mineiro,2023,31,01/11/2023,21:30,Quarta,11,Fortaleza,Vitória,3,1,Mandante,Matheus Delgado Candançan,28.4,4.3,178.9,6.2,29.8,3.0,178.7,5.6,Governador Magalhães Pinto,28898
+Atlético Mineiro,2023,32,04/11/2023,19:30,Sábado,11,América Mineiro,Empate,1,1,Visitante,Rodrigo Jose Pereira de Lima,28.4,4.3,178.9,6.2,30.8,4.3,179.4,6.5,Arena Independência,5706
+Atlético Mineiro,2023,33,09/11/2023,19:00,Quinta,11,Corinthians,Empate,1,1,Visitante,Braulio Da Silva Machado,27.6,3.0,178.5,6.6,30.1,6.3,183.1,6.6,Neo Química Arena,30348
+Atlético Mineiro,2023,34,12/11/2023,18:30,Domingo,11,Goiás,Vitória,2,1,Mandante,Marcelo de Lima Henrique,27.4,4.0,180.2,6.7,28.6,2.8,181.8,5.7,Arena MRV,29173
+Atlético Mineiro,2023,35,26/11/2023,16:00,Domingo,11,Grêmio,Vitória,3,0,Mandante,Braulio Da Silva Machado,29.5,4.1,179.4,6.2,28.8,5.2,181.8,6.3,Arena MRV,39337
+Atlético Mineiro,2023,36,29/11/2023,19:30,Quarta,11,Flamengo,Vitória,3,0,Visitante,Ramon Abatti Abel,29.5,4.1,179.4,6.2,27.6,2.3,182.5,7.5,Estádio do Maracanã,65305
+Atlético Mineiro,2023,37,02/12/2023,21:00,Sábado,12,São Paulo,Vitória,2,1,Mandante,Savio Pereira Sampaio,30.9,5.3,180.4,7.5,29.2,5.2,179.8,6.6,Arena MRV,53856
+Atlético Mineiro,2023,38,06/12/2023,21:30,Quarta,12,Bahia,Derrota,1,4,Visitante,Ramon Abatti Abel,30.4,4.5,179.5,6.9,27.6,2.8,181.5,7.0,Arena Fonte Nova,28019
+Bahia,2023,1,15/04/2023,18:30,Sábado,4,Red Bull Bragantino,Derrota,1,2,Visitante,Maguielson Lima Barbosa,26.5,3.0,181.4,5.8,23.6,3.3,181.6,5.4,Estádio Nabi Abi Chedid,3368
+Bahia,2023,2,24/04/2023,20:00,Segunda,4,Botafogo,Derrota,1,2,Mandante,Raphael Claus,26.4,3.1,181.1,6.9,29.4,3.3,182.5,6.9,Arena Fonte Nova,27822
+Bahia,2023,3,01/05/2023,20:00,Segunda,5,Vasco da Gama,Vitória,1,0,Visitante,Flavio Rodrigues De Souza,27.0,2.4,181.4,6.2,25.3,4.1,181.5,5.1,Estádio São Januário,19223
+Bahia,2023,4,07/05/2023,16:00,Domingo,5,Coritiba,Vitória,3,1,Mandante,Bruno Mota Correia,26.8,2.6,181.2,6.6,27.9,5.2,180.7,7.5,Arena Fonte Nova,37936
+Bahia,2023,5,10/05/2023,19:00,Quarta,5,Santos,Derrota,0,3,Visitante,Wagner do Nascimento Magalhaes,26.6,4.1,180.4,8.0,26.5,5.0,180.7,7.0,Estádio Urbano Caldeira,7262
+Bahia,2023,6,13/05/2023,16:00,Sábado,5,Flamengo,Derrota,2,3,Mandante,Paulo Cesar Zanovelli da Silva,26.2,3.1,181.0,6.0,26.0,4.5,183.2,6.6,Arena Fonte Nova,48502
+Bahia,2023,7,20/05/2023,16:00,Sábado,5,Goiás,Empate,1,1,Mandante,Denis da Silva Ribeiro Serafim,26.5,3.7,181.1,7.3,27.9,3.3,179.5,5.6,Arena Fonte Nova,32519
+Bahia,2023,8,28/05/2023,16:00,Domingo,5,Internacional,Derrota,0,2,Visitante,Wagner do Nascimento Magalhaes,27.0,3.4,182.5,6.3,27.7,5.0,182.0,6.0,Estádio Beira-Rio,19037
+Bahia,2023,9,03/06/2023,16:00,Sábado,6,Fortaleza,Empate,0,0,Visitante,Joao Vitor Gobi,28.2,3.6,181.2,7.4,29.3,4.3,178.1,5.7,Estádio Governador Plácido Castelo,38338
+Bahia,2023,10,10/06/2023,18:30,Sábado,6,Cruzeiro,Empate,2,2,Mandante,Rodrigo Jose Pereira de Lima,27.8,4.1,181.6,6.9,28.4,3.4,179.0,4.8,Arena Fonte Nova,34019
+Bahia,2023,11,21/06/2023,21:30,Quarta,6,Palmeiras,Vitória,1,0,Mandante,Wilton Pereira Sampaio,26.7,4.1,180.7,6.6,27.3,5.3,177.5,6.6,Arena Fonte Nova,31013
+Bahia,2023,12,24/06/2023,18:30,Sábado,6,Fluminense,Derrota,1,2,Visitante,Savio Pereira Sampaio,27.4,4.8,180.7,6.6,29.9,6.4,178.5,8.1,Estádio do Maracanã,24507
+Bahia,2023,13,01/07/2023,18:30,Sábado,7,Grêmio,Derrota,1,2,Mandante,Marcelo de Lima Henrique,26.7,4.1,180.3,6.6,28.1,4.7,181.9,5.5,Arena Fonte Nova,34090
+Bahia,2023,14,08/07/2023,16:00,Sábado,7,Cuiabá,Empate,1,1,Visitante,Wagner do Nascimento Magalhaes,25.1,4.1,182.8,5.3,28.5,4.6,183.6,3.6,Arena Pantanal,10149
+Bahia,2023,15,16/07/2023,18:30,Domingo,7,Athletico,Derrota,0,2,Visitante,Rafael Rodrigo Klein,26.6,4.2,178.9,6.9,26.2,5.6,180.4,4.9,Arena da Baixada,17091
+Bahia,2023,16,22/07/2023,18:30,Sábado,7,Corinthians,Empate,0,0,Mandante,Andre Luiz Skettino Policarpo Bento,27.2,2.7,181.5,5.8,30.1,6.2,181.6,7.2,Arena Fonte Nova,43716
+Bahia,2023,17,30/07/2023,11:00,Domingo,7,São Paulo,Empate,0,0,Visitante,Ramon Abatti Abel,27.0,3.0,181.9,6.0,27.9,5.4,179.8,6.4,MorumBIS,56078
+Bahia,2023,18,06/08/2023,18:30,Domingo,8,América Mineiro,Vitória,3,1,Mandante,Matheus Delgado Candançan,28.9,1.8,181.4,5.4,30.2,3.5,180.3,5.8,Arena Fonte Nova,34313
+Bahia,2023,19,13/08/2023,11:00,Domingo,8,Atlético Mineiro,Derrota,0,1,Visitante,Savio Pereira Sampaio,28.9,1.8,181.4,5.4,29.9,4.5,180.2,6.7,Governador Magalhães Pinto,29847
+Bahia,2023,20,20/08/2023,16:00,Domingo,8,Red Bull Bragantino,Vitória,4,0,Mandante,Arthur Gomes Rabelo,28.1,2.1,181.7,5.5,23.8,3.7,182.0,5.8,Arena Fonte Nova,38452
+Bahia,2023,21,27/08/2023,16:00,Domingo,8,Botafogo,Derrota,0,3,Visitante,Flavio Rodrigues De Souza,28.1,2.1,181.7,5.5,27.9,4.9,182.8,7.6,Estádio Nilton Santos,39610
+Bahia,2023,22,03/09/2023,18:30,Domingo,9,Vasco da Gama,Empate,1,1,Mandante,Ramon Abatti Abel,29.1,1.8,181.6,5.1,28.2,4.9,181.5,6.2,Arena Fonte Nova,46705
+Bahia,2023,23,14/09/2023,20:00,Quinta,9,Coritiba,Vitória,4,2,Visitante,Wagner do Nascimento Magalhaes,28.3,1.9,181.4,5.6,27.6,5.0,180.9,7.3,Estádio Major Antônio Couto Pereira,22961
+Bahia,2023,24,18/09/2023,20:00,Segunda,9,Santos,Derrota,1,2,Mandante,Ramon Abatti Abel,28.6,2.2,180.1,5.7,27.1,4.7,178.9,7.9,Arena Fonte Nova,41431
+Bahia,2023,25,30/09/2023,16:00,Sábado,9,Flamengo,Derrota,0,1,Visitante,Savio Pereira Sampaio,29.1,1.8,181.3,5.5,27.8,3.6,184.4,6.0,Estádio do Maracanã,46472
+Bahia,2023,26,07/10/2023,16:00,Sábado,10,Goiás,Vitória,6,4,Visitante,Raphael Claus,28.7,2.5,181.0,6.2,28.3,3.0,180.5,6.9,Estádio da Serrinha,9001
+Bahia,2023,27,18/10/2023,21:30,Quarta,10,Internacional,Vitória,1,0,Mandante,Marcelo de Lima Henrique,28.6,2.6,180.4,6.2,30.0,4.5,178.7,6.8,Arena Fonte Nova,31385
+Bahia,2023,28,21/10/2023,18:30,Sábado,10,Fortaleza,Vitória,2,0,Mandante,Rodrigo Jose Pereira de Lima,27.5,2.7,179.3,6.4,31.0,2.9,178.9,5.4,Arena Fonte Nova,44761
+Bahia,2023,29,25/10/2023,20:00,Quarta,10,Cruzeiro,Derrota,0,3,Visitante,Flavio Rodrigues De Souza,27.9,2.5,180.5,6.3,29.0,2.8,180.3,5.3,Governador Magalhães Pinto,36104
+Bahia,2023,30,28/10/2023,19:00,Sábado,10,Palmeiras,Derrota,0,1,Visitante,Rodrigo Jose Pereira de Lima,26.4,3.3,181.3,7.4,27.1,4.9,181.7,5.1,Nubank Parque,33747
+Bahia,2023,31,31/10/2023,19:00,Terça,10,Fluminense,Vitória,1,0,Mandante,Edina Alves Batista,28.6,2.6,180.4,6.2,26.6,4.9,180.2,7.8,Arena Fonte Nova,34319
+Bahia,2023,32,04/11/2023,19:30,Sábado,11,Grêmio,Derrota,0,1,Visitante,Braulio Da Silva Machado,28.5,3.1,180.4,7.7,30.2,3.8,181.7,4.7,Arena do Grêmio,40154
+Bahia,2023,33,09/11/2023,20:00,Quinta,11,Cuiabá,Derrota,0,3,Mandante,Felipe Fernandes de Lima,28.3,2.9,179.5,6.5,28.9,4.6,182.2,6.2,Arena Fonte Nova,33931
+Bahia,2023,34,12/11/2023,18:30,Domingo,11,Athletico,Empate,1,1,Mandante,Rafael Rodrigo Klein,27.9,3.1,180.5,6.2,27.5,5.9,180.7,5.4,Arena Fonte Nova,33214
+Bahia,2023,35,24/11/2023,21:00,Sexta,11,Corinthians,Vitória,5,1,Visitante,Marcelo de Lima Henrique,27.6,2.8,179.8,6.4,31.7,5.1,180.5,8.3,Neo Química Arena,39403
+Bahia,2023,36,29/11/2023,20:00,Quarta,11,São Paulo,Derrota,0,1,Mandante,Braulio Da Silva Machado,27.6,2.8,179.8,6.4,28.3,5.7,177.9,7.0,Arena Fonte Nova,46288
+Bahia,2023,37,03/12/2023,18:30,Domingo,12,América Mineiro,Derrota,2,3,Visitante,Marcelo de Lima Henrique,27.9,3.1,180.5,6.2,26.7,5.2,179.9,6.8,Arena Independência,2471
+Bahia,2023,38,06/12/2023,21:30,Quarta,12,Atlético Mineiro,Vitória,4,1,Mandante,Ramon Abatti Abel,27.6,2.8,181.5,7.0,30.4,4.5,179.5,6.9,Arena Fonte Nova,28019
+Botafogo,2023,1,15/04/2023,18:30,Sábado,4,São Paulo,Vitória,2,1,Mandante,Ramon Abatti Abel,29.9,3.0,182.6,6.9,29.1,4.1,179.9,6.1,Estádio Nilton Santos,11708
+Botafogo,2023,2,24/04/2023,20:00,Segunda,4,Bahia,Vitória,2,1,Visitante,Raphael Claus,29.4,3.3,182.5,6.9,26.4,3.1,181.1,6.9,Arena Fonte Nova,27822
+Botafogo,2023,3,30/04/2023,16:00,Domingo,4,Flamengo,Vitória,3,2,Visitante,Edina Alves Batista,30.3,3.3,182.8,6.5,28.3,4.7,183.0,5.7,Estádio do Maracanã,53138
+Botafogo,2023,4,07/05/2023,18:30,Domingo,5,Atlético Mineiro,Vitória,2,0,Mandante,Flavio Rodrigues De Souza,26.9,4.0,183.0,6.5,30.0,4.9,180.0,6.4,Estádio Nilton Santos,18218
+Botafogo,2023,5,11/05/2023,19:30,Quinta,5,Corinthians,Vitória,3,0,Mandante,Anderson Daronco,30.0,3.1,184.2,5.8,27.9,6.3,179.5,7.7,Estádio Nilton Santos,22388
+Botafogo,2023,6,14/05/2023,18:30,Domingo,5,Goiás,Derrota,1,2,Visitante,Rafael Rodrigo Klein,29.4,3.0,182.1,6.0,28.6,3.6,180.5,5.4,Estádio da Serrinha,6674
+Botafogo,2023,7,20/05/2023,18:30,Sábado,5,Fluminense,Vitória,1,0,Mandante,Braulio Da Silva Machado,29.9,4.1,183.5,6.4,30.1,6.9,177.7,7.2,Estádio Nilton Santos,24732
+Botafogo,2023,8,28/05/2023,19:00,Domingo,5,América Mineiro,Vitória,2,0,Mandante,Raphael Claus,28.8,4.0,182.5,6.4,28.4,5.0,182.5,6.6,Estádio Nilton Santos,23708
+Botafogo,2023,9,03/06/2023,18:30,Sábado,6,Athletico,Derrota,0,1,Visitante,Vinicius Goncalves Dias Araujo,27.6,4.0,182.5,6.8,24.8,2.9,180.0,5.3,Arena da Baixada,18684
+Botafogo,2023,10,10/06/2023,21:00,Sábado,6,Fortaleza,Vitória,2,0,Mandante,Wilton Pereira Sampaio,28.6,4.5,183.1,6.6,29.6,4.4,179.1,4.7,Estádio Nilton Santos,19297
+Botafogo,2023,11,22/06/2023,20:00,Quinta,6,Cuiabá,Vitória,1,0,Visitante,Flavio Rodrigues De Souza,28.8,3.6,182.6,6.8,27.6,4.5,181.8,5.3,Arena Pantanal,13981
+Botafogo,2023,12,25/06/2023,16:00,Domingo,6,Palmeiras,Vitória,1,0,Visitante,Anderson Daronco,29.4,3.8,182.8,6.8,28.8,3.3,178.1,7.8,Nubank Parque,38877
+Botafogo,2023,13,02/07/2023,16:00,Domingo,7,Vasco da Gama,Vitória,2,0,Mandante,Raphael Claus,28.7,4.5,183.1,6.6,25.4,3.6,181.3,6.0,Estádio Nilton Santos,38798
+Botafogo,2023,14,09/07/2023,18:30,Domingo,7,Grêmio,Vitória,2,0,Visitante,Flavio Rodrigues De Souza,28.4,4.3,183.2,6.5,29.1,4.2,181.3,4.7,Arena do Grêmio,47029
+Botafogo,2023,15,15/07/2023,21:00,Sábado,7,Red Bull Bragantino,Vitória,2,0,Mandante,Anderson Daronco,29.6,4.0,183.5,6.2,24.5,3.1,180.5,6.3,Estádio Nilton Santos,37036
+Botafogo,2023,16,23/07/2023,16:00,Domingo,7,Santos,Empate,2,2,Visitante,Ramon Abatti Abel,28.5,3.4,183.6,6.5,27.5,3.5,179.2,7.1,Estádio Urbano Caldeira,N.A
+Botafogo,2023,17,30/07/2023,16:00,Domingo,7,Coritiba,Vitória,4,1,Mandante,Joao Vitor Gobi,30.7,2.7,183.2,6.7,27.4,4.2,181.6,7.2,Estádio Nilton Santos,43071
+Botafogo,2023,18,06/08/2023,18:30,Domingo,8,Cruzeiro,Empate,0,0,Visitante,Raphael Claus,30.3,3.1,183.2,6.4,28.8,3.0,180.7,5.8,Governador Magalhães Pinto,44759
+Botafogo,2023,19,12/08/2023,21:00,Sábado,8,Internacional,Vitória,3,1,Mandante,Flavio Rodrigues De Souza,28.7,3.6,181.3,6.5,30.1,4.2,176.5,6.3,Estádio Nilton Santos,39598
+Botafogo,2023,20,19/08/2023,16:00,Sábado,8,São Paulo,Empate,0,0,Visitante,Ramon Abatti Abel,29.0,4.2,182.7,6.4,26.2,4.2,179.4,5.3,MorumBIS,51946
+Botafogo,2023,21,27/08/2023,16:00,Domingo,8,Bahia,Vitória,3,0,Mandante,Flavio Rodrigues De Souza,27.9,4.9,182.8,7.6,28.1,2.1,181.7,5.5,Estádio Nilton Santos,39610
+Botafogo,2023,22,02/09/2023,21:00,Sábado,9,Flamengo,Derrota,1,2,Mandante,Raphael Claus,28.9,4.7,183.1,7.3,25.8,3.8,184.5,5.8,Estádio Nilton Santos,40769
+Botafogo,2023,23,16/09/2023,21:00,Sábado,9,Atlético Mineiro,Derrota,0,1,Visitante,Ramon Abatti Abel,30.4,3.1,183.2,6.4,29.2,4.3,180.3,7.8,Governador Magalhães Pinto,31729
+Botafogo,2023,24,22/09/2023,20:00,Sexta,9,Corinthians,Derrota,0,1,Visitante,Paulo Cesar Zanovelli da Silva,29.8,4.0,182.5,6.2,25.5,6.2,182.1,7.4,Neo Química Arena,37237
+Botafogo,2023,25,02/10/2023,20:00,Segunda,10,Goiás,Empate,1,1,Mandante,Braulio Da Silva Machado,29.6,3.9,184.1,5.9,28.4,3.0,181.1,6.7,Estádio Nilton Santos,34294
+Botafogo,2023,26,08/10/2023,16:00,Domingo,10,Fluminense,Vitória,2,0,Visitante,Leandro Pedro Vuaden,30.5,3.1,183.2,6.4,30.9,6.3,177.4,6.9,Estádio do Maracanã,45193
+Botafogo,2023,27,18/10/2023,20:00,Quarta,10,América Mineiro,Vitória,2,1,Visitante,Anderson Daronco,29.3,3.6,183.9,6.2,30.9,4.7,181.7,7.6,Arena Independência,6230
+Botafogo,2023,28,21/10/2023,21:00,Sábado,10,Athletico,Empate,1,1,Mandante,Matheus Delgado Candançan,30.5,3.1,183.2,6.4,27.1,5.4,183.5,5.4,Estádio Nilton Santos,N.A
+Botafogo,2023,30,29/10/2023,20:00,Domingo,10,Cuiabá,Derrota,0,1,Mandante,Wilton Pereira Sampaio,29.9,4.0,183.5,6.2,27.7,4.4,183.3,5.9,Estádio Nilton Santos,30659
+Botafogo,2023,31,01/11/2023,21:30,Quarta,11,Palmeiras,Derrota,3,4,Mandante,Braulio Da Silva Machado,30.6,3.1,183.2,6.4,27.9,4.6,181.5,5.3,Estádio Nilton Santos,34913
+Botafogo,2023,32,06/11/2023,19:00,Segunda,11,Vasco da Gama,Derrota,0,1,Visitante,Leandro Pedro Vuaden,30.6,2.6,183.3,6.7,27.4,5.5,180.0,6.9,Estádio São Januário,21043
+Botafogo,2023,33,09/11/2023,20:00,Quinta,11,Grêmio,Derrota,3,4,Mandante,Ramon Abatti Abel,29.1,3.7,182.7,6.6,28.1,5.1,181.1,4.7,Estádio São Januário,17708
+Botafogo,2023,34,12/11/2023,16:00,Domingo,11,Red Bull Bragantino,Empate,2,2,Visitante,Anderson Daronco,30.6,3.1,183.2,6.4,25.1,3.2,180.6,5.3,Estádio Nabi Abi Chedid,9869
+Botafogo,2023,29,23/11/2023,19:00,Quinta,11,Fortaleza,Empate,2,2,Visitante,Flavio Rodrigues De Souza,30.6,3.1,183.2,6.4,30.3,3.6,177.9,5.3,Estádio Governador Plácido Castelo,25828
+Botafogo,2023,35,26/11/2023,16:00,Domingo,11,Santos,Empate,1,1,Mandante,Wilton Pereira Sampaio,30.0,2.9,184.7,5.2,26.3,3.7,179.0,8.6,Estádio Nilton Santos,26548
+Botafogo,2023,36,29/11/2023,21:30,Quarta,11,Coritiba,Empate,1,1,Visitante,Rodrigo Jose Pereira de Lima,30.5,2.9,184.9,5.1,25.3,3.4,181.9,7.3,Estádio Major Antônio Couto Pereira,N.A
+Botafogo,2023,37,03/12/2023,18:30,Domingo,12,Cruzeiro,Empate,0,0,Mandante,Wilton Pereira Sampaio,28.9,3.4,184.5,5.3,28.0,4.5,181.4,5.1,Estádio Nilton Santos,15462
+Botafogo,2023,38,06/12/2023,21:30,Quarta,12,Internacional,Derrota,1,3,Visitante,Flavio Rodrigues De Souza,27.5,4.5,184.0,6.2,29.9,5.1,178.0,6.3,Estádio Beira-Rio,27365
+Corinthians,2023,1,16/04/2023,16:00,Domingo,4,Cruzeiro,Vitória,2,1,Mandante,Anderson Daronco,27.6,5.5,180.0,7.9,28.7,3.3,179.7,6.8,Neo Química Arena,41304
+Corinthians,2023,2,23/04/2023,19:00,Domingo,4,Goiás,Derrota,1,3,Visitante,Bruno Arleu de Araujo,28.6,6.0,182.3,6.9,27.9,3.2,180.7,5.4,Estádio da Serrinha,8508
+Corinthians,2023,3,29/04/2023,18:30,Sábado,4,Palmeiras,Derrota,1,2,Visitante,Wilton Pereira Sampaio,26.3,5.2,179.8,7.5,28.3,3.4,177.5,7.7,Nubank Parque,41457
+Corinthians,2023,4,08/05/2023,20:00,Segunda,5,Fortaleza,Empate,1,1,Mandante,Ramon Abatti Abel,27.2,7.0,178.8,8.1,29.9,5.0,179.1,5.3,Neo Química Arena,36512
+Corinthians,2023,5,11/05/2023,19:30,Quinta,5,Botafogo,Derrota,0,3,Visitante,Anderson Daronco,27.9,6.3,179.5,7.7,30.0,3.1,184.2,5.8,Estádio Nilton Santos,22388
+Corinthians,2023,6,14/05/2023,16:00,Domingo,5,São Paulo,Empate,1,1,Mandante,Bruno Arleu de Araujo,27.2,6.1,179.9,7.7,28.3,5.1,180.2,6.5,Neo Química Arena,41118
+Corinthians,2023,7,21/05/2023,16:00,Domingo,5,Flamengo,Derrota,0,1,Visitante,Rafael Rodrigo Klein,26.9,5.5,181.4,6.9,26.0,3.8,184.1,4.5,Estádio do Maracanã,64871
+Corinthians,2023,8,28/05/2023,16:00,Domingo,5,Fluminense,Vitória,2,0,Mandante,Leandro Pedro Vuaden,25.9,5.0,180.7,7.2,30.1,6.8,178.3,6.8,Neo Química Arena,34624
+Corinthians,2023,9,03/06/2023,18:30,Sábado,6,América Mineiro,Derrota,0,2,Visitante,Anderson Daronco,27.0,5.7,180.0,6.8,30.1,5.4,180.8,5.6,Arena Independência,6701
+Corinthians,2023,10,10/06/2023,18:30,Sábado,6,Cuiabá,Empate,1,1,Mandante,Andre Luiz Skettino Policarpo Bento,26.2,6.4,180.7,7.5,27.9,4.8,182.1,5.1,Neo Química Arena,40512
+Corinthians,2023,11,21/06/2023,20:00,Quarta,6,Santos,Vitória,2,0,Visitante,Leandro Pedro Vuaden,26.9,5.5,179.2,7.9,27.3,3.2,177.1,8.9,Estádio Urbano Caldeira,12499
+Corinthians,2023,12,24/06/2023,16:00,Sábado,6,Athletico,Derrota,0,1,Visitante,Wagner do Nascimento Magalhaes,26.0,5.1,180.6,7.2,26.7,5.4,180.8,5.3,Arena da Baixada,30144
+Corinthians,2023,13,02/07/2023,11:00,Domingo,7,Red Bull Bragantino,Derrota,0,1,Mandante,Edina Alves Batista,26.1,6.2,180.0,7.9,25.7,3.7,182.1,7.4,Neo Química Arena,42404
+Corinthians,2023,14,08/07/2023,18:30,Sábado,7,Atlético Mineiro,Vitória,1,0,Visitante,Rodrigo Jose Pereira de Lima,27.5,6.8,182.2,6.8,29.9,4.3,180.8,6.7,Governador Magalhães Pinto,21086
+Corinthians,2023,16,22/07/2023,18:30,Sábado,7,Bahia,Empate,0,0,Visitante,Andre Luiz Skettino Policarpo Bento,30.1,6.2,181.6,7.2,27.2,2.7,181.5,5.8,Arena Fonte Nova,43716
+Corinthians,2023,17,29/07/2023,18:30,Sábado,7,Vasco da Gama,Vitória,3,1,Mandante,Leandro Pedro Vuaden,28.6,6.0,182.1,6.6,26.3,3.9,181.3,5.0,Neo Química Arena,N.A
+Corinthians,2023,18,05/08/2023,18:30,Sábado,8,Internacional,Empate,2,2,Visitante,Wagner do Nascimento Magalhaes,28.6,6.9,179.6,7.9,28.3,5.2,181.1,5.5,Estádio Beira-Rio,22509
+Corinthians,2023,19,13/08/2023,16:00,Domingo,8,Coritiba,Vitória,3,1,Mandante,Ramon Abatti Abel,28.5,7.1,180.7,7.8,28.9,4.2,182.7,7.2,Neo Química Arena,42171
+Corinthians,2023,20,19/08/2023,21:00,Sábado,8,Cruzeiro,Empate,1,1,Visitante,Rafael Rodrigo Klein,24.8,5.8,181.6,6.9,28.5,3.3,181.2,4.7,Governador Magalhães Pinto,36202
+Corinthians,2023,21,26/08/2023,21:00,Sábado,8,Goiás,Empate,1,1,Mandante,Paulo Cesar Zanovelli da Silva,25.4,5.8,180.8,6.6,28.3,3.0,181.1,6.7,Neo Química Arena,37316
+Corinthians,2023,22,03/09/2023,16:00,Domingo,9,Palmeiras,Empate,0,0,Mandante,Anderson Daronco,28.1,6.8,182.9,6.4,28.9,3.8,178.3,7.0,Neo Química Arena,44371
+Corinthians,2023,23,14/09/2023,19:00,Quinta,9,Fortaleza,Derrota,1,2,Visitante,Rodrigo Jose Pereira de Lima,25.4,6.5,180.8,7.6,30.7,3.1,178.3,5.2,Estádio Governador Plácido Castelo,32690
+Corinthians,2023,15,18/09/2023,21:00,Segunda,9,Grêmio,Empate,4,4,Mandante,Wilton Pereira Sampaio,28.1,6.9,180.9,7.5,29.8,3.9,181.1,5.6,Neo Química Arena,35796
+Corinthians,2023,24,22/09/2023,20:00,Sexta,9,Botafogo,Vitória,1,0,Mandante,Paulo Cesar Zanovelli da Silva,25.5,6.2,182.1,7.4,29.8,4.0,182.5,6.2,Neo Química Arena,37237
+Corinthians,2023,25,30/09/2023,18:30,Sábado,9,São Paulo,Derrota,1,2,Visitante,Flavio Rodrigues De Souza,28.3,5.2,180.5,8.0,28.1,5.4,179.0,6.5,MorumBIS,56735
+Corinthians,2023,26,07/10/2023,21:00,Sábado,10,Flamengo,Empate,1,1,Mandante,Anderson Daronco,28.4,7.0,184.1,5.5,27.8,3.6,184.4,6.0,Neo Química Arena,40800
+Corinthians,2023,27,19/10/2023,21:30,Quinta,10,Fluminense,Empate,3,3,Visitante,Paulo Cesar Zanovelli da Silva,28.8,6.7,179.3,8.0,32.4,6.4,178.2,5.8,Estádio do Maracanã,35096
+Corinthians,2023,28,22/10/2023,18:30,Domingo,10,América Mineiro,Empate,1,1,Mandante,Yuri Elino Ferreira Da Cruz,27.4,6.9,181.3,8.4,30.3,4.3,180.3,7.7,Neo Química Arena,38121
+Corinthians,2023,29,25/10/2023,21:30,Quarta,10,Cuiabá,Vitória,1,0,Visitante,Andre Luiz Skettino Policarpo Bento,30.6,5.5,182.7,6.6,28.2,4.1,183.1,6.1,Arena Pantanal,36620
+Corinthians,2023,30,29/10/2023,18:30,Domingo,10,Santos,Empate,1,1,Mandante,Anderson Daronco,31.5,5.2,181.3,7.8,28.0,4.1,178.7,8.1,Neo Química Arena,42248
+Corinthians,2023,31,01/11/2023,19:00,Quarta,11,Athletico,Vitória,1,0,Mandante,Leandro Pedro Vuaden,29.8,6.0,181.0,8.3,27.4,5.3,181.6,4.5,Neo Química Arena,29870
+Corinthians,2023,32,05/11/2023,16:00,Domingo,11,Red Bull Bragantino,Derrota,0,1,Visitante,Raphael Claus,30.4,5.4,180.5,7.5,25.3,3.0,179.8,5.3,Estádio Nabi Abi Chedid,10797
+Corinthians,2023,33,09/11/2023,19:00,Quinta,11,Atlético Mineiro,Empate,1,1,Mandante,Braulio Da Silva Machado,30.1,6.3,183.1,6.6,27.6,3.0,178.5,6.6,Neo Química Arena,30348
+Corinthians,2023,34,12/11/2023,16:00,Domingo,11,Grêmio,Vitória,1,0,Visitante,Rodrigo Jose Pereira de Lima,28.9,5.5,179.8,7.6,28.7,4.6,180.1,4.7,Arena do Grêmio,49459
+Corinthians,2023,35,24/11/2023,21:00,Sexta,11,Bahia,Derrota,1,5,Mandante,Marcelo de Lima Henrique,31.7,5.1,180.5,8.3,27.6,2.8,179.8,6.4,Neo Química Arena,39403
+Corinthians,2023,36,28/11/2023,21:30,Terça,11,Vasco da Gama,Vitória,4,2,Visitante,Savio Pereira Sampaio,30.0,6.2,180.8,7.3,28.9,4.8,180.0,5.9,Estádio São Januário,20220
+Corinthians,2023,37,02/12/2023,18:00,Sábado,12,Internacional,Derrota,1,2,Mandante,Caio Max Augusto Vieira,30.9,6.5,181.7,7.9,30.5,4.5,177.4,6.2,Neo Química Arena,40583
+Corinthians,2023,38,06/12/2023,21:30,Quarta,12,Coritiba,Vitória,2,0,Visitante,Jonathan Benkenstein Pinheiro,26.8,5.2,180.8,9.5,24.6,4.5,179.3,7.6,Estádio Major Antônio Couto Pereira,N.A
+Cruzeiro,2023,1,16/04/2023,16:00,Domingo,4,Corinthians,Derrota,1,2,Visitante,Anderson Daronco,28.7,3.3,179.7,6.8,27.6,5.5,180.0,7.9,Neo Química Arena,41304
+Cruzeiro,2023,2,22/04/2023,21:00,Sábado,4,Grêmio,Vitória,1,0,Mandante,Flavio Rodrigues De Souza,29.3,3.0,179.6,6.9,29.1,3.9,180.9,4.4,Estadio Raimundo Sampaio (Arena Independencia),21605
+Cruzeiro,2023,3,29/04/2023,18:30,Sábado,4,Red Bull Bragantino,Vitória,3,0,Visitante,Braulio Da Silva Machado,29.7,3.0,179.9,7.2,24.8,3.7,180.2,7.6,Estádio Nabi Abi Chedid,4829
+Cruzeiro,2023,4,06/05/2023,16:00,Sábado,5,Santos,Vitória,2,1,Mandante,Bruno Arleu de Araujo,28.8,3.3,179.6,6.9,26.8,4.2,181.1,6.3,Governador Magalhães Pinto,21191
+Cruzeiro,2023,5,10/05/2023,21:30,Quarta,5,Fluminense,Derrota,0,2,Mandante,Flavio Rodrigues De Souza,28.3,3.4,179.0,4.8,30.1,7.2,179.2,5.8,Governador Magalhães Pinto,51846
+Cruzeiro,2023,6,14/05/2023,18:30,Domingo,5,América Mineiro,Vitória,4,0,Visitante,Wilton Pereira Sampaio,28.7,3.2,178.8,6.1,31.3,4.1,180.7,6.9,Arena Independência,4295
+Cruzeiro,2023,7,22/05/2023,20:00,Segunda,5,Cuiabá,Derrota,0,1,Mandante,Savio Pereira Sampaio,28.8,3.2,178.8,6.1,28.3,4.5,182.0,5.4,Estadio Municipal João Lamego Netto,15722
+Cruzeiro,2023,8,27/05/2023,18:30,Sábado,5,Flamengo,Empate,1,1,Visitante,Luiz Flávio de Oliveira,28.1,3.5,179.7,4.9,25.1,3.1,184.5,5.1,Estádio do Maracanã,65270
+Cruzeiro,2023,9,03/06/2023,18:30,Sábado,6,Atlético Mineiro,Derrota,0,1,Mandante,Savio Pereira Sampaio,28.6,3.5,180.8,5.1,29.6,4.3,179.9,5.9,Parque do Sabiá,34344
+Cruzeiro,2023,10,10/06/2023,18:30,Sábado,6,Bahia,Empate,2,2,Visitante,Rodrigo Jose Pereira de Lima,28.4,3.4,179.0,4.8,27.8,4.1,181.6,6.9,Arena Fonte Nova,34019
+Cruzeiro,2023,11,21/06/2023,19:00,Quarta,6,Fortaleza,Derrota,0,1,Mandante,Bruno Arleu de Araujo,28.4,3.4,179.0,4.8,30.5,3.2,178.6,5.1,Governador Magalhães Pinto,28494
+Cruzeiro,2023,12,24/06/2023,21:00,Sábado,6,São Paulo,Vitória,1,0,Mandante,Ramon Abatti Abel,27.8,2.9,179.5,4.7,28.1,5.3,179.5,6.6,Governador Magalhães Pinto,17478
+Cruzeiro,2023,13,01/07/2023,21:00,Sábado,7,Internacional,Empate,0,0,Visitante,Wagner do Nascimento Magalhaes,27.2,3.6,179.8,4.8,28.1,5.0,180.0,7.6,Estádio Beira-Rio,23923
+Cruzeiro,2023,14,08/07/2023,16:00,Sábado,7,Vasco da Gama,Vitória,1,0,Visitante,Savio Pereira Sampaio,27.1,4.3,179.5,5.8,25.3,4.4,181.5,6.3,Estádio São Januário,N.A
+Cruzeiro,2023,15,16/07/2023,11:00,Domingo,7,Coritiba,Empate,0,0,Mandante,Leandro Pedro Vuaden,27.6,4.2,180.0,5.5,25.8,4.5,180.6,7.7,Governador Magalhães Pinto,22123
+Cruzeiro,2023,16,23/07/2023,16:00,Domingo,7,Goiás,Derrota,0,1,Mandante,Caio Max Augusto Vieira,28.6,3.3,179.6,4.9,29.1,3.2,180.9,6.9,Governador Magalhães Pinto,21688
+Cruzeiro,2023,17,29/07/2023,16:00,Sábado,7,Athletico,Empate,3,3,Visitante,Yuri Elino Ferreira Da Cruz,28.6,3.2,180.5,5.3,26.8,5.3,181.0,4.8,Arena da Baixada,22730
+Cruzeiro,2023,18,06/08/2023,18:30,Domingo,8,Botafogo,Empate,0,0,Mandante,Raphael Claus,28.8,3.0,180.7,5.8,30.3,3.1,183.2,6.4,Governador Magalhães Pinto,44759
+Cruzeiro,2023,19,14/08/2023,19:00,Segunda,8,Palmeiras,Derrota,0,1,Visitante,Wagner do Nascimento Magalhaes,28.2,3.3,180.5,5.1,27.4,4.5,178.3,6.7,Nubank Parque,38555
+Cruzeiro,2023,20,19/08/2023,21:00,Sábado,8,Corinthians,Empate,1,1,Mandante,Rafael Rodrigo Klein,28.5,3.3,181.2,4.7,24.8,5.8,181.6,6.9,Governador Magalhães Pinto,36202
+Cruzeiro,2023,21,27/08/2023,19:00,Domingo,8,Grêmio,Derrota,0,3,Visitante,Marcelo de Lima Henrique,28.4,3.4,181.0,4.9,28.7,5.1,182.0,5.0,Arena do Grêmio,52203
+Cruzeiro,2023,22,03/09/2023,18:30,Domingo,9,Red Bull Bragantino,Empate,0,0,Mandante,Wagner do Nascimento Magalhaes,28.4,3.2,180.7,5.0,25.2,3.3,182.7,4.4,Governador Magalhães Pinto,29417
+Cruzeiro,2023,23,14/09/2023,19:00,Quinta,9,Santos,Vitória,3,0,Visitante,Braulio Da Silva Machado,29.2,3.5,180.5,5.2,27.9,3.6,179.8,7.1,Estádio Urbano Caldeira,12244
+Cruzeiro,2023,24,20/09/2023,21:30,Quarta,9,Fluminense,Derrota,0,1,Visitante,Matheus Delgado Candançan,29.2,3.0,180.4,5.3,30.4,7.3,178.5,6.2,Estádio do Maracanã,28985
+Cruzeiro,2023,25,01/10/2023,16:00,Domingo,10,América Mineiro,Empate,1,1,Mandante,Leandro Pedro Vuaden,28.9,3.2,180.1,5.5,29.8,4.4,180.5,6.4,Governador Magalhães Pinto,44279
+Cruzeiro,2023,26,14/10/2023,21:00,Sábado,10,Cuiabá,Empate,0,0,Visitante,Rodrigo Jose Pereira de Lima,29.2,3.0,180.4,5.9,29.2,4.4,181.7,7.0,Arena Pantanal,12100
+Cruzeiro,2023,27,19/10/2023,19:00,Quinta,10,Flamengo,Derrota,0,2,Mandante,Rafael Rodrigo Klein,28.1,4.3,181.6,5.4,28.7,4.4,184.4,6.0,Governador Magalhães Pinto,37073
+Cruzeiro,2023,28,22/10/2023,16:00,Domingo,10,Atlético Mineiro,Vitória,1,0,Visitante,Ramon Abatti Abel,28.5,3.7,179.7,5.8,28.0,4.1,179.8,6.9,Governador Magalhães Pinto,42058
+Cruzeiro,2023,29,25/10/2023,20:00,Quarta,10,Bahia,Vitória,3,0,Mandante,Flavio Rodrigues De Souza,29.0,2.8,180.3,5.3,27.9,2.5,180.5,6.3,Governador Magalhães Pinto,36104
+Cruzeiro,2023,31,02/11/2023,20:00,Quinta,11,São Paulo,Derrota,0,1,Visitante,Wilton Pereira Sampaio,29.1,2.8,180.3,5.3,28.8,5.4,179.8,6.4,MorumBIS,50570
+Cruzeiro,2023,32,05/11/2023,16:00,Domingo,11,Internacional,Derrota,1,2,Mandante,Matheus Delgado Candançan,29.1,2.8,180.3,5.3,29.4,4.8,178.5,6.5,Governador Magalhães Pinto,36801
+Cruzeiro,2023,34,11/11/2023,16:00,Sábado,11,Coritiba,Derrota,0,1,Visitante,Braulio Da Silva Machado,29.3,2.9,180.6,5.1,28.6,5.0,180.5,7.1,Estádio Major Antônio Couto Pereira,7243
+Cruzeiro,2023,30,18/11/2023,18:30,Sábado,11,Fortaleza,Vitória,1,0,Visitante,Savio Pereira Sampaio,28.0,3.7,180.0,5.3,29.9,4.1,177.1,5.9,Estádio Governador Plácido Castelo,30804
+Cruzeiro,2023,33,22/11/2023,19:00,Quarta,11,Vasco da Gama,Empate,2,2,Mandante,Leandro Pedro Vuaden,28.0,3.7,180.0,5.8,28.4,5.0,180.5,7.0,Governador Magalhães Pinto,N.A
+Cruzeiro,2023,35,27/11/2023,21:00,Segunda,11,Goiás,Vitória,1,0,Visitante,Ramon Abatti Abel,28.0,3.7,180.0,5.8,29.1,2.9,180.5,5.9,Estádio da Serrinha,9143
+Cruzeiro,2023,36,30/11/2023,20:00,Quinta,11,Athletico,Empate,1,1,Mandante,Leandro Pedro Vuaden,27.5,4.3,180.2,5.7,28.0,5.8,180.9,5.3,Governador Magalhães Pinto,36696
+Cruzeiro,2023,37,03/12/2023,18:30,Domingo,12,Botafogo,Empate,0,0,Visitante,Wilton Pereira Sampaio,28.0,4.5,181.4,5.1,28.9,3.4,184.5,5.3,Estádio Nilton Santos,15462
+Cruzeiro,2023,38,06/12/2023,21:30,Quarta,12,Palmeiras,Empate,1,1,Mandante,Anderson Daronco,27.1,4.4,180.8,5.2,28.0,5.4,180.5,5.3,Governador Magalhães Pinto,44190
+Flamengo,2023,1,16/04/2023,16:00,Domingo,4,Coritiba,Vitória,3,0,Mandante,Rodrigo Jose Pereira de Lima,26.5,4.3,181.9,5.8,28.3,3.9,183.3,7.7,Estádio do Maracanã,42848
+Flamengo,2023,2,23/04/2023,11:00,Domingo,4,Internacional,Derrota,1,2,Visitante,Ramon Abatti Abel,27.9,4.4,182.6,5.4,28.1,4.6,181.4,5.4,Estádio Beira-Rio,45751
+Flamengo,2023,3,30/04/2023,16:00,Domingo,4,Botafogo,Derrota,2,3,Mandante,Edina Alves Batista,28.3,4.7,183.0,5.7,30.3,3.3,182.8,6.5,Estádio do Maracanã,53138
+Flamengo,2023,4,07/05/2023,16:00,Domingo,5,Athletico,Derrota,1,2,Visitante,Raphael Claus,26.9,4.4,182.0,5.9,25.7,5.8,181.1,6.3,Arena da Baixada,32949
+Flamengo,2023,5,10/05/2023,20:00,Quarta,5,Goiás,Vitória,2,0,Mandante,Savio Pereira Sampaio,26.0,4.2,182.6,6.9,28.3,3.7,181.2,5.7,Estádio do Maracanã,44948
+Flamengo,2023,6,13/05/2023,16:00,Sábado,5,Bahia,Vitória,3,2,Visitante,Paulo Cesar Zanovelli da Silva,26.0,4.5,183.2,6.6,26.2,3.1,181.0,6.0,Arena Fonte Nova,48502
+Flamengo,2023,7,21/05/2023,16:00,Domingo,5,Corinthians,Vitória,1,0,Mandante,Rafael Rodrigo Klein,26.0,3.8,184.1,4.5,26.9,5.5,181.4,6.9,Estádio do Maracanã,64871
+Flamengo,2023,8,27/05/2023,18:30,Sábado,5,Cruzeiro,Empate,1,1,Mandante,Luiz Flávio de Oliveira,25.1,3.1,184.5,5.1,28.1,3.5,179.7,4.9,Estádio do Maracanã,65270
+Flamengo,2023,9,05/06/2023,20:00,Segunda,6,Vasco da Gama,Vitória,4,1,Visitante,Braulio Da Silva Machado,26.1,4.5,184.1,5.9,26.2,3.3,180.6,6.5,Estádio do Maracanã,46423
+Flamengo,2023,10,11/06/2023,18:30,Domingo,6,Grêmio,Vitória,3,0,Mandante,Savio Pereira Sampaio,27.8,4.4,182.8,7.2,27.8,4.6,181.4,4.7,Estádio do Maracanã,62967
+Flamengo,2023,11,22/06/2023,21:30,Quinta,6,Red Bull Bragantino,Derrota,0,4,Visitante,Anderson Daronco,27.4,4.4,182.9,7.2,24.6,2.9,181.2,7.5,Estádio Nabi Abi Chedid,10103
+Flamengo,2023,12,25/06/2023,18:30,Domingo,6,Santos,Vitória,3,2,Visitante,Wilton Pereira Sampaio,26.0,4.1,183.0,6.4,27.0,3.5,177.2,9.0,Estádio Urbano Caldeira,N.A
+Flamengo,2023,13,01/07/2023,18:30,Sábado,7,Fortaleza,Vitória,2,0,Mandante,Savio Pereira Sampaio,26.8,3.6,182.5,6.6,30.1,2.9,178.1,4.5,Estádio do Maracanã,64853
+Flamengo,2023,14,08/07/2023,21:00,Sábado,7,Palmeiras,Empate,1,1,Visitante,Ramon Abatti Abel,25.8,4.4,183.2,6.2,28.2,3.7,178.2,7.7,Nubank Parque,40229
+Flamengo,2023,15,16/07/2023,16:00,Domingo,7,Fluminense,Empate,0,0,Visitante,Savio Pereira Sampaio,28.5,5.3,181.2,6.5,31.2,6.8,178.4,6.8,Estádio do Maracanã,62354
+Flamengo,2023,16,22/07/2023,16:00,Sábado,7,América Mineiro,Empate,1,1,Mandante,Rodrigo Jose Pereira de Lima,27.9,4.7,181.4,6.8,28.5,2.6,180.5,7.1,Estádio do Maracanã,60402
+Flamengo,2023,17,29/07/2023,21:00,Sábado,7,Atlético Mineiro,Vitória,2,1,Visitante,Flavio Rodrigues De Souza,27.3,5.6,182.7,6.6,29.4,3.7,179.6,7.6,Governador Magalhães Pinto,22441
+Flamengo,2023,18,06/08/2023,20:00,Domingo,8,Cuiabá,Derrota,0,3,Visitante,Anderson Daronco,27.2,4.4,182.2,6.6,29.1,4.1,181.7,6.3,Arena Pantanal,33091
+Flamengo,2023,19,13/08/2023,18:30,Domingo,8,São Paulo,Empate,1,1,Mandante,Rafael Rodrigo Klein,25.8,3.8,182.0,6.8,26.7,4.1,177.8,5.3,Estádio do Maracanã,62018
+Flamengo,2023,20,20/08/2023,16:00,Domingo,8,Coritiba,Vitória,3,2,Visitante,Raphael Claus,27.2,5.2,183.9,5.9,28.5,4.7,180.1,6.3,Estádio Major Antônio Couto Pereira,31851
+Flamengo,2023,21,26/08/2023,18:30,Sábado,8,Internacional,Empate,0,0,Mandante,Edina Alves Batista,26.9,3.3,182.5,6.5,28.8,5.0,180.4,6.2,Estádio do Maracanã,58892
+Flamengo,2023,22,02/09/2023,21:00,Sábado,9,Botafogo,Vitória,2,1,Visitante,Raphael Claus,25.8,3.8,184.5,5.8,28.9,4.7,183.1,7.3,Estádio Nilton Santos,40769
+Flamengo,2023,23,13/09/2023,21:30,Quarta,9,Athletico,Derrota,0,3,Mandante,Rafael Rodrigo Klein,26.1,4.4,184.3,6.0,26.6,4.3,182.5,4.9,Estádio Kleber Andrade,20670
+Flamengo,2023,24,20/09/2023,19:00,Quarta,9,Goiás,Empate,0,0,Visitante,Raphael Claus,27.5,4.2,183.5,6.8,28.0,3.0,180.0,6.7,Estádio da Serrinha,13799
+Flamengo,2023,25,30/09/2023,16:00,Sábado,9,Bahia,Vitória,1,0,Mandante,Savio Pereira Sampaio,27.8,3.6,184.4,6.0,29.1,1.8,181.3,5.5,Estádio do Maracanã,46472
+Flamengo,2023,26,07/10/2023,21:00,Sábado,10,Corinthians,Empate,1,1,Visitante,Anderson Daronco,27.8,3.6,184.4,6.0,28.4,7.0,184.1,5.5,Neo Química Arena,40800
+Flamengo,2023,27,19/10/2023,19:00,Quinta,10,Cruzeiro,Vitória,2,0,Visitante,Rafael Rodrigo Klein,28.7,4.4,184.4,6.0,28.1,4.3,181.6,5.4,Governador Magalhães Pinto,37073
+Flamengo,2023,28,22/10/2023,16:00,Domingo,10,Vasco da Gama,Vitória,1,0,Mandante,Raphael Claus,27.4,3.0,184.3,6.2,28.2,5.2,179.5,5.9,Estádio do Maracanã,69473
+Flamengo,2023,29,25/10/2023,21:30,Quarta,10,Grêmio,Derrota,2,3,Visitante,Rodrigo Jose Pereira de Lima,27.4,2.9,183.0,6.5,29.0,4.9,182.2,5.0,Arena do Grêmio,22325
+Flamengo,2023,31,01/11/2023,20:00,Quarta,11,Santos,Derrota,1,2,Mandante,Rafael Rodrigo Klein,27.2,2.9,183.3,6.7,27.6,4.2,179.6,9.1,Estádio do Maracanã,64708
+Flamengo,2023,32,05/11/2023,16:00,Domingo,11,Fortaleza,Vitória,2,0,Visitante,Anderson Daronco,28.4,3.5,181.9,7.8,30.9,3.8,177.5,5.8,Estádio Governador Plácido Castelo,49324
+Flamengo,2023,33,08/11/2023,21:30,Quarta,11,Palmeiras,Vitória,3,0,Mandante,Rodrigo Jose Pereira de Lima,27.3,1.7,182.4,7.8,27.9,4.6,181.5,5.3,Estádio do Maracanã,64590
+Flamengo,2023,34,11/11/2023,18:30,Sábado,11,Fluminense,Empate,1,1,Mandante,Wilton Pereira Sampaio,28.4,3.5,182.5,7.8,29.7,6.5,177.4,6.9,Estádio do Maracanã,59970
+Flamengo,2023,30,23/11/2023,21:30,Quinta,11,Red Bull Bragantino,Vitória,1,0,Mandante,Braulio Da Silva Machado,27.1,1.5,181.7,7.8,26.6,3.3,180.6,5.1,Estádio do Maracanã,57699
+Flamengo,2023,35,26/11/2023,18:30,Domingo,11,América Mineiro,Vitória,3,0,Visitante,Rodrigo Jose Pereira de Lima,27.9,2.3,183.2,7.5,29.5,3.9,180.5,5.6,Parque do Sabiá,39900
+Flamengo,2023,36,29/11/2023,19:30,Quarta,11,Atlético Mineiro,Derrota,0,3,Mandante,Ramon Abatti Abel,27.6,2.3,182.5,7.5,29.5,4.1,179.4,6.2,Estádio do Maracanã,65305
+Flamengo,2023,37,03/12/2023,16:00,Domingo,12,Cuiabá,Vitória,2,1,Mandante,Rodrigo Jose Pereira de Lima,29.1,3.2,182.5,7.8,29.0,4.6,182.4,6.4,Estádio do Maracanã,63148
+Flamengo,2023,38,06/12/2023,21:30,Quarta,12,São Paulo,Derrota,0,1,Visitante,Caio Max Augusto Vieira,28.5,1.9,182.3,7.8,26.6,5.0,180.2,6.5,MorumBIS,36618
+Fluminense,2023,1,15/04/2023,16:00,Sábado,4,América Mineiro,Vitória,3,0,Visitante,Braulio Da Silva Machado,27.7,7.1,178.7,7.0,32.1,3.7,179.6,8.3,Arena Independência,6653
+Fluminense,2023,2,22/04/2023,16:00,Sábado,4,Athletico,Vitória,2,0,Mandante,Paulo Cesar Zanovelli da Silva,30.7,7.0,178.5,6.7,27.9,5.2,181.4,4.7,Estádio do Maracanã,38598
+Fluminense,2023,3,29/04/2023,16:30,Sábado,4,Fortaleza,Derrota,2,4,Visitante,Raphael Claus,26.9,6.7,179.6,6.3,29.4,4.9,179.2,5.3,Estádio Governador Plácido Castelo,39943
+Fluminense,2023,4,06/05/2023,21:00,Sábado,5,Vasco da Gama,Empate,1,1,Mandante,Wilton Pereira Sampaio,30.8,7.0,178.5,6.7,25.5,3.9,180.8,5.3,Estádio do Maracanã,39850
+Fluminense,2023,5,10/05/2023,21:30,Quarta,5,Cruzeiro,Vitória,2,0,Visitante,Flavio Rodrigues De Souza,30.1,7.2,179.2,5.8,28.3,3.4,179.0,4.8,Governador Magalhães Pinto,51846
+Fluminense,2023,6,13/05/2023,18:30,Sábado,5,Cuiabá,Vitória,2,0,Mandante,Edina Alves Batista,31.3,6.5,179.2,6.0,28.7,3.8,181.2,5.7,Estádio do Maracanã,39040
+Fluminense,2023,7,20/05/2023,18:30,Sábado,5,Botafogo,Derrota,0,1,Visitante,Braulio Da Silva Machado,30.1,6.9,177.7,7.2,29.9,4.1,183.5,6.4,Estádio Nilton Santos,24732
+Fluminense,2023,8,28/05/2023,16:00,Domingo,5,Corinthians,Derrota,0,2,Visitante,Leandro Pedro Vuaden,30.1,6.8,178.3,6.8,25.9,5.0,180.7,7.2,Neo Química Arena,34624
+Fluminense,2023,9,04/06/2023,16:00,Domingo,6,Red Bull Bragantino,Vitória,2,1,Mandante,Rodrigo Jose Pereira de Lima,30.2,6.8,178.3,6.8,24.7,2.9,180.5,6.1,Estádio do Maracanã,27228
+Fluminense,2023,10,11/06/2023,18:30,Domingo,6,Goiás,Empate,2,2,Visitante,Leandro Pedro Vuaden,27.8,6.4,179.0,6.7,28.8,4.0,181.5,5.0,Estádio da Serrinha,10260
+Fluminense,2023,11,21/06/2023,21:30,Quarta,6,Atlético Mineiro,Empate,1,1,Mandante,Ramon Abatti Abel,31.0,6.0,180.2,7.3,29.6,4.6,179.6,7.5,Estádio Raulino de Oliveira,7788
+Fluminense,2023,12,24/06/2023,18:30,Sábado,6,Bahia,Vitória,2,1,Mandante,Savio Pereira Sampaio,29.9,6.4,178.5,8.1,27.4,4.8,180.7,6.6,Estádio do Maracanã,24507
+Fluminense,2023,13,01/07/2023,16:00,Sábado,7,São Paulo,Derrota,0,1,Visitante,Anderson Daronco,31.8,6.7,176.3,6.2,26.5,5.9,179.9,6.2,MorumBIS,49153
+Fluminense,2023,14,09/07/2023,16:00,Domingo,7,Internacional,Vitória,2,0,Mandante,Luiz Flávio de Oliveira,31.2,6.8,179.2,6.9,30.0,4.3,179.5,7.2,Estádio do Maracanã,34166
+Fluminense,2023,15,16/07/2023,16:00,Domingo,7,Flamengo,Empate,0,0,Mandante,Savio Pereira Sampaio,31.2,6.8,178.4,6.8,28.5,5.3,181.2,6.5,Estádio do Maracanã,62354
+Fluminense,2023,16,24/07/2023,19:00,Segunda,7,Coritiba,Derrota,0,2,Visitante,Flavio Rodrigues De Souza,31.1,6.1,179.9,7.3,27.4,4.2,181.6,7.2,Estádio Major Antônio Couto Pereira,32872
+Fluminense,2023,17,29/07/2023,16:00,Sábado,7,Santos,Vitória,1,0,Mandante,Rodrigo Jose Pereira de Lima,29.1,6.0,177.3,7.3,27.1,3.6,178.9,6.6,Estádio do Maracanã,34211
+Fluminense,2023,18,05/08/2023,21:00,Sábado,8,Palmeiras,Vitória,2,1,Mandante,Ramon Abatti Abel,30.2,6.5,175.5,7.1,26.0,6.2,180.9,5.9,Estádio do Maracanã,77973
+Fluminense,2023,19,13/08/2023,16:00,Domingo,8,Grêmio,Derrota,1,2,Visitante,Rodrigo Jose Pereira de Lima,31.3,5.6,177.4,6.9,28.8,4.9,181.7,5.5,Arena do Grêmio,38712
+Fluminense,2023,20,19/08/2023,18:30,Sábado,8,América Mineiro,Vitória,3,1,Mandante,Flavio Rodrigues De Souza,32.4,6.1,178.2,6.9,30.8,4.7,182.4,7.0,Estádio do Maracanã,35562
+Fluminense,2023,21,27/08/2023,18:30,Domingo,8,Athletico,Empate,2,2,Visitante,Raphael Claus,27.5,4.1,180.2,7.3,26.5,5.5,181.0,5.6,Arena da Baixada,23630
+Fluminense,2023,22,03/09/2023,16:00,Domingo,9,Fortaleza,Vitória,1,0,Mandante,Andre Luiz Skettino Policarpo Bento,31.1,7.5,177.4,6.5,30.5,3.1,178.4,5.0,Estádio Raulino de Oliveira,10035
+Fluminense,2023,23,16/09/2023,16:00,Sábado,9,Vasco da Gama,Derrota,2,4,Visitante,Raphael Claus,28.8,6.9,177.5,5.8,27.1,4.7,182.3,6.2,Estádio Nilton Santos,35850
+Fluminense,2023,24,20/09/2023,21:30,Quarta,9,Cruzeiro,Vitória,1,0,Mandante,Matheus Delgado Candançan,30.4,7.3,178.5,6.2,29.2,3.0,180.4,5.3,Estádio do Maracanã,28985
+Fluminense,2023,25,30/09/2023,18:30,Sábado,9,Cuiabá,Derrota,0,3,Visitante,Paulo Cesar Zanovelli da Silva,28.8,4.3,178.7,7.6,29.3,3.8,182.6,7.3,Arena Pantanal,8358
+Fluminense,2023,26,08/10/2023,16:00,Domingo,10,Botafogo,Derrota,0,2,Mandante,Leandro Pedro Vuaden,30.9,6.3,177.4,6.9,30.5,3.1,183.2,6.4,Estádio do Maracanã,45193
+Fluminense,2023,27,19/10/2023,21:30,Quinta,10,Corinthians,Empate,3,3,Mandante,Paulo Cesar Zanovelli da Silva,32.4,6.4,178.2,5.8,28.8,6.7,179.3,8.0,Estádio do Maracanã,35096
+Fluminense,2023,28,22/10/2023,18:30,Domingo,10,Red Bull Bragantino,Derrota,0,1,Visitante,Wilton Pereira Sampaio,29.4,6.6,176.3,5.6,26.1,4.0,180.2,5.4,Estádio Nabi Abi Chedid,6813
+Fluminense,2023,29,25/10/2023,19:00,Quarta,10,Goiás,Vitória,5,3,Mandante,Leandro Pedro Vuaden,32.3,6.5,177.2,6.2,29.1,2.7,180.8,5.4,Estádio Raulino de Oliveira,4793
+Fluminense,2023,30,28/10/2023,21:00,Sábado,10,Atlético Mineiro,Derrota,0,2,Visitante,Raphael Claus,28.8,6.5,178.5,6.2,28.4,4.3,178.9,6.2,Arena MRV,23003
+Fluminense,2023,31,31/10/2023,19:00,Terça,10,Bahia,Derrota,0,1,Visitante,Edina Alves Batista,26.6,4.9,180.2,7.8,28.6,2.6,180.4,6.2,Arena Fonte Nova,34319
+Fluminense,2023,33,08/11/2023,19:00,Quarta,11,Internacional,Empate,0,0,Visitante,Caio Max Augusto Vieira,27.0,5.9,177.7,6.7,29.4,4.8,178.5,6.5,Estádio Beira-Rio,18669
+Fluminense,2023,34,11/11/2023,18:30,Sábado,11,Flamengo,Empate,1,1,Visitante,Wilton Pereira Sampaio,29.7,6.5,177.4,6.9,28.4,3.5,182.5,7.8,Estádio do Maracanã,59970
+Fluminense,2023,32,22/11/2023,21:30,Quarta,11,São Paulo,Vitória,1,0,Mandante,Andre Luiz Skettino Policarpo Bento,32.0,6.4,179.4,6.0,27.1,5.5,178.5,6.6,Estádio do Maracanã,44694
+Fluminense,2023,35,25/11/2023,21:00,Sábado,11,Coritiba,Vitória,2,1,Mandante,Matheus Delgado Candançan,30.2,7.0,177.7,6.0,25.6,3.4,180.4,8.1,Estádio do Maracanã,19919
+Fluminense,2023,36,29/11/2023,19:00,Quarta,11,Santos,Vitória,3,0,Visitante,Anderson Daronco,30.5,6.2,178.7,5.7,27.3,3.0,178.0,9.1,Estádio Urbano Caldeira,12855
+Fluminense,2023,37,03/12/2023,16:00,Domingo,12,Palmeiras,Derrota,0,1,Visitante,Braulio Da Silva Machado,28.8,6.9,179.5,6.3,28.4,5.0,180.5,5.3,Nubank Parque,29986
+Fluminense,2023,38,06/12/2023,21:30,Quarta,12,Grêmio,Derrota,2,3,Mandante,Raphael Claus,31.5,6.9,178.4,6.0,29.1,3.7,181.7,6.2,Estádio do Maracanã,44190
+Grêmio,2023,1,16/04/2023,18:30,Domingo,4,Santos,Vitória,1,0,Mandante,Wilton Pereira Sampaio,28.0,4.8,180.8,5.2,26.1,4.2,181.0,7.7,Estádio Alfredo Jaconi,13997
+Grêmio,2023,2,22/04/2023,21:00,Sábado,4,Cruzeiro,Derrota,0,1,Visitante,Flavio Rodrigues De Souza,29.1,3.9,180.9,4.4,29.3,3.0,179.6,6.9,Estadio Raimundo Sampaio (Arena Independencia),21605
+Grêmio,2023,3,30/04/2023,18:30,Domingo,4,Cuiabá,Vitória,2,1,Visitante,Bruno Arleu de Araujo,29.0,4.8,180.2,5.1,29.4,3.5,181.7,4.1,Arena Pantanal,21385
+Grêmio,2023,4,07/05/2023,18:30,Domingo,5,Red Bull Bragantino,Empate,3,3,Mandante,Paulo Cesar Zanovelli da Silva,28.0,5.1,181.3,4.8,24.2,3.1,180.9,7.2,Arena do Grêmio,23760
+Grêmio,2023,5,10/05/2023,21:30,Quarta,5,Palmeiras,Derrota,1,4,Visitante,Braulio Da Silva Machado,28.1,4.2,180.9,4.9,28.7,3.4,177.3,7.5,Nubank Parque,37532
+Grêmio,2023,6,14/05/2023,16:00,Domingo,5,Fortaleza,Empate,0,0,Mandante,Bruno Mota Correia,28.4,4.8,181.0,4.4,28.4,4.8,178.4,6.5,Arena do Grêmio,17396
+Grêmio,2023,7,21/05/2023,18:30,Domingo,5,Internacional,Vitória,3,1,Mandante,Flavio Rodrigues De Souza,29.6,4.3,180.6,5.4,28.8,6.1,181.5,5.4,Arena do Grêmio,39438
+Grêmio,2023,8,27/05/2023,16:00,Sábado,5,Athletico,Vitória,2,1,Visitante,Savio Pereira Sampaio,27.2,5.3,181.3,6.7,26.5,4.5,181.5,5.1,Arena da Baixada,25966
+Grêmio,2023,9,04/06/2023,16:00,Domingo,6,São Paulo,Vitória,2,1,Mandante,Wilton Pereira Sampaio,29.6,4.3,180.6,5.4,27.7,4.2,181.3,5.6,Arena do Grêmio,42207
+Grêmio,2023,10,11/06/2023,18:30,Domingo,6,Flamengo,Derrota,0,3,Visitante,Savio Pereira Sampaio,27.8,4.6,181.4,4.7,27.8,4.4,182.8,7.2,Estádio do Maracanã,62967
+Grêmio,2023,11,22/06/2023,19:00,Quinta,6,América Mineiro,Vitória,3,1,Mandante,Edina Alves Batista,26.5,5.3,180.8,4.8,29.9,4.8,181.9,7.4,Arena do Grêmio,15864
+Grêmio,2023,12,25/06/2023,16:00,Domingo,6,Coritiba,Vitória,5,1,Mandante,Joao Vitor Gobi,29.1,4.2,180.6,4.8,26.0,3.5,182.3,7.1,Arena do Grêmio,37048
+Grêmio,2023,13,01/07/2023,18:30,Sábado,7,Bahia,Vitória,2,1,Visitante,Marcelo de Lima Henrique,28.1,4.7,181.9,5.5,26.7,4.1,180.3,6.6,Arena Fonte Nova,34090
+Grêmio,2023,14,09/07/2023,18:30,Domingo,7,Botafogo,Derrota,0,2,Mandante,Flavio Rodrigues De Souza,29.1,4.2,181.3,4.7,28.4,4.3,183.2,6.5,Arena do Grêmio,47029
+Grêmio,2023,16,22/07/2023,21:00,Sábado,7,Atlético Mineiro,Vitória,1,0,Mandante,Luiz Flávio de Oliveira,27.3,4.5,182.6,5.2,29.2,4.9,180.9,7.1,Arena do Grêmio,37085
+Grêmio,2023,17,30/07/2023,18:30,Domingo,7,Goiás,Empate,1,1,Visitante,Paulo Cesar Zanovelli da Silva,26.4,5.1,183.1,5.1,29.1,3.2,180.9,6.9,Estádio da Serrinha,12311
+Grêmio,2023,18,06/08/2023,16:00,Domingo,8,Vasco da Gama,Derrota,0,1,Visitante,Luiz Flávio de Oliveira,28.6,4.2,180.8,4.8,25.8,3.8,179.4,6.0,Estádio São Januário,N.A
+Grêmio,2023,19,13/08/2023,16:00,Domingo,8,Fluminense,Vitória,2,1,Mandante,Rodrigo Jose Pereira de Lima,28.8,4.9,181.7,5.5,31.3,5.6,177.4,6.9,Arena do Grêmio,38712
+Grêmio,2023,20,20/08/2023,16:00,Domingo,8,Santos,Derrota,1,2,Visitante,Paulo Cesar Zanovelli da Silva,28.4,3.7,180.7,5.7,27.2,3.5,181.0,6.5,Estádio Urbano Caldeira,N.A
+Grêmio,2023,21,27/08/2023,19:00,Domingo,8,Cruzeiro,Vitória,3,0,Mandante,Marcelo de Lima Henrique,28.7,5.1,182.0,5.0,28.4,3.4,181.0,4.9,Arena do Grêmio,52203
+Grêmio,2023,22,03/09/2023,11:00,Domingo,9,Cuiabá,Vitória,2,0,Mandante,Yuri Elino Ferreira Da Cruz,29.4,3.5,182.3,6.1,28.9,4.6,183.3,5.0,Arena do Grêmio,39339
+Grêmio,2023,23,14/09/2023,21:30,Quinta,9,Red Bull Bragantino,Derrota,0,2,Visitante,Andre Luiz Skettino Policarpo Bento,29.2,3.8,181.7,4.8,26.7,3.1,180.7,5.2,Estádio Nabi Abi Chedid,5088
+Grêmio,2023,15,18/09/2023,21:00,Segunda,9,Corinthians,Empate,4,4,Visitante,Wilton Pereira Sampaio,29.8,3.9,181.1,5.6,28.1,6.9,180.9,7.5,Neo Química Arena,35796
+Grêmio,2023,24,21/09/2023,21:30,Quinta,9,Palmeiras,Vitória,1,0,Mandante,Bruno Arleu de Araujo,29.3,3.8,181.8,4.9,28.0,5.1,178.8,6.3,Arena do Grêmio,29057
+Grêmio,2023,25,30/09/2023,16:00,Sábado,9,Fortaleza,Empate,1,1,Visitante,Raphael Claus,30.1,4.5,181.8,5.2,29.8,4.1,178.4,6.7,Estádio Governador Plácido Castelo,23634
+Grêmio,2023,26,08/10/2023,16:00,Domingo,10,Internacional,Derrota,2,3,Visitante,Paulo Cesar Zanovelli da Silva,29.5,4.7,181.2,5.3,29.4,4.8,177.8,6.6,Estádio Beira-Rio,39133
+Grêmio,2023,27,18/10/2023,19:00,Quarta,10,Athletico,Derrota,1,2,Mandante,Luiz Flávio de Oliveira,30.0,5.3,179.8,6.6,27.3,5.3,181.6,4.5,Arena do Grêmio,24679
+Grêmio,2023,28,21/10/2023,18:30,Sábado,10,São Paulo,Derrota,0,3,Visitante,Andre Luiz Skettino Policarpo Bento,27.5,5.4,181.3,5.6,28.2,5.4,178.6,6.4,MorumBIS,47132
+Grêmio,2023,29,25/10/2023,21:30,Quarta,10,Flamengo,Vitória,3,2,Mandante,Rodrigo Jose Pereira de Lima,29.0,4.9,182.2,5.0,27.4,2.9,183.0,6.5,Arena do Grêmio,22325
+Grêmio,2023,30,28/10/2023,19:00,Sábado,10,América Mineiro,Vitória,4,3,Visitante,Matheus Delgado Candançan,28.5,4.6,181.0,5.0,30.0,4.0,181.1,7.6,Arena Independência,3008
+Grêmio,2023,31,01/11/2023,20:00,Quarta,11,Coritiba,Vitória,2,1,Visitante,Marcelo de Lima Henrique,30.7,4.6,181.3,5.8,28.7,4.9,181.2,6.7,Estádio Major Antônio Couto Pereira,24308
+Grêmio,2023,32,04/11/2023,19:30,Sábado,11,Bahia,Vitória,1,0,Mandante,Braulio Da Silva Machado,30.2,3.8,181.7,4.7,28.5,3.1,180.4,7.7,Arena do Grêmio,40154
+Grêmio,2023,33,09/11/2023,20:00,Quinta,11,Botafogo,Vitória,4,3,Visitante,Ramon Abatti Abel,28.1,5.1,181.1,4.7,29.1,3.7,182.7,6.6,Estádio São Januário,17708
+Grêmio,2023,34,12/11/2023,16:00,Domingo,11,Corinthians,Derrota,0,1,Mandante,Rodrigo Jose Pereira de Lima,28.7,4.6,180.1,4.7,28.9,5.5,179.8,7.6,Arena do Grêmio,49459
+Grêmio,2023,35,26/11/2023,16:00,Domingo,11,Atlético Mineiro,Derrota,0,3,Visitante,Braulio Da Silva Machado,28.8,5.2,181.8,6.3,29.5,4.1,179.4,6.2,Arena MRV,39337
+Grêmio,2023,36,30/11/2023,19:00,Quinta,11,Goiás,Vitória,2,1,Mandante,Marcelo de Lima Henrique,29.4,4.9,180.2,6.5,28.9,3.0,178.6,5.3,Arena do Grêmio,36875
+Grêmio,2023,37,03/12/2023,18:30,Domingo,12,Vasco da Gama,Vitória,1,0,Mandante,Ramon Abatti Abel,28.9,4.9,181.1,6.9,27.0,4.5,182.7,5.2,Arena do Grêmio,50481
+Grêmio,2023,38,06/12/2023,21:30,Quarta,12,Fluminense,Vitória,3,2,Visitante,Raphael Claus,29.1,3.7,181.7,6.2,31.5,6.9,178.4,6.0,Estádio do Maracanã,44190
+Internacional,2023,1,15/04/2023,18:30,Sábado,4,Fortaleza,Empate,1,1,Visitante,Edina Alves Batista,27.5,4.5,182.5,6.5,30.7,4.4,179.2,5.3,Estádio Governador Plácido Castelo,30191
+Internacional,2023,2,23/04/2023,11:00,Domingo,4,Flamengo,Vitória,2,1,Mandante,Ramon Abatti Abel,28.1,4.6,181.4,5.4,27.9,4.4,182.6,5.4,Estádio Beira-Rio,45751
+Internacional,2023,3,30/04/2023,18:30,Domingo,4,Goiás,Vitória,1,0,Mandante,Rodrigo Jose Pereira de Lima,28.1,5.4,180.8,7.7,27.9,3.2,180.7,5.4,Estádio Beira-Rio,29193
+Internacional,2023,4,07/05/2023,16:00,Domingo,5,São Paulo,Derrota,0,2,Visitante,Braulio Da Silva Machado,29.0,4.8,180.2,5.7,27.2,5.5,180.5,6.7,MorumBIS,46093
+Internacional,2023,5,10/05/2023,19:00,Quarta,5,Athletico,Derrota,0,2,Mandante,Bruno Arleu de Araujo,29.8,4.0,179.6,6.9,25.7,4.3,181.2,5.1,Estádio Beira-Rio,13537
+Internacional,2023,6,13/05/2023,21:00,Sábado,5,Atlético Mineiro,Derrota,0,2,Visitante,Raphael Claus,27.1,5.8,180.3,6.6,29.0,4.5,178.6,6.9,Governador Magalhães Pinto,36080
+Internacional,2023,7,21/05/2023,18:30,Domingo,5,Grêmio,Derrota,1,3,Visitante,Flavio Rodrigues De Souza,28.8,6.1,181.5,5.4,29.6,4.3,180.6,5.4,Arena do Grêmio,39438
+Internacional,2023,8,28/05/2023,16:00,Domingo,5,Bahia,Vitória,2,0,Mandante,Wagner do Nascimento Magalhaes,27.7,5.0,182.0,6.0,27.0,3.4,182.5,6.3,Estádio Beira-Rio,19037
+Internacional,2023,9,03/06/2023,21:00,Sábado,6,Santos,Empate,1,1,Visitante,Paulo Cesar Zanovelli da Silva,27.8,4.2,179.9,6.7,27.0,4.1,179.0,9.2,Estádio Urbano Caldeira,9600
+Internacional,2023,10,11/06/2023,16:00,Domingo,6,Vasco da Gama,Vitória,2,1,Mandante,Edina Alves Batista,28.9,3.9,179.7,7.2,25.1,4.5,182.0,4.6,Estádio Beira-Rio,18044
+Internacional,2023,11,22/06/2023,20:00,Quinta,6,Coritiba,Vitória,1,0,Visitante,Andre Luiz Skettino Policarpo Bento,29.3,4.9,180.7,7.2,26.3,3.9,183.2,6.7,Estádio Major Antônio Couto Pereira,25983
+Internacional,2023,12,25/06/2023,18:30,Domingo,6,América Mineiro,Vitória,2,1,Visitante,Flavio Rodrigues De Souza,28.8,5.0,181.8,7.2,31.0,5.1,181.9,7.7,Arena Independência,2249
+Internacional,2023,13,01/07/2023,21:00,Sábado,7,Cruzeiro,Empate,0,0,Mandante,Wagner do Nascimento Magalhaes,28.1,5.0,180.0,7.6,27.2,3.6,179.8,4.8,Estádio Beira-Rio,23923
+Internacional,2023,14,09/07/2023,16:00,Domingo,7,Fluminense,Derrota,0,2,Visitante,Luiz Flávio de Oliveira,30.0,4.3,179.5,7.2,31.2,6.8,179.2,6.9,Estádio do Maracanã,34166
+Internacional,2023,15,16/07/2023,18:30,Domingo,7,Palmeiras,Empate,0,0,Mandante,Rodrigo Jose Pereira de Lima,29.9,4.1,178.4,7.5,27.4,4.6,180.2,6.5,Estádio Beira-Rio,41823
+Internacional,2023,16,23/07/2023,16:00,Domingo,7,Red Bull Bragantino,Empate,0,0,Visitante,Maguielson Lima Barbosa,30.2,4.0,177.6,6.1,24.7,2.9,180.6,6.2,Estádio Nabi Abi Chedid,6446
+Internacional,2023,17,29/07/2023,16:00,Sábado,7,Cuiabá,Derrota,1,2,Mandante,Matheus Delgado Candançan,30.1,4.2,178.1,6.5,29.0,4.0,181.3,6.9,Estádio Beira-Rio,32020
+Internacional,2023,18,05/08/2023,18:30,Sábado,8,Corinthians,Empate,2,2,Mandante,Wagner do Nascimento Magalhaes,28.3,5.2,181.1,5.5,28.6,6.9,179.6,7.9,Estádio Beira-Rio,22509
+Internacional,2023,19,12/08/2023,21:00,Sábado,8,Botafogo,Derrota,1,3,Visitante,Flavio Rodrigues De Souza,30.1,4.2,176.5,6.3,28.7,3.6,181.3,6.5,Estádio Nilton Santos,39598
+Internacional,2023,20,19/08/2023,16:00,Sábado,8,Fortaleza,Derrota,0,1,Mandante,Yuri Elino Ferreira Da Cruz,28.3,5.2,181.1,5.5,29.7,3.6,177.1,5.3,Estádio Beira-Rio,21134
+Internacional,2023,21,26/08/2023,18:30,Sábado,8,Flamengo,Empate,0,0,Visitante,Edina Alves Batista,28.8,5.0,180.4,6.2,26.9,3.3,182.5,6.5,Estádio do Maracanã,58892
+Internacional,2023,22,02/09/2023,16:00,Sábado,9,Goiás,Empate,0,0,Visitante,Braulio Da Silva Machado,31.8,2.4,175.7,5.7,28.4,3.0,181.1,6.7,Estádio da Serrinha,11038
+Internacional,2023,23,13/09/2023,21:30,Quarta,9,São Paulo,Vitória,2,1,Mandante,Paulo Cesar Zanovelli da Silva,29.4,4.6,176.8,6.4,28.7,5.2,179.6,6.4,Estádio Beira-Rio,20763
+Internacional,2023,24,21/09/2023,19:30,Quinta,9,Athletico,Derrota,1,2,Visitante,Wagner do Nascimento Magalhaes,28.3,5.0,180.2,6.4,26.7,5.9,181.5,5.4,Arena da Baixada,24871
+Internacional,2023,25,30/09/2023,21:00,Sábado,9,Atlético Mineiro,Derrota,0,2,Mandante,Ramon Abatti Abel,27.7,5.1,181.5,5.1,29.9,4.8,180.0,7.5,Estádio Beira-Rio,23937
+Internacional,2023,26,08/10/2023,16:00,Domingo,10,Grêmio,Vitória,3,2,Mandante,Paulo Cesar Zanovelli da Silva,29.4,4.8,177.8,6.6,29.5,4.7,181.2,5.3,Estádio Beira-Rio,39133
+Internacional,2023,27,18/10/2023,21:30,Quarta,10,Bahia,Derrota,0,1,Visitante,Marcelo de Lima Henrique,30.0,4.5,178.7,6.8,28.6,2.6,180.4,6.2,Arena Fonte Nova,31385
+Internacional,2023,28,22/10/2023,16:00,Domingo,10,Santos,Vitória,7,1,Mandante,Paulo Cesar Zanovelli da Silva,29.4,4.8,177.8,6.6,28.7,5.4,180.7,7.1,Estádio Beira-Rio,36584
+Internacional,2023,29,26/10/2023,19:00,Quinta,10,Vasco da Gama,Vitória,2,1,Visitante,Luiz Flávio de Oliveira,29.5,4.8,177.8,6.6,28.2,5.2,179.5,5.9,Estádio São Januário,20098
+Internacional,2023,30,29/10/2023,18:30,Domingo,10,Coritiba,Derrota,3,4,Mandante,Andre Luiz Skettino Policarpo Bento,28.6,4.4,178.6,6.4,27.7,4.6,181.0,6.9,Estádio Beira-Rio,36272
+Internacional,2023,31,01/11/2023,19:00,Quarta,11,América Mineiro,Empate,1,1,Mandante,Flavio Rodrigues De Souza,30.0,4.4,178.5,6.1,30.1,4.0,180.8,7.8,Estádio Beira-Rio,14961
+Internacional,2023,32,05/11/2023,16:00,Domingo,11,Cruzeiro,Vitória,2,1,Visitante,Matheus Delgado Candançan,29.4,4.8,178.5,6.5,29.1,2.8,180.3,5.3,Governador Magalhães Pinto,36801
+Internacional,2023,33,08/11/2023,19:00,Quarta,11,Fluminense,Empate,0,0,Mandante,Caio Max Augusto Vieira,29.4,4.8,178.5,6.5,27.0,5.9,177.7,6.7,Estádio Beira-Rio,18669
+Internacional,2023,34,11/11/2023,21:00,Sábado,11,Palmeiras,Derrota,0,3,Visitante,Paulo Cesar Zanovelli da Silva,28.1,4.5,179.0,6.8,28.3,5.0,180.6,5.4,Nubank Parque,19358
+Internacional,2023,35,26/11/2023,18:30,Domingo,11,Red Bull Bragantino,Vitória,1,0,Mandante,Felipe Fernandes de Lima,28.4,5.2,178.9,6.2,25.1,3.1,179.9,5.9,Estádio Beira-Rio,22170
+Internacional,2023,36,29/11/2023,20:00,Quarta,11,Cuiabá,Vitória,2,0,Visitante,Dyorgines Jose Padovani de Andrade,29.4,4.9,177.9,6.7,29.0,4.6,182.2,6.2,Arena Pantanal,12527
+Internacional,2023,37,02/12/2023,18:00,Sábado,12,Corinthians,Vitória,2,1,Visitante,Caio Max Augusto Vieira,30.5,4.5,177.4,6.2,30.9,6.5,181.7,7.9,Neo Química Arena,40583
+Internacional,2023,38,06/12/2023,21:30,Quarta,12,Botafogo,Vitória,3,1,Mandante,Flavio Rodrigues De Souza,29.9,5.1,178.0,6.3,27.5,4.5,184.0,6.2,Estádio Beira-Rio,27365
+Palmeiras,2023,1,15/04/2023,16:00,Sábado,4,Cuiabá,Vitória,2,1,Mandante,Paulo Cesar Zanovelli da Silva,26.7,5.6,178.9,7.7,29.6,3.7,181.5,3.9,Nubank Parque,35835
+Palmeiras,2023,2,23/04/2023,16:00,Domingo,4,Vasco da Gama,Empate,2,2,Visitante,Rafael Rodrigo Klein,26.6,4.2,179.5,7.3,25.4,3.9,180.8,5.3,Estádio São Januário,59867
+Palmeiras,2023,3,29/04/2023,18:30,Sábado,4,Corinthians,Vitória,2,1,Mandante,Wilton Pereira Sampaio,28.3,3.4,177.5,7.7,26.3,5.2,179.8,7.5,Nubank Parque,41457
+Palmeiras,2023,4,07/05/2023,18:30,Domingo,5,Goiás,Vitória,5,0,Visitante,Wagner do Nascimento Magalhaes,28.7,3.4,177.3,7.5,28.3,3.7,180.8,5.6,Estádio da Serrinha,13789
+Palmeiras,2023,5,10/05/2023,21:30,Quarta,5,Grêmio,Vitória,4,1,Mandante,Braulio Da Silva Machado,28.7,3.4,177.3,7.5,28.1,4.2,180.9,4.9,Nubank Parque,37532
+Palmeiras,2023,6,13/05/2023,18:30,Sábado,5,Red Bull Bragantino,Empate,1,1,Mandante,Savio Pereira Sampaio,27.5,4.4,177.5,7.4,24.6,3.0,180.5,7.5,Nubank Parque,39488
+Palmeiras,2023,7,20/05/2023,21:00,Sábado,5,Santos,Empate,0,0,Visitante,Raphael Claus,28.7,3.4,177.3,7.5,25.6,4.3,181.2,6.9,Estádio Urbano Caldeira,12641
+Palmeiras,2023,8,28/05/2023,18:30,Domingo,5,Atlético Mineiro,Empate,1,1,Visitante,Braulio Da Silva Machado,28.7,4.3,177.1,7.5,29.3,4.9,179.1,6.8,Governador Magalhães Pinto,53236
+Palmeiras,2023,9,04/06/2023,18:30,Domingo,6,Coritiba,Vitória,3,1,Mandante,Felipe Fernandes de Lima,27.8,4.7,176.7,7.7,27.8,4.2,180.5,6.4,Nubank Parque,33570
+Palmeiras,2023,10,11/06/2023,16:00,Domingo,6,São Paulo,Vitória,2,0,Visitante,Raphael Claus,28.0,4.0,177.4,7.6,28.3,5.1,180.4,6.3,MorumBIS,56871
+Palmeiras,2023,11,21/06/2023,21:30,Quarta,6,Bahia,Derrota,0,1,Visitante,Wilton Pereira Sampaio,27.3,5.3,177.5,6.6,26.7,4.1,180.7,6.6,Arena Fonte Nova,31013
+Palmeiras,2023,12,25/06/2023,16:00,Domingo,6,Botafogo,Derrota,0,1,Mandante,Anderson Daronco,28.8,3.3,178.1,7.8,29.4,3.8,182.8,6.8,Nubank Parque,38877
+Palmeiras,2023,13,02/07/2023,16:00,Domingo,7,Athletico,Empate,2,2,Visitante,Jean Pierre Goncalves Lima,23.7,5.4,180.9,6.1,25.4,4.1,181.0,6.1,Arena da Baixada,33118
+Palmeiras,2023,14,08/07/2023,21:00,Sábado,7,Flamengo,Empate,1,1,Mandante,Ramon Abatti Abel,28.2,3.7,178.2,7.7,25.8,4.4,183.2,6.2,Nubank Parque,40229
+Palmeiras,2023,15,16/07/2023,18:30,Domingo,7,Internacional,Empate,0,0,Visitante,Rodrigo Jose Pereira de Lima,27.4,4.6,180.2,6.5,29.9,4.1,178.4,7.5,Estádio Beira-Rio,41823
+Palmeiras,2023,16,22/07/2023,16:00,Sábado,7,Fortaleza,Vitória,3,1,Mandante,Rafael Rodrigo Klein,28.0,4.3,179.1,7.2,31.4,2.6,177.9,5.6,Nubank Parque,39699
+Palmeiras,2023,17,30/07/2023,16:00,Domingo,7,América Mineiro,Vitória,4,1,Visitante,Braulio Da Silva Machado,27.6,3.9,178.5,6.9,28.6,2.6,180.5,7.1,Arena Independência,5928
+Palmeiras,2023,18,05/08/2023,21:00,Sábado,8,Fluminense,Derrota,1,2,Visitante,Ramon Abatti Abel,26.0,6.2,180.9,5.9,30.2,6.5,175.5,7.1,Estádio do Maracanã,77973
+Palmeiras,2023,19,14/08/2023,19:00,Segunda,8,Cruzeiro,Vitória,1,0,Mandante,Wagner do Nascimento Magalhaes,27.4,4.5,178.3,6.7,28.2,3.3,180.5,5.1,Nubank Parque,38555
+Palmeiras,2023,20,19/08/2023,18:30,Sábado,8,Cuiabá,Vitória,2,0,Visitante,Andre Luiz Skettino Policarpo Bento,27.5,4.6,181.1,6.5,29.2,4.1,181.7,6.3,Arena Pantanal,19115
+Palmeiras,2023,21,27/08/2023,18:30,Domingo,8,Vasco da Gama,Vitória,1,0,Mandante,Wilton Pereira Sampaio,28.0,3.7,178.4,7.9,27.9,5.0,181.5,6.3,Nubank Parque,40292
+Palmeiras,2023,22,03/09/2023,16:00,Domingo,9,Corinthians,Empate,0,0,Visitante,Anderson Daronco,28.9,3.8,178.3,7.0,28.1,6.8,182.9,6.4,Neo Química Arena,44371
+Palmeiras,2023,23,15/09/2023,21:30,Sexta,9,Goiás,Vitória,1,0,Mandante,Savio Pereira Sampaio,28.8,4.2,179.2,7.3,28.7,2.3,182.2,5.9,Nubank Parque,38146
+Palmeiras,2023,24,21/09/2023,21:30,Quinta,9,Grêmio,Derrota,0,1,Visitante,Bruno Arleu de Araujo,28.0,5.1,178.8,6.3,29.3,3.8,181.8,4.9,Arena do Grêmio,29057
+Palmeiras,2023,25,01/10/2023,18:30,Domingo,10,Red Bull Bragantino,Derrota,1,2,Visitante,Wagner do Nascimento Magalhaes,23.6,5.6,179.9,5.6,26.5,3.3,180.5,5.0,Estádio Nabi Abi Chedid,9093
+Palmeiras,2023,26,08/10/2023,16:00,Domingo,10,Santos,Derrota,1,2,Mandante,Flavio Rodrigues De Souza,27.0,5.0,178.7,6.4,26.3,4.1,181.6,6.3,Nubank Parque,17049
+Palmeiras,2023,27,19/10/2023,19:00,Quinta,10,Atlético Mineiro,Derrota,0,2,Mandante,Bruno Arleu de Araujo,27.0,5.0,178.7,6.4,28.0,4.1,179.8,6.9,Nubank Parque,27718
+Palmeiras,2023,28,22/10/2023,18:30,Domingo,10,Coritiba,Vitória,2,0,Visitante,Rafael Rodrigo Klein,28.4,3.6,182.8,4.9,29.6,4.9,182.7,7.1,Estádio Major Antônio Couto Pereira,19387
+Palmeiras,2023,29,25/10/2023,20:00,Quarta,10,São Paulo,Vitória,5,0,Mandante,Raphael Claus,27.9,4.6,181.5,5.3,28.8,4.9,179.3,6.4,Nubank Parque,32618
+Palmeiras,2023,30,28/10/2023,19:00,Sábado,10,Bahia,Vitória,1,0,Mandante,Rodrigo Jose Pereira de Lima,27.1,4.9,181.7,5.1,26.4,3.3,181.3,7.4,Nubank Parque,33747
+Palmeiras,2023,31,01/11/2023,21:30,Quarta,11,Botafogo,Vitória,4,3,Visitante,Braulio Da Silva Machado,27.9,4.6,181.5,5.3,30.6,3.1,183.2,6.4,Estádio Nilton Santos,34913
+Palmeiras,2023,32,04/11/2023,21:30,Sábado,11,Athletico,Vitória,1,0,Mandante,Wilton Pereira Sampaio,27.8,5.4,180.5,5.2,27.3,5.3,183.4,5.5,Nubank Parque,17301
+Palmeiras,2023,33,08/11/2023,21:30,Quarta,11,Flamengo,Derrota,0,3,Visitante,Rodrigo Jose Pereira de Lima,27.9,4.6,181.5,5.3,27.3,1.7,182.4,7.8,Estádio do Maracanã,64590
+Palmeiras,2023,34,11/11/2023,21:00,Sábado,11,Internacional,Vitória,3,0,Mandante,Paulo Cesar Zanovelli da Silva,28.3,5.0,180.6,5.4,28.1,4.5,179.0,6.8,Nubank Parque,19358
+Palmeiras,2023,35,26/11/2023,18:30,Domingo,11,Fortaleza,Empate,2,2,Visitante,Andre Luiz Skettino Policarpo Bento,28.4,5.0,180.5,5.3,30.6,3.8,178.2,5.4,Estádio Governador Plácido Castelo,39504
+Palmeiras,2023,36,29/11/2023,21:30,Quarta,11,América Mineiro,Vitória,4,0,Mandante,Wilton Pereira Sampaio,27.3,5.2,179.6,6.7,29.3,5.2,180.2,6.0,Nubank Parque,29717
+Palmeiras,2023,37,03/12/2023,16:00,Domingo,12,Fluminense,Vitória,1,0,Mandante,Braulio Da Silva Machado,28.4,5.0,180.5,5.3,28.8,6.9,179.5,6.3,Nubank Parque,29986
+Palmeiras,2023,38,06/12/2023,21:30,Quarta,12,Cruzeiro,Empate,1,1,Visitante,Anderson Daronco,28.0,5.4,180.5,5.3,27.1,4.4,180.8,5.2,Governador Magalhães Pinto,44190
+Santos,2023,1,16/04/2023,18:30,Domingo,4,Grêmio,Derrota,0,1,Visitante,Wilton Pereira Sampaio,26.1,4.2,181.0,7.7,28.0,4.8,180.8,5.2,Estádio Alfredo Jaconi,13997
+Santos,2023,2,23/04/2023,16:00,Domingo,4,Atlético Mineiro,Empate,0,0,Mandante,Braulio Da Silva Machado,24.9,4.2,179.8,7.1,28.4,4.5,179.4,6.9,Estádio Urbano Caldeira,11233
+Santos,2023,3,29/04/2023,18:30,Sábado,4,América Mineiro,Vitória,3,2,Mandante,Anderson Daronco,26.5,3.7,177.8,9.0,29.8,4.7,178.5,9.2,Estádio Urbano Caldeira,11844
+Santos,2023,4,06/05/2023,16:00,Sábado,5,Cruzeiro,Derrota,1,2,Visitante,Bruno Arleu de Araujo,26.8,4.2,181.1,6.3,28.8,3.3,179.6,6.9,Governador Magalhães Pinto,21191
+Santos,2023,5,10/05/2023,19:00,Quarta,5,Bahia,Vitória,3,0,Mandante,Wagner do Nascimento Magalhaes,26.5,5.0,180.7,7.0,26.6,4.1,180.4,8.0,Estádio Urbano Caldeira,7262
+Santos,2023,6,14/05/2023,16:00,Domingo,5,Vasco da Gama,Vitória,1,0,Visitante,Rodrigo Jose Pereira de Lima,25.6,4.4,181.3,6.9,24.5,3.1,181.5,4.9,Estádio São Januário,18476
+Santos,2023,7,20/05/2023,21:00,Sábado,5,Palmeiras,Empate,0,0,Mandante,Raphael Claus,25.6,4.3,181.2,6.9,28.7,3.4,177.3,7.5,Estádio Urbano Caldeira,12641
+Santos,2023,8,28/05/2023,18:30,Domingo,5,Red Bull Bragantino,Derrota,0,2,Visitante,Anderson Daronco,25.6,4.3,179.0,9.1,24.6,2.9,180.5,6.1,Estádio Nabi Abi Chedid,5988
+Santos,2023,9,03/06/2023,21:00,Sábado,6,Internacional,Empate,1,1,Mandante,Paulo Cesar Zanovelli da Silva,27.0,4.1,179.0,9.2,27.8,4.2,179.9,6.7,Estádio Urbano Caldeira,9600
+Santos,2023,10,10/06/2023,16:00,Sábado,6,Coritiba,Empate,0,0,Visitante,Bruno Mota Correia,27.2,3.7,178.2,9.0,26.4,5.1,182.0,7.5,Estádio Major Antônio Couto Pereira,25987
+Santos,2023,11,21/06/2023,20:00,Quarta,6,Corinthians,Derrota,0,2,Mandante,Leandro Pedro Vuaden,27.3,3.2,177.1,8.9,26.9,5.5,179.2,7.9,Estádio Urbano Caldeira,12499
+Santos,2023,12,25/06/2023,18:30,Domingo,6,Flamengo,Derrota,2,3,Mandante,Wilton Pereira Sampaio,27.0,3.5,177.2,9.0,26.0,4.1,183.0,6.4,Estádio Urbano Caldeira,N.A
+Santos,2023,13,02/07/2023,18:30,Domingo,7,Cuiabá,Derrota,0,3,Visitante,Bruno Mota Correia,27.3,3.2,179.0,7.2,28.7,4.7,183.5,3.5,Arena Pantanal,13477
+Santos,2023,14,09/07/2023,11:00,Domingo,7,Goiás,Vitória,4,3,Mandante,Bruno Arleu de Araujo,25.9,4.2,179.5,6.9,28.6,3.4,178.3,5.2,Estádio Urbano Caldeira,N.A
+Santos,2023,15,16/07/2023,16:00,Domingo,7,São Paulo,Derrota,1,4,Visitante,Braulio Da Silva Machado,27.0,3.9,179.5,7.1,28.6,4.8,179.1,6.4,MorumBIS,58127
+Santos,2023,16,23/07/2023,16:00,Domingo,7,Botafogo,Empate,2,2,Mandante,Ramon Abatti Abel,27.5,3.5,179.2,7.1,28.5,3.4,183.6,6.5,Estádio Urbano Caldeira,N.A
+Santos,2023,17,29/07/2023,16:00,Sábado,7,Fluminense,Derrota,0,1,Visitante,Rodrigo Jose Pereira de Lima,27.1,3.6,178.9,6.6,29.1,6.0,177.3,7.3,Estádio do Maracanã,34211
+Santos,2023,18,05/08/2023,16:00,Sábado,8,Athletico,Empate,1,1,Mandante,Andre Luiz Skettino Policarpo Bento,27.6,3.5,178.5,6.9,27.9,5.6,182.1,3.8,Estádio Urbano Caldeira,N.A
+Santos,2023,19,13/08/2023,18:30,Domingo,8,Fortaleza,Derrota,0,4,Visitante,Bruno Mota Correia,28.4,3.2,181.4,7.1,30.4,3.9,177.7,6.0,Estádio Governador Plácido Castelo,32301
+Santos,2023,20,20/08/2023,16:00,Domingo,8,Grêmio,Vitória,2,1,Mandante,Paulo Cesar Zanovelli da Silva,27.2,3.5,181.0,6.5,28.4,3.7,180.7,5.7,Estádio Urbano Caldeira,N.A
+Santos,2023,21,27/08/2023,16:00,Domingo,8,Atlético Mineiro,Derrota,0,2,Visitante,Rafael Rodrigo Klein,28.1,4.2,179.6,6.3,30.0,4.4,179.3,7.1,Arena MRV,29782
+Santos,2023,22,03/09/2023,18:30,Domingo,9,América Mineiro,Derrota,0,2,Visitante,Leandro Pedro Vuaden,28.1,4.3,180.2,6.6,28.5,6.7,181.5,8.0,Arena Independência,3654
+Santos,2023,23,14/09/2023,19:00,Quinta,9,Cruzeiro,Derrota,0,3,Mandante,Braulio Da Silva Machado,27.9,3.6,179.8,7.1,29.2,3.5,180.5,5.2,Estádio Urbano Caldeira,12244
+Santos,2023,24,18/09/2023,20:00,Segunda,9,Bahia,Vitória,2,1,Visitante,Ramon Abatti Abel,27.1,4.7,178.9,7.9,28.6,2.2,180.1,5.7,Arena Fonte Nova,41431
+Santos,2023,25,01/10/2023,16:00,Domingo,10,Vasco da Gama,Vitória,4,1,Mandante,Anderson Daronco,27.2,4.7,178.9,7.9,26.6,4.9,181.1,5.6,Estádio Urbano Caldeira,N.A
+Santos,2023,26,08/10/2023,16:00,Domingo,10,Palmeiras,Vitória,2,1,Visitante,Flavio Rodrigues De Souza,26.3,4.1,181.6,6.3,27.0,5.0,178.7,6.4,Nubank Parque,17049
+Santos,2023,27,19/10/2023,20:00,Quinta,10,Red Bull Bragantino,Derrota,1,3,Mandante,Raphael Claus,26.4,3.9,179.8,6.2,26.1,4.1,182.3,5.2,Estádio Urbano Caldeira,12850
+Santos,2023,28,22/10/2023,16:00,Domingo,10,Internacional,Derrota,1,7,Visitante,Paulo Cesar Zanovelli da Silva,28.7,5.4,180.7,7.1,29.4,4.8,177.8,6.6,Estádio Beira-Rio,36584
+Santos,2023,29,26/10/2023,21:30,Quinta,10,Coritiba,Vitória,2,1,Mandante,Wagner do Nascimento Magalhaes,27.2,4.7,178.9,7.9,29.4,5.2,181.6,7.2,Estádio Urbano Caldeira,12205
+Santos,2023,30,29/10/2023,18:30,Domingo,10,Corinthians,Empate,1,1,Visitante,Anderson Daronco,28.0,4.1,178.7,8.1,31.5,5.2,181.3,7.8,Neo Química Arena,42248
+Santos,2023,31,01/11/2023,20:00,Quarta,11,Flamengo,Vitória,2,1,Visitante,Rafael Rodrigo Klein,27.6,4.2,179.6,9.1,27.2,2.9,183.3,6.7,Estádio do Maracanã,64708
+Santos,2023,32,06/11/2023,21:00,Segunda,11,Cuiabá,Empate,0,0,Mandante,Savio Pereira Sampaio,27.3,4.7,178.4,8.5,29.1,4.6,181.6,6.3,Estádio Urbano Caldeira,12923
+Santos,2023,33,09/11/2023,19:00,Quinta,11,Goiás,Vitória,1,0,Visitante,Paulo Cesar Zanovelli da Silva,26.4,4.1,180.0,6.5,28.4,2.9,180.8,6.0,Estádio da Serrinha,11836
+Santos,2023,34,12/11/2023,18:30,Domingo,11,São Paulo,Empate,0,0,Mandante,Raphael Claus,26.3,4.1,178.9,8.4,28.5,5.5,180.0,6.3,Estádio Urbano Caldeira,13442
+Santos,2023,35,26/11/2023,16:00,Domingo,11,Botafogo,Empate,1,1,Visitante,Wilton Pereira Sampaio,26.3,3.7,179.0,8.6,30.0,2.9,184.7,5.2,Estádio Nilton Santos,26548
+Santos,2023,36,29/11/2023,19:00,Quarta,11,Fluminense,Derrota,0,3,Mandante,Anderson Daronco,27.3,3.0,178.0,9.1,30.5,6.2,178.7,5.7,Estádio Urbano Caldeira,12855
+Santos,2023,37,03/12/2023,18:30,Domingo,12,Athletico,Derrota,0,3,Visitante,Rafael Rodrigo Klein,28.8,3.5,179.9,9.0,27.1,5.7,182.1,6.1,Arena da Baixada,21056
+Santos,2023,38,06/12/2023,21:30,Quarta,12,Fortaleza,Derrota,1,2,Mandante,Leandro Pedro Vuaden,28.7,4.1,180.6,8.8,30.5,3.5,178.4,5.3,Estádio Urbano Caldeira,14130
+São Paulo,2023,1,15/04/2023,18:30,Sábado,4,Botafogo,Derrota,1,2,Visitante,Ramon Abatti Abel,29.1,4.1,179.9,6.1,29.9,3.0,182.6,6.9,Estádio Nilton Santos,11708
+São Paulo,2023,2,22/04/2023,18:30,Sábado,4,América Mineiro,Vitória,3,0,Mandante,Wagner do Nascimento Magalhaes,26.2,4.7,180.8,5.4,31.1,4.0,178.3,9.0,MorumBIS,41006
+São Paulo,2023,3,29/04/2023,16:30,Sábado,4,Coritiba,Empate,1,1,Visitante,Rafael Rodrigo Klein,26.3,4.4,179.7,6.0,27.0,4.5,180.7,7.5,Estádio Major Antônio Couto Pereira,25210
+São Paulo,2023,4,07/05/2023,16:00,Domingo,5,Internacional,Vitória,2,0,Mandante,Braulio Da Silva Machado,27.2,5.5,180.5,6.7,29.0,4.8,180.2,5.7,MorumBIS,46093
+São Paulo,2023,5,11/05/2023,20:00,Quinta,5,Fortaleza,Empate,0,0,Visitante,Paulo Cesar Zanovelli da Silva,26.4,4.3,180.3,5.6,30.0,3.1,178.5,5.3,Estádio Governador Plácido Castelo,37775
+São Paulo,2023,6,14/05/2023,16:00,Domingo,5,Corinthians,Empate,1,1,Visitante,Bruno Arleu de Araujo,28.3,5.1,180.2,6.5,27.2,6.1,179.9,7.7,Neo Química Arena,41118
+São Paulo,2023,7,20/05/2023,18:30,Sábado,5,Vasco da Gama,Vitória,4,2,Mandante,Leandro Pedro Vuaden,26.8,5.2,180.4,6.6,24.5,3.1,181.5,4.9,MorumBIS,57399
+São Paulo,2023,8,27/05/2023,21:00,Sábado,5,Goiás,Vitória,2,1,Mandante,Rafael Rodrigo Klein,27.4,5.2,180.7,6.2,28.5,3.2,179.8,5.7,MorumBIS,45429
+São Paulo,2023,9,04/06/2023,16:00,Domingo,6,Grêmio,Derrota,1,2,Visitante,Wilton Pereira Sampaio,27.7,4.2,181.3,5.6,29.6,4.3,180.6,5.4,Arena do Grêmio,42207
+São Paulo,2023,10,11/06/2023,16:00,Domingo,6,Palmeiras,Derrota,0,2,Mandante,Raphael Claus,28.3,5.1,180.4,6.3,28.0,4.0,177.4,7.6,MorumBIS,56871
+São Paulo,2023,11,21/06/2023,19:00,Quarta,6,Athletico,Vitória,2,1,Mandante,Savio Pereira Sampaio,27.6,5.1,179.1,6.7,26.2,4.4,181.5,4.8,MorumBIS,22882
+São Paulo,2023,12,24/06/2023,21:00,Sábado,6,Cruzeiro,Derrota,0,1,Visitante,Ramon Abatti Abel,28.1,5.3,179.5,6.6,27.8,2.9,179.5,4.7,Governador Magalhães Pinto,17478
+São Paulo,2023,13,01/07/2023,16:00,Sábado,7,Fluminense,Vitória,1,0,Mandante,Anderson Daronco,26.5,5.9,179.9,6.2,31.8,6.7,176.3,6.2,MorumBIS,49153
+São Paulo,2023,14,09/07/2023,16:00,Domingo,7,Red Bull Bragantino,Empate,0,0,Visitante,Raphael Claus,24.6,3.6,180.5,4.3,25.0,2.8,181.2,7.5,Estádio Nabi Abi Chedid,9411
+São Paulo,2023,15,16/07/2023,16:00,Domingo,7,Santos,Vitória,4,1,Mandante,Braulio Da Silva Machado,28.6,4.8,179.1,6.4,27.0,3.9,179.5,7.1,MorumBIS,58127
+São Paulo,2023,16,22/07/2023,18:30,Sábado,7,Cuiabá,Derrota,1,2,Visitante,Bruno Mota Correia,26.2,4.4,181.2,6.1,28.2,4.4,181.6,6.3,Arena Pantanal,34072
+São Paulo,2023,17,30/07/2023,11:00,Domingo,7,Bahia,Empate,0,0,Mandante,Ramon Abatti Abel,27.9,5.4,179.8,6.4,27.0,3.0,181.9,6.0,MorumBIS,56078
+São Paulo,2023,18,06/08/2023,16:00,Domingo,8,Atlético Mineiro,Derrota,0,2,Mandante,Rodrigo Jose Pereira de Lima,26.7,5.5,180.5,5.5,29.0,3.7,179.9,7.3,MorumBIS,53460
+São Paulo,2023,19,13/08/2023,18:30,Domingo,8,Flamengo,Empate,1,1,Visitante,Rafael Rodrigo Klein,26.7,4.1,177.8,5.3,25.8,3.8,182.0,6.8,Estádio do Maracanã,62018
+São Paulo,2023,20,19/08/2023,16:00,Sábado,8,Botafogo,Empate,0,0,Mandante,Ramon Abatti Abel,26.2,4.2,179.4,5.3,29.0,4.2,182.7,6.4,MorumBIS,51946
+São Paulo,2023,21,27/08/2023,16:00,Domingo,8,América Mineiro,Derrota,1,2,Visitante,Rodrigo Jose Pereira de Lima,25.4,5.0,179.5,5.7,30.8,4.8,181.9,8.1,Arena Independência,5105
+São Paulo,2023,23,13/09/2023,21:30,Quarta,9,Internacional,Derrota,1,2,Visitante,Paulo Cesar Zanovelli da Silva,28.7,5.2,179.6,6.4,29.4,4.6,176.8,6.4,Estádio Beira-Rio,20763
+São Paulo,2023,24,20/09/2023,21:30,Quarta,9,Fortaleza,Derrota,1,2,Mandante,Yuri Elino Ferreira Da Cruz,26.1,3.6,178.5,5.2,30.7,3.1,178.3,5.2,MorumBIS,24777
+São Paulo,2023,22,27/09/2023,19:00,Quarta,9,Coritiba,Vitória,2,1,Mandante,Savio Pereira Sampaio,26.1,3.6,178.5,5.2,31.8,3.0,181.6,6.2,MorumBIS,31720
+São Paulo,2023,25,30/09/2023,18:30,Sábado,9,Corinthians,Vitória,2,1,Mandante,Flavio Rodrigues De Souza,28.1,5.4,179.0,6.5,28.3,5.2,180.5,8.0,MorumBIS,56735
+São Paulo,2023,26,07/10/2023,18:30,Sábado,10,Vasco da Gama,Empate,0,0,Visitante,Braulio Da Silva Machado,27.4,4.4,179.5,6.0,26.5,4.8,182.2,5.7,Estádio São Januário,20690
+São Paulo,2023,27,18/10/2023,21:30,Quarta,10,Goiás,Derrota,0,2,Visitante,Rodrigo Jose Pereira de Lima,28.2,5.4,179.0,6.5,29.1,2.7,181.2,6.1,Estádio da Serrinha,12685
+São Paulo,2023,28,21/10/2023,18:30,Sábado,10,Grêmio,Vitória,3,0,Mandante,Andre Luiz Skettino Policarpo Bento,28.2,5.4,178.6,6.4,27.5,5.4,181.3,5.6,MorumBIS,47132
+São Paulo,2023,29,25/10/2023,20:00,Quarta,10,Palmeiras,Derrota,0,5,Visitante,Raphael Claus,28.8,4.9,179.3,6.4,27.9,4.6,181.5,5.3,Nubank Parque,32618
+São Paulo,2023,30,29/10/2023,16:00,Domingo,10,Athletico,Empate,1,1,Visitante,Rafael Rodrigo Klein,26.5,4.3,179.1,6.1,26.2,3.9,181.5,4.6,Arena da Baixada,27604
+São Paulo,2023,31,02/11/2023,20:00,Quinta,11,Cruzeiro,Vitória,1,0,Mandante,Wilton Pereira Sampaio,28.8,5.4,179.8,6.4,29.1,2.8,180.3,5.3,MorumBIS,50570
+São Paulo,2023,33,08/11/2023,20:00,Quarta,11,Red Bull Bragantino,Vitória,1,0,Mandante,Flavio Rodrigues De Souza,28.2,5.7,178.7,6.7,26.4,3.6,180.0,5.2,MorumBIS,11948
+São Paulo,2023,34,12/11/2023,18:30,Domingo,11,Santos,Empate,0,0,Visitante,Raphael Claus,28.5,5.5,180.0,6.3,26.3,4.1,178.9,8.4,Estádio Urbano Caldeira,13442
+São Paulo,2023,32,22/11/2023,21:30,Quarta,11,Fluminense,Derrota,0,1,Visitante,Andre Luiz Skettino Policarpo Bento,27.1,5.5,178.5,6.6,32.0,6.4,179.4,6.0,Estádio do Maracanã,44694
+São Paulo,2023,35,26/11/2023,18:30,Domingo,11,Cuiabá,Empate,0,0,Mandante,Paulo Cesar Zanovelli da Silva,28.6,4.1,181.0,5.4,28.2,4.7,182.0,6.1,MorumBIS,34252
+São Paulo,2023,36,29/11/2023,20:00,Quarta,11,Bahia,Vitória,1,0,Visitante,Braulio Da Silva Machado,28.3,5.7,177.9,7.0,27.6,2.8,179.8,6.4,Arena Fonte Nova,46288
+São Paulo,2023,37,02/12/2023,21:00,Sábado,12,Atlético Mineiro,Derrota,1,2,Visitante,Savio Pereira Sampaio,29.2,5.2,179.8,6.6,30.9,5.3,180.4,7.5,Arena MRV,53856
+São Paulo,2023,38,06/12/2023,21:30,Quarta,12,Flamengo,Vitória,1,0,Mandante,Caio Max Augusto Vieira,26.6,5.0,180.2,6.5,28.5,1.9,182.3,7.8,MorumBIS,36618
+Vasco da Gama,2023,1,15/04/2023,21:00,Sábado,4,Atlético Mineiro,Vitória,2,1,Visitante,Raphael Claus,25.4,3.9,180.8,5.3,28.5,4.1,178.3,6.8,Governador Magalhães Pinto,34980
+Vasco da Gama,2023,2,23/04/2023,16:00,Domingo,4,Palmeiras,Empate,2,2,Mandante,Rafael Rodrigo Klein,25.4,3.9,180.8,5.3,26.6,4.2,179.5,7.3,Estádio São Januário,59867
+Vasco da Gama,2023,3,01/05/2023,20:00,Segunda,5,Bahia,Derrota,0,1,Mandante,Flavio Rodrigues De Souza,25.3,4.1,181.5,5.1,27.0,2.4,181.4,6.2,Estádio São Januário,19223
+Vasco da Gama,2023,4,06/05/2023,21:00,Sábado,5,Fluminense,Empate,1,1,Visitante,Wilton Pereira Sampaio,25.5,3.9,180.8,5.3,30.8,7.0,178.5,6.7,Estádio do Maracanã,39850
+Vasco da Gama,2023,5,11/05/2023,19:00,Quinta,5,Coritiba,Empate,1,1,Visitante,Ramon Abatti Abel,25.5,3.9,180.8,5.3,27.6,4.7,181.2,6.8,Estádio Major Antônio Couto Pereira,20880
+Vasco da Gama,2023,6,14/05/2023,16:00,Domingo,5,Santos,Derrota,0,1,Mandante,Rodrigo Jose Pereira de Lima,24.5,3.1,181.5,4.9,25.6,4.4,181.3,6.9,Estádio São Januário,18476
+Vasco da Gama,2023,7,20/05/2023,18:30,Sábado,5,São Paulo,Derrota,2,4,Visitante,Leandro Pedro Vuaden,24.5,3.1,181.5,4.9,26.8,5.2,180.4,6.6,MorumBIS,57399
+Vasco da Gama,2023,8,27/05/2023,16:00,Sábado,5,Fortaleza,Derrota,0,2,Visitante,Edina Alves Batista,25.3,4.0,179.5,5.0,29.5,4.4,179.0,4.7,Estádio Governador Plácido Castelo,37625
+Vasco da Gama,2023,9,05/06/2023,20:00,Segunda,6,Flamengo,Derrota,1,4,Mandante,Braulio Da Silva Machado,26.2,3.3,180.6,6.5,26.1,4.5,184.1,5.9,Estádio do Maracanã,46423
+Vasco da Gama,2023,10,11/06/2023,16:00,Domingo,6,Internacional,Derrota,1,2,Visitante,Edina Alves Batista,25.1,4.5,182.0,4.6,28.9,3.9,179.7,7.2,Estádio Beira-Rio,18044
+Vasco da Gama,2023,11,22/06/2023,20:00,Quinta,6,Goiás,Derrota,0,1,Mandante,Jean Pierre Goncalves Lima,23.9,4.5,181.6,4.0,28.2,3.2,181.2,5.1,Estádio São Januário,17647
+Vasco da Gama,2023,12,26/06/2023,21:00,Segunda,6,Cuiabá,Vitória,1,0,Mandante,Rafael Rodrigo Klein,24.8,4.5,180.8,4.4,28.9,4.3,181.5,5.1,Estádio São Januário,N.A
+Vasco da Gama,2023,13,02/07/2023,16:00,Domingo,7,Botafogo,Derrota,0,2,Visitante,Raphael Claus,25.4,3.6,181.3,6.0,28.7,4.5,183.1,6.6,Estádio Nilton Santos,38798
+Vasco da Gama,2023,14,08/07/2023,16:00,Sábado,7,Cruzeiro,Derrota,0,1,Mandante,Savio Pereira Sampaio,25.3,4.4,181.5,6.3,27.1,4.3,179.5,5.8,Estádio São Januário,N.A
+Vasco da Gama,2023,16,23/07/2023,18:30,Domingo,7,Athletico,Derrota,0,2,Mandante,Paulo Cesar Zanovelli da Silva,25.4,4.1,179.9,6.4,25.7,5.8,181.0,6.4,Estádio São Januário,N.A
+Vasco da Gama,2023,17,29/07/2023,18:30,Sábado,7,Corinthians,Derrota,1,3,Visitante,Leandro Pedro Vuaden,26.3,3.9,181.3,5.0,28.6,6.0,182.1,6.6,Neo Química Arena,N.A
+Vasco da Gama,2023,18,06/08/2023,16:00,Domingo,8,Grêmio,Vitória,1,0,Mandante,Luiz Flávio de Oliveira,25.8,3.8,179.4,6.0,28.6,4.2,180.8,4.8,Estádio São Januário,N.A
+Vasco da Gama,2023,19,14/08/2023,21:00,Segunda,8,Red Bull Bragantino,Empate,1,1,Visitante,Anderson Daronco,26.5,4.8,179.7,6.2,24.6,3.8,182.0,5.6,Estádio Nabi Abi Chedid,5553
+Vasco da Gama,2023,20,20/08/2023,11:00,Domingo,8,Atlético Mineiro,Vitória,1,0,Mandante,Braulio Da Silva Machado,27.2,4.5,180.8,5.5,29.8,4.0,180.8,5.9,Estádio São Januário,53540
+Vasco da Gama,2023,21,27/08/2023,18:30,Domingo,8,Palmeiras,Derrota,0,1,Visitante,Wilton Pereira Sampaio,27.9,5.0,181.5,6.3,28.0,3.7,178.4,7.9,Nubank Parque,40292
+Vasco da Gama,2023,22,03/09/2023,18:30,Domingo,9,Bahia,Empate,1,1,Visitante,Ramon Abatti Abel,28.2,4.9,181.5,6.2,29.1,1.8,181.6,5.1,Arena Fonte Nova,46705
+Vasco da Gama,2023,23,16/09/2023,16:00,Sábado,9,Fluminense,Vitória,4,2,Mandante,Raphael Claus,27.1,4.7,182.3,6.2,28.8,6.9,177.5,5.8,Estádio Nilton Santos,35850
+Vasco da Gama,2023,24,21/09/2023,19:00,Quinta,9,Coritiba,Vitória,5,1,Mandante,Flavio Rodrigues De Souza,28.8,4.9,179.6,6.4,29.4,4.0,183.0,6.7,Estádio São Januário,20321
+Vasco da Gama,2023,15,25/09/2023,20:00,Segunda,9,América Mineiro,Vitória,1,0,Visitante,Ramon Abatti Abel,28.8,4.9,179.6,6.4,29.7,5.6,183.0,7.3,Arena Independência,8498
+Vasco da Gama,2023,25,01/10/2023,16:00,Domingo,10,Santos,Derrota,1,4,Visitante,Anderson Daronco,26.6,4.9,181.1,5.6,27.2,4.7,178.9,7.9,Estádio Urbano Caldeira,N.A
+Vasco da Gama,2023,26,07/10/2023,18:30,Sábado,10,São Paulo,Empate,0,0,Mandante,Braulio Da Silva Machado,26.5,4.8,182.2,5.7,27.4,4.4,179.5,6.0,Estádio São Januário,20690
+Vasco da Gama,2023,27,18/10/2023,21:30,Quarta,10,Fortaleza,Vitória,1,0,Mandante,Leandro Pedro Vuaden,27.5,5.6,182.4,5.4,29.4,3.7,177.5,6.0,Estádio São Januário,20255
+Vasco da Gama,2023,28,22/10/2023,16:00,Domingo,10,Flamengo,Derrota,0,1,Visitante,Raphael Claus,28.2,5.2,179.5,5.9,27.4,3.0,184.3,6.2,Estádio do Maracanã,69473
+Vasco da Gama,2023,29,26/10/2023,19:00,Quinta,10,Internacional,Derrota,1,2,Mandante,Luiz Flávio de Oliveira,28.2,5.2,179.5,5.9,29.5,4.8,177.8,6.6,Estádio São Januário,20098
+Vasco da Gama,2023,30,29/10/2023,16:00,Domingo,10,Goiás,Empate,1,1,Visitante,Flavio Rodrigues De Souza,29.8,4.3,181.4,6.1,28.5,3.0,181.4,6.3,Estádio da Serrinha,12904
+Vasco da Gama,2023,31,02/11/2023,17:00,Quinta,11,Cuiabá,Vitória,2,0,Visitante,Ramon Abatti Abel,26.5,5.0,179.5,6.6,27.6,4.3,183.5,6.1,Arena Pantanal,27604
+Vasco da Gama,2023,32,06/11/2023,19:00,Segunda,11,Botafogo,Vitória,1,0,Mandante,Leandro Pedro Vuaden,27.4,5.5,180.0,6.9,30.6,2.6,183.3,6.7,Estádio São Januário,21043
+Vasco da Gama,2023,34,12/11/2023,18:30,Domingo,11,América Mineiro,Vitória,2,1,Mandante,Savio Pereira Sampaio,28.7,5.2,180.1,6.8,29.9,4.2,180.0,6.5,Estádio São Januário,19478
+Vasco da Gama,2023,33,22/11/2023,19:00,Quarta,11,Cruzeiro,Empate,2,2,Visitante,Leandro Pedro Vuaden,28.4,5.0,180.5,7.0,28.0,3.7,180.0,5.8,Governador Magalhães Pinto,N.A
+Vasco da Gama,2023,35,25/11/2023,19:30,Sábado,11,Athletico,Empate,0,0,Visitante,Anderson Daronco,28.0,5.2,180.8,6.4,28.1,5.7,180.1,5.3,Arena da Baixada,22056
+Vasco da Gama,2023,36,28/11/2023,21:30,Terça,11,Corinthians,Derrota,2,4,Mandante,Savio Pereira Sampaio,28.9,4.8,180.0,5.9,30.0,6.2,180.8,7.3,Estádio São Januário,20220
+Vasco da Gama,2023,37,03/12/2023,18:30,Domingo,12,Grêmio,Derrota,0,1,Visitante,Ramon Abatti Abel,27.0,4.5,182.7,5.2,28.9,4.9,181.1,6.9,Arena do Grêmio,50481
+Vasco da Gama,2023,38,06/12/2023,21:30,Quarta,12,Red Bull Bragantino,Vitória,2,1,Mandante,Wilton Pereira Sampaio,28.8,6.0,180.7,6.3,25.4,2.9,181.0,5.7,Estádio São Januário,20037

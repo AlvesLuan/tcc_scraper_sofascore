@@ -1,0 +1,49 @@
+CONFIGURAÇÃO (melhor combinação via GridSearchCV)
+criterion=gini
+max_depth=10
+min_samples_leaf=20
+min_samples_split=2
+
+REGRAS DA ÁRVORE
+================================================================================
+
+|--- condicao_Visitante <= 0.50
+|   |--- dia_semana_Sábado <= 0.50
+|   |   |--- publico <= 45917.50
+|   |   |   |--- publico <= 33867.50
+|   |   |   |   |--- publico <= 23419.00
+|   |   |   |   |   |--- altura_media_titular_time <= 179.85
+|   |   |   |   |   |   |--- class: Vitória
+|   |   |   |   |   |--- altura_media_titular_time >  179.85
+|   |   |   |   |   |   |--- class: Vitória
+|   |   |   |   |--- publico >  23419.00
+|   |   |   |   |   |--- class: Vitória
+|   |   |   |--- publico >  33867.50
+|   |   |   |   |--- class: Empate
+|   |   |--- publico >  45917.50
+|   |   |   |--- class: Vitória
+|   |--- dia_semana_Sábado >  0.50
+|   |   |--- altura_media_titular_adv <= 180.65
+|   |   |   |--- class: Vitória
+|   |   |--- altura_media_titular_adv >  180.65
+|   |   |   |--- class: Vitória
+|--- condicao_Visitante >  0.50
+|   |--- publico <= 36213.00
+|   |   |--- idade_media_titular_time <= 28.85
+|   |   |   |--- altura_media_titular_time <= 181.95
+|   |   |   |   |--- publico <= 21194.50
+|   |   |   |   |   |--- class: Derrota
+|   |   |   |   |--- publico >  21194.50
+|   |   |   |   |   |--- class: Derrota
+|   |   |   |--- altura_media_titular_time >  181.95
+|   |   |   |   |--- class: Derrota
+|   |   |--- idade_media_titular_time >  28.85
+|   |   |   |--- altura_media_titular_time <= 179.65
+|   |   |   |   |--- class: Derrota
+|   |   |   |--- altura_media_titular_time >  179.65
+|   |   |   |   |--- class: Empate
+|   |--- publico >  36213.00
+|   |   |--- altura_media_titular_time <= 180.65
+|   |   |   |--- class: Derrota
+|   |   |--- altura_media_titular_time >  180.65
+|   |   |   |--- class: Derrota

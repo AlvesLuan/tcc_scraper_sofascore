@@ -1,0 +1,495 @@
+﻿time,temporada,rodada,data,horario,dia_semana,mes,adversario,resultado,gols_favor,gols_sofridos,condicao,arbitro,idade_media_titular_time,desvio_idade_media_time,altura_media_titular_time,desvio_altura_media_time,idade_media_titular_adv,desvio_idade_media_adv,altura_media_titular_adv,desvio_altura_media_adv,estadio,publico
+Atlético Mineiro,2025,1,29/03/2025,18:30,Sábado,3,Grêmio,Derrota,1,2,Visitante,Raphael Claus,29.3,4.4,178.5,7.0,27.1,4.8,177.9,6.1,Arena do Grêmio,20111
+Atlético Mineiro,2025,2,06/04/2025,16:00,Domingo,4,São Paulo,Empate,0,0,Mandante,Ramon Abatti Abel,29.3,4.4,178.5,7.0,30.3,3.3,179.6,7.4,Arena MRV,28415
+Atlético Mineiro,2025,3,13/04/2025,20:30,Domingo,4,Vitória,Empate,2,2,Mandante,Davi de Oliveira Lacerda,28.3,5.5,178.9,6.5,27.8,2.5,179.5,8.0,Arena MRV,23234
+Atlético Mineiro,2025,4,16/04/2025,21:30,Quarta,4,Santos,Derrota,0,2,Visitante,Braulio Da Silva Machado,29.8,4.3,180.5,6.5,29.4,4.8,180.7,6.9,Estádio Urbano Caldeira,10360
+Atlético Mineiro,2025,5,20/04/2025,16:00,Domingo,4,Botafogo,Vitória,1,0,Mandante,Ramon Abatti Abel,28.6,4.7,180.5,6.8,25.7,3.6,181.6,9.4,Arena MRV,24528
+Atlético Mineiro,2025,6,26/04/2025,18:30,Sábado,4,Mirassol,Empate,2,2,Visitante,Davi de Oliveira Lacerda,29.2,5.3,179.2,7.0,29.1,3.7,179.7,7.1,Estádio José Maria de Campos Maia,4966
+Atlético Mineiro,2025,7,05/05/2025,20:00,Segunda,5,Juventude,Vitória,1,0,Visitante,Bruno Pereira Vasconcelos,27.3,4.0,179.7,6.6,29.9,4.9,178.2,6.9,Estádio Alfredo Jaconi,7486
+Atlético Mineiro,2025,8,11/05/2025,17:30,Domingo,5,Fluminense,Vitória,3,2,Mandante,Ramon Abatti Abel,29.1,4.7,179.1,7.0,30.4,6.9,178.2,6.4,Arena MRV,25018
+Atlético Mineiro,2025,9,18/05/2025,20:30,Domingo,5,Cruzeiro,Empate,0,0,Visitante,Flavio Rodrigues De Souza,29.4,4.4,179.2,7.0,29.7,4.7,178.5,8.5,Governador Magalhães Pinto,61106
+Atlético Mineiro,2025,10,24/05/2025,21:00,Sábado,5,Corinthians,Empate,0,0,Mandante,Rafael Rodrigo Klein,29.4,5.1,178.5,8.6,26.6,3.7,181.5,8.6,Arena MRV,38154
+Atlético Mineiro,2025,11,01/06/2025,18:30,Domingo,6,Ceará,Vitória,1,0,Visitante,Alex Gomes Stefano,28.4,4.3,180.8,7.5,30.7,4.3,181.0,6.5,Estádio Governador Plácido Castelo,49955
+Atlético Mineiro,2025,12,12/06/2025,21:30,Quinta,6,Internacional,Vitória,2,0,Mandante,Flavio Rodrigues De Souza,30.0,4.7,178.1,8.1,27.7,3.3,179.1,5.5,Arena MRV,24781
+Atlético Mineiro,2025,13,12/07/2025,21:00,Sábado,7,Bahia,Derrota,1,2,Visitante,Davi de Oliveira Lacerda,28.7,4.8,178.5,6.8,29.1,3.8,180.2,7.4,Arena Fonte Nova,30249
+Atlético Mineiro,2025,15,20/07/2025,17:30,Domingo,7,Palmeiras,Derrota,2,3,Visitante,Alex Gomes Stefano,29.7,4.4,179.0,7.0,27.5,4.9,180.5,5.5,Nubank Parque,34970
+Atlético Mineiro,2025,17,27/07/2025,20:30,Domingo,7,Flamengo,Derrota,0,1,Visitante,Ramon Abatti Abel,30.3,4.2,179.7,7.0,30.0,2.7,181.2,7.2,Estádio do Maracanã,51345
+Atlético Mineiro,2025,18,03/08/2025,18:30,Domingo,8,Red Bull Bragantino,Vitória,2,1,Mandante,Bruno Arleu de Araujo,27.8,3.9,178.2,7.6,26.9,3.8,180.5,8.3,Arena MRV,20092
+Atlético Mineiro,2025,19,10/08/2025,16:00,Domingo,8,Vasco da Gama,Empate,1,1,Visitante,Davi de Oliveira Lacerda,28.5,3.4,178.6,7.1,28.7,4.6,180.5,5.9,Estádio São Januário,16157
+Atlético Mineiro,2025,20,17/08/2025,16:00,Domingo,8,Grêmio,Derrota,1,3,Mandante,Alex Gomes Stefano,27.9,5.8,179.9,5.8,29.4,5.3,181.5,6.3,Arena MRV,34774
+Atlético Mineiro,2025,21,24/08/2025,20:30,Domingo,8,São Paulo,Derrota,0,2,Visitante,Lucas Casagrande,27.7,4.5,181.8,6.9,28.5,3.7,179.7,7.1,MorumBIS,26341
+Atlético Mineiro,2025,22,31/08/2025,18:30,Domingo,8,Vitória,Derrota,0,1,Visitante,Alex Gomes Stefano,30.3,5.1,178.6,7.0,28.5,4.6,179.5,6.1,Estádio Manoel Barradas,28586
+Atlético Mineiro,2025,23,14/09/2025,16:00,Domingo,9,Santos,Empate,1,1,Mandante,Bruno Arleu de Araujo,29.9,4.5,179.1,7.2,29.0,3.4,180.5,6.4,Arena MRV,38262
+Atlético Mineiro,2025,24,20/09/2025,18:30,Sábado,9,Botafogo,Derrota,0,1,Visitante,Flavio Rodrigues De Souza,29.4,4.9,182.7,5.7,27.8,4.4,182.0,9.3,Estádio Nilton Santos,11816
+Atlético Mineiro,2025,25,27/09/2025,21:00,Sábado,9,Mirassol,Vitória,1,0,Mandante,Rafael Rodrigo Klein,29.4,3.8,178.5,9.2,30.8,4.0,178.9,6.4,Arena MRV,22864
+Atlético Mineiro,2025,26,30/09/2025,21:30,Terça,9,Juventude,Empate,0,0,Mandante,Lucas Casagrande,27.8,4.3,178.7,8.8,28.3,4.0,179.0,7.1,Arena MRV,26567
+Atlético Mineiro,2025,27,04/10/2025,18:30,Sábado,10,Fluminense,Derrota,0,3,Visitante,Davi de Oliveira Lacerda,30.0,5.4,178.5,8.4,30.8,6.9,175.8,7.4,Estádio do Maracanã,20198
+Atlético Mineiro,2025,14,08/10/2025,19:00,Quarta,10,Sport Recife,Vitória,3,1,Mandante,Alex Gomes Stefano,30.9,3.1,178.1,8.8,29.2,4.8,182.3,8.3,Arena MRV,25093
+Atlético Mineiro,2025,28,15/10/2025,21:30,Quarta,10,Cruzeiro,Empate,1,1,Mandante,Paulo Cesar Zanovelli da Silva,29.2,4.6,177.2,8.4,28.8,4.9,178.7,7.2,Arena MRV,40388
+Atlético Mineiro,2025,29,18/10/2025,18:30,Sábado,10,Corinthians,Derrota,0,1,Visitante,Alex Gomes Stefano,30.1,4.6,181.8,6.3,26.2,3.0,180.9,8.4,Neo Química Arena,39228
+Atlético Mineiro,2025,30,25/10/2025,16:00,Sábado,10,Ceará,Vitória,1,0,Mandante,Bruno Arleu de Araujo,30.0,5.7,179.2,7.7,29.3,3.5,180.9,8.0,Arena MRV,33694
+Atlético Mineiro,2025,31,02/11/2025,18:30,Domingo,11,Internacional,Empate,0,0,Visitante,Alex Gomes Stefano,30.9,4.8,179.3,7.5,29.3,4.0,179.6,6.8,Estádio Beira-Rio,32644
+Atlético Mineiro,2025,32,05/11/2025,20:00,Quarta,11,Bahia,Vitória,3,0,Mandante,Davi de Oliveira Lacerda,31.2,4.5,178.1,8.0,28.5,3.2,180.1,6.9,Arena MRV,25506
+Atlético Mineiro,2025,33,08/11/2025,16:00,Sábado,11,Sport Recife,Vitória,4,2,Visitante,Matheus Delgado Candançan,28.0,4.6,179.7,7.8,29.9,3.3,182.8,8.2,Ilha do Retiro,5095
+Atlético Mineiro,2025,16,12/11/2025,20:30,Quarta,11,Fortaleza,Empate,3,3,Mandante,Savio Pereira Sampaio,31.2,4.7,178.1,8.8,28.6,4.4,179.9,5.3,Arena MRV,39246
+Atlético Mineiro,2025,37,16/11/2025,19:00,Domingo,11,Red Bull Bragantino,Derrota,0,2,Visitante,Marcelo de Lima Henrique,31.5,4.1,178.4,8.8,26.4,3.9,181.6,8.3,Estádio Cícero de Souza Marques,4472
+Atlético Mineiro,2025,36,25/11/2025,21:30,Terça,11,Flamengo,Empate,1,1,Mandante,Rafael Rodrigo Klein,31.2,4.9,177.6,8.1,28.0,3.7,183.3,5.3,Arena MRV,18321
+Atlético Mineiro,2025,35,30/11/2025,18:30,Domingo,11,Fortaleza,Derrota,0,1,Visitante,Davi de Oliveira Lacerda,30.9,4.8,179.4,8.4,28.7,4.1,179.0,4.7,Estádio Governador Plácido Castelo,51793
+Atlético Mineiro,2025,34,03/12/2025,21:30,Quarta,12,Palmeiras,Derrota,0,3,Mandante,Rafael Rodrigo Klein,31.0,3.1,179.4,7.9,26.8,3.5,182.7,8.4,Arena MRV,13878
+Atlético Mineiro,2025,38,07/12/2025,16:00,Domingo,12,Vasco da Gama,Vitória,5,0,Mandante,Lucas Paulo Torezin,32.3,3.6,177.5,8.7,28.9,4.2,181.5,5.1,Arena MRV,20622
+Bahia,2025,1,30/03/2025,20:00,Domingo,3,Corinthians,Empate,1,1,Mandante,Bruno Arleu de Araujo,27.5,3.9,179.1,6.7,26.2,4.3,181.3,3.6,Arena Fonte Nova,41898
+Bahia,2025,2,06/04/2025,20:30,Domingo,4,Santos,Empate,2,2,Visitante,Alex Gomes Stefano,28.1,3.0,181.2,7.2,27.6,5.4,181.4,6.6,Estádio Urbano Caldeira,8796
+Bahia,2025,3,13/04/2025,16:00,Domingo,4,Mirassol,Empate,1,1,Mandante,Braulio Da Silva Machado,28.6,3.7,180.0,7.3,29.8,3.4,178.5,8.1,Arena Fonte Nova,39873
+Bahia,2025,4,17/04/2025,21:30,Quinta,4,Cruzeiro,Derrota,0,3,Visitante,Flavio Rodrigues De Souza,27.1,4.0,179.5,7.0,29.6,4.7,178.5,8.5,Governador Magalhães Pinto,26557
+Bahia,2025,5,21/04/2025,20:00,Segunda,4,Ceará,Vitória,1,0,Mandante,Rafael Rodrigo Klein,27.5,3.1,179.7,6.3,30.6,4.1,180.3,7.1,Arena Fonte Nova,28047
+Bahia,2025,6,27/04/2025,18:30,Domingo,4,Palmeiras,Vitória,1,0,Visitante,Wilton Pereira Sampaio,28.9,3.8,180.2,7.4,26.6,5.0,182.7,6.7,Nubank Parque,29033
+Bahia,2025,7,03/05/2025,21:00,Sábado,5,Botafogo,Vitória,1,0,Mandante,Flavio Rodrigues De Souza,27.4,3.7,179.1,6.7,25.8,3.4,183.4,8.6,Arena Fonte Nova,37206
+Bahia,2025,8,10/05/2025,21:00,Sábado,5,Flamengo,Derrota,0,1,Visitante,Anderson Daronco,25.7,2.7,180.8,5.7,30.6,2.1,180.6,8.5,Estádio do Maracanã,62204
+Bahia,2025,9,18/05/2025,16:00,Domingo,5,Vitória,Vitória,2,1,Mandante,Ramon Abatti Abel,27.8,3.9,179.5,6.6,28.6,3.9,178.8,6.6,Arena Fonte Nova,47273
+Bahia,2025,10,25/05/2025,11:00,Domingo,5,Grêmio,Derrota,0,1,Visitante,Bruno Arleu de Araujo,28.0,3.9,179.3,6.6,29.1,3.5,177.9,6.3,Arena do Grêmio,13859
+Bahia,2025,11,31/05/2025,18:30,Sábado,5,São Paulo,Vitória,2,1,Mandante,Anderson Daronco,29.0,3.8,180.2,7.4,28.2,5.8,180.8,6.0,Arena Fonte Nova,41041
+Bahia,2025,12,12/06/2025,19:00,Quinta,6,Red Bull Bragantino,Vitória,3,0,Visitante,Lucas Paulo Torezin,29.0,3.8,180.2,7.4,26.3,3.9,180.0,7.4,Estádio Cícero de Souza Marques,2957
+Bahia,2025,13,12/07/2025,21:00,Sábado,7,Atlético Mineiro,Vitória,2,1,Mandante,Davi de Oliveira Lacerda,29.1,3.8,180.2,7.4,28.7,4.8,178.5,6.8,Arena Fonte Nova,30249
+Bahia,2025,15,19/07/2025,16:00,Sábado,7,Fortaleza,Empate,1,1,Visitante,Wilton Pereira Sampaio,28.1,4.0,179.3,6.9,30.4,3.8,180.4,6.5,Estádio Governador Plácido Castelo,15954
+Bahia,2025,17,27/07/2025,18:30,Domingo,7,Juventude,Vitória,3,0,Mandante,Matheus Delgado Candançan,29.3,3.8,180.6,8.4,28.0,4.0,179.6,6.0,Arena Fonte Nova,32822
+Bahia,2025,18,02/08/2025,16:00,Sábado,8,Sport Recife,Empate,0,0,Visitante,Anderson Daronco,29.4,3.5,181.6,7.0,27.4,4.5,182.3,8.3,Ilha do Retiro,16080
+Bahia,2025,19,09/08/2025,21:00,Sábado,8,Fluminense,Empate,3,3,Mandante,Jefferson Ferreira de Moraes,28.9,4.1,181.1,7.3,30.9,7.8,180.8,4.5,Arena Fonte Nova,35505
+Bahia,2025,20,16/08/2025,21:00,Sábado,8,Corinthians,Vitória,2,1,Visitante,Paulo Cesar Zanovelli da Silva,28.2,3.4,181.5,7.0,26.5,4.7,181.0,8.5,Neo Química Arena,38277
+Bahia,2025,21,24/08/2025,16:00,Domingo,8,Santos,Vitória,2,0,Mandante,Rafael Rodrigo Klein,29.0,4.2,180.6,7.5,28.6,5.2,181.4,7.4,Arena Fonte Nova,45233
+Bahia,2025,22,31/08/2025,18:30,Domingo,8,Mirassol,Derrota,1,5,Visitante,Marcelo de Lima Henrique,28.2,4.1,179.5,7.3,29.9,3.8,179.5,6.5,Estádio José Maria de Campos Maia,4759
+Bahia,2025,23,15/09/2025,20:00,Segunda,9,Cruzeiro,Derrota,1,2,Mandante,Flavio Rodrigues De Souza,27.7,4.8,181.0,6.8,29.1,4.2,178.5,7.9,Arena Fonte Nova,32160
+Bahia,2025,24,20/09/2025,18:30,Sábado,9,Ceará,Empate,1,1,Visitante,Lucas Casagrande,28.3,4.5,181.3,6.6,29.7,2.5,179.3,7.9,Estádio Governador Plácido Castelo,24873
+Bahia,2025,16,24/09/2025,19:30,Quarta,9,Vasco da Gama,Derrota,1,3,Visitante,Joao Vitor Gobi,28.6,4.4,182.8,5.9,28.0,4.3,179.4,5.7,Estádio São Januário,16188
+Bahia,2025,25,28/09/2025,16:00,Domingo,9,Palmeiras,Vitória,1,0,Mandante,Anderson Daronco,27.4,4.7,180.7,7.0,28.3,4.8,182.2,5.0,Arena Fonte Nova,45615
+Bahia,2025,26,01/10/2025,21:30,Quarta,10,Botafogo,Derrota,1,2,Visitante,Felipe Fernandes de Lima,28.1,4.8,182.2,6.4,27.1,2.5,182.2,7.9,Estádio Nilton Santos,8059
+Bahia,2025,27,05/10/2025,18:30,Domingo,10,Flamengo,Vitória,1,0,Mandante,Rodrigo Jose Pereira de Lima,29.7,4.0,181.8,7.1,29.5,2.6,180.9,6.9,Arena Fonte Nova,48634
+Bahia,2025,28,16/10/2025,21:30,Quinta,10,Vitória,Derrota,1,2,Visitante,Anderson Daronco,27.3,4.0,181.3,7.4,28.5,2.6,180.8,6.5,Estádio Manoel Barradas,28027
+Bahia,2025,29,19/10/2025,20:30,Domingo,10,Grêmio,Vitória,4,0,Mandante,Raphael Claus,28.5,3.6,182.1,6.7,29.5,4.9,180.7,7.5,Arena Fonte Nova,29272
+Bahia,2025,14,22/10/2025,19:00,Quarta,10,Internacional,Vitória,1,0,Mandante,Flavio Rodrigues De Souza,27.8,3.6,181.5,6.7,27.2,5.1,180.3,6.7,Arena Fonte Nova,27349
+Bahia,2025,30,25/10/2025,21:30,Sábado,10,São Paulo,Derrota,0,2,Visitante,Lucas Paulo Torezin,28.2,3.9,181.4,7.2,28.9,4.7,179.5,7.0,MorumBIS,15253
+Bahia,2025,31,02/11/2025,16:00,Domingo,11,Red Bull Bragantino,Vitória,2,1,Mandante,Marcelo de Lima Henrique,27.7,3.7,180.4,7.8,27.3,3.6,181.4,8.6,Arena Fonte Nova,43129
+Bahia,2025,32,05/11/2025,20:00,Quarta,11,Atlético Mineiro,Derrota,0,3,Visitante,Davi de Oliveira Lacerda,28.5,3.2,180.1,6.9,31.2,4.5,178.1,8.0,Arena MRV,25506
+Bahia,2025,33,08/11/2025,18:30,Sábado,11,Internacional,Empate,2,2,Visitante,Lucas Paulo Torezin,28.9,3.1,180.7,7.7,28.0,5.0,178.7,6.9,Estádio Beira-Rio,18524
+Bahia,2025,34,20/11/2025,18:00,Quinta,11,Fortaleza,Derrota,2,3,Mandante,Rafael Rodrigo Klein,28.6,3.0,180.7,7.8,27.3,3.1,179.6,5.4,Arena Fonte Nova,39941
+Bahia,2025,35,23/11/2025,16:00,Domingo,11,Vasco da Gama,Vitória,1,0,Mandante,Jefferson Ferreira de Moraes,29.3,3.9,179.5,7.4,24.9,3.5,179.8,5.3,Arena Fonte Nova,43074
+Bahia,2025,36,28/11/2025,19:00,Sexta,11,Juventude,Empate,1,1,Visitante,Fernando Antonio Mendes de Salles Nascimento Filho,29.3,3.7,180.4,7.8,29.8,5.6,179.6,4.2,Estádio Alfredo Jaconi,4536
+Bahia,2025,37,03/12/2025,20:00,Quarta,12,Sport Recife,Vitória,2,0,Mandante,Flavio Rodrigues De Souza,28.7,3.9,179.1,7.9,30.0,4.4,180.4,8.1,Arena Fonte Nova,39847
+Bahia,2025,38,07/12/2025,16:00,Domingo,12,Fluminense,Derrota,0,2,Visitante,Matheus Delgado Candançan,28.9,3.8,179.8,7.7,32.2,6.3,176.2,7.5,Estádio do Maracanã,52268
+Botafogo,2025,1,30/03/2025,16:00,Domingo,3,Palmeiras,Empate,0,0,Visitante,Ramon Abatti Abel,27.6,3.4,182.4,9.7,26.9,5.2,181.5,5.5,Nubank Parque,30347
+Botafogo,2025,2,05/04/2025,21:00,Sábado,4,Juventude,Vitória,2,0,Mandante,Rodrigo Jose Pereira de Lima,26.7,3.4,182.2,9.8,27.6,4.9,179.4,7.6,Estádio Nilton Santos,10030
+Botafogo,2025,3,12/04/2025,16:00,Sábado,4,Red Bull Bragantino,Derrota,0,1,Visitante,Anderson Daronco,27.6,3.4,182.4,9.7,26.7,3.6,179.9,7.4,Estádio Nabi Abi Chedid,5233
+Botafogo,2025,4,16/04/2025,18:30,Quarta,4,São Paulo,Empate,2,2,Mandante,Davi de Oliveira Lacerda,26.4,3.6,182.1,9.8,29.6,4.4,179.5,7.3,Estádio Nilton Santos,12014
+Botafogo,2025,5,20/04/2025,16:00,Domingo,4,Atlético Mineiro,Derrota,0,1,Visitante,Ramon Abatti Abel,25.7,3.6,181.6,9.4,28.6,4.7,180.5,6.8,Arena MRV,24528
+Botafogo,2025,6,26/04/2025,21:00,Sábado,4,Fluminense,Vitória,2,0,Mandante,Bruno Arleu de Araujo,26.8,4.0,183.2,8.8,30.7,6.6,179.1,7.7,Estádio Nilton Santos,12943
+Botafogo,2025,7,03/05/2025,21:00,Sábado,5,Bahia,Derrota,0,1,Visitante,Flavio Rodrigues De Souza,25.8,3.4,183.4,8.6,27.4,3.7,179.1,6.7,Arena Fonte Nova,37206
+Botafogo,2025,8,11/05/2025,20:00,Domingo,5,Internacional,Vitória,4,0,Mandante,Matheus Delgado Candançan,26.4,3.8,182.5,8.6,25.1,2.6,180.2,6.0,Estádio Nilton Santos,7800
+Botafogo,2025,9,18/05/2025,18:30,Domingo,5,Flamengo,Empate,0,0,Visitante,Bruno Arleu de Araujo,26.9,4.5,184.1,7.5,28.6,3.8,181.7,7.4,Estádio do Maracanã,50255
+Botafogo,2025,11,01/06/2025,16:00,Domingo,6,Santos,Vitória,1,0,Visitante,Davi de Oliveira Lacerda,27.8,4.2,182.2,9.6,28.3,4.7,178.6,6.4,Estádio Urbano Caldeira,13787
+Botafogo,2025,10,04/06/2025,20:00,Quarta,6,Ceará,Vitória,3,2,Mandante,Edina Alves Batista,27.4,3.9,182.2,9.0,30.7,4.3,181.0,6.5,Estádio Nilton Santos,19952
+Botafogo,2025,13,12/07/2025,18:30,Sábado,7,Vasco da Gama,Vitória,2,0,Visitante,Anderson Daronco,28.3,3.7,180.9,9.3,28.2,4.7,179.9,6.0,Arena BRB Mané Garrincha,31468
+Botafogo,2025,14,16/07/2025,21:30,Quarta,7,Vitória,Empate,0,0,Mandante,Lucas Casagrande,28.6,4.0,180.4,9.5,28.2,3.6,180.0,7.2,Estádio Nilton Santos,19733
+Botafogo,2025,15,20/07/2025,17:30,Domingo,7,Sport Recife,Vitória,1,0,Visitante,Flavio Rodrigues De Souza,28.0,3.7,183.3,8.8,28.5,4.8,183.9,5.9,Ilha do Retiro,1309
+Botafogo,2025,17,26/07/2025,18:30,Sábado,7,Corinthians,Empate,1,1,Mandante,Rodrigo Jose Pereira de Lima,27.4,5.0,184.0,7.6,26.8,4.7,184.7,6.2,Estádio Nilton Santos,27087
+Botafogo,2025,18,03/08/2025,16:00,Domingo,8,Cruzeiro,Derrota,0,2,Mandante,Matheus Delgado Candançan,28.6,4.0,180.4,9.5,29.4,4.3,179.2,7.9,Estádio Nilton Santos,35125
+Botafogo,2025,19,09/08/2025,20:30,Sábado,8,Fortaleza,Vitória,5,0,Visitante,Anderson Daronco,26.7,4.6,179.4,8.4,28.1,4.8,181.8,6.7,Estádio Governador Plácido Castelo,30910
+Botafogo,2025,20,17/08/2025,20:30,Domingo,8,Palmeiras,Derrota,0,1,Mandante,Davi de Oliveira Lacerda,28.7,5.1,182.6,7.3,28.1,4.5,181.2,5.4,Estádio Nilton Santos,16469
+Botafogo,2025,21,24/08/2025,18:30,Domingo,8,Juventude,Vitória,3,1,Visitante,Flavio Rodrigues De Souza,27.8,4.7,183.6,7.0,30.9,5.6,178.5,5.9,Estádio Alfredo Jaconi,7528
+Botafogo,2025,22,30/08/2025,18:30,Sábado,8,Red Bull Bragantino,Vitória,4,1,Mandante,Lucas Casagrande,28.1,4.3,180.5,6.9,25.4,3.0,181.8,6.6,Estádio Nilton Santos,13165
+Botafogo,2025,23,14/09/2025,17:30,Domingo,9,São Paulo,Derrota,0,1,Visitante,Wilton Pereira Sampaio,29.0,4.6,181.5,7.4,29.5,4.7,181.2,5.9,MorumBIS,38713
+Botafogo,2025,12,17/09/2025,19:30,Quarta,9,Mirassol,Empate,3,3,Mandante,Bruno Pereira Vasconcelos,27.3,3.8,181.3,9.1,29.4,4.0,179.3,7.3,Estádio Nilton Santos,6724
+Botafogo,2025,24,20/09/2025,18:30,Sábado,9,Atlético Mineiro,Vitória,1,0,Mandante,Flavio Rodrigues De Souza,27.8,4.4,182.0,9.3,29.4,4.9,182.7,5.7,Estádio Nilton Santos,11816
+Botafogo,2025,16,24/09/2025,19:30,Quarta,9,Grêmio,Empate,1,1,Visitante,Lucas Paulo Torezin,27.6,3.0,182.9,7.5,30.7,5.2,179.9,7.6,Arena do Grêmio,18551
+Botafogo,2025,25,28/09/2025,16:00,Domingo,9,Fluminense,Derrota,0,2,Visitante,Ramon Abatti Abel,27.2,3.8,182.6,8.1,32.1,6.7,176.1,7.4,Estádio do Maracanã,15781
+Botafogo,2025,26,01/10/2025,21:30,Quarta,10,Bahia,Vitória,2,1,Mandante,Felipe Fernandes de Lima,27.1,2.5,182.2,7.9,28.1,4.8,182.2,6.4,Estádio Nilton Santos,8059
+Botafogo,2025,27,04/10/2025,18:30,Sábado,10,Internacional,Derrota,0,2,Visitante,Flavio Rodrigues De Souza,26.8,2.3,183.2,8.1,29.1,4.8,179.3,6.4,Estádio Beira-Rio,20805
+Botafogo,2025,28,15/10/2025,19:30,Quarta,10,Flamengo,Derrota,0,3,Mandante,Alex Gomes Stefano,28.4,4.4,180.2,8.5,29.3,3.3,182.7,6.0,Estádio Nilton Santos,22635
+Botafogo,2025,29,19/10/2025,18:30,Domingo,10,Ceará,Vitória,2,0,Visitante,Davi de Oliveira Lacerda,27.4,4.7,182.6,7.4,28.7,3.0,181.2,8.4,Estádio Governador Plácido Castelo,30021
+Botafogo,2025,30,26/10/2025,16:00,Domingo,10,Santos,Empate,2,2,Mandante,Rodrigo Jose Pereira de Lima,27.0,2.7,183.7,7.6,26.3,3.6,182.0,6.4,Estádio Nilton Santos,20533
+Botafogo,2025,31,01/11/2025,18:00,Sábado,11,Mirassol,Empate,0,0,Visitante,Jonathan Benkenstein Pinheiro,27.3,3.0,183.1,8.7,30.0,3.7,178.3,7.0,Estádio José Maria de Campos Maia,5145
+Botafogo,2025,32,05/11/2025,19:30,Quarta,11,Vasco da Gama,Vitória,3,0,Mandante,Bruno Arleu de Araujo,27.8,3.1,182.5,8.0,27.3,5.5,180.5,5.7,Estádio Nilton Santos,25506
+Botafogo,2025,33,09/11/2025,16:00,Domingo,11,Vitória,Empate,0,0,Visitante,Anderson Daronco,27.8,3.1,182.5,8.0,28.7,2.7,180.5,8.3,Estádio Manoel Barradas,28264
+Botafogo,2025,34,18/11/2025,20:30,Terça,11,Sport Recife,Vitória,3,2,Mandante,Bruno Pereira Vasconcelos,27.7,2.9,181.8,9.0,30.9,3.5,181.8,8.0,Estádio Nilton Santos,12120
+Botafogo,2025,35,22/11/2025,19:30,Sábado,11,Grêmio,Vitória,3,2,Mandante,Felipe Fernandes de Lima,26.3,3.9,181.7,8.5,28.7,5.6,180.2,7.4,Estádio Nilton Santos,16755
+Botafogo,2025,36,30/11/2025,16:00,Domingo,11,Corinthians,Empate,2,2,Visitante,Jonathan Benkenstein Pinheiro,26.6,4.9,182.1,7.7,26.2,4.6,181.7,9.6,Neo Química Arena,37959
+Botafogo,2025,37,04/12/2025,19:30,Quinta,12,Cruzeiro,Empate,2,2,Visitante,Anderson Daronco,28.3,5.1,179.9,6.3,29.3,4.3,179.3,7.8,Governador Magalhães Pinto,34649
+Botafogo,2025,38,07/12/2025,16:00,Domingo,12,Fortaleza,Vitória,4,2,Mandante,Paulo Cesar Zanovelli da Silva,28.3,5.4,179.0,7.0,29.0,3.8,179.6,5.5,Estádio Nilton Santos,26032
+Corinthians,2025,1,30/03/2025,20:00,Domingo,3,Bahia,Empate,1,1,Visitante,Bruno Arleu de Araujo,26.2,4.3,181.3,3.6,27.5,3.9,179.1,6.7,Arena Fonte Nova,41898
+Corinthians,2025,2,05/04/2025,18:30,Sábado,4,Vasco da Gama,Vitória,3,0,Mandante,Anderson Daronco,27.7,4.4,179.2,5.9,27.4,5.0,181.3,4.5,Neo Química Arena,43250
+Corinthians,2025,3,12/04/2025,18:30,Sábado,4,Palmeiras,Derrota,0,2,Visitante,Rafael Rodrigo Klein,27.3,4.2,179.6,5.0,26.6,5.2,182.5,5.8,Nubank Parque,19297
+Corinthians,2025,4,16/04/2025,19:30,Quarta,4,Fluminense,Derrota,0,2,Mandante,Rodrigo Jose Pereira de Lima,28.1,4.3,182.2,6.2,30.1,6.4,178.8,7.6,Neo Química Arena,34624
+Corinthians,2025,5,19/04/2025,16:00,Sábado,4,Sport Recife,Vitória,2,1,Mandante,Anderson Daronco,27.8,4.7,182.9,5.3,26.7,3.1,182.0,4.7,Neo Química Arena,44996
+Corinthians,2025,6,27/04/2025,16:00,Domingo,4,Flamengo,Derrota,0,4,Visitante,Ramon Abatti Abel,28.9,4.3,182.8,7.7,28.4,2.4,181.6,7.7,Estádio do Maracanã,67501
+Corinthians,2025,7,03/05/2025,18:30,Sábado,5,Internacional,Vitória,4,2,Mandante,Paulo Cesar Zanovelli da Silva,29.0,3.4,181.2,6.8,28.7,5.6,179.7,6.1,Neo Química Arena,44931
+Corinthians,2025,8,10/05/2025,18:30,Sábado,5,Mirassol,Derrota,1,2,Visitante,Joao Vitor Gobi,28.2,3.6,180.7,8.0,30.6,3.8,180.5,6.2,Estádio José Maria de Campos Maia,11584
+Corinthians,2025,9,18/05/2025,16:00,Domingo,5,Santos,Vitória,1,0,Mandante,Raphael Claus,28.6,4.1,182.0,7.2,29.4,3.9,177.7,9.0,Neo Química Arena,46535
+Corinthians,2025,10,24/05/2025,21:00,Sábado,5,Atlético Mineiro,Empate,0,0,Visitante,Rafael Rodrigo Klein,26.6,3.7,181.5,8.6,29.4,5.1,178.5,8.6,Arena MRV,38154
+Corinthians,2025,11,01/06/2025,18:30,Domingo,6,Vitória,Empate,0,0,Mandante,Felipe Fernandes de Lima,27.0,3.5,180.8,7.5,26.7,1.4,182.7,6.0,Neo Química Arena,44579
+Corinthians,2025,12,12/06/2025,20:00,Quinta,6,Grêmio,Empate,1,1,Visitante,Davi de Oliveira Lacerda,26.6,3.8,180.5,7.9,28.0,4.8,180.3,6.9,Arena do Grêmio,20465
+Corinthians,2025,13,13/07/2025,19:00,Domingo,7,Red Bull Bragantino,Derrota,1,2,Mandante,Bruno Arleu de Araujo,29.2,3.1,180.9,8.7,27.0,3.7,178.2,6.8,Neo Química Arena,34211
+Corinthians,2025,14,16/07/2025,19:30,Quarta,7,Ceará,Vitória,1,0,Visitante,Paulo Cesar Zanovelli da Silva,26.0,4.1,180.7,7.6,29.5,3.0,180.2,7.1,Estádio Governador Plácido Castelo,35410
+Corinthians,2025,15,19/07/2025,21:00,Sábado,7,São Paulo,Derrota,0,2,Visitante,Anderson Daronco,28.9,3.9,180.7,7.2,30.4,3.9,180.5,7.0,MorumBIS,37566
+Corinthians,2025,16,23/07/2025,19:30,Quarta,7,Cruzeiro,Empate,0,0,Mandante,Alex Gomes Stefano,27.8,3.9,181.6,8.8,29.4,4.3,179.2,7.9,Neo Química Arena,31232
+Corinthians,2025,17,26/07/2025,18:30,Sábado,7,Botafogo,Empate,1,1,Visitante,Rodrigo Jose Pereira de Lima,26.8,4.7,184.7,6.2,27.4,5.0,184.0,7.6,Estádio Nilton Santos,27087
+Corinthians,2025,18,03/08/2025,16:00,Domingo,8,Fortaleza,Empate,1,1,Mandante,Felipe Fernandes de Lima,26.5,4.9,182.5,7.9,29.5,4.8,180.4,7.6,Neo Química Arena,34805
+Corinthians,2025,19,11/08/2025,20:00,Segunda,8,Juventude,Derrota,1,2,Visitante,Lucas Casagrande,27.2,3.8,182.0,8.5,28.7,5.0,180.6,8.0,Estádio Alfredo Jaconi,8679
+Corinthians,2025,20,16/08/2025,21:00,Sábado,8,Bahia,Derrota,1,2,Mandante,Paulo Cesar Zanovelli da Silva,26.5,4.7,181.0,8.5,28.2,3.4,181.5,7.0,Neo Química Arena,38277
+Corinthians,2025,21,24/08/2025,16:00,Domingo,8,Vasco da Gama,Vitória,3,2,Visitante,Rodrigo Jose Pereira de Lima,26.4,4.5,182.0,8.4,28.0,4.0,179.1,5.0,Estádio São Januário,20329
+Corinthians,2025,22,31/08/2025,18:30,Domingo,8,Palmeiras,Empate,1,1,Mandante,Ramon Abatti Abel,28.0,4.5,183.2,7.7,28.0,4.6,180.9,5.7,Neo Química Arena,45273
+Corinthians,2025,23,13/09/2025,21:00,Sábado,9,Fluminense,Vitória,1,0,Visitante,Felipe Fernandes de Lima,27.1,4.8,180.5,9.0,30.3,7.0,181.9,6.6,Estádio do Maracanã,21091
+Corinthians,2025,24,21/09/2025,17:30,Domingo,9,Sport Recife,Derrota,0,1,Visitante,Savio Pereira Sampaio,28.4,3.9,181.5,8.4,28.5,4.8,181.3,8.8,Ilha do Retiro,25504
+Corinthians,2025,25,28/09/2025,20:30,Domingo,9,Flamengo,Derrota,1,2,Mandante,Wilton Pereira Sampaio,25.8,4.1,182.4,8.9,29.3,2.4,181.5,7.2,Neo Química Arena,40629
+Corinthians,2025,26,01/10/2025,19:30,Quarta,10,Internacional,Empate,1,1,Visitante,Rodrigo Jose Pereira de Lima,26.6,4.4,182.2,8.5,28.0,5.0,178.5,6.6,Estádio Beira-Rio,12825
+Corinthians,2025,27,04/10/2025,21:00,Sábado,10,Mirassol,Vitória,3,0,Mandante,Felipe Fernandes de Lima,25.9,4.1,182.4,8.9,30.2,4.2,179.1,7.4,Neo Química Arena,38654
+Corinthians,2025,28,15/10/2025,21:30,Quarta,10,Santos,Derrota,1,3,Visitante,Flavio Rodrigues De Souza,25.5,4.5,182.8,6.9,28.6,2.6,179.8,7.1,Estádio Urbano Caldeira,13123
+Corinthians,2025,29,18/10/2025,18:30,Sábado,10,Atlético Mineiro,Vitória,1,0,Mandante,Alex Gomes Stefano,26.2,3.0,180.9,8.4,30.1,4.6,181.8,6.3,Neo Química Arena,39228
+Corinthians,2025,30,25/10/2025,16:00,Sábado,10,Vitória,Vitória,1,0,Visitante,Wilton Pereira Sampaio,27.3,4.7,181.9,7.1,27.7,3.4,180.5,6.4,Estádio Manoel Barradas,27783
+Corinthians,2025,31,02/11/2025,16:00,Domingo,11,Grêmio,Vitória,2,0,Mandante,Davi de Oliveira Lacerda,28.3,3.7,182.0,9.3,28.4,4.4,179.9,7.2,Neo Química Arena,42081
+Corinthians,2025,32,05/11/2025,19:00,Quarta,11,Red Bull Bragantino,Derrota,1,2,Visitante,Edina Alves Batista,26.5,4.1,181.1,7.8,27.8,3.4,180.9,8.8,Estádio Cícero de Souza Marques,8109
+Corinthians,2025,33,09/11/2025,16:00,Domingo,11,Ceará,Derrota,0,1,Mandante,Felipe Fernandes de Lima,26.4,4.9,178.7,7.5,28.8,3.7,180.4,7.5,Neo Química Arena,39926
+Corinthians,2025,34,20/11/2025,19:30,Quinta,11,São Paulo,Vitória,3,1,Mandante,Anderson Daronco,26.2,5.2,182.0,7.4,31.1,4.8,181.2,5.7,Neo Química Arena,46154
+Corinthians,2025,35,23/11/2025,20:30,Domingo,11,Cruzeiro,Derrota,0,3,Visitante,Alex Gomes Stefano,25.6,4.5,182.7,7.0,28.7,5.1,179.3,7.8,Governador Magalhães Pinto,30673
+Corinthians,2025,36,30/11/2025,16:00,Domingo,11,Botafogo,Empate,2,2,Mandante,Jonathan Benkenstein Pinheiro,26.2,4.6,181.7,9.6,26.6,4.9,182.1,7.7,Neo Química Arena,37959
+Corinthians,2025,37,03/12/2025,19:00,Quarta,12,Fortaleza,Derrota,1,2,Visitante,Savio Pereira Sampaio,25.8,5.5,181.4,8.5,29.1,3.9,179.0,4.7,Estádio Governador Plácido Castelo,56014
+Corinthians,2025,38,07/12/2025,16:00,Domingo,12,Juventude,Empate,1,1,Mandante,Felipe Fernandes de Lima,27.9,4.6,183.5,5.1,30.0,5.7,179.5,4.8,Neo Química Arena,31003
+Cruzeiro,2025,1,29/03/2025,18:30,Sábado,3,Mirassol,Vitória,2,1,Mandante,Alex Gomes Stefano,28.7,4.3,180.5,8.3,29.9,4.0,178.1,7.8,Governador Magalhães Pinto,40837
+Cruzeiro,2025,2,06/04/2025,18:30,Domingo,4,Internacional,Derrota,0,3,Visitante,Marcelo de Lima Henrique,29.6,4.8,178.9,9.0,29.0,5.1,179.2,7.1,Estádio Beira-Rio,31321
+Cruzeiro,2025,3,13/04/2025,17:30,Domingo,4,São Paulo,Empate,1,1,Visitante,Rodrigo Jose Pereira de Lima,29.6,4.7,178.5,8.5,28.7,4.4,179.5,7.3,MorumBIS,37566
+Cruzeiro,2025,4,17/04/2025,21:30,Quinta,4,Bahia,Vitória,3,0,Mandante,Flavio Rodrigues De Souza,29.6,4.7,178.5,8.5,27.1,4.0,179.5,7.0,Governador Magalhães Pinto,26557
+Cruzeiro,2025,5,20/04/2025,20:30,Domingo,4,Red Bull Bragantino,Derrota,0,1,Visitante,Alex Gomes Stefano,28.3,4.9,180.2,8.1,26.4,3.6,179.9,7.4,Estádio Nabi Abi Chedid,6916
+Cruzeiro,2025,6,27/04/2025,18:30,Domingo,4,Vasco da Gama,Vitória,1,0,Mandante,Rafael Rodrigo Klein,28.9,5.3,178.0,7.9,28.5,4.5,180.5,5.6,Parque do Sabiá,15398
+Cruzeiro,2025,7,04/05/2025,18:30,Domingo,5,Flamengo,Vitória,2,1,Mandante,Wilton Pereira Sampaio,29.7,4.7,178.5,8.5,29.0,2.9,181.7,7.7,Governador Magalhães Pinto,52792
+Cruzeiro,2025,8,11/05/2025,16:00,Domingo,5,Sport Recife,Vitória,4,0,Visitante,Raphael Claus,30.1,5.0,180.0,7.8,28.0,3.4,182.8,4.7,Ilha do Retiro,16006
+Cruzeiro,2025,9,18/05/2025,20:30,Domingo,5,Atlético Mineiro,Empate,0,0,Mandante,Flavio Rodrigues De Souza,29.7,4.7,178.5,8.5,29.4,4.4,179.2,7.0,Governador Magalhães Pinto,61106
+Cruzeiro,2025,10,25/05/2025,20:30,Domingo,5,Fortaleza,Vitória,2,0,Visitante,Joao Vitor Gobi,28.4,4.7,179.5,7.8,31.1,3.8,180.1,5.4,Estádio Governador Plácido Castelo,12080
+Cruzeiro,2025,11,01/06/2025,19:30,Domingo,6,Palmeiras,Vitória,2,1,Mandante,Rodrigo Jose Pereira de Lima,28.3,4.8,180.1,8.1,25.8,4.7,183.2,5.7,Governador Magalhães Pinto,57747
+Cruzeiro,2025,12,12/06/2025,19:00,Quinta,6,Vitória,Empate,0,0,Visitante,Alex Gomes Stefano,30.3,4.4,179.7,8.0,28.1,3.4,179.0,7.7,Estádio Manoel Barradas,6264
+Cruzeiro,2025,13,13/07/2025,20:30,Domingo,7,Grêmio,Vitória,4,1,Mandante,Lucas Paulo Torezin,29.3,4.3,179.2,7.9,27.1,4.6,180.6,6.6,Governador Magalhães Pinto,31668
+Cruzeiro,2025,14,17/07/2025,19:30,Quinta,7,Fluminense,Vitória,2,0,Visitante,Rafael Rodrigo Klein,29.4,5.7,179.4,8.3,31.3,6.8,175.5,7.5,Estádio do Maracanã,45681
+Cruzeiro,2025,15,20/07/2025,16:00,Domingo,7,Juventude,Vitória,4,0,Mandante,Lucas Casagrande,27.5,4.3,179.4,7.4,29.5,4.1,179.3,5.2,Governador Magalhães Pinto,62170
+Cruzeiro,2025,16,23/07/2025,19:30,Quarta,7,Corinthians,Empate,0,0,Visitante,Alex Gomes Stefano,29.4,4.3,179.2,7.9,27.8,3.9,181.6,8.8,Neo Química Arena,31232
+Cruzeiro,2025,17,27/07/2025,16:00,Domingo,7,Ceará,Derrota,1,2,Mandante,Raphael Claus,30.9,4.7,179.0,8.6,28.7,3.5,179.8,8.5,Governador Magalhães Pinto,52802
+Cruzeiro,2025,18,03/08/2025,16:00,Domingo,8,Botafogo,Vitória,2,0,Visitante,Matheus Delgado Candançan,29.4,4.3,179.2,7.9,28.6,4.0,180.4,9.5,Estádio Nilton Santos,35125
+Cruzeiro,2025,19,10/08/2025,18:30,Domingo,8,Santos,Derrota,1,2,Mandante,Wilton Pereira Sampaio,29.4,4.3,179.2,7.9,28.1,6.4,180.6,6.9,Governador Magalhães Pinto,59345
+Cruzeiro,2025,20,18/08/2025,20:00,Segunda,8,Mirassol,Empate,1,1,Visitante,Bruno Arleu de Araujo,29.0,5.9,183.5,6.3,29.6,4.3,179.0,6.4,Estádio José Maria de Campos Maia,6015
+Cruzeiro,2025,21,23/08/2025,18:30,Sábado,8,Internacional,Vitória,2,1,Mandante,Matheus Delgado Candançan,29.4,4.3,179.2,7.9,27.6,4.1,180.4,8.2,Governador Magalhães Pinto,44402
+Cruzeiro,2025,22,30/08/2025,21:00,Sábado,8,São Paulo,Vitória,1,0,Mandante,Anderson Daronco,29.7,4.1,178.9,8.0,27.9,4.6,181.9,5.3,Governador Magalhães Pinto,36882
+Cruzeiro,2025,23,15/09/2025,20:00,Segunda,9,Bahia,Vitória,2,1,Visitante,Flavio Rodrigues De Souza,29.1,4.2,178.5,7.9,27.7,4.8,181.0,6.8,Arena Fonte Nova,32160
+Cruzeiro,2025,24,21/09/2025,20:30,Domingo,9,Red Bull Bragantino,Vitória,2,1,Mandante,Lucas Paulo Torezin,29.5,4.3,179.2,7.9,26.9,3.7,181.1,7.2,Governador Magalhães Pinto,35726
+Cruzeiro,2025,25,27/09/2025,18:30,Sábado,9,Vasco da Gama,Derrota,0,2,Visitante,Rodrigo Jose Pereira de Lima,28.7,4.8,180.1,8.1,27.4,5.0,180.7,5.5,Estádio São Januário,19685
+Cruzeiro,2025,26,02/10/2025,20:30,Quinta,10,Flamengo,Empate,0,0,Visitante,Ramon Abatti Abel,29.3,4.3,179.2,7.9,30.1,3.0,181.2,6.5,Estádio do Maracanã,72565
+Cruzeiro,2025,27,05/10/2025,20:30,Domingo,10,Sport Recife,Empate,1,1,Mandante,Jefferson Ferreira de Moraes,27.9,6.2,179.9,6.3,29.1,4.7,180.9,9.2,Governador Magalhães Pinto,6581
+Cruzeiro,2025,28,15/10/2025,21:30,Quarta,10,Atlético Mineiro,Empate,1,1,Visitante,Paulo Cesar Zanovelli da Silva,28.8,4.9,178.7,7.2,29.2,4.6,177.2,8.4,Arena MRV,40388
+Cruzeiro,2025,29,18/10/2025,21:00,Sábado,10,Fortaleza,Vitória,1,0,Mandante,Rodrigo Jose Pereira de Lima,26.2,5.3,179.7,6.9,29.4,4.1,178.2,5.1,Governador Magalhães Pinto,40410
+Cruzeiro,2025,30,26/10/2025,20:30,Domingo,10,Palmeiras,Empate,0,0,Visitante,Rafael Rodrigo Klein,29.6,4.3,179.2,7.9,26.7,3.7,183.1,8.8,Nubank Parque,40209
+Cruzeiro,2025,31,01/11/2025,16:00,Sábado,11,Vitória,Vitória,3,1,Mandante,Jefferson Ferreira de Moraes,27.3,5.4,179.9,7.7,29.0,2.6,180.9,7.6,Governador Magalhães Pinto,59587
+Cruzeiro,2025,32,05/11/2025,20:00,Quarta,11,Grêmio,Vitória,1,0,Visitante,Lucas Paulo Torezin,28.6,5.1,179.3,7.8,29.2,4.7,179.6,7.0,Arena do Grêmio,19841
+Cruzeiro,2025,33,09/11/2025,16:00,Domingo,11,Fluminense,Empate,0,0,Mandante,Rodrigo Jose Pereira de Lima,28.9,5.4,179.5,7.9,31.7,6.7,177.5,8.1,Governador Magalhães Pinto,53283
+Cruzeiro,2025,34,20/11/2025,16:00,Quinta,11,Juventude,Empate,3,3,Visitante,Savio Pereira Sampaio,29.5,4.2,179.3,7.8,29.5,5.7,178.5,4.4,Estádio Alfredo Jaconi,12186
+Cruzeiro,2025,35,23/11/2025,20:30,Domingo,11,Corinthians,Vitória,3,0,Mandante,Alex Gomes Stefano,28.7,5.1,179.3,7.8,25.6,4.5,182.7,7.0,Governador Magalhães Pinto,30673
+Cruzeiro,2025,36,29/11/2025,21:00,Sábado,11,Ceará,Empate,1,1,Visitante,Savio Pereira Sampaio,29.1,4.8,180.8,7.2,28.1,2.9,181.7,7.7,Estádio Governador Plácido Castelo,29114
+Cruzeiro,2025,37,04/12/2025,19:30,Quinta,12,Botafogo,Empate,2,2,Mandante,Anderson Daronco,29.3,4.3,179.3,7.8,28.3,5.1,179.9,6.3,Governador Magalhães Pinto,34649
+Cruzeiro,2025,38,07/12/2025,16:00,Domingo,12,Santos,Derrota,0,3,Visitante,Rodrigo Jose Pereira de Lima,26.3,6.2,182.0,7.1,28.8,4.1,180.7,5.9,Estádio Urbano Caldeira,15068
+Flamengo,2025,1,29/03/2025,21:00,Sábado,3,Internacional,Empate,1,1,Mandante,Davi de Oliveira Lacerda,29.4,3.2,180.5,8.4,29.6,4.5,179.5,6.0,Estádio do Maracanã,48452
+Flamengo,2025,2,06/04/2025,18:30,Domingo,4,Vitória,Vitória,2,1,Visitante,Rafael Rodrigo Klein,29.0,2.9,181.1,7.6,27.3,2.2,180.2,7.4,Estádio Manoel Barradas,29493
+Flamengo,2025,3,13/04/2025,17:30,Domingo,4,Grêmio,Vitória,2,0,Visitante,Ramon Abatti Abel,29.6,3.3,180.8,8.6,29.6,3.4,178.7,6.3,Arena do Grêmio,23367
+Flamengo,2025,4,16/04/2025,21:30,Quarta,4,Juventude,Vitória,6,0,Mandante,Matheus Delgado Candançan,29.1,3.5,180.6,8.0,26.2,3.8,180.6,8.0,Estádio do Maracanã,31445
+Flamengo,2025,5,19/04/2025,18:30,Sábado,4,Vasco da Gama,Empate,0,0,Visitante,Raphael Claus,29.0,3.0,180.7,8.6,27.8,4.5,180.2,5.8,Estádio São Januário,39027
+Flamengo,2025,6,27/04/2025,16:00,Domingo,4,Corinthians,Vitória,4,0,Mandante,Ramon Abatti Abel,28.4,2.4,181.6,7.7,28.9,4.3,182.8,7.7,Estádio do Maracanã,67501
+Flamengo,2025,7,04/05/2025,18:30,Domingo,5,Cruzeiro,Derrota,1,2,Visitante,Wilton Pereira Sampaio,29.0,2.9,181.7,7.7,29.7,4.7,178.5,8.5,Governador Magalhães Pinto,52792
+Flamengo,2025,8,10/05/2025,21:00,Sábado,5,Bahia,Vitória,1,0,Mandante,Anderson Daronco,30.6,2.1,180.6,8.5,25.7,2.7,180.8,5.7,Estádio do Maracanã,62204
+Flamengo,2025,9,18/05/2025,18:30,Domingo,5,Botafogo,Empate,0,0,Mandante,Bruno Arleu de Araujo,28.6,3.8,181.7,7.4,26.9,4.5,184.1,7.5,Estádio do Maracanã,50255
+Flamengo,2025,10,25/05/2025,16:00,Domingo,5,Palmeiras,Vitória,2,0,Visitante,Ramon Abatti Abel,29.9,3.2,181.5,7.2,27.1,5.5,181.4,4.7,Nubank Parque,41075
+Flamengo,2025,11,01/06/2025,18:30,Domingo,6,Fortaleza,Vitória,5,0,Mandante,Gustavo Ervino Bauermann,30.3,3.4,181.1,6.8,29.6,4.9,179.3,6.6,Estádio do Maracanã,61132
+Flamengo,2025,13,12/07/2025,16:30,Sábado,7,São Paulo,Vitória,2,0,Mandante,Wilton Pereira Sampaio,29.7,3.7,180.9,6.6,30.3,3.8,179.3,7.1,Estádio do Maracanã,67359
+Flamengo,2025,14,16/07/2025,20:00,Quarta,7,Santos,Derrota,0,1,Visitante,Felipe Fernandes de Lima,29.9,3.7,179.5,6.8,28.2,5.3,180.1,7.2,Estádio Urbano Caldeira,13541
+Flamengo,2025,15,20/07/2025,19:30,Domingo,7,Fluminense,Vitória,1,0,Mandante,Raphael Claus,29.8,3.4,180.0,7.4,30.5,6.8,180.9,5.9,Estádio do Maracanã,58416
+Flamengo,2025,16,23/07/2025,21:30,Quarta,7,Red Bull Bragantino,Vitória,2,1,Visitante,Davi de Oliveira Lacerda,29.3,3.9,181.9,6.9,26.6,3.7,180.1,7.3,Estádio Cícero de Souza Marques,7537
+Flamengo,2025,17,27/07/2025,20:30,Domingo,7,Atlético Mineiro,Vitória,1,0,Mandante,Ramon Abatti Abel,30.0,2.7,181.2,7.2,30.3,4.2,179.7,7.0,Estádio do Maracanã,51345
+Flamengo,2025,18,03/08/2025,18:30,Domingo,8,Ceará,Empate,1,1,Visitante,Rodrigo Jose Pereira de Lima,29.3,3.9,182.8,5.7,29.6,3.3,179.8,8.5,Estádio Governador Plácido Castelo,57887
+Flamengo,2025,19,09/08/2025,18:30,Sábado,8,Mirassol,Vitória,2,1,Mandante,Paulo Cesar Zanovelli da Silva,28.3,3.2,182.3,6.5,30.6,4.0,179.8,6.3,Estádio do Maracanã,64018
+Flamengo,2025,20,17/08/2025,18:30,Domingo,8,Internacional,Vitória,3,1,Visitante,Rodrigo Jose Pereira de Lima,29.9,2.1,181.5,6.9,27.9,5.2,181.6,6.0,Estádio Beira-Rio,22241
+Flamengo,2025,21,25/08/2025,21:00,Segunda,8,Vitória,Vitória,8,0,Mandante,Felipe Fernandes de Lima,30.1,2.9,181.8,6.6,26.9,2.6,180.4,6.1,Estádio do Maracanã,57249
+Flamengo,2025,22,31/08/2025,16:00,Domingo,8,Grêmio,Empate,1,1,Mandante,Paulo Cesar Zanovelli da Silva,29.0,2.2,180.5,7.9,31.3,4.4,179.1,6.7,Estádio do Maracanã,69477
+Flamengo,2025,23,14/09/2025,16:00,Domingo,9,Juventude,Vitória,2,0,Visitante,Raphael Claus,29.3,2.2,181.7,6.7,31.2,5.4,178.8,5.6,Estádio Alfredo Jaconi,15204
+Flamengo,2025,24,21/09/2025,17:30,Domingo,9,Vasco da Gama,Empate,1,1,Mandante,Rafael Rodrigo Klein,29.5,2.8,181.6,5.9,27.4,5.0,180.7,5.5,Estádio do Maracanã,62156
+Flamengo,2025,25,28/09/2025,20:30,Domingo,9,Corinthians,Vitória,2,1,Visitante,Wilton Pereira Sampaio,29.3,2.4,181.5,7.2,25.8,4.1,182.4,8.9,Neo Química Arena,40629
+Flamengo,2025,26,02/10/2025,20:30,Quinta,10,Cruzeiro,Empate,0,0,Mandante,Ramon Abatti Abel,30.1,3.0,181.2,6.5,29.3,4.3,179.2,7.9,Estádio do Maracanã,72565
+Flamengo,2025,27,05/10/2025,18:30,Domingo,10,Bahia,Derrota,0,1,Visitante,Rodrigo Jose Pereira de Lima,29.5,2.6,180.9,6.9,29.7,4.0,181.8,7.1,Arena Fonte Nova,48634
+Flamengo,2025,28,15/10/2025,19:30,Quarta,10,Botafogo,Vitória,3,0,Visitante,Alex Gomes Stefano,29.3,3.3,182.7,6.0,28.4,4.4,180.2,8.5,Estádio Nilton Santos,22635
+Flamengo,2025,29,19/10/2025,16:00,Domingo,10,Palmeiras,Vitória,3,2,Mandante,Wilton Pereira Sampaio,30.2,2.6,182.8,6.1,26.9,3.4,182.1,8.8,Estádio do Maracanã,71651
+Flamengo,2025,30,25/10/2025,19:30,Sábado,10,Fortaleza,Derrota,0,1,Visitante,Davi de Oliveira Lacerda,30.1,3.2,182.5,5.6,28.7,4.2,178.5,4.9,Estádio Governador Plácido Castelo,36815
+Flamengo,2025,31,01/11/2025,21:00,Sábado,11,Sport Recife,Vitória,3,0,Mandante,Fernando Antonio Mendes de Salles Nascimento Filho,29.3,3.0,181.9,6.7,31.1,3.1,181.7,7.1,Estádio do Maracanã,67598
+Flamengo,2025,32,05/11/2025,21:30,Quarta,11,São Paulo,Empate,2,2,Visitante,Rodrigo Jose Pereira de Lima,29.9,3.1,182.7,5.7,30.1,5.0,182.3,5.8,Estádio Urbano Caldeira,11228
+Flamengo,2025,33,09/11/2025,18:30,Domingo,11,Santos,Vitória,3,2,Mandante,Savio Pereira Sampaio,30.5,2.7,180.5,7.8,29.2,4.2,180.2,6.2,Estádio do Maracanã,69612
+Flamengo,2025,12,15/11/2025,18:30,Sábado,11,Sport Recife,Vitória,5,1,Visitante,Rafael Rodrigo Klein,28.0,4.5,183.9,5.2,29.9,3.3,182.8,8.2,Ilha do Retiro,19706
+Flamengo,2025,34,19/11/2025,21:30,Quarta,11,Fluminense,Derrota,1,2,Visitante,Davi de Oliveira Lacerda,28.6,3.9,183.6,5.4,31.9,6.5,176.5,7.5,Estádio do Maracanã,69591
+Flamengo,2025,35,22/11/2025,21:30,Sábado,11,Red Bull Bragantino,Vitória,3,0,Mandante,Fernando Antonio Mendes de Salles Nascimento Filho,30.2,3.7,180.8,6.8,26.8,4.0,180.9,7.3,Estádio do Maracanã,68408
+Flamengo,2025,36,25/11/2025,21:30,Terça,11,Atlético Mineiro,Empate,1,1,Visitante,Rafael Rodrigo Klein,28.0,3.7,183.3,5.3,31.2,4.9,177.6,8.1,Arena MRV,18321
+Flamengo,2025,37,03/12/2025,21:30,Quarta,12,Ceará,Vitória,1,0,Mandante,Rodrigo Jose Pereira de Lima,31.6,2.9,181.8,6.6,28.2,2.7,181.1,8.1,Estádio do Maracanã,73244
+Flamengo,2025,38,06/12/2025,18:30,Sábado,12,Mirassol,Empate,3,3,Visitante,Lucas Casagrande,20.9,3.1,182.5,6.5,29.2,4.3,178.3,6.6,Estádio José Maria de Campos Maia,10278
+Fluminense,2025,1,29/03/2025,18:30,Sábado,3,Fortaleza,Derrota,0,2,Visitante,Rodrigo Jose Pereira de Lima,30.5,6.8,177.6,4.8,33.4,2.3,179.0,5.8,Estádio Governador Plácido Castelo,19484
+Fluminense,2025,2,06/04/2025,16:00,Domingo,4,Red Bull Bragantino,Vitória,2,1,Mandante,Wilton Pereira Sampaio,30.7,6.8,177.6,4.8,26.9,3.7,179.4,6.0,Estádio do Maracanã,19729
+Fluminense,2025,3,13/04/2025,19:30,Domingo,4,Santos,Vitória,1,0,Mandante,Felipe Fernandes de Lima,31.5,6.7,177.0,5.8,30.2,3.7,181.1,6.7,Estádio do Maracanã,46172
+Fluminense,2025,4,16/04/2025,19:30,Quarta,4,Corinthians,Vitória,2,0,Visitante,Rodrigo Jose Pereira de Lima,30.1,6.4,178.8,7.6,28.1,4.3,182.2,6.2,Neo Química Arena,34624
+Fluminense,2025,5,20/04/2025,18:30,Domingo,4,Vitória,Empate,1,1,Mandante,Matheus Delgado Candançan,31.0,6.3,178.3,7.3,26.9,1.6,179.3,8.0,Estádio do Maracanã,29065
+Fluminense,2025,6,26/04/2025,21:00,Sábado,4,Botafogo,Derrota,0,2,Visitante,Bruno Arleu de Araujo,30.7,6.6,179.1,7.7,26.8,4.0,183.2,8.8,Estádio Nilton Santos,12943
+Fluminense,2025,7,03/05/2025,18:30,Sábado,5,Sport Recife,Vitória,2,1,Mandante,Rafael Rodrigo Klein,30.3,6.0,179.3,7.2,27.5,4.8,181.3,4.9,Estádio do Maracanã,18754
+Fluminense,2025,8,11/05/2025,17:30,Domingo,5,Atlético Mineiro,Derrota,2,3,Visitante,Ramon Abatti Abel,30.4,6.9,178.2,6.4,29.1,4.7,179.1,7.0,Arena MRV,25018
+Fluminense,2025,9,18/05/2025,16:00,Domingo,5,Juventude,Empate,1,1,Visitante,Wilton Pereira Sampaio,30.7,6.6,177.9,5.8,29.8,4.5,178.2,5.7,Estádio Alfredo Jaconi,8120
+Fluminense,2025,10,24/05/2025,18:30,Sábado,5,Vasco da Gama,Vitória,2,1,Mandante,Rodrigo Jose Pereira de Lima,30.6,6.5,178.6,4.8,26.8,5.1,181.0,5.8,Estádio do Maracanã,42422
+Fluminense,2025,11,01/06/2025,20:30,Domingo,6,Internacional,Vitória,2,0,Visitante,Lucas Paulo Torezin,32.2,6.3,177.6,6.0,28.9,4.8,180.2,5.3,Estádio Beira-Rio,13502
+Fluminense,2025,14,17/07/2025,19:30,Quinta,7,Cruzeiro,Derrota,0,2,Mandante,Rafael Rodrigo Klein,31.3,6.8,175.5,7.5,29.4,5.7,179.4,8.3,Estádio do Maracanã,45681
+Fluminense,2025,15,20/07/2025,19:30,Domingo,7,Flamengo,Derrota,0,1,Visitante,Raphael Claus,30.5,6.8,180.9,5.9,29.8,3.4,180.0,7.4,Estádio do Maracanã,58416
+Fluminense,2025,16,23/07/2025,19:00,Quarta,7,Palmeiras,Derrota,1,2,Mandante,Ramon Abatti Abel,30.2,6.1,177.5,8.6,27.1,5.1,180.5,5.5,Estádio do Maracanã,21081
+Fluminense,2025,17,27/07/2025,16:00,Domingo,7,São Paulo,Derrota,1,3,Visitante,Davi de Oliveira Lacerda,30.2,7.2,179.9,4.9,30.0,3.7,179.5,7.4,MorumBIS,42529
+Fluminense,2025,18,02/08/2025,21:00,Sábado,8,Grêmio,Vitória,1,0,Mandante,Lucas Paulo Torezin,33.2,6.4,178.5,5.8,27.9,5.2,179.2,6.5,Estádio do Maracanã,15344
+Fluminense,2025,19,09/08/2025,21:00,Sábado,8,Bahia,Empate,3,3,Visitante,Jefferson Ferreira de Moraes,30.9,7.8,180.8,4.5,28.9,4.1,181.1,7.3,Arena Fonte Nova,35505
+Fluminense,2025,20,16/08/2025,16:00,Sábado,8,Fortaleza,Vitória,2,1,Mandante,Rafael Rodrigo Klein,32.1,7.1,179.2,6.3,29.4,5.2,178.3,8.1,Estádio do Maracanã,28771
+Fluminense,2025,21,23/08/2025,16:00,Sábado,8,Red Bull Bragantino,Derrota,2,4,Visitante,Lucas Paulo Torezin,30.2,6.4,178.4,7.3,25.9,3.3,181.1,5.7,Estádio Cícero de Souza Marques,3932
+Fluminense,2025,22,31/08/2025,16:00,Domingo,8,Santos,Empate,0,0,Visitante,Wilton Pereira Sampaio,31.1,6.8,176.4,6.9,29.9,4.0,179.9,6.5,Estádio Urbano Caldeira,12515
+Fluminense,2025,23,13/09/2025,21:00,Sábado,9,Corinthians,Derrota,0,1,Mandante,Felipe Fernandes de Lima,30.3,7.0,181.9,6.6,27.1,4.8,180.5,9.0,Estádio do Maracanã,21091
+Fluminense,2025,24,20/09/2025,16:00,Sábado,9,Vitória,Vitória,1,0,Visitante,Matheus Delgado Candançan,30.7,5.5,180.6,6.4,29.2,3.9,179.7,7.8,Estádio Manoel Barradas,27183
+Fluminense,2025,25,28/09/2025,16:00,Domingo,9,Botafogo,Vitória,2,0,Mandante,Ramon Abatti Abel,32.1,6.7,176.1,7.4,27.2,3.8,182.6,8.1,Estádio do Maracanã,15781
+Fluminense,2025,26,01/10/2025,19:00,Quarta,10,Sport Recife,Empate,2,2,Visitante,Raphael Claus,30.2,6.0,177.7,8.0,27.9,4.4,181.7,8.2,Ilha do Retiro,14172
+Fluminense,2025,27,04/10/2025,18:30,Sábado,10,Atlético Mineiro,Vitória,3,0,Mandante,Davi de Oliveira Lacerda,30.8,6.9,175.8,7.4,30.0,5.4,178.5,8.4,Estádio do Maracanã,20198
+Fluminense,2025,13,08/10/2025,21:00,Quarta,10,Mirassol,Derrota,1,2,Visitante,Rodrigo Jose Pereira de Lima,31.6,6.9,175.2,7.2,31.1,4.3,179.2,7.3,Estádio José Maria de Campos Maia,5088
+Fluminense,2025,28,16/10/2025,21:30,Quinta,10,Juventude,Vitória,1,0,Mandante,Jefferson Ferreira de Moraes,31.9,6.7,178.0,5.4,28.9,4.9,178.5,5.2,Estádio do Maracanã,15639
+Fluminense,2025,29,20/10/2025,19:30,Segunda,10,Vasco da Gama,Derrota,0,2,Visitante,Wagner do Nascimento Magalhaes,32.1,6.7,176.1,7.4,26.4,4.5,178.5,5.7,Estádio do Maracanã,53746
+Fluminense,2025,30,25/10/2025,17:30,Sábado,10,Internacional,Vitória,1,0,Mandante,Raphael Claus,31.0,6.9,177.7,9.1,28.6,5.8,181.0,6.3,Estádio do Maracanã,21298
+Fluminense,2025,12,29/10/2025,19:00,Quarta,10,Ceará,Vitória,1,0,Mandante,Flavio Rodrigues De Souza,30.9,6.9,175.8,7.4,28.8,3.1,180.5,8.4,Estádio do Maracanã,21298
+Fluminense,2025,31,02/11/2025,16:00,Domingo,11,Ceará,Derrota,0,2,Visitante,Lucas Paulo Torezin,28.8,5.8,179.4,5.9,28.8,3.8,181.8,7.3,Estádio Governador Plácido Castelo,28700
+Fluminense,2025,32,06/11/2025,19:30,Quinta,11,Mirassol,Vitória,1,0,Mandante,Anderson Daronco,31.9,6.5,176.5,7.5,30.6,3.7,179.1,6.7,Estádio do Maracanã,15952
+Fluminense,2025,33,09/11/2025,16:00,Domingo,11,Cruzeiro,Empate,0,0,Visitante,Rodrigo Jose Pereira de Lima,31.7,6.7,177.5,8.1,28.9,5.4,179.5,7.9,Governador Magalhães Pinto,53283
+Fluminense,2025,34,19/11/2025,21:30,Quarta,11,Flamengo,Vitória,2,1,Mandante,Davi de Oliveira Lacerda,31.9,6.5,176.5,7.5,28.6,3.9,183.6,5.4,Estádio do Maracanã,69591
+Fluminense,2025,35,22/11/2025,21:30,Sábado,11,Palmeiras,Empate,0,0,Visitante,Jonathan Benkenstein Pinheiro,31.1,5.8,179.7,6.7,26.1,3.1,182.9,8.3,Nubank Parque,40245
+Fluminense,2025,36,27/11/2025,20:30,Quinta,11,São Paulo,Vitória,6,0,Mandante,Lucas Paulo Torezin,31.9,6.5,176.5,7.5,26.2,5.3,181.2,8.5,Estádio do Maracanã,30427
+Fluminense,2025,37,02/12/2025,21:30,Terça,12,Grêmio,Vitória,2,1,Visitante,Raphael Claus,31.2,5.6,175.8,10.0,29.1,5.4,179.8,7.9,Arena do Grêmio,23487
+Fluminense,2025,38,07/12/2025,16:00,Domingo,12,Bahia,Vitória,2,0,Mandante,Matheus Delgado Candançan,32.2,6.3,176.2,7.5,28.9,3.8,179.8,7.7,Estádio do Maracanã,52268
+Grêmio,2025,1,29/03/2025,18:30,Sábado,3,Atlético Mineiro,Vitória,2,1,Mandante,Raphael Claus,27.1,4.8,177.9,6.1,29.3,4.4,178.5,7.0,Arena do Grêmio,20111
+Grêmio,2025,2,05/04/2025,18:30,Sábado,4,Ceará,Derrota,0,2,Visitante,Edina Alves Batista,27.7,4.6,177.8,6.3,28.8,2.8,181.2,7.8,Estádio Governador Plácido Castelo,26777
+Grêmio,2025,3,13/04/2025,17:30,Domingo,4,Flamengo,Derrota,0,2,Mandante,Ramon Abatti Abel,29.6,3.4,178.7,6.3,29.6,3.3,180.8,8.6,Arena do Grêmio,23367
+Grêmio,2025,4,16/04/2025,19:00,Quarta,4,Mirassol,Derrota,1,4,Visitante,Lucas Paulo Torezin,28.9,3.2,177.9,6.3,30.3,3.7,180.9,6.9,Estádio José Maria de Campos Maia,4147
+Grêmio,2025,5,19/04/2025,21:00,Sábado,4,Internacional,Empate,1,1,Mandante,Braulio Da Silva Machado,29.1,4.4,178.6,5.9,29.1,5.1,180.2,6.4,Arena do Grêmio,27286
+Grêmio,2025,6,27/04/2025,18:30,Domingo,4,Vitória,Empate,1,1,Visitante,Felipe Fernandes de Lima,29.0,4.6,178.5,5.9,26.7,1.0,179.3,8.4,Estádio Manoel Barradas,18688
+Grêmio,2025,7,04/05/2025,16:00,Domingo,5,Santos,Vitória,1,0,Mandante,Bruno Arleu de Araujo,29.4,4.7,178.3,6.0,27.8,4.7,180.9,9.3,Arena do Grêmio,27085
+Grêmio,2025,8,10/05/2025,18:30,Sábado,5,Red Bull Bragantino,Empate,1,1,Mandante,Davi de Oliveira Lacerda,27.4,5.0,179.4,6.0,27.0,3.7,179.1,8.0,Arena do Grêmio,15156
+Grêmio,2025,9,17/05/2025,21:00,Sábado,5,São Paulo,Derrota,1,2,Visitante,Rodrigo Jose Pereira de Lima,27.6,4.8,179.8,5.4,29.4,4.6,181.4,7.2,MorumBIS,34579
+Grêmio,2025,10,25/05/2025,11:00,Domingo,5,Bahia,Vitória,1,0,Mandante,Bruno Arleu de Araujo,29.1,3.5,177.9,6.3,28.0,3.9,179.3,6.6,Arena do Grêmio,13859
+Grêmio,2025,11,01/06/2025,16:00,Domingo,6,Juventude,Vitória,2,0,Visitante,Raphael Claus,28.0,4.8,180.3,6.9,29.3,6.1,178.5,5.6,Estádio Alfredo Jaconi,9098
+Grêmio,2025,12,12/06/2025,20:00,Quinta,6,Corinthians,Empate,1,1,Mandante,Davi de Oliveira Lacerda,28.0,4.8,180.3,6.9,26.6,3.8,180.5,7.9,Arena do Grêmio,20465
+Grêmio,2025,13,13/07/2025,20:30,Domingo,7,Cruzeiro,Derrota,1,4,Visitante,Lucas Paulo Torezin,27.1,4.6,180.6,6.6,29.3,4.3,179.2,7.9,Governador Magalhães Pinto,31668
+Grêmio,2025,15,19/07/2025,17:30,Sábado,7,Vasco da Gama,Empate,1,1,Visitante,Felipe Fernandes de Lima,28.9,5.3,180.6,6.8,28.0,4.5,180.5,5.4,Estádio São Januário,15556
+Grêmio,2025,17,26/07/2025,21:00,Sábado,7,Palmeiras,Derrota,0,1,Visitante,Paulo Cesar Zanovelli da Silva,27.0,5.0,179.5,7.3,26.3,5.2,181.7,5.1,Nubank Parque,37132
+Grêmio,2025,14,29/07/2025,20:30,Terça,7,Fortaleza,Vitória,2,1,Mandante,Alex Gomes Stefano,27.2,5.5,180.8,6.6,28.0,4.6,179.5,7.3,Arena do Grêmio,18695
+Grêmio,2025,18,02/08/2025,21:00,Sábado,8,Fluminense,Derrota,0,1,Visitante,Lucas Paulo Torezin,27.9,5.2,179.2,6.5,33.2,6.4,178.5,5.8,Estádio do Maracanã,15344
+Grêmio,2025,19,10/08/2025,20:30,Domingo,8,Sport Recife,Derrota,0,1,Mandante,Yuri Elino Ferreira Da Cruz,28.2,5.7,179.6,6.5,28.6,4.7,181.8,8.7,Arena do Grêmio,35087
+Grêmio,2025,20,17/08/2025,16:00,Domingo,8,Atlético Mineiro,Vitória,3,1,Visitante,Alex Gomes Stefano,29.4,5.3,181.5,6.3,27.9,5.8,179.9,5.8,Arena MRV,34774
+Grêmio,2025,21,23/08/2025,21:00,Sábado,8,Ceará,Empate,0,0,Mandante,Davi de Oliveira Lacerda,31.3,5.3,180.0,5.6,29.9,2.9,179.0,8.9,Arena do Grêmio,25138
+Grêmio,2025,22,31/08/2025,16:00,Domingo,8,Flamengo,Empate,1,1,Visitante,Paulo Cesar Zanovelli da Silva,31.3,4.4,179.1,6.7,29.0,2.2,180.5,7.9,Estádio do Maracanã,69477
+Grêmio,2025,23,13/09/2025,16:00,Sábado,9,Mirassol,Derrota,0,1,Mandante,Lucas Casagrande,29.5,4.5,179.0,5.7,29.4,4.0,179.3,7.3,Arena do Grêmio,45724
+Grêmio,2025,24,21/09/2025,17:30,Domingo,9,Internacional,Vitória,3,2,Visitante,Marcelo de Lima Henrique,31.4,4.2,179.1,6.8,28.7,3.2,178.3,7.8,Estádio Beira-Rio,28176
+Grêmio,2025,16,24/09/2025,19:30,Quarta,9,Botafogo,Empate,1,1,Mandante,Lucas Paulo Torezin,30.7,5.2,179.9,7.6,27.6,3.0,182.9,7.5,Arena do Grêmio,18551
+Grêmio,2025,25,28/09/2025,11:00,Domingo,9,Vitória,Vitória,3,1,Mandante,Raphael Claus,29.8,5.2,180.5,7.6,28.5,2.6,180.7,6.4,Arena do Grêmio,41025
+Grêmio,2025,26,01/10/2025,21:30,Quarta,10,Santos,Empate,1,1,Visitante,Paulo Cesar Zanovelli da Silva,26.8,4.2,180.9,8.3,28.8,3.0,179.9,6.5,Estádio Urbano Caldeira,9306
+Grêmio,2025,27,04/10/2025,18:30,Sábado,10,Red Bull Bragantino,Derrota,0,1,Visitante,Lucas Casagrande,27.9,4.2,179.7,8.3,25.5,2.3,183.7,5.1,Estádio Cícero de Souza Marques,3781
+Grêmio,2025,28,16/10/2025,19:00,Quinta,10,São Paulo,Vitória,2,0,Mandante,Davi de Oliveira Lacerda,28.1,4.8,179.1,8.1,29.4,4.4,179.6,7.5,Arena do Grêmio,21526
+Grêmio,2025,29,19/10/2025,20:30,Domingo,10,Bahia,Derrota,0,4,Visitante,Raphael Claus,29.5,4.9,180.7,7.5,28.5,3.6,182.1,6.7,Arena Fonte Nova,29272
+Grêmio,2025,30,26/10/2025,16:00,Domingo,10,Juventude,Vitória,3,1,Mandante,Alex Gomes Stefano,29.1,4.7,179.6,7.0,30.1,3.9,178.4,4.6,Arena do Grêmio,32444
+Grêmio,2025,31,02/11/2025,16:00,Domingo,11,Corinthians,Derrota,0,2,Visitante,Davi de Oliveira Lacerda,28.4,4.4,179.9,7.2,28.3,3.7,182.0,9.3,Neo Química Arena,42081
+Grêmio,2025,32,05/11/2025,20:00,Quarta,11,Cruzeiro,Derrota,0,1,Mandante,Lucas Paulo Torezin,29.2,4.7,179.6,7.0,28.6,5.1,179.3,7.8,Arena do Grêmio,19841
+Grêmio,2025,33,09/11/2025,20:30,Domingo,11,Fortaleza,Empate,2,2,Visitante,Jefferson Ferreira de Moraes,29.5,4.8,180.2,6.4,29.5,3.8,179.0,4.4,Estádio Governador Plácido Castelo,16025
+Grêmio,2025,34,19/11/2025,21:30,Quarta,11,Vasco da Gama,Vitória,2,0,Mandante,Raphael Claus,29.5,3.7,178.6,8.4,27.8,5.3,180.5,5.7,Arena do Grêmio,33807
+Grêmio,2025,35,22/11/2025,19:30,Sábado,11,Botafogo,Derrota,2,3,Visitante,Felipe Fernandes de Lima,28.7,5.6,180.2,7.4,26.3,3.9,181.7,8.5,Estádio Nilton Santos,16755
+Grêmio,2025,36,25/11/2025,21:30,Terça,11,Palmeiras,Vitória,3,2,Mandante,Savio Pereira Sampaio,31.2,3.6,177.9,7.6,26.3,5.1,182.0,6.8,Arena do Grêmio,25898
+Grêmio,2025,37,02/12/2025,21:30,Terça,12,Fluminense,Derrota,1,2,Mandante,Raphael Claus,29.1,5.4,179.8,7.9,31.2,5.6,175.8,10.0,Arena do Grêmio,23487
+Grêmio,2025,38,07/12/2025,16:00,Domingo,12,Sport Recife,Vitória,4,0,Visitante,Edina Alves Batista,28.7,5.0,181.1,7.4,30.2,2.9,181.2,8.0,Ilha do Retiro,3339
+Internacional,2025,1,29/03/2025,21:00,Sábado,3,Flamengo,Empate,1,1,Visitante,Davi de Oliveira Lacerda,29.6,4.5,179.5,6.0,29.4,3.2,180.5,8.4,Estádio do Maracanã,48452
+Internacional,2025,2,06/04/2025,18:30,Domingo,4,Cruzeiro,Vitória,3,0,Mandante,Marcelo de Lima Henrique,29.0,5.1,179.2,7.1,29.6,4.8,178.9,9.0,Estádio Beira-Rio,31321
+Internacional,2025,3,13/04/2025,20:00,Domingo,4,Fortaleza,Empate,0,0,Visitante,Flavio Rodrigues De Souza,26.9,2.6,178.6,6.6,30.4,5.1,180.5,7.0,Estádio Governador Plácido Castelo,16587
+Internacional,2025,4,16/04/2025,19:30,Quarta,4,Palmeiras,Derrota,0,1,Mandante,Felipe Fernandes de Lima,29.3,5.1,180.2,6.4,26.2,5.4,181.0,5.4,Estádio Beira-Rio,30665
+Internacional,2025,5,19/04/2025,21:00,Sábado,4,Grêmio,Empate,1,1,Visitante,Braulio Da Silva Machado,29.1,5.1,180.2,6.4,29.1,4.4,178.6,5.9,Arena do Grêmio,27286
+Internacional,2025,6,26/04/2025,16:00,Sábado,4,Juventude,Vitória,3,1,Mandante,Flavio Rodrigues De Souza,27.8,4.9,179.5,6.1,29.2,4.7,178.1,7.5,Estádio Beira-Rio,35427
+Internacional,2025,7,03/05/2025,18:30,Sábado,5,Corinthians,Derrota,2,4,Visitante,Paulo Cesar Zanovelli da Silva,28.7,5.6,179.7,6.1,29.0,3.4,181.2,6.8,Neo Química Arena,44931
+Internacional,2025,8,11/05/2025,20:00,Domingo,5,Botafogo,Derrota,0,4,Visitante,Matheus Delgado Candançan,25.1,2.6,180.2,6.0,26.4,3.8,182.5,8.6,Estádio Nilton Santos,7800
+Internacional,2025,9,18/05/2025,20:30,Domingo,5,Mirassol,Empate,1,1,Mandante,Wagner do Nascimento Magalhaes,27.2,4.6,180.3,7.0,30.5,3.9,179.8,6.5,Estádio Beira-Rio,11068
+Internacional,2025,10,25/05/2025,16:00,Domingo,5,Sport Recife,Empate,1,1,Visitante,Davi de Oliveira Lacerda,25.9,4.1,180.3,7.2,28.9,4.9,182.4,5.1,Ilha do Retiro,21921
+Internacional,2025,11,01/06/2025,20:30,Domingo,6,Fluminense,Derrota,0,2,Mandante,Lucas Paulo Torezin,28.9,4.8,180.2,5.3,32.2,6.3,177.6,6.0,Estádio Beira-Rio,13502
+Internacional,2025,12,12/06/2025,21:30,Quinta,6,Atlético Mineiro,Derrota,0,2,Visitante,Flavio Rodrigues De Souza,27.7,3.3,179.1,5.5,30.0,4.7,178.1,8.1,Arena MRV,24781
+Internacional,2025,13,12/07/2025,16:30,Sábado,7,Vitória,Vitória,1,0,Mandante,Rodrigo Jose Pereira de Lima,28.1,4.2,179.8,6.2,27.8,3.5,180.1,7.0,Estádio Beira-Rio,21041
+Internacional,2025,15,20/07/2025,11:00,Domingo,7,Ceará,Vitória,1,0,Mandante,Davi de Oliveira Lacerda,28.1,4.3,178.2,6.5,28.3,3.6,180.4,8.0,Estádio Beira-Rio,31976
+Internacional,2025,16,23/07/2025,21:30,Quarta,7,Santos,Vitória,2,1,Visitante,Lucas Paulo Torezin,28.1,4.3,178.2,6.5,27.8,4.6,181.1,6.7,Estádio Urbano Caldeira,11686
+Internacional,2025,17,27/07/2025,18:30,Domingo,7,Vasco da Gama,Empate,1,1,Mandante,Flavio Rodrigues De Souza,27.6,4.8,179.2,6.2,28.2,4.5,180.5,5.3,Estádio Beira-Rio,15031
+Internacional,2025,18,03/08/2025,20:30,Domingo,8,São Paulo,Derrota,1,2,Mandante,Alex Gomes Stefano,29.2,5.3,178.7,6.5,30.1,3.7,180.2,7.4,Estádio Beira-Rio,11414
+Internacional,2025,19,09/08/2025,18:30,Sábado,8,Red Bull Bragantino,Vitória,3,1,Visitante,Felipe Fernandes de Lima,27.9,4.1,179.7,7.5,25.9,3.1,183.2,6.4,Estádio Cícero de Souza Marques,3197
+Internacional,2025,20,17/08/2025,18:30,Domingo,8,Flamengo,Derrota,1,3,Mandante,Rodrigo Jose Pereira de Lima,27.9,5.2,181.6,6.0,29.9,2.1,181.5,6.9,Estádio Beira-Rio,22241
+Internacional,2025,21,23/08/2025,18:30,Sábado,8,Cruzeiro,Derrota,1,2,Visitante,Matheus Delgado Candançan,27.6,4.1,180.4,8.2,29.4,4.3,179.2,7.9,Governador Magalhães Pinto,44402
+Internacional,2025,22,31/08/2025,20:30,Domingo,8,Fortaleza,Vitória,2,1,Mandante,Joao Vitor Gobi,27.1,4.0,179.4,7.8,29.4,4.1,179.1,6.3,Estádio Beira-Rio,9304
+Internacional,2025,23,13/09/2025,18:30,Sábado,9,Palmeiras,Derrota,1,4,Visitante,Lucas Paulo Torezin,26.9,4.3,181.0,7.3,28.2,4.5,181.2,5.4,Nubank Parque,39640
+Internacional,2025,24,21/09/2025,17:30,Domingo,9,Grêmio,Derrota,2,3,Mandante,Marcelo de Lima Henrique,28.7,3.2,178.3,7.8,31.4,4.2,179.1,6.8,Estádio Beira-Rio,28176
+Internacional,2025,25,27/09/2025,18:30,Sábado,9,Juventude,Empate,1,1,Visitante,Matheus Delgado Candançan,29.0,6.1,179.8,5.8,29.5,5.3,178.8,4.4,Estádio Alfredo Jaconi,8178
+Internacional,2025,26,01/10/2025,19:30,Quarta,10,Corinthians,Empate,1,1,Mandante,Rodrigo Jose Pereira de Lima,28.0,5.0,178.5,6.6,26.6,4.4,182.2,8.5,Estádio Beira-Rio,12825
+Internacional,2025,27,04/10/2025,18:30,Sábado,10,Botafogo,Vitória,2,0,Mandante,Flavio Rodrigues De Souza,29.1,4.8,179.3,6.4,26.8,2.3,183.2,8.1,Estádio Beira-Rio,20805
+Internacional,2025,28,15/10/2025,20:00,Quarta,10,Mirassol,Derrota,1,3,Visitante,Bruno Arleu de Araujo,29.0,5.4,179.9,5.9,31.0,4.0,177.9,6.7,Estádio José Maria de Campos Maia,5072
+Internacional,2025,29,19/10/2025,18:30,Domingo,10,Sport Recife,Vitória,2,0,Mandante,Lucas Paulo Torezin,27.0,2.0,179.5,7.7,28.7,4.7,181.8,9.3,Estádio Beira-Rio,23604
+Internacional,2025,14,22/10/2025,19:00,Quarta,10,Bahia,Derrota,0,1,Visitante,Flavio Rodrigues De Souza,27.2,5.1,180.3,6.7,27.8,3.6,181.5,6.7,Arena Fonte Nova,27349
+Internacional,2025,30,25/10/2025,17:30,Sábado,10,Fluminense,Derrota,0,1,Visitante,Raphael Claus,28.6,5.8,181.0,6.3,31.0,6.9,177.7,9.1,Estádio do Maracanã,21298
+Internacional,2025,31,02/11/2025,18:30,Domingo,11,Atlético Mineiro,Empate,0,0,Mandante,Alex Gomes Stefano,29.3,4.0,179.6,6.8,30.9,4.8,179.3,7.5,Estádio Beira-Rio,32644
+Internacional,2025,32,05/11/2025,19:00,Quarta,11,Vitória,Derrota,0,1,Visitante,Felipe Fernandes de Lima,27.1,3.7,181.9,7.5,27.8,3.5,181.5,7.5,Estádio Manoel Barradas,21657
+Internacional,2025,33,08/11/2025,18:30,Sábado,11,Bahia,Empate,2,2,Mandante,Lucas Paulo Torezin,28.0,5.0,178.7,6.9,28.9,3.1,180.7,7.7,Estádio Beira-Rio,18524
+Internacional,2025,34,20/11/2025,21:30,Quinta,11,Ceará,Vitória,2,1,Visitante,Rodrigo Jose Pereira de Lima,28.0,5.1,178.4,7.0,28.7,3.7,181.5,7.5,Estádio Governador Plácido Castelo,46036
+Internacional,2025,35,24/11/2025,21:00,Segunda,11,Santos,Empate,1,1,Mandante,Davi de Oliveira Lacerda,28.9,4.4,177.6,6.0,28.0,4.8,180.5,7.1,Estádio Beira-Rio,37429
+Internacional,2025,36,28/11/2025,19:30,Sexta,11,Vasco da Gama,Derrota,1,5,Visitante,Rodrigo Jose Pereira de Lima,28.6,4.4,177.3,6.3,26.5,4.6,178.6,5.6,Estádio São Januário,19330
+Internacional,2025,37,03/12/2025,20:00,Quarta,12,São Paulo,Derrota,0,3,Visitante,Bruno Arleu de Araujo,29.0,4.4,178.7,6.3,29.4,5.4,180.8,6.7,Estádio Urbano Caldeira,7309
+Internacional,2025,38,07/12/2025,16:00,Domingo,12,Red Bull Bragantino,Vitória,3,1,Mandante,Davi de Oliveira Lacerda,29.0,4.4,177.6,6.0,26.7,3.8,182.5,8.1,Estádio Beira-Rio,21710
+Palmeiras,2025,1,30/03/2025,16:00,Domingo,3,Botafogo,Empate,0,0,Mandante,Ramon Abatti Abel,26.9,5.2,181.5,5.5,27.6,3.4,182.4,9.7,Nubank Parque,30347
+Palmeiras,2025,2,06/04/2025,18:30,Domingo,4,Sport Recife,Vitória,2,1,Visitante,Bruno Arleu de Araujo,27.0,4.4,184.1,5.1,29.1,3.5,181.6,4.8,Ilha do Retiro,26324
+Palmeiras,2025,3,12/04/2025,18:30,Sábado,4,Corinthians,Vitória,2,0,Mandante,Rafael Rodrigo Klein,26.6,5.2,182.5,5.8,27.3,4.2,179.6,5.0,Nubank Parque,19297
+Palmeiras,2025,4,16/04/2025,19:30,Quarta,4,Internacional,Vitória,1,0,Visitante,Felipe Fernandes de Lima,26.2,5.4,181.0,5.4,29.3,5.1,180.2,6.4,Estádio Beira-Rio,30665
+Palmeiras,2025,5,20/04/2025,18:30,Domingo,4,Fortaleza,Vitória,2,1,Visitante,Paulo Cesar Zanovelli da Silva,26.5,5.1,182.9,5.0,30.1,5.3,180.5,7.0,Estádio Governador Plácido Castelo,23877
+Palmeiras,2025,6,27/04/2025,18:30,Domingo,4,Bahia,Derrota,0,1,Mandante,Wilton Pereira Sampaio,26.6,5.0,182.7,6.7,28.9,3.8,180.2,7.4,Nubank Parque,29033
+Palmeiras,2025,7,04/05/2025,16:00,Domingo,5,Vasco da Gama,Vitória,1,0,Visitante,Davi de Oliveira Lacerda,26.3,5.4,181.6,5.3,26.1,3.5,180.3,5.1,Arena BRB Mané Garrincha,30318
+Palmeiras,2025,8,11/05/2025,17:30,Domingo,5,São Paulo,Vitória,1,0,Mandante,Rafael Rodrigo Klein,25.7,5.1,182.1,5.5,28.6,4.2,179.5,7.3,Arena Barueri,29709
+Palmeiras,2025,9,18/05/2025,18:30,Domingo,5,Red Bull Bragantino,Vitória,2,1,Visitante,Marcelo de Lima Henrique,25.9,5.1,182.7,4.8,26.6,3.8,179.8,7.5,Estádio Cícero de Souza Marques,6601
+Palmeiras,2025,10,25/05/2025,16:00,Domingo,5,Flamengo,Derrota,0,2,Mandante,Ramon Abatti Abel,27.1,5.5,181.4,4.7,29.9,3.2,181.5,7.2,Nubank Parque,41075
+Palmeiras,2025,11,01/06/2025,19:30,Domingo,6,Cruzeiro,Derrota,1,2,Visitante,Rodrigo Jose Pereira de Lima,25.8,4.7,183.2,5.7,28.3,4.8,180.1,8.1,Governador Magalhães Pinto,57747
+Palmeiras,2025,14,16/07/2025,19:00,Quarta,7,Mirassol,Empate,1,1,Mandante,Savio Pereira Sampaio,28.6,4.6,180.8,5.5,30.6,3.9,178.7,6.5,Nubank Parque,38896
+Palmeiras,2025,15,20/07/2025,17:30,Domingo,7,Atlético Mineiro,Vitória,3,2,Mandante,Alex Gomes Stefano,27.5,4.9,180.5,5.5,29.7,4.4,179.0,7.0,Nubank Parque,34970
+Palmeiras,2025,16,23/07/2025,19:00,Quarta,7,Fluminense,Vitória,2,1,Visitante,Ramon Abatti Abel,27.1,5.1,180.5,5.5,30.2,6.1,177.5,8.6,Estádio do Maracanã,21081
+Palmeiras,2025,17,26/07/2025,21:00,Sábado,7,Grêmio,Vitória,1,0,Mandante,Paulo Cesar Zanovelli da Silva,26.3,5.2,181.7,5.1,27.0,5.0,179.5,7.3,Nubank Parque,37132
+Palmeiras,2025,18,03/08/2025,19:30,Domingo,8,Vitória,Empate,2,2,Visitante,Davi de Oliveira Lacerda,25.8,6.4,183.7,6.4,28.3,4.5,179.9,6.5,Estádio Manoel Barradas,17951
+Palmeiras,2025,19,10/08/2025,16:00,Domingo,8,Ceará,Vitória,2,1,Mandante,Lucas Paulo Torezin,26.9,4.7,180.7,5.3,29.5,3.1,180.3,8.6,Nubank Parque,23079
+Palmeiras,2025,20,17/08/2025,20:30,Domingo,8,Botafogo,Vitória,1,0,Visitante,Davi de Oliveira Lacerda,28.1,4.5,181.2,5.4,28.7,5.1,182.6,7.3,Estádio Nilton Santos,16469
+Palmeiras,2025,21,25/08/2025,19:00,Segunda,8,Sport Recife,Vitória,3,0,Mandante,Paulo Cesar Zanovelli da Silva,28.0,4.6,181.5,5.6,28.3,5.2,180.5,8.6,Nubank Parque,36576
+Palmeiras,2025,22,31/08/2025,18:30,Domingo,8,Corinthians,Empate,1,1,Visitante,Ramon Abatti Abel,28.0,4.6,180.9,5.7,28.0,4.5,183.2,7.7,Neo Química Arena,45273
+Palmeiras,2025,23,13/09/2025,18:30,Sábado,9,Internacional,Vitória,4,1,Mandante,Lucas Paulo Torezin,28.2,4.5,181.2,5.4,26.9,4.3,181.0,7.3,Nubank Parque,39640
+Palmeiras,2025,24,20/09/2025,21:00,Sábado,9,Fortaleza,Vitória,4,1,Mandante,Alex Gomes Stefano,26.0,4.5,181.5,5.8,31.2,3.6,178.5,6.6,Nubank Parque,35324
+Palmeiras,2025,25,28/09/2025,16:00,Domingo,9,Bahia,Derrota,0,1,Visitante,Anderson Daronco,28.3,4.8,182.2,5.0,27.4,4.7,180.7,7.0,Arena Fonte Nova,45615
+Palmeiras,2025,26,01/10/2025,19:00,Quarta,10,Vasco da Gama,Vitória,3,0,Mandante,Murilo Ugolini Klein,28.3,4.8,181.1,5.4,28.8,4.8,180.7,6.0,Nubank Parque,34355
+Palmeiras,2025,27,05/10/2025,16:00,Domingo,10,São Paulo,Vitória,3,2,Visitante,Ramon Abatti Abel,28.4,4.8,181.1,5.4,29.2,4.4,179.8,6.9,MorumBIS,33928
+Palmeiras,2025,12,11/10/2025,19:00,Sábado,10,Juventude,Vitória,4,1,Mandante,Davi de Oliveira Lacerda,28.4,4.1,181.7,6.2,29.2,4.3,178.2,6.1,Nubank Parque,40407
+Palmeiras,2025,28,15/10/2025,19:00,Quarta,10,Red Bull Bragantino,Vitória,5,1,Mandante,Raphael Claus,27.7,4.7,181.5,6.4,26.2,3.2,181.4,7.2,Nubank Parque,29169
+Palmeiras,2025,29,19/10/2025,16:00,Domingo,10,Flamengo,Derrota,2,3,Visitante,Wilton Pereira Sampaio,26.9,3.4,182.1,8.8,30.2,2.6,182.8,6.1,Estádio do Maracanã,71651
+Palmeiras,2025,30,26/10/2025,20:30,Domingo,10,Cruzeiro,Empate,0,0,Mandante,Rafael Rodrigo Klein,26.7,3.7,183.1,8.8,29.6,4.3,179.2,7.9,Nubank Parque,40209
+Palmeiras,2025,31,02/11/2025,18:30,Domingo,11,Juventude,Vitória,2,0,Visitante,Savio Pereira Sampaio,27.1,2.7,182.5,8.4,30.5,5.7,180.5,5.1,Estádio Alfredo Jaconi,6142
+Palmeiras,2025,32,06/11/2025,21:30,Quinta,11,Santos,Vitória,2,0,Mandante,Raphael Claus,26.4,2.9,183.0,8.5,26.4,5.1,180.1,5.9,Nubank Parque,41167
+Palmeiras,2025,33,09/11/2025,20:30,Domingo,11,Mirassol,Derrota,1,2,Visitante,Flavio Rodrigues De Souza,26.9,3.7,182.0,8.6,30.2,4.4,179.5,7.2,Estádio José Maria de Campos Maia,11457
+Palmeiras,2025,13,15/11/2025,21:00,Sábado,11,Santos,Derrota,0,1,Visitante,Raphael Claus,27.0,2.9,182.7,8.9,28.9,4.2,180.1,6.1,Estádio Urbano Caldeira,14651
+Palmeiras,2025,37,19/11/2025,19:30,Quarta,11,Vitória,Empate,0,0,Mandante,Lucas Paulo Torezin,26.3,2.9,183.8,8.8,28.9,3.2,182.4,5.8,Nubank Parque,39080
+Palmeiras,2025,35,22/11/2025,21:30,Sábado,11,Fluminense,Empate,0,0,Mandante,Jonathan Benkenstein Pinheiro,26.1,3.1,182.9,8.3,31.1,5.8,179.7,6.7,Nubank Parque,40245
+Palmeiras,2025,36,25/11/2025,21:30,Terça,11,Grêmio,Derrota,2,3,Visitante,Savio Pereira Sampaio,26.3,5.1,182.0,6.8,31.2,3.6,177.9,7.6,Arena do Grêmio,25898
+Palmeiras,2025,34,03/12/2025,21:30,Quarta,12,Atlético Mineiro,Vitória,3,0,Visitante,Rafael Rodrigo Klein,26.8,3.5,182.7,8.4,31.0,3.1,179.4,7.9,Arena MRV,13878
+Palmeiras,2025,38,07/12/2025,16:00,Domingo,12,Ceará,Vitória,3,1,Visitante,Bruno Arleu de Araujo,25.2,5.0,183.1,6.6,28.5,2.9,181.4,8.1,Estádio Governador Plácido Castelo,58013
+Santos,2025,1,30/03/2025,18:30,Domingo,3,Vasco da Gama,Derrota,1,2,Visitante,Rafael Rodrigo Klein,27.6,5.4,181.4,6.6,28.6,3.4,178.6,6.5,Estádio São Januário,19550
+Santos,2025,2,06/04/2025,20:30,Domingo,4,Bahia,Empate,2,2,Mandante,Alex Gomes Stefano,27.6,5.4,181.4,6.6,28.1,3.0,181.2,7.2,Estádio Urbano Caldeira,8796
+Santos,2025,3,13/04/2025,19:30,Domingo,4,Fluminense,Derrota,0,1,Visitante,Felipe Fernandes de Lima,30.2,3.7,181.1,6.7,31.5,6.7,177.0,5.8,Estádio do Maracanã,46172
+Santos,2025,4,16/04/2025,21:30,Quarta,4,Atlético Mineiro,Vitória,2,0,Mandante,Braulio Da Silva Machado,29.4,4.8,180.7,6.9,29.8,4.3,180.5,6.5,Estádio Urbano Caldeira,10360
+Santos,2025,5,20/04/2025,16:00,Domingo,4,São Paulo,Derrota,1,2,Visitante,Wilton Pereira Sampaio,28.6,4.7,180.7,6.9,27.6,4.9,179.5,7.4,MorumBIS,52436
+Santos,2025,6,27/04/2025,20:30,Domingo,4,Red Bull Bragantino,Derrota,1,2,Mandante,Raphael Claus,28.8,4.9,182.2,7.2,26.6,3.8,179.8,7.5,Estádio Urbano Caldeira,7679
+Santos,2025,7,04/05/2025,16:00,Domingo,5,Grêmio,Derrota,0,1,Visitante,Bruno Arleu de Araujo,27.8,4.7,180.9,9.3,29.4,4.7,178.3,6.0,Arena do Grêmio,27085
+Santos,2025,8,12/05/2025,20:00,Segunda,5,Ceará,Empate,0,0,Mandante,Felipe Fernandes de Lima,29.2,4.7,179.7,8.7,30.4,4.5,181.1,6.5,Nubank Parque,35240
+Santos,2025,9,18/05/2025,16:00,Domingo,5,Corinthians,Derrota,0,1,Visitante,Raphael Claus,29.4,3.9,177.7,9.0,28.6,4.1,182.0,7.2,Neo Química Arena,46535
+Santos,2025,10,25/05/2025,18:30,Domingo,5,Vitória,Vitória,1,0,Visitante,Anderson Daronco,27.5,5.2,180.4,6.9,28.6,3.4,177.2,7.9,Estádio Manoel Barradas,27086
+Santos,2025,11,01/06/2025,16:00,Domingo,6,Botafogo,Derrota,0,1,Mandante,Davi de Oliveira Lacerda,28.3,4.7,178.6,6.4,27.8,4.2,182.2,9.6,Estádio Urbano Caldeira,13787
+Santos,2025,12,12/06/2025,19:30,Quinta,6,Fortaleza,Vitória,3,2,Visitante,Paulo Cesar Zanovelli da Silva,28.2,4.3,180.2,7.2,32.0,4.5,180.3,6.4,Estádio Governador Plácido Castelo,20381
+Santos,2025,14,16/07/2025,20:00,Quarta,7,Flamengo,Vitória,1,0,Mandante,Felipe Fernandes de Lima,28.2,5.3,180.1,7.2,29.9,3.7,179.5,6.8,Estádio Urbano Caldeira,13541
+Santos,2025,15,19/07/2025,18:30,Sábado,7,Mirassol,Derrota,0,3,Visitante,Matheus Delgado Candançan,28.2,4.2,178.9,6.4,30.6,4.0,179.8,6.3,Estádio José Maria de Campos Maia,11632
+Santos,2025,16,23/07/2025,21:30,Quarta,7,Internacional,Derrota,1,2,Mandante,Lucas Paulo Torezin,27.8,4.6,181.1,6.7,28.1,4.3,178.2,6.5,Estádio Urbano Caldeira,11686
+Santos,2025,17,26/07/2025,18:30,Sábado,7,Sport Recife,Empate,2,2,Visitante,Rafael Rodrigo Klein,27.8,5.3,180.7,6.9,28.5,4.8,182.4,8.2,Ilha do Retiro,24184
+Santos,2025,18,04/08/2025,20:00,Segunda,8,Juventude,Vitória,3,1,Mandante,Paulo Cesar Zanovelli da Silva,28.4,5.7,181.5,7.0,29.3,4.8,178.9,7.5,Estádio Urbano Caldeira,37485
+Santos,2025,19,10/08/2025,18:30,Domingo,8,Cruzeiro,Vitória,2,1,Visitante,Wilton Pereira Sampaio,28.1,6.4,180.6,6.9,29.4,4.3,179.2,7.9,Governador Magalhães Pinto,59345
+Santos,2025,20,17/08/2025,16:00,Domingo,8,Vasco da Gama,Derrota,0,6,Mandante,Ramon Abatti Abel,27.8,5.4,181.6,6.8,28.1,4.0,178.4,4.9,Estádio Urbano Caldeira,54428
+Santos,2025,21,24/08/2025,16:00,Domingo,8,Bahia,Derrota,0,2,Visitante,Rafael Rodrigo Klein,28.6,5.2,181.4,7.4,29.0,4.2,180.6,7.5,Arena Fonte Nova,45233
+Santos,2025,22,31/08/2025,16:00,Domingo,8,Fluminense,Empate,0,0,Mandante,Wilton Pereira Sampaio,29.9,4.0,179.9,6.5,31.1,6.8,176.4,6.9,Estádio Urbano Caldeira,12515
+Santos,2025,23,14/09/2025,16:00,Domingo,9,Atlético Mineiro,Empate,1,1,Visitante,Bruno Arleu de Araujo,29.0,3.4,180.5,6.4,29.9,4.5,179.1,7.2,Arena MRV,38262
+Santos,2025,24,21/09/2025,20:30,Domingo,9,São Paulo,Vitória,1,0,Mandante,Rodrigo Jose Pereira de Lima,28.6,3.5,181.4,6.4,27.9,4.3,180.9,8.4,Estádio Urbano Caldeira,24873
+Santos,2025,25,28/09/2025,18:30,Domingo,9,Red Bull Bragantino,Empate,2,2,Visitante,Flavio Rodrigues De Souza,27.9,4.1,180.6,5.8,26.9,3.7,181.1,7.2,Estádio Cícero de Souza Marques,5824
+Santos,2025,26,01/10/2025,21:30,Quarta,10,Grêmio,Empate,1,1,Mandante,Paulo Cesar Zanovelli da Silva,28.8,3.0,179.9,6.5,26.8,4.2,180.9,8.3,Estádio Urbano Caldeira,9306
+Santos,2025,27,05/10/2025,20:30,Domingo,10,Ceará,Derrota,0,3,Visitante,Anderson Daronco,29.2,3.6,179.6,6.4,28.2,2.8,180.4,8.5,Estádio Governador Plácido Castelo,25636
+Santos,2025,28,15/10/2025,21:30,Quarta,10,Corinthians,Vitória,3,1,Mandante,Flavio Rodrigues De Souza,28.6,2.6,179.8,7.1,25.5,4.5,182.8,6.9,Estádio Urbano Caldeira,13123
+Santos,2025,29,20/10/2025,21:30,Segunda,10,Vitória,Derrota,0,1,Mandante,Rafael Rodrigo Klein,28.7,2.8,179.6,7.1,28.1,2.7,181.0,8.0,Estádio Urbano Caldeira,11775
+Santos,2025,30,26/10/2025,16:00,Domingo,10,Botafogo,Empate,2,2,Visitante,Rodrigo Jose Pereira de Lima,26.3,3.6,182.0,6.4,27.0,2.7,183.7,7.6,Estádio Nilton Santos,20533
+Santos,2025,31,01/11/2025,16:00,Sábado,11,Fortaleza,Empate,1,1,Mandante,Anderson Daronco,27.8,3.2,180.4,7.2,28.7,4.2,178.5,4.9,Estádio Urbano Caldeira,13356
+Santos,2025,32,06/11/2025,21:30,Quinta,11,Palmeiras,Derrota,0,2,Visitante,Raphael Claus,26.4,5.1,180.1,5.9,26.4,2.9,183.0,8.5,Nubank Parque,41167
+Santos,2025,33,09/11/2025,18:30,Domingo,11,Flamengo,Derrota,2,3,Visitante,Savio Pereira Sampaio,29.2,4.2,180.2,6.2,30.5,2.7,180.5,7.8,Estádio do Maracanã,69612
+Santos,2025,13,15/11/2025,21:00,Sábado,11,Palmeiras,Vitória,1,0,Mandante,Raphael Claus,28.9,4.2,180.1,6.1,27.0,2.9,182.7,8.9,Estádio Urbano Caldeira,14651
+Santos,2025,34,19/11/2025,21:30,Quarta,11,Mirassol,Empate,1,1,Mandante,Matheus Delgado Candançan,28.6,4.2,180.4,6.0,30.2,4.4,179.5,7.2,Estádio Urbano Caldeira,14317
+Santos,2025,35,24/11/2025,21:00,Segunda,11,Internacional,Empate,1,1,Visitante,Davi de Oliveira Lacerda,28.0,4.8,180.5,7.1,28.9,4.4,177.6,6.0,Estádio Beira-Rio,37429
+Santos,2025,36,28/11/2025,21:30,Sexta,11,Sport Recife,Vitória,3,0,Mandante,Felipe Fernandes de Lima,29.1,4.4,181.2,6.1,29.9,3.3,182.8,8.2,Estádio Urbano Caldeira,14156
+Santos,2025,37,03/12/2025,19:30,Quarta,12,Juventude,Vitória,3,0,Visitante,Wilton Pereira Sampaio,28.5,4.1,180.6,5.9,29.7,5.6,179.7,4.5,Estádio Alfredo Jaconi,15343
+Santos,2025,38,07/12/2025,16:00,Domingo,12,Cruzeiro,Vitória,3,0,Mandante,Rodrigo Jose Pereira de Lima,28.8,4.1,180.7,5.9,26.3,6.2,182.0,7.1,Estádio Urbano Caldeira,15068
+São Paulo,2025,1,29/03/2025,18:30,Sábado,3,Sport Recife,Empate,0,0,Mandante,Felipe Fernandes de Lima,31.2,3.5,180.5,7.2,29.1,3.4,181.3,5.2,MorumBIS,37856
+São Paulo,2025,2,06/04/2025,16:00,Domingo,4,Atlético Mineiro,Empate,0,0,Visitante,Ramon Abatti Abel,30.3,3.3,179.6,7.4,29.3,4.4,178.5,7.0,Arena MRV,28415
+São Paulo,2025,3,13/04/2025,17:30,Domingo,4,Cruzeiro,Empate,1,1,Mandante,Rodrigo Jose Pereira de Lima,28.7,4.4,179.5,7.3,29.6,4.7,178.5,8.5,MorumBIS,37566
+São Paulo,2025,4,16/04/2025,18:30,Quarta,4,Botafogo,Empate,2,2,Visitante,Davi de Oliveira Lacerda,29.6,4.4,179.5,7.3,26.4,3.6,182.1,9.8,Estádio Nilton Santos,12014
+São Paulo,2025,5,20/04/2025,16:00,Domingo,4,Santos,Vitória,2,1,Mandante,Wilton Pereira Sampaio,27.6,4.9,179.5,7.4,28.6,4.7,180.7,6.9,MorumBIS,52436
+São Paulo,2025,6,26/04/2025,18:30,Sábado,4,Ceará,Empate,1,1,Visitante,Anderson Daronco,27.3,5.1,180.6,6.3,30.8,4.1,180.7,6.9,Estádio Governador Plácido Castelo,46929
+São Paulo,2025,7,02/05/2025,21:30,Sexta,5,Fortaleza,Empate,0,0,Mandante,Wagner do Nascimento Magalhaes,27.2,4.8,182.2,5.5,30.6,4.3,179.0,6.2,MorumBIS,39502
+São Paulo,2025,8,11/05/2025,17:30,Domingo,5,Palmeiras,Derrota,0,1,Visitante,Rafael Rodrigo Klein,28.6,4.2,179.5,7.3,25.7,5.1,182.1,5.5,Arena Barueri,29709
+São Paulo,2025,9,17/05/2025,21:00,Sábado,5,Grêmio,Vitória,2,1,Mandante,Rodrigo Jose Pereira de Lima,29.4,4.6,181.4,7.2,27.6,4.8,179.8,5.4,MorumBIS,34579
+São Paulo,2025,10,24/05/2025,18:30,Sábado,5,Mirassol,Derrota,0,2,Mandante,Alex Gomes Stefano,29.3,4.7,182.3,5.4,30.4,4.0,178.9,6.4,MorumBIS,30925
+São Paulo,2025,11,31/05/2025,18:30,Sábado,5,Bahia,Derrota,1,2,Visitante,Anderson Daronco,28.2,5.8,180.8,6.0,29.0,3.8,180.2,7.4,Arena Fonte Nova,41041
+São Paulo,2025,12,12/06/2025,21:30,Quinta,6,Vasco da Gama,Derrota,1,3,Mandante,Rafael Rodrigo Klein,28.6,5.7,180.5,6.0,28.2,4.7,179.9,6.0,MorumBIS,20332
+São Paulo,2025,13,12/07/2025,16:30,Sábado,7,Flamengo,Derrota,0,2,Visitante,Wilton Pereira Sampaio,30.3,3.8,179.3,7.1,29.7,3.7,180.9,6.6,Estádio do Maracanã,67359
+São Paulo,2025,14,16/07/2025,21:30,Quarta,7,Red Bull Bragantino,Empate,2,2,Visitante,Alex Gomes Stefano,30.2,3.8,180.5,7.1,26.4,3.8,180.6,6.9,Estádio Cícero de Souza Marques,6119
+São Paulo,2025,15,19/07/2025,21:00,Sábado,7,Corinthians,Vitória,2,0,Mandante,Anderson Daronco,30.4,3.9,180.5,7.0,28.9,3.9,180.7,7.2,MorumBIS,37566
+São Paulo,2025,16,24/07/2025,19:00,Quinta,7,Juventude,Vitória,1,0,Visitante,Savio Pereira Sampaio,30.2,3.7,180.3,7.4,29.0,4.5,178.4,5.6,Estádio Alfredo Jaconi,6095
+São Paulo,2025,17,27/07/2025,16:00,Domingo,7,Fluminense,Vitória,3,1,Mandante,Davi de Oliveira Lacerda,30.0,3.7,179.5,7.4,30.2,7.2,179.9,4.9,MorumBIS,42529
+São Paulo,2025,18,03/08/2025,20:30,Domingo,8,Internacional,Vitória,2,1,Visitante,Alex Gomes Stefano,30.1,3.7,180.2,7.4,29.2,5.3,178.7,6.5,Estádio Beira-Rio,11414
+São Paulo,2025,19,09/08/2025,18:30,Sábado,8,Vitória,Vitória,2,0,Mandante,Bruno Arleu de Araujo,27.0,4.1,180.6,6.9,29.1,4.1,180.4,6.9,MorumBIS,39283
+São Paulo,2025,20,16/08/2025,18:30,Sábado,8,Sport Recife,Empate,2,2,Visitante,Lucas Paulo Torezin,25.2,3.3,181.8,7.4,28.6,4.7,181.8,8.7,Ilha do Retiro,26104
+São Paulo,2025,21,24/08/2025,20:30,Domingo,8,Atlético Mineiro,Vitória,2,0,Mandante,Lucas Casagrande,28.5,3.7,179.7,7.1,27.7,4.5,181.8,6.9,MorumBIS,26341
+São Paulo,2025,22,30/08/2025,21:00,Sábado,8,Cruzeiro,Derrota,0,1,Visitante,Anderson Daronco,27.9,4.6,181.9,5.3,29.7,4.1,178.9,8.0,Governador Magalhães Pinto,36882
+São Paulo,2025,23,14/09/2025,17:30,Domingo,9,Botafogo,Vitória,1,0,Mandante,Wilton Pereira Sampaio,29.5,4.7,181.2,5.9,29.0,4.6,181.5,7.4,MorumBIS,38713
+São Paulo,2025,24,21/09/2025,20:30,Domingo,9,Santos,Derrota,0,1,Visitante,Rodrigo Jose Pereira de Lima,27.9,4.3,180.9,8.4,28.6,3.5,181.4,6.4,Estádio Urbano Caldeira,24873
+São Paulo,2025,25,29/09/2025,20:00,Segunda,9,Ceará,Derrota,0,1,Mandante,Bruno Arleu de Araujo,30.6,4.4,181.0,5.9,28.0,2.9,180.3,8.6,MorumBIS,12342
+São Paulo,2025,26,02/10/2025,19:30,Quinta,10,Fortaleza,Vitória,2,0,Visitante,Anderson Daronco,28.8,5.9,181.3,5.3,29.8,4.4,179.8,5.4,Estádio Governador Plácido Castelo,35544
+São Paulo,2025,27,05/10/2025,16:00,Domingo,10,Palmeiras,Derrota,2,3,Mandante,Ramon Abatti Abel,29.2,4.4,179.8,6.9,28.4,4.8,181.1,5.4,MorumBIS,33928
+São Paulo,2025,28,16/10/2025,19:00,Quinta,10,Grêmio,Derrota,0,2,Visitante,Davi de Oliveira Lacerda,29.4,4.4,179.6,7.5,28.1,4.8,179.1,8.1,Arena do Grêmio,21526
+São Paulo,2025,29,19/10/2025,18:30,Domingo,10,Mirassol,Derrota,0,3,Visitante,Matheus Delgado Candançan,27.9,4.7,179.5,7.3,30.6,4.0,178.7,7.5,Estádio José Maria de Campos Maia,8981
+São Paulo,2025,30,25/10/2025,21:30,Sábado,10,Bahia,Vitória,2,0,Mandante,Lucas Paulo Torezin,28.9,4.7,179.5,7.0,28.2,3.9,181.4,7.2,MorumBIS,15253
+São Paulo,2025,31,02/11/2025,20:30,Domingo,11,Vasco da Gama,Vitória,2,0,Visitante,Wilton Pereira Sampaio,28.7,4.2,178.7,7.5,26.4,4.5,178.5,5.7,Estádio São Januário,20359
+São Paulo,2025,32,05/11/2025,21:30,Quarta,11,Flamengo,Empate,2,2,Mandante,Rodrigo Jose Pereira de Lima,30.1,5.0,182.3,5.8,29.9,3.1,182.7,5.7,Estádio Urbano Caldeira,11228
+São Paulo,2025,33,08/11/2025,21:00,Sábado,11,Red Bull Bragantino,Derrota,0,1,Mandante,Bruno Arleu de Araujo,30.5,4.9,181.3,6.0,26.2,3.3,182.4,8.3,Estádio Urbano Caldeira,10086
+São Paulo,2025,34,20/11/2025,19:30,Quinta,11,Corinthians,Derrota,1,3,Visitante,Anderson Daronco,31.1,4.8,181.2,5.7,26.2,5.2,182.0,7.4,Neo Química Arena,46154
+São Paulo,2025,35,23/11/2025,16:00,Domingo,11,Juventude,Vitória,2,1,Mandante,Andre Luis Skettino Policarpo Bento,28.5,5.2,182.2,5.1,28.6,3.6,179.7,6.3,Estádio Urbano Caldeira,6468
+São Paulo,2025,36,27/11/2025,20:30,Quinta,11,Fluminense,Derrota,0,6,Visitante,Lucas Paulo Torezin,26.2,5.3,181.2,8.5,31.9,6.5,176.5,7.5,Estádio do Maracanã,30427
+São Paulo,2025,37,03/12/2025,20:00,Quarta,12,Internacional,Vitória,3,0,Mandante,Bruno Arleu de Araujo,29.4,5.4,180.8,6.7,29.0,4.4,178.7,6.3,Estádio Urbano Caldeira,7309
+São Paulo,2025,38,07/12/2025,16:00,Domingo,12,Vitória,Derrota,0,1,Visitante,Wilton Pereira Sampaio,31.8,4.4,180.3,7.4,29.7,2.9,181.5,5.7,Estádio Manoel Barradas,29538
+Vasco da Gama,2025,1,30/03/2025,18:30,Domingo,3,Santos,Vitória,2,1,Mandante,Rafael Rodrigo Klein,28.6,3.4,178.6,6.5,27.6,5.4,181.4,6.6,Estádio São Januário,19550
+Vasco da Gama,2025,2,05/04/2025,18:30,Sábado,4,Corinthians,Derrota,0,3,Visitante,Anderson Daronco,27.4,5.0,181.3,4.5,27.7,4.4,179.2,5.9,Neo Química Arena,43250
+Vasco da Gama,2025,3,12/04/2025,21:00,Sábado,4,Sport Recife,Vitória,3,1,Mandante,Savio Pereira Sampaio,28.6,3.8,178.6,6.2,28.7,3.4,181.9,5.0,Estádio São Januário,15969
+Vasco da Gama,2025,4,15/04/2025,21:30,Terça,4,Ceará,Derrota,1,2,Visitante,Denis da Silva Ribeiro Serafim,28.6,4.4,178.7,6.1,29.4,3.0,181.7,7.4,Estádio Governador Plácido Castelo,22693
+Vasco da Gama,2025,5,19/04/2025,18:30,Sábado,4,Flamengo,Empate,0,0,Mandante,Raphael Claus,27.8,4.5,180.2,5.8,29.0,3.0,180.7,8.6,Estádio São Januário,39027
+Vasco da Gama,2025,6,27/04/2025,18:30,Domingo,4,Cruzeiro,Derrota,0,1,Visitante,Rafael Rodrigo Klein,28.5,4.5,180.5,5.6,28.9,5.3,178.0,7.9,Parque do Sabiá,15398
+Vasco da Gama,2025,7,04/05/2025,16:00,Domingo,5,Palmeiras,Derrota,0,1,Mandante,Davi de Oliveira Lacerda,26.1,3.5,180.3,5.1,26.3,5.4,181.6,5.3,Arena BRB Mané Garrincha,30318
+Vasco da Gama,2025,8,10/05/2025,18:30,Sábado,5,Vitória,Derrota,1,2,Visitante,Wilton Pereira Sampaio,26.8,5.1,181.0,6.2,29.1,4.0,178.6,8.4,Estádio Manoel Barradas,15759
+Vasco da Gama,2025,9,17/05/2025,18:30,Sábado,5,Fortaleza,Vitória,3,0,Mandante,Anderson Daronco,27.6,5.3,180.3,6.3,29.6,4.6,179.8,6.0,Estádio São Januário,12451
+Vasco da Gama,2025,10,24/05/2025,18:30,Sábado,5,Fluminense,Derrota,1,2,Visitante,Rodrigo Jose Pereira de Lima,26.8,5.1,181.0,5.8,30.6,6.5,178.6,4.8,Estádio do Maracanã,42422
+Vasco da Gama,2025,11,31/05/2025,21:00,Sábado,5,Red Bull Bragantino,Derrota,0,2,Mandante,Paulo Cesar Zanovelli da Silva,28.4,4.7,180.0,5.9,26.4,3.8,179.0,7.5,Estádio São Januário,14507
+Vasco da Gama,2025,12,12/06/2025,21:30,Quinta,6,São Paulo,Vitória,3,1,Visitante,Rafael Rodrigo Klein,28.2,4.7,179.9,6.0,28.6,5.7,180.5,6.0,MorumBIS,20332
+Vasco da Gama,2025,13,12/07/2025,18:30,Sábado,7,Botafogo,Derrota,0,2,Mandante,Anderson Daronco,28.2,4.7,179.9,6.0,28.3,3.7,180.9,9.3,Arena BRB Mané Garrincha,31468
+Vasco da Gama,2025,15,19/07/2025,17:30,Sábado,7,Grêmio,Empate,1,1,Mandante,Felipe Fernandes de Lima,28.0,4.5,180.5,5.4,28.9,5.3,180.6,6.8,Estádio São Januário,15556
+Vasco da Gama,2025,17,27/07/2025,18:30,Domingo,7,Internacional,Empate,1,1,Visitante,Flavio Rodrigues De Souza,28.2,4.5,180.5,5.3,27.6,4.8,179.2,6.2,Estádio Beira-Rio,15031
+Vasco da Gama,2025,18,02/08/2025,18:30,Sábado,8,Mirassol,Derrota,2,3,Visitante,Wilton Pereira Sampaio,28.5,4.5,181.0,6.2,29.8,3.7,179.6,6.4,Estádio José Maria de Campos Maia,5010
+Vasco da Gama,2025,19,10/08/2025,16:00,Domingo,8,Atlético Mineiro,Empate,1,1,Mandante,Davi de Oliveira Lacerda,28.7,4.6,180.5,5.9,28.5,3.4,178.6,7.1,Estádio São Januário,16157
+Vasco da Gama,2025,20,17/08/2025,16:00,Domingo,8,Santos,Vitória,6,0,Visitante,Ramon Abatti Abel,28.1,4.0,178.4,4.9,27.8,5.4,181.6,6.8,Estádio Urbano Caldeira,54428
+Vasco da Gama,2025,14,20/08/2025,19:00,Quarta,8,Juventude,Derrota,0,2,Visitante,Matheus Delgado Candançan,28.9,4.9,179.6,5.6,30.6,6.0,179.0,6.4,Estádio Alfredo Jaconi,8210
+Vasco da Gama,2025,21,24/08/2025,16:00,Domingo,8,Corinthians,Derrota,2,3,Mandante,Rodrigo Jose Pereira de Lima,28.0,4.0,179.1,5.0,26.4,4.5,182.0,8.4,Estádio São Januário,20329
+Vasco da Gama,2025,22,31/08/2025,20:30,Domingo,8,Sport Recife,Vitória,3,2,Visitante,Raphael Claus,27.6,4.9,180.5,5.3,28.4,4.9,181.3,8.5,Ilha do Retiro,15434
+Vasco da Gama,2025,23,14/09/2025,20:30,Domingo,9,Ceará,Empate,2,2,Mandante,Matheus Delgado Candançan,26.8,5.2,181.5,5.4,28.0,2.9,180.3,8.6,Estádio São Januário,17497
+Vasco da Gama,2025,24,21/09/2025,17:30,Domingo,9,Flamengo,Empate,1,1,Visitante,Rafael Rodrigo Klein,27.4,5.0,180.7,5.5,29.5,2.8,181.6,5.9,Estádio do Maracanã,62156
+Vasco da Gama,2025,16,24/09/2025,19:30,Quarta,9,Bahia,Vitória,3,1,Mandante,Joao Vitor Gobi,28.0,4.3,179.4,5.7,28.6,4.4,182.8,5.9,Estádio São Januário,16188
+Vasco da Gama,2025,25,27/09/2025,18:30,Sábado,9,Cruzeiro,Vitória,2,0,Mandante,Rodrigo Jose Pereira de Lima,27.4,5.0,180.7,5.5,28.7,4.8,180.1,8.1,Estádio São Januário,19685
+Vasco da Gama,2025,26,01/10/2025,19:00,Quarta,10,Palmeiras,Derrota,0,3,Visitante,Murilo Ugolini Klein,28.8,4.8,180.7,6.0,28.3,4.8,181.1,5.4,Nubank Parque,34355
+Vasco da Gama,2025,27,05/10/2025,16:00,Domingo,10,Vitória,Vitória,4,3,Mandante,Fernando Antonio Mendes de Salles Nascimento Filho,28.0,5.3,180.4,5.7,28.0,3.5,181.2,6.2,Estádio São Januário,19850
+Vasco da Gama,2025,28,15/10/2025,21:30,Quarta,10,Fortaleza,Vitória,2,0,Visitante,Wilton Pereira Sampaio,26.2,4.5,178.7,5.6,29.2,3.6,178.5,5.2,Estádio Governador Plácido Castelo,27658
+Vasco da Gama,2025,29,20/10/2025,19:30,Segunda,10,Fluminense,Vitória,2,0,Mandante,Wagner do Nascimento Magalhaes,26.4,4.5,178.5,5.7,32.1,6.7,176.1,7.4,Estádio do Maracanã,53746
+Vasco da Gama,2025,30,26/10/2025,18:30,Domingo,10,Red Bull Bragantino,Vitória,3,0,Visitante,Savio Pereira Sampaio,28.0,4.9,178.7,5.9,26.8,3.1,183.1,7.3,Estádio Cícero de Souza Marques,6247
+Vasco da Gama,2025,31,02/11/2025,20:30,Domingo,11,São Paulo,Derrota,0,2,Mandante,Wilton Pereira Sampaio,26.4,4.5,178.5,5.7,28.7,4.2,178.7,7.5,Estádio São Januário,20359
+Vasco da Gama,2025,32,05/11/2025,19:30,Quarta,11,Botafogo,Derrota,0,3,Visitante,Bruno Arleu de Araujo,27.3,5.5,180.5,5.7,27.8,3.1,182.5,8.0,Estádio Nilton Santos,25506
+Vasco da Gama,2025,33,08/11/2025,18:00,Sábado,11,Juventude,Derrota,1,3,Mandante,Fernando Antonio Mendes de Salles Nascimento Filho,25.9,4.1,178.7,5.6,30.5,5.0,180.6,4.9,Estádio São Januário,20000
+Vasco da Gama,2025,34,19/11/2025,21:30,Quarta,11,Grêmio,Derrota,0,2,Visitante,Raphael Claus,27.8,5.3,180.5,5.7,29.5,3.7,178.6,8.4,Arena do Grêmio,33807
+Vasco da Gama,2025,35,23/11/2025,16:00,Domingo,11,Bahia,Derrota,0,1,Visitante,Jefferson Ferreira de Moraes,24.9,3.5,179.8,5.3,29.3,3.9,179.5,7.4,Arena Fonte Nova,43074
+Vasco da Gama,2025,36,28/11/2025,19:30,Sexta,11,Internacional,Vitória,5,1,Mandante,Rodrigo Jose Pereira de Lima,26.5,4.6,178.6,5.6,28.6,4.4,177.3,6.3,Estádio São Januário,19330
+Vasco da Gama,2025,37,02/12/2025,19:00,Terça,12,Mirassol,Derrota,0,2,Mandante,Paulo Cesar Zanovelli da Silva,26.5,4.6,178.6,5.6,28.7,3.9,178.8,6.5,Estádio São Januário,19496
+Vasco da Gama,2025,38,07/12/2025,16:00,Domingo,12,Atlético Mineiro,Derrota,0,5,Visitante,Lucas Paulo Torezin,28.9,4.2,181.5,5.1,32.3,3.6,177.5,8.7,Arena MRV,20622

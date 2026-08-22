@@ -1,0 +1,343 @@
+﻿time,temporada,rodada,data,horario,dia_semana,mes,adversario,resultado,gols_favor,gols_sofridos,condicao,arbitro,idade_media_titular_time,desvio_idade_media_time,altura_media_titular_time,desvio_altura_media_time,idade_media_titular_adv,desvio_idade_media_adv,altura_media_titular_adv,desvio_altura_media_adv,estadio,publico
+Atlético Mineiro,2022,1,10/04/2022,16:00,Domingo,4,Internacional,Vitória,2,0,Mandante,Bruno Arleu de Araujo,28.5,3.6,177.5,6.5,26.8,4.3,178.9,8.5,Governador Magalhães Pinto,37531
+Atlético Mineiro,2022,2,17/04/2022,18:00,Domingo,4,Athletico,Vitória,1,0,Visitante,Wilton Pereira Sampaio,27.8,4.2,178.3,6.4,24.7,2.6,181.0,5.0,Arena da Baixada,17305
+Atlético Mineiro,2022,3,23/04/2022,21:00,Sábado,4,Coritiba,Empate,2,2,Mandante,Savio Pereira Sampaio,30.5,4.6,179.8,6.6,27.8,4.8,181.8,7.5,Governador Magalhães Pinto,19974
+Atlético Mineiro,2022,4,30/04/2022,18:30,Sábado,4,Goiás,Empate,2,2,Visitante,Bruno Arleu de Araujo,28.6,3.8,178.8,6.2,28.0,4.2,180.0,8.1,Estádio da Serrinha,10165
+Atlético Mineiro,2022,5,07/05/2022,16:30,Sábado,5,América Mineiro,Derrota,1,2,Mandante,Wilton Pereira Sampaio,28.7,5.0,179.6,7.4,30.4,5.8,178.1,8.1,Governador Magalhães Pinto,14629
+Atlético Mineiro,2022,7,11/05/2022,20:30,Quarta,5,Red Bull Bragantino,Empate,1,1,Visitante,Braulio Da Silva Machado,27.9,3.3,178.1,6.5,23.4,3.9,179.2,6.5,Estádio Nabi Abi Chedid,5222
+Atlético Mineiro,2022,6,14/05/2022,19:00,Sábado,5,Atlético Goianiense,Vitória,2,0,Mandante,Anderson Daronco,28.4,4.0,178.7,6.3,26.1,2.5,180.1,6.0,Governador Magalhães Pinto,20749
+Atlético Mineiro,2022,8,29/05/2022,19:00,Domingo,5,Avaí,Vitória,2,1,Mandante,Jefferson Ferreira de Moraes,30.6,4.5,180.3,6.9,28.1,4.1,180.5,6.3,Governador Magalhães Pinto,31551
+Atlético Mineiro,2022,9,05/06/2022,16:00,Domingo,6,Palmeiras,Empate,0,0,Visitante,Wilton Pereira Sampaio,29.3,4.4,179.3,6.0,28.2,3.8,178.0,7.0,Nubank Parque,40235
+Atlético Mineiro,2022,10,08/06/2022,21:30,Quarta,6,Fluminense,Derrota,3,5,Visitante,Leandro Pedro Vuaden,29.3,4.4,179.3,6.0,30.5,5.9,178.4,6.7,Estádio do Maracanã,16143
+Atlético Mineiro,2022,11,11/06/2022,19:00,Sábado,6,Santos,Empate,1,1,Mandante,Marcelo de Lima Henrique,29.1,5.5,180.1,6.9,25.4,4.1,182.8,5.6,Governador Magalhães Pinto,26501
+Atlético Mineiro,2022,12,15/06/2022,19:00,Quarta,6,Ceará,Empate,0,0,Visitante,Luiz Flávio de Oliveira,29.1,4.9,180.0,5.4,29.3,3.6,182.2,9.1,Estádio Governador Plácido Castelo,26774
+Atlético Mineiro,2022,13,19/06/2022,16:00,Domingo,6,Flamengo,Vitória,2,0,Mandante,Raphael Claus,30.4,3.9,179.5,5.7,27.9,4.4,178.6,5.2,Governador Magalhães Pinto,55373
+Atlético Mineiro,2022,14,25/06/2022,21:00,Sábado,6,Fortaleza,Vitória,3,2,Mandante,Jean Pierre Goncalves Lima,26.7,5.1,180.3,7.9,28.5,4.5,179.0,7.5,Governador Magalhães Pinto,30003
+Atlético Mineiro,2022,15,02/07/2022,16:30,Sábado,7,Juventude,Vitória,2,1,Visitante,Flavio Rodrigues De Souza,29.0,4.8,179.0,8.1,29.5,3.0,179.2,7.4,Estádio Alfredo Jaconi,6565
+Atlético Mineiro,2022,16,10/07/2022,18:00,Domingo,7,São Paulo,Empate,0,0,Mandante,Anderson Daronco,28.4,4.3,179.3,7.2,27.7,6.1,179.5,5.0,Governador Magalhães Pinto,52356
+Atlético Mineiro,2022,17,17/07/2022,18:00,Domingo,7,Botafogo,Vitória,1,0,Visitante,Raphael Claus,29.9,4.0,179.9,6.7,26.5,3.2,180.0,5.6,Estádio Nilton Santos,8678
+Atlético Mineiro,2022,18,21/07/2022,19:00,Quinta,7,Cuiabá,Empate,1,1,Visitante,Jean Pierre Goncalves Lima,27.6,2.8,179.8,8.1,28.1,4.4,180.0,4.8,Arena Pantanal,18584
+Atlético Mineiro,2022,19,24/07/2022,18:00,Domingo,7,Corinthians,Derrota,1,2,Mandante,Ramon Abatti Abel,29.9,4.0,179.8,6.8,27.7,5.5,179.2,9.8,Governador Magalhães Pinto,55706
+Atlético Mineiro,2022,20,31/07/2022,16:00,Domingo,7,Internacional,Derrota,0,3,Visitante,Flavio Rodrigues De Souza,30.0,3.9,179.2,5.9,28.0,4.1,177.1,5.9,Estádio Beira-Rio,39451
+Atlético Mineiro,2022,21,07/08/2022,19:00,Domingo,8,Athletico,Derrota,2,3,Mandante,Braulio Da Silva Machado,28.3,3.3,178.0,7.5,23.6,3.1,182.0,5.5,Governador Magalhães Pinto,25119
+Atlético Mineiro,2022,22,14/08/2022,11:00,Domingo,8,Coritiba,Vitória,1,0,Visitante,Marcelo de Lima Henrique,29.2,4.2,177.9,6.6,29.3,5.3,180.9,5.6,Estádio Major Antônio Couto Pereira,17608
+Atlético Mineiro,2022,23,20/08/2022,16:30,Sábado,8,Goiás,Derrota,0,1,Mandante,Vinicius Goncalves Dias Araujo,29.7,4.3,178.3,6.7,27.3,2.5,178.6,7.4,Governador Magalhães Pinto,31650
+Atlético Mineiro,2022,24,28/08/2022,16:00,Domingo,8,América Mineiro,Empate,1,1,Visitante,Ramon Abatti Abel,29.9,4.6,178.6,7.8,30.7,3.3,180.5,7.0,Arena Independência,7016
+Atlético Mineiro,2022,25,04/09/2022,18:00,Domingo,9,Atlético Goianiense,Vitória,2,0,Visitante,Luiz Flávio de Oliveira,30.8,4.5,180.0,6.9,27.9,3.1,181.7,4.7,Estádio Antônio Accioly,7083
+Atlético Mineiro,2022,26,07/09/2022,17:00,Quarta,9,Red Bull Bragantino,Empate,1,1,Mandante,Jean Pierre Goncalves Lima,27.8,3.0,177.2,6.6,24.7,3.1,179.5,6.3,Governador Magalhães Pinto,35
+Atlético Mineiro,2022,27,17/09/2022,16:30,Sábado,9,Avaí,Derrota,0,1,Visitante,Andre Luiz de Freitas Castro,28.7,3.9,178.5,6.0,30.5,5.1,180.4,6.8,Estádio da Ressacada,5081
+Atlético Mineiro,2022,28,28/09/2022,21:45,Quarta,9,Palmeiras,Derrota,0,1,Mandante,Marcelo de Lima Henrique,30.2,3.9,178.3,6.1,28.8,3.5,179.5,7.0,Governador Magalhães Pinto,28644
+Atlético Mineiro,2022,29,01/10/2022,15:00,Sábado,10,Fluminense,Vitória,2,0,Mandante,Luiz Flávio de Oliveira,29.5,4.5,177.8,6.9,29.5,7.4,178.5,6.3,Governador Magalhães Pinto,20858
+Atlético Mineiro,2022,30,05/10/2022,21:30,Quarta,10,Santos,Vitória,2,1,Visitante,Bruno Arleu de Araujo,28.7,3.4,177.2,7.1,25.9,5.2,178.3,8.1,Estádio Urbano Caldeira,9278
+Atlético Mineiro,2022,31,09/10/2022,18:00,Domingo,10,Ceará,Empate,0,0,Mandante,Flavio Rodrigues De Souza,29.4,3.2,177.8,6.6,30.3,4.5,182.2,7.6,Governador Magalhães Pinto,34718
+Atlético Mineiro,2022,32,15/10/2022,20:30,Sábado,10,Flamengo,Derrota,0,1,Visitante,Ramon Abatti Abel,29.4,3.8,178.4,6.5,25.9,5.0,179.7,7.6,Estádio do Maracanã,51179
+Atlético Mineiro,2022,33,24/10/2022,20:00,Segunda,10,Fortaleza,Empate,0,0,Visitante,Raphael Claus,27.7,3.2,177.8,6.6,30.6,3.6,180.3,4.5,Estádio Governador Plácido Castelo,43.660
+Atlético Mineiro,2022,34,27/10/2022,19:30,Quinta,10,Juventude,Vitória,1,0,Mandante,Savio Pereira Sampaio,29.5,2.8,178.2,6.8,28.4,3.3,179.3,6.3,Governador Magalhães Pinto,18.298
+Atlético Mineiro,2022,35,01/11/2022,21:30,Terça,11,São Paulo,Empate,2,2,Visitante,Braulio Da Silva Machado,29.0,3.1,177.6,6.6,28.1,5.2,178.9,5.5,MorumBIS,23.835
+Atlético Mineiro,2022,36,07/11/2022,20:00,Segunda,11,Botafogo,Derrota,0,2,Mandante,Leandro Pedro Vuaden,31.4,3.9,179.5,7.1,29.3,4.0,182.5,5.6,Governador Magalhães Pinto,31160
+Atlético Mineiro,2022,37,10/11/2022,20:00,Quinta,11,Cuiabá,Vitória,3,0,Mandante,Bruno Arleu de Araujo,31.6,3.6,179.6,7.0,27.7,3.9,181.6,4.3,Governador Magalhães Pinto,28.824
+Atlético Mineiro,2022,38,13/11/2022,16:00,Domingo,11,Corinthians,Vitória,1,0,Visitante,Braulio Da Silva Machado,31.4,3.9,179.5,7.1,28.1,6.1,179.9,8.5,Neo Química Arena,43.414
+Botafogo,2022,1,10/04/2022,16:00,Domingo,4,Corinthians,Derrota,1,3,Mandante,Wilton Pereira Sampaio,27.1,3.4,180.5,6.3,26.3,5.0,180.5,6.7,Estádio Nilton Santos,36898
+Botafogo,2022,2,17/04/2022,19:00,Domingo,4,Ceará,Vitória,3,1,Visitante,Raphael Claus,26.6,2.7,180.5,5.8,30.7,3.0,181.3,8.2,Estádio Governador Plácido Castelo,33734
+Botafogo,2022,3,24/04/2022,18:30,Domingo,4,Atlético Goianiense,Empate,1,1,Visitante,Luiz Flávio de Oliveira,26.6,2.2,180.5,5.9,27.1,3.1,180.9,6.4,Estádio Antônio Accioly,4427
+Botafogo,2022,4,01/05/2022,11:00,Domingo,5,Juventude,Empate,1,1,Mandante,Braulio Da Silva Machado,28.4,3.6,180.7,6.2,29.0,3.1,179.2,7.1,Estádio Nilton Santos,34734
+Botafogo,2022,5,08/05/2022,11:00,Domingo,5,Flamengo,Vitória,1,0,Visitante,Anderson Daronco,28.2,3.4,179.7,5.8,29.9,4.3,181.1,7.1,Estádio do Maracanã,54981
+Botafogo,2022,6,15/05/2022,18:00,Domingo,5,Fortaleza,Vitória,3,1,Mandante,Jefferson Ferreira de Moraes,28.1,3.3,179.7,5.8,28.4,4.7,179.7,5.8,Estádio Nilton Santos,23616
+Botafogo,2022,7,21/05/2022,21:00,Sábado,5,América Mineiro,Empate,1,1,Visitante,Raphael Claus,28.0,3.6,180.1,5.7,28.7,6.6,178.8,6.2,Arena Independência,4236
+Botafogo,2022,8,29/05/2022,16:00,Domingo,5,Coritiba,Derrota,0,1,Visitante,Braulio Da Silva Machado,28.1,3.8,180.4,5.6,26.9,5.1,182.6,6.9,Estádio Major Antônio Couto Pereira,20302
+Botafogo,2022,9,06/06/2022,20:00,Segunda,6,Goiás,Derrota,1,2,Mandante,Paulo Schleich Vollkopf,27.0,4.1,178.9,6.1,27.6,3.4,178.6,7.4,Estádio Nilton Santos,30954
+Botafogo,2022,10,09/06/2022,19:00,Quinta,6,Palmeiras,Derrota,0,4,Visitante,Anderson Daronco,27.6,4.0,178.7,6.1,27.4,4.5,178.3,7.2,Nubank Parque,33431
+Botafogo,2022,11,13/06/2022,19:00,Segunda,6,Avaí,Derrota,0,1,Mandante,Flavio Rodrigues De Souza,27.7,4.3,179.0,6.0,29.3,5.1,180.0,6.0,Estádio Nilton Santos,12627
+Botafogo,2022,12,16/06/2022,16:00,Quinta,6,São Paulo,Vitória,1,0,Mandante,Wilton Pereira Sampaio,27.1,5.1,182.1,6.0,27.3,4.5,179.6,5.5,Estádio Nilton Santos,18677
+Botafogo,2022,13,19/06/2022,18:00,Domingo,6,Internacional,Vitória,3,2,Visitante,Savio Pereira Sampaio,26.8,4.7,182.5,6.5,28.9,3.3,178.0,5.9,Estádio Beira-Rio,26219
+Botafogo,2022,14,26/06/2022,16:00,Domingo,6,Fluminense,Derrota,0,1,Mandante,Anderson Daronco,27.6,5.7,182.1,6.3,28.6,6.2,179.1,6.9,Estádio Nilton Santos,29791
+Botafogo,2022,15,04/07/2022,20:00,Segunda,7,Red Bull Bragantino,Vitória,1,0,Visitante,Ramon Abatti Abel,25.9,5.0,182.5,5.9,25.1,3.3,180.7,6.3,Estádio Nabi Abi Chedid,4509
+Botafogo,2022,16,10/07/2022,19:00,Domingo,7,Cuiabá,Derrota,0,2,Visitante,Jefferson Ferreira de Moraes,27.5,5.0,182.7,6.5,28.5,4.2,179.8,4.7,Arena Pantanal,14719
+Botafogo,2022,17,17/07/2022,18:00,Domingo,7,Atlético Mineiro,Derrota,0,1,Mandante,Raphael Claus,26.5,3.2,180.0,5.6,29.9,4.0,179.9,6.7,Estádio Nilton Santos,8678
+Botafogo,2022,18,20/07/2022,21:30,Quarta,7,Santos,Derrota,0,2,Visitante,Ramon Abatti Abel,26.7,4.5,180.3,6.5,25.1,4.0,180.9,5.0,Estádio Urbano Caldeira,8453
+Botafogo,2022,19,23/07/2022,21:00,Sábado,7,Athletico,Vitória,2,0,Mandante,Anderson Daronco,27.9,4.4,181.5,6.0,25.8,5.2,181.7,5.7,Estádio Nilton Santos,8105
+Botafogo,2022,20,30/07/2022,19:00,Sábado,7,Corinthians,Derrota,0,1,Visitante,Jean Pierre Goncalves Lima,27.1,4.3,181.1,5.9,27.3,5.5,179.9,7.6,Neo Química Arena,42632
+Botafogo,2022,21,06/08/2022,16:30,Sábado,8,Ceará,Empate,1,1,Mandante,Raphael Claus,28.0,4.5,181.3,5.9,29.8,3.8,181.3,7.8,Estádio Nilton Santos,21657
+Botafogo,2022,22,13/08/2022,21:00,Sábado,8,Atlético Goianiense,Empate,0,0,Mandante,Edina Alves Batista,28.8,4.8,181.0,6.6,28.4,3.3,181.5,5.4,Estádio Nilton Santos,12230
+Botafogo,2022,23,21/08/2022,11:00,Domingo,8,Juventude,Empate,2,2,Visitante,Raphael Claus,29.3,3.9,181.5,5.3,28.9,3.1,180.5,6.0,Estádio Alfredo Jaconi,3095
+Botafogo,2022,24,28/08/2022,18:00,Domingo,8,Flamengo,Derrota,0,1,Mandante,Flavio Rodrigues De Souza,29.3,3.9,181.5,5.3,27.4,5.8,180.8,6.4,Estádio Nilton Santos,14442
+Botafogo,2022,25,04/09/2022,16:00,Domingo,9,Fortaleza,Vitória,3,1,Visitante,Ramon Abatti Abel,29.9,4.0,180.8,5.8,30.3,3.7,179.3,5.7,Estádio Governador Plácido Castelo,54505
+Botafogo,2022,26,11/09/2022,11:00,Domingo,9,América Mineiro,Empate,0,0,Mandante,Jose Mendonca da Silva Junior,29.7,3.9,181.4,5.2,30.7,3.3,180.5,7.0,Estádio Nilton Santos,32285
+Botafogo,2022,27,17/09/2022,19:00,Sábado,9,Coritiba,Vitória,2,0,Mandante,Paulo Cesar Zanovelli da Silva,29.6,3.9,182.3,5.4,27.3,4.5,182.2,8.5,Estádio Nilton Santos,32285
+Botafogo,2022,28,28/09/2022,21:45,Quarta,9,Goiás,Vitória,1,0,Visitante,Luiz Flávio de Oliveira,29.3,2.9,183.5,5.8,28.3,3.9,180.9,5.7,Estádio da Serrinha,10774
+Botafogo,2022,29,03/10/2022,20:00,Segunda,10,Palmeiras,Derrota,1,3,Mandante,Wilton Pereira Sampaio,28.1,4.1,182.8,5.3,29.0,3.6,178.2,6.8,Estádio Nilton Santos,16545
+Botafogo,2022,30,06/10/2022,20:00,Quinta,10,Avaí,Vitória,2,1,Visitante,Paulo Cesar Zanovelli da Silva,30.3,3.7,182.6,5.9,30.0,5.2,181.3,6.3,Estádio da Ressacada,6097
+Botafogo,2022,31,09/10/2022,16:00,Domingo,10,São Paulo,Vitória,1,0,Visitante,Jean Pierre Goncalves Lima,30.5,3.4,181.8,6.0,29.0,5.7,178.4,5.4,MorumBIS,23918
+Botafogo,2022,32,16/10/2022,18:00,Domingo,10,Internacional,Derrota,0,1,Mandante,Braulio Da Silva Machado,29.8,3.0,182.9,5.8,28.1,4.1,179.9,7.2,Estádio Nilton Santos,24445
+Botafogo,2022,33,23/10/2022,16:00,Domingo,10,Fluminense,Empate,2,2,Visitante,Ramon Abatti Abel,29.5,4.2,183.3,5.1,28.7,6.5,177.4,7.0,Estádio do Maracanã,N.A
+Botafogo,2022,34,26/10/2022,19:30,Quarta,10,Red Bull Bragantino,Vitória,2,1,Mandante,Dyorgines Jose Padovani de Andrade,29.7,3.6,182.3,5.7,24.0,3.4,182.5,7.2,Estádio Nilton Santos,11093
+Botafogo,2022,35,01/11/2022,19:00,Terça,11,Cuiabá,Derrota,0,2,Mandante,Jean Pierre Goncalves Lima,29.7,3.6,182.3,5.7,29.3,3.2,183.0,3.9,Estádio Nilton Santos,16365
+Botafogo,2022,36,07/11/2022,20:00,Segunda,11,Atlético Mineiro,Vitória,2,0,Visitante,Leandro Pedro Vuaden,29.3,4.0,182.5,5.6,31.4,3.9,179.5,7.1,Governador Magalhães Pinto,31160
+Botafogo,2022,37,10/11/2022,20:00,Quinta,11,Santos,Vitória,3,0,Mandante,Braulio Da Silva Machado,27.4,3.8,182.3,6.9,26.2,5.2,181.7,5.1,Estádio Nilton Santos,N.A
+Botafogo,2022,38,13/11/2022,16:00,Domingo,11,Athletico,Derrota,0,3,Visitante,Anderson Daronco,28.0,3.9,182.0,6.6,25.9,5.4,180.5,4.8,Arena da Baixada,N.A
+Corinthians,2022,1,10/04/2022,16:00,Domingo,4,Botafogo,Vitória,3,1,Visitante,Wilton Pereira Sampaio,26.3,5.0,180.5,6.7,27.1,3.4,180.5,6.3,Estádio Nilton Santos,36898
+Corinthians,2022,2,16/04/2022,19:00,Sábado,4,Avaí,Vitória,3,0,Mandante,Bruno Arleu de Araujo,26.7,5.2,179.8,7.7,30.2,4.8,180.0,6.8,Neo Química Arena,30497
+Corinthians,2022,3,23/04/2022,19:00,Sábado,4,Palmeiras,Derrota,0,3,Visitante,Anderson Daronco,25.3,4.8,179.1,5.9,27.2,4.4,178.1,7.1,Nubank Parque,23973
+Corinthians,2022,4,01/05/2022,16:00,Domingo,5,Fortaleza,Vitória,1,0,Mandante,Savio Pereira Sampaio,30.0,5.1,181.3,7.2,26.8,3.5,179.3,4.8,Neo Química Arena,37018
+Corinthians,2022,5,08/05/2022,18:00,Domingo,5,Red Bull Bragantino,Vitória,1,0,Visitante,Raphael Claus,28.6,5.0,181.7,7.5,22.6,2.6,181.1,6.9,Estádio Nabi Abi Chedid,9993
+Corinthians,2022,6,14/05/2022,19:00,Sábado,5,Internacional,Empate,2,2,Visitante,Braulio Da Silva Machado,28.3,5.2,181.1,7.7,28.8,3.3,178.5,5.8,Estádio Beira-Rio,18482
+Corinthians,2022,7,22/05/2022,16:00,Domingo,5,São Paulo,Empate,1,1,Mandante,Wilton Pereira Sampaio,29.5,6.1,182.8,7.5,27.1,3.3,180.3,4.7,Neo Química Arena,44672
+Corinthians,2022,8,29/05/2022,18:00,Domingo,5,América Mineiro,Empate,1,1,Mandante,Anderson Daronco,30.1,5.5,180.7,7.7,30.2,6.1,180.6,7.2,Neo Química Arena,34922
+Corinthians,2022,9,04/06/2022,20:30,Sábado,6,Atlético Goianiense,Vitória,1,0,Visitante,Bruno Arleu de Araujo,28.2,6.1,180.2,7.6,27.4,3.2,181.7,5.6,Estádio Antônio Accioly,12089
+Corinthians,2022,10,07/06/2022,21:30,Terça,6,Cuiabá,Derrota,0,1,Visitante,Marcelo de Lima Henrique,26.5,4.8,181.1,8.1,28.8,3.8,180.5,6.0,Arena Pantanal,22129
+Corinthians,2022,11,11/06/2022,16:30,Sábado,6,Juventude,Vitória,2,0,Mandante,Ramon Abatti Abel,29.8,5.5,180.1,8.3,28.3,3.2,180.8,6.0,Neo Química Arena,34617
+Corinthians,2022,12,15/06/2022,21:30,Quarta,6,Athletico,Empate,1,1,Visitante,Leandro Pedro Vuaden,27.3,5.5,179.9,7.9,25.1,3.0,181.3,4.7,Arena da Baixada,25965
+Corinthians,2022,13,19/06/2022,16:00,Domingo,6,Goiás,Vitória,1,0,Mandante,Braulio Da Silva Machado,28.3,5.8,181.0,7.9,25.8,3.8,180.5,8.7,Neo Química Arena,35900
+Corinthians,2022,14,25/06/2022,19:00,Sábado,6,Santos,Empate,0,0,Mandante,Flavio Rodrigues De Souza,25.1,5.9,180.0,7.8,25.7,4.1,180.6,7.3,Neo Química Arena,40842
+Corinthians,2022,15,02/07/2022,16:30,Sábado,7,Fluminense,Derrota,0,4,Visitante,Wilton Pereira Sampaio,25.1,5.9,181.9,5.8,28.0,6.8,179.0,6.7,Estádio do Maracanã,44782
+Corinthians,2022,16,10/07/2022,16:00,Domingo,7,Flamengo,Vitória,1,0,Mandante,Ramon Abatti Abel,28.2,5.5,179.9,8.1,25.5,4.4,181.5,5.0,Neo Química Arena,44055
+Corinthians,2022,17,16/07/2022,21:00,Sábado,7,Ceará,Derrota,1,3,Visitante,Leandro Pedro Vuaden,26.7,5.4,179.7,7.3,30.5,3.2,181.8,9.2,Estádio Governador Plácido Castelo,28683
+Corinthians,2022,18,20/07/2022,21:30,Quarta,7,Coritiba,Vitória,3,1,Mandante,Wagner do Nascimento Magalhaes,27.4,5.0,181.1,7.4,29.8,5.1,179.3,7.5,Neo Química Arena,39852
+Corinthians,2022,19,24/07/2022,18:00,Domingo,7,Atlético Mineiro,Vitória,2,1,Visitante,Ramon Abatti Abel,27.7,5.5,179.2,9.8,29.9,4.0,179.8,6.8,Governador Magalhães Pinto,55706
+Corinthians,2022,20,30/07/2022,19:00,Sábado,7,Botafogo,Vitória,1,0,Mandante,Jean Pierre Goncalves Lima,27.3,5.5,179.9,7.6,27.1,4.3,181.1,5.9,Neo Química Arena,42632
+Corinthians,2022,21,06/08/2022,19:00,Sábado,8,Avaí,Empate,1,1,Visitante,Wilton Pereira Sampaio,29.3,4.9,179.9,8.2,30.3,4.5,180.3,5.8,Estádio da Ressacada,12648
+Corinthians,2022,22,13/08/2022,19:00,Sábado,8,Palmeiras,Derrota,0,1,Mandante,Raphael Claus,26.4,4.8,180.5,7.5,27.3,3.8,179.4,7.6,Neo Química Arena,44966
+Corinthians,2022,23,21/08/2022,18:00,Domingo,8,Fortaleza,Derrota,0,1,Visitante,Leandro Pedro Vuaden,25.7,4.6,179.2,7.9,28.5,5.0,179.2,6.8,Estádio Governador Plácido Castelo,44338
+Corinthians,2022,24,29/08/2022,21:30,Segunda,8,Red Bull Bragantino,Vitória,1,0,Mandante,Wilton Pereira Sampaio,28.0,5.5,180.9,8.4,25.6,3.1,179.8,7.0,Neo Química Arena,36228
+Corinthians,2022,25,04/09/2022,16:00,Domingo,9,Internacional,Empate,2,2,Mandante,Braulio Da Silva Machado,29.8,5.2,179.5,9.1,27.1,4.3,178.1,6.4,Neo Química Arena,41423
+Corinthians,2022,26,11/09/2022,16:00,Domingo,9,São Paulo,Empate,1,1,Visitante,Marcelo de Lima Henrique,26.9,5.2,181.2,7.9,27.7,6.7,182.3,6.1,MorumBIS,46444
+Corinthians,2022,27,18/09/2022,18:00,Domingo,9,América Mineiro,Derrota,0,1,Visitante,Bruno Arleu de Araujo,24.8,4.6,179.5,7.0,30.9,3.5,179.3,8.2,Arena Independência,6416
+Corinthians,2022,28,28/09/2022,19:00,Quarta,9,Atlético Goianiense,Vitória,2,1,Mandante,Leandro Pedro Vuaden,28.8,6.0,180.8,8.1,27.8,3.6,180.4,5.4,Neo Química Arena,32398
+Corinthians,2022,29,01/10/2022,21:00,Sábado,10,Cuiabá,Vitória,2,0,Mandante,Caio Max Augusto Vieira,26.8,5.4,180.8,7.9,28.6,3.8,182.1,4.6,Neo Química Arena,37681
+Corinthians,2022,30,04/10/2022,21:30,Terça,10,Juventude,Empate,2,2,Visitante,Wagner do Nascimento Magalhaes,28.8,5.8,181.8,7.8,27.5,4.1,177.9,6.8,Estádio Alfredo Jaconi,3159
+Corinthians,2022,31,08/10/2022,21:00,Sábado,10,Athletico,Vitória,2,1,Mandante,Anderson Daronco,26.0,4.6,179.1,10.3,24.3,2.7,179.8,4.9,Neo Química Arena,38403
+Corinthians,2022,33,22/10/2022,19:00,Sábado,10,Santos,Vitória,1,0,Visitante,Flavio Rodrigues De Souza,26.2,4.8,179.8,7.7,25.4,4.4,182.2,5.3,Estádio Urbano Caldeira,N.A
+Corinthians,2022,34,26/10/2022,21:45,Quarta,10,Fluminense,Derrota,0,2,Mandante,Leandro Pedro Vuaden,29.9,5.4,180.5,8.5,28.8,6.5,177.4,7.0,Neo Química Arena,37920
+Corinthians,2022,32,29/10/2022,19:30,Sábado,10,Goiás,Empate,0,0,Visitante,Paulo Cesar Zanovelli da Silva,25.9,5.5,181.5,7.1,26.1,2.7,181.1,8.2,Estádio da Serrinha,9497
+Corinthians,2022,35,02/11/2022,21:30,Quarta,11,Flamengo,Vitória,2,1,Visitante,Ramon Abatti Abel,26.9,5.8,181.5,6.6,26.3,5.2,182.5,8.6,Estádio do Maracanã,N.A
+Corinthians,2022,36,05/11/2022,20:30,Sábado,11,Ceará,Vitória,1,0,Mandante,Bruno Arleu de Araujo,27.4,6.1,179.9,8.7,30.5,4.8,180.8,8.1,Neo Química Arena,41335
+Corinthians,2022,37,09/11/2022,19:00,Quarta,11,Coritiba,Empate,2,2,Visitante,Marcelo de Lima Henrique,26.7,5.0,181.2,7.7,26.8,4.2,183.1,9.0,Estádio Major Antônio Couto Pereira,N.A
+Corinthians,2022,38,13/11/2022,16:00,Domingo,11,Atlético Mineiro,Derrota,0,1,Mandante,Braulio Da Silva Machado,28.1,6.1,179.9,8.5,31.4,3.9,179.5,7.1,Neo Química Arena,N.A
+Flamengo,2022,1,09/04/2022,19:00,Sábado,4,Atlético Goianiense,Empate,1,1,Visitante,Braulio Da Silva Machado,26.7,4.0,181.5,7.8,27.2,3.2,180.0,5.6,Estádio Antônio Accioly,10496
+Flamengo,2022,2,17/04/2022,16:00,Domingo,4,São Paulo,Vitória,3,1,Mandante,Anderson Daronco,28.0,5.3,180.5,7.2,26.7,5.3,178.5,5.1,Estádio do Maracanã,54686
+Flamengo,2022,4,20/04/2022,19:30,Quarta,4,Palmeiras,Empate,0,0,Mandante,Wilton Pereira Sampaio,28.3,5.5,180.7,7.1,28.0,3.8,178.2,7.1,Estádio do Maracanã,69997
+Flamengo,2022,3,23/04/2022,16:30,Sábado,4,Athletico,Derrota,0,1,Visitante,Raphael Claus,26.8,4.3,181.6,8.0,24.7,2.6,180.8,5.1,Arena da Baixada,22659
+Flamengo,2022,5,08/05/2022,11:00,Domingo,5,Botafogo,Derrota,0,1,Mandante,Anderson Daronco,29.9,4.3,181.1,7.1,28.2,3.4,179.7,5.8,Estádio do Maracanã,54981
+Flamengo,2022,6,14/05/2022,16:30,Sábado,5,Ceará,Empate,2,2,Visitante,Luiz Flávio de Oliveira,28.9,4.4,181.7,7.4,27.0,4.3,179.5,7.2,Estádio Governador Plácido Castelo,52139
+Flamengo,2022,7,21/05/2022,16:30,Sábado,5,Goiás,Vitória,1,0,Mandante,Braulio Da Silva Machado,27.5,3.5,181.5,7.6,27.5,4.2,181.0,8.8,Estádio do Maracanã,4722
+Flamengo,2022,8,29/05/2022,18:00,Domingo,5,Fluminense,Vitória,2,1,Visitante,Raphael Claus,28.1,4.0,180.8,7.6,30.3,6.0,178.0,6.8,Estádio do Maracanã,57919
+Flamengo,2022,9,05/06/2022,16:00,Domingo,6,Fortaleza,Derrota,1,2,Mandante,Leandro Pedro Vuaden,27.0,3.9,181.7,7.4,28.7,3.9,178.2,6.7,Estádio do Maracanã,63975
+Flamengo,2022,10,08/06/2022,20:30,Quarta,6,Red Bull Bragantino,Derrota,0,1,Visitante,Wilton Pereira Sampaio,25.9,3.4,180.8,7.3,25.0,4.3,181.1,6.7,Estádio Nabi Abi Chedid,8627
+Flamengo,2022,11,11/06/2022,21:00,Sábado,6,Internacional,Derrota,1,3,Visitante,Braulio Da Silva Machado,30.2,4.8,180.4,5.1,28.6,3.1,178.1,6.1,Estádio Beira-Rio,22392
+Flamengo,2022,12,15/06/2022,20:30,Quarta,6,Cuiabá,Vitória,2,0,Mandante,Savio Pereira Sampaio,28.7,5.0,179.7,6.1,30.4,4.3,179.9,5.8,Estádio do Maracanã,43930
+Flamengo,2022,13,19/06/2022,16:00,Domingo,6,Atlético Mineiro,Derrota,0,2,Visitante,Raphael Claus,27.9,4.4,178.6,5.2,30.4,3.9,179.5,5.7,Governador Magalhães Pinto,55373
+Flamengo,2022,14,25/06/2022,19:00,Sábado,6,América Mineiro,Vitória,3,0,Mandante,Ramon Abatti Abel,26.9,2.9,181.5,6.7,31.4,3.3,180.0,6.8,Estádio do Maracanã,42931
+Flamengo,2022,15,02/07/2022,19:00,Sábado,7,Santos,Vitória,2,1,Visitante,Anderson Daronco,27.4,4.6,181.1,7.6,25.3,4.2,180.9,5.3,Estádio Urbano Caldeira,12464
+Flamengo,2022,16,10/07/2022,16:00,Domingo,7,Corinthians,Derrota,0,1,Visitante,Ramon Abatti Abel,25.5,4.4,181.5,5.0,28.2,5.5,179.9,8.1,Neo Química Arena,44055
+Flamengo,2022,17,16/07/2022,19:00,Sábado,7,Coritiba,Vitória,2,0,Mandante,Flavio Rodrigues De Souza,26.7,5.8,181.0,7.8,29.4,5.4,179.9,6.5,Estádio do Maracanã,33778
+Flamengo,2022,18,20/07/2022,20:30,Quarta,7,Juventude,Vitória,4,0,Mandante,Paulo Cesar Zanovelli da Silva,29.1,4.6,180.7,5.9,28.7,3.1,177.3,8.7,Estádio do Maracanã,65392
+Flamengo,2022,19,24/07/2022,11:00,Domingo,7,Avaí,Vitória,2,1,Visitante,Raphael Claus,28.0,4.8,179.9,7.0,28.7,4.6,179.8,6.6,Estádio da Ressacada,17557
+Flamengo,2022,20,30/07/2022,20:30,Sábado,7,Atlético Goianiense,Vitória,4,1,Mandante,Caio Max Augusto Vieira,27.9,6.0,180.0,7.2,26.7,3.8,180.5,6.2,Estádio do Maracanã,64040
+Flamengo,2022,21,06/08/2022,20:30,Sábado,8,São Paulo,Vitória,2,0,Visitante,Ramon Abatti Abel,27.9,6.0,180.0,7.2,29.3,5.5,178.8,5.0,MorumBIS,45217
+Flamengo,2022,22,14/08/2022,16:00,Domingo,8,Athletico,Vitória,5,0,Mandante,Wilton Pereira Sampaio,27.0,5.5,179.9,7.2,23.7,3.1,182.0,5.5,Estádio do Maracanã,62716
+Flamengo,2022,23,21/08/2022,16:00,Domingo,8,Palmeiras,Empate,1,1,Visitante,Ramon Abatti Abel,26.4,5.4,179.9,6.6,28.3,3.8,178.2,7.1,Nubank Parque,40485
+Flamengo,2022,24,28/08/2022,18:00,Domingo,8,Botafogo,Vitória,1,0,Visitante,Flavio Rodrigues De Souza,27.4,5.8,180.8,6.4,29.3,3.9,181.5,5.3,Estádio Nilton Santos,14442
+Flamengo,2022,25,04/09/2022,11:00,Domingo,9,Ceará,Empate,1,1,Mandante,Paulo Cesar Zanovelli da Silva,28.9,5.1,180.1,7.2,30.5,3.8,181.3,8.6,Estádio do Maracanã,64387
+Flamengo,2022,26,11/09/2022,19:00,Domingo,9,Goiás,Empate,1,1,Visitante,Ramon Abatti Abel,28.5,5.4,179.7,6.9,28.0,2.7,177.9,7.6,Estádio da Serrinha,13798
+Flamengo,2022,27,18/09/2022,16:00,Domingo,9,Fluminense,Derrota,1,2,Mandante,Raphael Claus,29.3,4.6,180.7,5.9,28.2,6.8,179.0,6.7,Estádio do Maracanã,55170
+Flamengo,2022,28,28/09/2022,19:00,Quarta,9,Fortaleza,Derrota,2,3,Visitante,Flavio Rodrigues De Souza,26.5,6.5,182.5,4.8,28.1,4.3,178.6,4.8,Estádio Governador Plácido Castelo,46299
+Flamengo,2022,29,01/10/2022,19:00,Sábado,10,Red Bull Bragantino,Vitória,4,1,Mandante,Anderson Daronco,29.1,3.5,181.2,6.1,25.8,3.1,180.1,6.7,Estádio do Maracanã,46698
+Flamengo,2022,30,05/10/2022,21:30,Quarta,10,Internacional,Empate,0,0,Mandante,Flavio Rodrigues De Souza,29.4,4.6,180.7,5.9,28.0,4.4,178.3,6.5,Estádio do Maracanã,43710
+Flamengo,2022,31,08/10/2022,19:00,Sábado,10,Cuiabá,Vitória,2,1,Visitante,Raphael Claus,28.6,6.0,180.3,7.3,28.4,4.0,182.9,3.7,Arena Pantanal,40059
+Flamengo,2022,32,15/10/2022,20:30,Sábado,10,Atlético Mineiro,Vitória,1,0,Mandante,Ramon Abatti Abel,25.9,5.0,179.7,7.6,29.4,3.8,178.4,6.5,Estádio do Maracanã,51179
+Flamengo,2022,33,22/10/2022,19:00,Sábado,10,América Mineiro,Vitória,2,1,Visitante,Jean Pierre Goncalves Lima,25.9,5.7,180.9,9.0,32.2,4.0,182.5,6.9,Arena Independência,N.A
+Flamengo,2022,34,25/10/2022,21:45,Terça,10,Santos,Vitória,3,2,Mandante,Andre Luiz de Freitas Castro,28.8,5.6,180.7,7.1,25.1,4.3,180.6,6.5,Estádio do Maracanã,44679
+Flamengo,2022,35,02/11/2022,21:30,Quarta,11,Corinthians,Derrota,1,2,Mandante,Ramon Abatti Abel,26.3,5.2,182.5,8.6,26.9,5.8,181.5,6.6,Estádio do Maracanã,N.A
+Flamengo,2022,36,06/11/2022,16:00,Domingo,11,Coritiba,Derrota,0,1,Visitante,Raphael Claus,27.5,5.8,180.5,9.0,26.8,5.1,182.5,9.3,Estádio Major Antônio Couto Pereira,N.A
+Flamengo,2022,37,09/11/2022,21:30,Quarta,11,Juventude,Empate,2,2,Visitante,Rodrigo Jose Pereira de Lima,25.0,4.2,182.6,8.1,26.6,2.9,179.5,6.3,Estádio Alfredo Jaconi,N.A
+Flamengo,2022,38,12/11/2022,16:00,Sábado,11,Avaí,Derrota,1,2,Mandante,Edina Alves Batista,30.6,5.3,179.1,6.4,28.1,5.1,180.2,7.4,Estádio do Maracanã,N.A
+Fluminense,2022,1,09/04/2022,16:30,Sábado,4,Santos,Empate,0,0,Mandante,Anderson Daronco,28.6,6.2,178.8,6.2,26.0,4.3,181.2,6.5,Estádio do Maracanã,22855
+Fluminense,2022,2,16/04/2022,21:00,Sábado,4,Cuiabá,Vitória,1,0,Visitante,Savio Pereira Sampaio,29.2,6.6,178.8,6.9,29.9,4.1,181.8,4.2,Arena Pantanal,10791
+Fluminense,2022,3,23/04/2022,19:00,Sábado,4,Internacional,Derrota,0,1,Mandante,Braulio Da Silva Machado,29.3,7.0,179.7,6.1,29.0,4.0,178.1,7.2,Estádio do Maracanã,16176
+Fluminense,2022,4,01/05/2022,16:00,Domingo,5,Coritiba,Derrota,2,3,Visitante,Raphael Claus,28.6,6.0,178.9,6.3,27.7,4.8,181.8,7.5,Estádio Major Antônio Couto Pereira,24622
+Fluminense,2022,5,08/05/2022,16:00,Domingo,5,Palmeiras,Empate,1,1,Visitante,Savio Pereira Sampaio,30.6,5.3,178.6,7.3,27.5,4.0,178.0,7.2,Nubank Parque,28776
+Fluminense,2022,6,14/05/2022,21:00,Sábado,5,Athletico,Vitória,2,1,Mandante,Ramon Abatti Abel,28.5,6.4,178.8,6.1,24.1,2.3,181.6,5.0,Estádio Raulino de Oliveira,4722
+Fluminense,2022,7,22/05/2022,16:00,Domingo,5,Fortaleza,Vitória,1,0,Visitante,Anderson Daronco,29.2,6.1,180.3,5.4,28.1,3.8,177.7,4.0,Estádio Governador Plácido Castelo,37507
+Fluminense,2022,8,29/05/2022,18:00,Domingo,5,Flamengo,Derrota,1,2,Mandante,Raphael Claus,30.3,6.0,178.0,6.8,28.1,4.0,180.8,7.6,Estádio do Maracanã,57919
+Fluminense,2022,9,05/06/2022,11:00,Domingo,6,Juventude,Derrota,0,1,Visitante,Jefferson Ferreira de Moraes,30.6,6.0,178.5,6.3,27.5,3.4,181.3,6.1,Estádio Alfredo Jaconi,2573
+Fluminense,2022,10,08/06/2022,21:30,Quarta,6,Atlético Mineiro,Vitória,5,3,Mandante,Leandro Pedro Vuaden,30.5,5.9,178.4,6.7,29.3,4.4,179.3,6.0,Estádio do Maracanã,16143
+Fluminense,2022,11,11/06/2022,19:00,Sábado,6,Atlético Goianiense,Derrota,0,2,Mandante,Luiz Flávio de Oliveira,30.8,6.1,177.2,6.7,27.9,2.8,181.7,5.6,Estádio do Maracanã,27859
+Fluminense,2022,12,15/06/2022,21:30,Quarta,6,América Mineiro,Empate,0,0,Visitante,Anderson Daronco,29.2,6.3,179.6,6.5,31.4,4.3,180.4,6.2,Arena Independência,2599
+Fluminense,2022,13,19/06/2022,19:00,Domingo,6,Avaí,Vitória,2,0,Mandante,Rodolpho Toski Marques,28.5,6.2,179.1,6.9,29.0,5.0,180.3,5.8,Estádio do Maracanã,15530
+Fluminense,2022,14,26/06/2022,16:00,Domingo,6,Botafogo,Vitória,1,0,Visitante,Anderson Daronco,28.6,6.2,179.1,6.9,27.6,5.7,182.1,6.3,Estádio Nilton Santos,29791
+Fluminense,2022,15,02/07/2022,16:30,Sábado,7,Corinthians,Vitória,4,0,Mandante,Wilton Pereira Sampaio,28.0,6.8,179.0,6.7,25.1,5.9,181.9,5.8,Estádio do Maracanã,44782
+Fluminense,2022,16,09/07/2022,19:00,Sábado,7,Ceará,Vitória,2,1,Mandante,Luiz Flávio de Oliveira,28.4,6.5,178.8,6.8,30.4,2.7,182.5,7.0,Estádio do Maracanã,63707
+Fluminense,2022,17,17/07/2022,16:00,Domingo,7,São Paulo,Empate,2,2,Visitante,Wilton Pereira Sampaio,28.6,6.8,178.5,6.2,26.7,5.8,179.7,3.9,MorumBIS,47141
+Fluminense,2022,18,20/07/2022,19:00,Quarta,7,Goiás,Vitória,3,2,Visitante,Paulo Roberto Alves Junior,28.4,6.5,178.8,6.8,26.9,2.2,178.9,7.4,Estádio da Serrinha,11974
+Fluminense,2022,19,24/07/2022,16:00,Domingo,7,Red Bull Bragantino,Vitória,2,1,Mandante,Andre Luiz de Freitas Castro,29.1,5.9,178.6,6.9,23.5,3.5,181.5,7.0,Estádio Raulino de Oliveira,9877
+Fluminense,2022,20,01/08/2022,20:00,Segunda,8,Santos,Empate,2,2,Visitante,Braulio Da Silva Machado,28.3,6.4,178.8,6.8,27.5,5.5,182.9,6.5,Estádio Urbano Caldeira,11943
+Fluminense,2022,21,07/08/2022,16:00,Domingo,8,Cuiabá,Vitória,1,0,Mandante,Flavio Rodrigues De Souza,30.6,6.5,178.2,7.2,28.2,4.1,180.7,5.4,Estádio do Maracanã,46323
+Fluminense,2022,22,14/08/2022,19:00,Domingo,8,Internacional,Derrota,0,3,Visitante,Ramon Abatti Abel,28.1,6.8,179.0,6.7,27.0,4.3,178.1,6.4,Estádio Beira-Rio,14824
+Fluminense,2022,23,20/08/2022,19:00,Sábado,8,Coritiba,Vitória,5,2,Mandante,Paulo Cesar Zanovelli da Silva,27.9,6.4,178.2,6.6,26.6,5.7,184.5,6.8,Estádio do Maracanã,24029
+Fluminense,2022,24,27/08/2022,19:00,Sábado,8,Palmeiras,Empate,1,1,Mandante,Braulio Da Silva Machado,28.9,6.4,178.3,6.6,28.3,3.8,178.2,7.1,Estádio do Maracanã,45084
+Fluminense,2022,25,03/09/2022,19:00,Sábado,9,Athletico,Derrota,0,1,Visitante,Flavio Rodrigues De Souza,29.6,6.6,179.0,6.6,25.2,3.1,183.0,5.6,Arena da Baixada,14037
+Fluminense,2022,26,10/09/2022,19:00,Sábado,9,Fortaleza,Vitória,2,1,Mandante,Paulo Roberto Alves Junior,28.8,6.4,178.8,6.8,30.0,4.0,179.5,5.2,Estádio do Maracanã,26533
+Fluminense,2022,27,18/09/2022,16:00,Domingo,9,Flamengo,Vitória,2,1,Visitante,Raphael Claus,28.2,6.8,179.0,6.7,29.3,4.6,180.7,5.9,Estádio do Maracanã,55170
+Fluminense,2022,28,28/09/2022,19:00,Quarta,9,Juventude,Vitória,4,0,Mandante,Edina Alves Batista,29.3,7.3,178.5,6.6,28.7,3.4,180.2,6.7,Estádio do Maracanã,23396
+Fluminense,2022,29,01/10/2022,15:00,Sábado,10,Atlético Mineiro,Derrota,0,2,Visitante,Luiz Flávio de Oliveira,29.5,7.4,178.5,6.3,29.5,4.5,177.8,6.9,Governador Magalhães Pinto,20858
+Fluminense,2022,30,05/10/2022,19:00,Quarta,10,Atlético Goianiense,Derrota,2,3,Visitante,Anderson Daronco,28.9,7.1,178.8,5.9,27.3,3.5,181.1,4.7,Estádio Antônio Accioly,6075
+Fluminense,2022,31,09/10/2022,18:00,Domingo,10,América Mineiro,Derrota,0,2,Mandante,Leandro Pedro Vuaden,28.3,6.8,179.0,6.7,30.1,4.6,180.1,8.9,Estádio do Maracanã,23324
+Fluminense,2022,32,16/10/2022,19:00,Domingo,10,Avaí,Vitória,3,0,Visitante,Anderson Daronco,29.6,6.7,177.3,6.8,29.5,4.1,178.7,6.7,Estádio da Ressacada,79
+Fluminense,2022,33,23/10/2022,16:00,Domingo,10,Botafogo,Empate,2,2,Mandante,Ramon Abatti Abel,28.7,6.5,177.4,7.0,29.5,4.2,183.3,5.1,Estádio do Maracanã,N.A
+Fluminense,2022,34,26/10/2022,21:45,Quarta,10,Corinthians,Vitória,2,0,Visitante,Leandro Pedro Vuaden,28.8,6.5,177.4,7.0,29.9,5.4,180.5,8.5,Neo Química Arena,37920
+Fluminense,2022,35,31/10/2022,20:00,Segunda,10,Ceará,Vitória,1,0,Visitante,Raphael Claus,29.5,6.0,178.0,6.7,29.5,4.9,181.5,8.6,Estádio Governador Plácido Castelo,N.A
+Fluminense,2022,36,05/11/2022,16:30,Sábado,11,São Paulo,Vitória,3,1,Mandante,Anderson Daronco,29.6,6.0,178.0,6.7,28.2,5.1,179.6,5.3,Estádio do Maracanã,N.A
+Fluminense,2022,37,09/11/2022,19:00,Quarta,11,Goiás,Vitória,3,0,Mandante,Paulo Cesar Zanovelli da Silva,28.6,6.7,178.0,6.7,27.3,2.6,178.8,7.9,Estádio do Maracanã,N.A
+Fluminense,2022,38,13/11/2022,16:00,Domingo,11,Red Bull Bragantino,Vitória,1,0,Visitante,Jean Pierre Goncalves Lima,27.4,7.0,177.5,6.4,24.4,3.2,182.2,6.5,Estádio Nabi Abi Chedid,N.A
+Internacional,2022,1,10/04/2022,16:00,Domingo,4,Atlético Mineiro,Derrota,0,2,Visitante,Bruno Arleu de Araujo,26.8,4.3,178.9,8.5,28.5,3.6,177.5,6.5,Governador Magalhães Pinto,37531
+Internacional,2022,2,17/04/2022,18:00,Domingo,4,Fortaleza,Vitória,2,1,Mandante,Flavio Rodrigues De Souza,29.2,5.8,179.0,7.5,27.8,2.7,179.1,4.2,Estádio Beira-Rio,31783
+Internacional,2022,3,23/04/2022,19:00,Sábado,4,Fluminense,Vitória,1,0,Visitante,Braulio Da Silva Machado,29.0,4.0,178.1,7.2,29.3,7.0,179.7,6.1,Estádio do Maracanã,16176
+Internacional,2022,4,01/05/2022,19:00,Domingo,5,Avaí,Empate,0,0,Mandante,Wilton Pereira Sampaio,27.8,3.9,177.7,6.6,28.7,4.9,181.1,5.6,Estádio Beira-Rio,20808
+Internacional,2022,5,08/05/2022,19:00,Domingo,5,Juventude,Empate,1,1,Visitante,Bruno Arleu de Araujo,27.0,3.0,179.3,6.1,27.7,3.2,179.9,6.4,Estádio Alfredo Jaconi,7341
+Internacional,2022,6,14/05/2022,19:00,Sábado,5,Corinthians,Empate,2,2,Mandante,Braulio Da Silva Machado,28.8,3.3,178.5,5.8,28.3,5.2,181.1,7.7,Estádio Beira-Rio,18482
+Internacional,2022,7,21/05/2022,21:00,Sábado,5,Cuiabá,Empate,1,1,Visitante,Ramon Abatti Abel,28.2,3.5,177.8,5.9,28.6,3.8,178.8,7.1,Arena Pantanal,7968
+Internacional,2022,8,30/05/2022,20:00,Segunda,5,Atlético Goianiense,Empate,1,1,Mandante,Marcelo de Lima Henrique,27.1,3.8,180.0,7.1,27.7,3.0,182.0,5.8,Estádio Beira-Rio,11050
+Internacional,2022,9,05/06/2022,19:00,Domingo,6,Red Bull Bragantino,Vitória,2,0,Visitante,Wagner do Nascimento Magalhaes,28.8,3.3,177.9,6.2,24.9,4.5,182.5,6.7,Estádio Nabi Abi Chedid,3062
+Internacional,2022,10,08/06/2022,21:30,Quarta,6,Santos,Empate,1,1,Visitante,Ramon Abatti Abel,29.4,3.4,177.5,5.6,27.2,3.7,183.3,4.6,Estádio Urbano Caldeira,8845
+Internacional,2022,11,11/06/2022,21:00,Sábado,6,Flamengo,Vitória,3,1,Mandante,Braulio Da Silva Machado,28.6,3.1,178.1,6.1,30.2,4.8,180.4,5.1,Estádio Beira-Rio,22392
+Internacional,2022,12,15/06/2022,20:30,Quarta,6,Goiás,Vitória,2,1,Visitante,Caio Max Augusto Vieira,28.0,4.0,178.8,6.3,26.3,3.0,180.7,8.6,Estádio da Serrinha,8892
+Internacional,2022,13,19/06/2022,18:00,Domingo,6,Botafogo,Derrota,2,3,Mandante,Savio Pereira Sampaio,28.9,3.3,178.0,5.9,26.8,4.7,182.5,6.5,Estádio Beira-Rio,26219
+Internacional,2022,14,24/06/2022,21:30,Sexta,6,Coritiba,Vitória,3,0,Mandante,Jefferson Ferreira de Moraes,28.5,5.0,178.2,6.6,27.1,5.9,184.3,7.9,Estádio Beira-Rio,13454
+Internacional,2022,15,02/07/2022,19:00,Sábado,7,Ceará,Empate,1,1,Visitante,Rodolpho Toski Marques,25.1,5.1,182.5,8.1,27.6,3.8,182.4,7.8,Estádio Governador Plácido Castelo,23283
+Internacional,2022,16,11/07/2022,20:00,Segunda,7,América Mineiro,Vitória,1,0,Mandante,Flavio Rodrigues De Souza,30.3,3.9,178.8,5.6,29.3,5.1,182.1,7.5,Estádio Beira-Rio,19023
+Internacional,2022,17,16/07/2022,16:30,Sábado,7,Athletico,Empate,0,0,Visitante,Ramon Abatti Abel,26.5,4.3,180.4,6.9,24.7,2.5,180.0,5.1,Arena da Baixada,21402
+Internacional,2022,18,20/07/2022,20:30,Quarta,7,São Paulo,Empate,3,3,Mandante,Marcelo de Lima Henrique,28.9,4.7,179.3,5.5,25.2,5.1,177.6,6.3,Estádio Beira-Rio,32804
+Internacional,2022,19,24/07/2022,16:00,Domingo,7,Palmeiras,Derrota,1,2,Visitante,Bruno Arleu de Araujo,27.2,5.3,180.6,6.8,27.3,4.7,180.1,6.7,Nubank Parque,38658
+Internacional,2022,20,31/07/2022,16:00,Domingo,7,Atlético Mineiro,Vitória,3,0,Mandante,Flavio Rodrigues De Souza,28.0,4.1,177.1,5.9,30.0,3.9,179.2,5.9,Estádio Beira-Rio,39451
+Internacional,2022,21,07/08/2022,18:00,Domingo,8,Fortaleza,Derrota,0,3,Visitante,Wagner do Nascimento Magalhaes,25.6,4.3,181.1,7.8,29.6,3.9,178.4,6.1,Estádio Governador Plácido Castelo,39523
+Internacional,2022,22,14/08/2022,19:00,Domingo,8,Fluminense,Vitória,3,0,Mandante,Ramon Abatti Abel,27.0,4.3,178.1,6.4,28.1,6.8,179.0,6.7,Estádio Beira-Rio,14824
+Internacional,2022,23,22/08/2022,20:00,Segunda,8,Avaí,Vitória,1,0,Visitante,Edina Alves Batista,26.8,4.3,178.5,7.2,31.3,5.0,180.6,6.0,Estádio da Ressacada,13911
+Internacional,2022,24,29/08/2022,20:00,Segunda,8,Juventude,Vitória,4,0,Mandante,Bruno Arleu de Araujo,27.1,4.3,178.1,6.4,28.4,3.1,179.5,6.4,Estádio Beira-Rio,16518
+Internacional,2022,25,04/09/2022,16:00,Domingo,9,Corinthians,Empate,2,2,Visitante,Braulio Da Silva Machado,27.1,4.3,178.1,6.4,29.8,5.2,179.5,9.1,Neo Química Arena,41423
+Internacional,2022,26,10/09/2022,16:30,Sábado,9,Cuiabá,Vitória,1,0,Mandante,Maguielson Lima Barbosa,27.2,4.3,178.1,6.4,28.5,3.3,183.1,4.0,Estádio Beira-Rio,30719
+Internacional,2022,27,19/09/2022,20:00,Segunda,9,Atlético Goianiense,Vitória,2,1,Visitante,Edina Alves Batista,28.4,4.4,177.9,6.8,27.4,3.4,181.2,5.4,Estádio Antônio Accioly,5185
+Internacional,2022,28,28/09/2022,21:45,Quarta,9,Red Bull Bragantino,Empate,0,0,Mandante,Wagner do Nascimento Magalhaes,28.9,4.3,179.9,6.0,25.7,3.1,180.1,6.7,Estádio Beira-Rio,17945
+Internacional,2022,29,01/10/2022,15:00,Sábado,10,Santos,Vitória,1,0,Mandante,Ramon Abatti Abel,27.3,4.4,179.6,7.6,26.2,5.7,179.5,7.8,Estádio Beira-Rio,30858
+Internacional,2022,30,05/10/2022,21:30,Quarta,10,Flamengo,Empate,0,0,Visitante,Flavio Rodrigues De Souza,28.0,4.4,178.3,6.5,29.4,4.6,180.7,5.9,Estádio do Maracanã,43710
+Internacional,2022,31,09/10/2022,11:00,Domingo,10,Goiás,Vitória,4,2,Mandante,Edina Alves Batista,27.4,4.5,180.2,7.1,27.2,2.7,179.4,7.8,Estádio Beira-Rio,31554
+Internacional,2022,32,16/10/2022,18:00,Domingo,10,Botafogo,Vitória,1,0,Visitante,Braulio Da Silva Machado,28.1,4.1,179.9,7.2,29.8,3.0,182.9,5.8,Estádio Nilton Santos,24445
+Internacional,2022,33,23/10/2022,18:00,Domingo,10,Coritiba,Empate,1,1,Visitante,Wagner do Nascimento Magalhaes,28.5,4.3,180.3,7.0,27.4,5.1,184.4,7.5,Estádio Major Antônio Couto Pereira,N.A
+Internacional,2022,34,26/10/2022,21:45,Quarta,10,Ceará,Vitória,2,1,Mandante,Ramon Abatti Abel,29.3,4.0,180.8,6.0,29.9,4.5,180.5,8.6,Estádio Beira-Rio,N.A
+Internacional,2022,35,02/11/2022,16:00,Quarta,11,América Mineiro,Derrota,0,1,Visitante,Bruno Arleu de Araujo,28.1,4.1,179.9,7.2,31.2,3.1,180.2,7.4,Arena Independência,N.A
+Internacional,2022,36,05/11/2022,21:00,Sábado,11,Athletico,Vitória,2,0,Mandante,Flavio Rodrigues De Souza,27.5,4.6,179.5,6.7,26.0,5.6,180.5,5.0,Estádio Beira-Rio,N.A
+Internacional,2022,37,08/11/2022,21:30,Terça,11,São Paulo,Vitória,1,0,Visitante,Wagner do Nascimento Magalhaes,27.5,4.5,180.2,7.1,26.5,4.5,181.0,5.0,MorumBIS,19692
+Internacional,2022,38,13/11/2022,16:00,Domingo,11,Palmeiras,Vitória,3,0,Mandante,Bruno Arleu de Araujo,27.4,4.8,178.7,7.2,25.9,4.4,179.2,8.2,Estádio Beira-Rio,N.A
+Palmeiras,2022,1,09/04/2022,21:00,Sábado,4,Ceará,Derrota,2,3,Mandante,Caio Max Augusto Vieira,28.2,3.6,178.3,7.2,30.6,3.1,181.1,7.9,Nubank Parque,27100
+Palmeiras,2022,2,16/04/2022,16:30,Sábado,4,Goiás,Empate,1,1,Visitante,Braulio Da Silva Machado,26.7,4.7,179.5,6.3,28.3,3.8,179.7,8.0,Estádio da Serrinha,12864
+Palmeiras,2022,4,20/04/2022,19:30,Quarta,4,Flamengo,Empate,0,0,Visitante,Wilton Pereira Sampaio,28.0,3.8,178.2,7.1,28.3,5.5,180.7,7.1,Estádio do Maracanã,69997
+Palmeiras,2022,3,23/04/2022,19:00,Sábado,4,Corinthians,Vitória,3,0,Mandante,Anderson Daronco,27.2,4.4,178.1,7.1,25.3,4.8,179.1,5.9,Nubank Parque,23973
+Palmeiras,2022,5,08/05/2022,16:00,Domingo,5,Fluminense,Empate,1,1,Mandante,Savio Pereira Sampaio,27.5,4.0,178.0,7.2,30.6,5.3,178.6,7.3,Nubank Parque,28776
+Palmeiras,2022,6,14/05/2022,16:30,Sábado,5,Red Bull Bragantino,Vitória,2,0,Mandante,Flavio Rodrigues De Souza,27.9,3.2,178.5,7.1,24.2,3.6,180.4,5.5,Nubank Parque,36123
+Palmeiras,2022,7,21/05/2022,19:00,Sábado,5,Juventude,Vitória,3,0,Visitante,Marcelo de Lima Henrique,27.6,4.0,178.9,7.3,28.0,2.9,180.4,6.7,Estádio Alfredo Jaconi,5513
+Palmeiras,2022,8,29/05/2022,16:00,Domingo,5,Santos,Vitória,1,0,Visitante,Luiz Flávio de Oliveira,28.4,3.6,178.0,6.9,25.4,4.5,180.4,6.8,Estádio Urbano Caldeira,14220
+Palmeiras,2022,9,05/06/2022,16:00,Domingo,6,Atlético Mineiro,Empate,0,0,Mandante,Wilton Pereira Sampaio,28.2,3.8,178.0,7.0,29.3,4.4,179.3,6.0,Nubank Parque,40235
+Palmeiras,2022,10,09/06/2022,19:00,Quinta,6,Botafogo,Vitória,4,0,Mandante,Anderson Daronco,27.4,4.5,178.3,7.2,27.6,4.0,178.7,6.1,Nubank Parque,33431
+Palmeiras,2022,11,12/06/2022,18:00,Domingo,6,Coritiba,Vitória,2,0,Visitante,Leandro Pedro Vuaden,27.4,4.5,178.3,7.2,27.0,5.9,182.7,8.4,Estádio Major Antônio Couto Pereira,27356
+Palmeiras,2022,12,16/06/2022,18:00,Quinta,6,Atlético Goianiense,Vitória,4,2,Mandante,Ramon Abatti Abel,27.1,4.1,179.1,7.4,27.9,2.8,181.7,5.6,Nubank Parque,38888
+Palmeiras,2022,13,20/06/2022,20:00,Segunda,6,São Paulo,Vitória,2,1,Visitante,Anderson Daronco,26.4,4.3,179.2,7.4,26.9,3.4,179.5,5.2,MorumBIS,31055
+Palmeiras,2022,14,26/06/2022,16:00,Domingo,6,Avaí,Empate,2,2,Visitante,Wagner do Nascimento Magalhaes,27.3,3.6,180.5,4.7,29.1,5.0,180.3,5.8,Estádio da Ressacada,15233
+Palmeiras,2022,15,02/07/2022,21:00,Sábado,7,Athletico,Derrota,0,2,Mandante,Braulio Da Silva Machado,27.8,3.4,178.4,7.1,23.7,2.9,182.1,6.2,Nubank Parque,39192
+Palmeiras,2022,16,10/07/2022,18:00,Domingo,7,Fortaleza,Empate,0,0,Visitante,Wilton Pereira Sampaio,27.8,4.0,178.2,7.2,28.5,4.2,179.7,6.5,Estádio Governador Plácido Castelo,24888
+Palmeiras,2022,17,18/07/2022,20:00,Segunda,7,Cuiabá,Vitória,1,0,Mandante,Anderson Daronco,26.5,4.3,179.3,6.1,28.5,3.6,181.1,4.9,Nubank Parque,39033
+Palmeiras,2022,18,21/07/2022,20:00,Quinta,7,América Mineiro,Vitória,1,0,Visitante,Braulio Da Silva Machado,27.7,4.5,178.6,6.1,29.6,4.2,180.4,9.7,Arena Independência,6462
+Palmeiras,2022,19,24/07/2022,16:00,Domingo,7,Internacional,Vitória,2,1,Mandante,Bruno Arleu de Araujo,27.3,4.7,180.1,6.7,27.2,5.3,180.6,6.8,Nubank Parque,38658
+Palmeiras,2022,20,30/07/2022,16:30,Sábado,7,Ceará,Vitória,2,1,Visitante,Anderson Daronco,27.7,4.2,180.1,6.7,29.5,3.3,181.7,8.0,Estádio Governador Plácido Castelo,40912
+Palmeiras,2022,21,07/08/2022,16:00,Domingo,8,Goiás,Vitória,3,0,Mandante,Jean Pierre Goncalves Lima,27.0,4.3,179.4,6.1,26.0,2.6,181.6,7.8,Nubank Parque,38801
+Palmeiras,2022,22,13/08/2022,19:00,Sábado,8,Corinthians,Vitória,1,0,Visitante,Raphael Claus,27.3,3.8,179.4,7.6,26.4,4.8,180.5,7.5,Neo Química Arena,44966
+Palmeiras,2022,23,21/08/2022,16:00,Domingo,8,Flamengo,Empate,1,1,Mandante,Ramon Abatti Abel,28.3,3.8,178.2,7.1,26.4,5.4,179.9,6.6,Nubank Parque,40485
+Palmeiras,2022,24,27/08/2022,19:00,Sábado,8,Fluminense,Empate,1,1,Visitante,Braulio Da Silva Machado,28.3,3.8,178.2,7.1,28.9,6.4,178.3,6.6,Estádio do Maracanã,45084
+Palmeiras,2022,25,03/09/2022,19:00,Sábado,9,Red Bull Bragantino,Empate,2,2,Visitante,Raphael Claus,26.0,4.2,181.2,5.0,25.4,3.2,180.5,6.6,Estádio Nabi Abi Chedid,9685
+Palmeiras,2022,26,10/09/2022,21:00,Sábado,9,Juventude,Vitória,2,1,Mandante,Jefferson Ferreira de Moraes,28.2,3.8,178.1,7.1,28.8,3.2,179.0,7.3,Nubank Parque,39337
+Palmeiras,2022,27,18/09/2022,18:30,Domingo,9,Santos,Vitória,1,0,Mandante,Wilton Pereira Sampaio,28.2,3.8,178.1,7.1,26.3,4.4,181.9,8.6,Nubank Parque,40337
+Palmeiras,2022,28,28/09/2022,21:45,Quarta,9,Atlético Mineiro,Vitória,1,0,Visitante,Marcelo de Lima Henrique,28.8,3.5,179.5,7.0,30.2,3.9,178.3,6.1,Governador Magalhães Pinto,28644
+Palmeiras,2022,29,03/10/2022,20:00,Segunda,10,Botafogo,Vitória,3,1,Visitante,Wilton Pereira Sampaio,29.0,3.6,178.2,6.8,28.1,4.1,182.8,5.3,Estádio Nilton Santos,16545
+Palmeiras,2022,30,06/10/2022,19:00,Quinta,10,Coritiba,Vitória,4,0,Mandante,Braulio Da Silva Machado,28.3,3.9,178.8,7.0,26.6,3.8,181.5,8.7,Nubank Parque,39877
+Palmeiras,2022,31,10/10/2022,18:30,Segunda,10,Atlético Goianiense,Empate,1,1,Visitante,Bruno Arleu de Araujo,28.7,3.8,178.4,7.1,28.2,3.3,181.0,5.5,Estádio Antônio Accioly,12089
+Palmeiras,2022,32,16/10/2022,16:00,Domingo,10,São Paulo,Empate,0,0,Mandante,Flavio Rodrigues De Souza,28.6,3.8,179.2,6.2,27.9,5.6,180.8,5.2,Nubank Parque,40795
+Palmeiras,2022,33,22/10/2022,21:00,Sábado,10,Avaí,Vitória,3,0,Mandante,Bruno Arleu de Araujo,29.1,3.6,178.2,6.8,29.3,4.0,180.5,5.2,Nubank Parque,N.A
+Palmeiras,2022,34,25/10/2022,21:45,Terça,10,Athletico,Vitória,3,1,Visitante,Braulio Da Silva Machado,28.7,3.8,178.4,7.1,23.9,3.3,181.2,5.9,Arena da Baixada,N.A
+Palmeiras,2022,35,02/11/2022,21:30,Quarta,11,Fortaleza,Vitória,4,0,Mandante,Wilton Pereira Sampaio,27.5,5.1,177.9,7.2,30.5,3.9,179.0,5.9,Nubank Parque,N.A
+Palmeiras,2022,36,06/11/2022,18:30,Domingo,11,Cuiabá,Empate,1,1,Visitante,Braulio Da Silva Machado,27.0,4.7,179.5,7.6,29.3,3.2,183.0,3.9,Arena Pantanal,N.A
+Palmeiras,2022,37,09/11/2022,21:30,Quarta,11,América Mineiro,Vitória,2,1,Mandante,Savio Pereira Sampaio,27.1,5.5,177.9,7.2,31.3,3.1,180.2,7.4,Nubank Parque,N.A
+Palmeiras,2022,38,13/11/2022,16:00,Domingo,11,Internacional,Derrota,0,3,Visitante,Bruno Arleu de Araujo,25.9,4.4,179.2,8.2,27.4,4.8,178.7,7.2,Estádio Beira-Rio,N.A
+Santos,2022,1,09/04/2022,16:30,Sábado,4,Fluminense,Empate,0,0,Visitante,Anderson Daronco,26.0,4.3,181.2,6.5,28.6,6.2,178.8,6.2,Estádio do Maracanã,22855
+Santos,2022,2,17/04/2022,11:00,Domingo,4,Coritiba,Vitória,2,1,Mandante,Wagner do Nascimento Magalhaes,25.0,4.8,181.2,6.4,30.4,4.9,181.7,6.5,Estádio Urbano Caldeira,13051
+Santos,2022,3,24/04/2022,16:00,Domingo,4,América Mineiro,Vitória,3,0,Mandante,Wilton Pereira Sampaio,25.1,4.8,181.2,6.4,31.3,4.9,178.1,6.8,Estádio Urbano Caldeira,10374
+Santos,2022,4,02/05/2022,20:00,Segunda,5,São Paulo,Derrota,1,2,Visitante,Leandro Pedro Vuaden,25.9,4.2,180.5,6.4,27.5,5.2,180.4,6.7,MorumBIS,36746
+Santos,2022,5,08/05/2022,18:00,Domingo,5,Cuiabá,Vitória,4,1,Mandante,Braulio Da Silva Machado,25.8,3.8,180.7,5.8,29.5,4.3,179.4,6.0,Estádio Urbano Caldeira,7256
+Santos,2022,6,15/05/2022,19:00,Domingo,5,Goiás,Derrota,0,1,Visitante,Marcelo de Lima Henrique,26.1,4.2,181.0,6.3,27.2,4.1,180.3,8.7,Estádio da Serrinha,11070
+Santos,2022,7,21/05/2022,18:30,Sábado,5,Ceará,Empate,0,0,Mandante,Savio Pereira Sampaio,26.0,4.2,181.2,6.4,28.8,3.3,182.0,7.3,Estádio Urbano Caldeira,25797
+Santos,2022,8,29/05/2022,16:00,Domingo,5,Palmeiras,Derrota,0,1,Mandante,Luiz Flávio de Oliveira,25.4,4.5,180.4,6.8,28.4,3.6,178.0,6.9,Estádio Urbano Caldeira,14220
+Santos,2022,9,04/06/2022,19:00,Sábado,6,Athletico,Empate,2,2,Visitante,Braulio Da Silva Machado,25.6,4.7,179.8,7.3,24.6,2.8,180.5,4.8,Arena da Baixada,19323
+Santos,2022,10,08/06/2022,21:30,Quarta,6,Internacional,Empate,1,1,Mandante,Ramon Abatti Abel,27.2,3.7,183.3,4.6,29.4,3.4,177.5,5.6,Estádio Urbano Caldeira,8845
+Santos,2022,11,11/06/2022,19:00,Sábado,6,Atlético Mineiro,Empate,1,1,Visitante,Marcelo de Lima Henrique,25.4,4.1,182.8,5.6,29.1,5.5,180.1,6.9,Governador Magalhães Pinto,26501
+Santos,2022,12,14/06/2022,21:30,Terça,6,Juventude,Vitória,2,1,Visitante,Rodolpho Toski Marques,26.1,3.5,180.7,7.9,28.7,3.5,180.5,6.5,Estádio Alfredo Jaconi,3025
+Santos,2022,13,18/06/2022,21:00,Sábado,6,Red Bull Bragantino,Empate,2,2,Mandante,Douglas Marques das Flores,24.0,3.4,180.2,6.1,24.6,3.4,181.5,7.0,Estádio Urbano Caldeira,10924
+Santos,2022,14,25/06/2022,19:00,Sábado,6,Corinthians,Empate,0,0,Visitante,Flavio Rodrigues De Souza,25.7,4.1,180.6,7.3,25.1,5.9,180.0,7.8,Neo Química Arena,40842
+Santos,2022,15,02/07/2022,19:00,Sábado,7,Flamengo,Derrota,1,2,Mandante,Anderson Daronco,25.3,4.2,180.9,5.3,27.4,4.6,181.1,7.6,Estádio Urbano Caldeira,12464
+Santos,2022,16,10/07/2022,18:00,Domingo,7,Atlético Goianiense,Vitória,1,0,Mandante,Braulio Da Silva Machado,27.5,5.0,181.0,6.3,27.7,3.2,182.5,4.8,Estádio Urbano Caldeira,8588
+Santos,2022,17,16/07/2022,19:00,Sábado,7,Avaí,Derrota,0,1,Visitante,Paulo Roberto Alves Junior,27.6,4.9,181.4,5.1,29.9,4.2,180.6,5.3,Estádio da Ressacada,8674
+Santos,2022,18,20/07/2022,21:30,Quarta,7,Botafogo,Vitória,2,0,Mandante,Ramon Abatti Abel,25.1,4.0,180.9,5.0,26.7,4.5,180.3,6.5,Estádio Urbano Caldeira,8453
+Santos,2022,19,24/07/2022,19:00,Domingo,7,Fortaleza,Empate,0,0,Visitante,Wilton Pereira Sampaio,26.4,3.5,180.9,5.3,29.3,4.1,178.5,6.3,Estádio Governador Plácido Castelo,19902
+Santos,2022,20,01/08/2022,20:00,Segunda,8,Fluminense,Empate,2,2,Mandante,Braulio Da Silva Machado,27.5,5.5,182.9,6.5,28.3,6.4,178.8,6.8,Estádio Urbano Caldeira,11943
+Santos,2022,21,08/08/2022,20:00,Segunda,8,Coritiba,Vitória,2,1,Visitante,Paulo Cesar Zanovelli da Silva,26.8,5.2,182.1,7.2,29.8,5.2,183.7,5.5,Estádio Major Antônio Couto Pereira,22691
+Santos,2022,22,14/08/2022,18:00,Domingo,8,América Mineiro,Derrota,0,1,Visitante,Paulo Roberto Alves Junior,26.8,5.2,182.1,7.2,29.2,3.7,180.6,7.8,Arena Independência,2978
+Santos,2022,23,21/08/2022,19:00,Domingo,8,São Paulo,Vitória,1,0,Mandante,Wilton Pereira Sampaio,26.5,4.0,179.8,8.3,28.6,5.0,178.0,6.5,Estádio Urbano Caldeira,12598
+Santos,2022,24,28/08/2022,18:00,Domingo,8,Cuiabá,Empate,0,0,Visitante,Jean Pierre Goncalves Lima,27.8,3.6,181.0,7.8,28.7,4.4,183.2,4.1,Arena Pantanal,19136
+Santos,2022,25,05/09/2022,20:00,Segunda,9,Goiás,Derrota,1,2,Mandante,Anderson Daronco,26.6,4.0,179.8,8.3,28.0,2.7,177.9,7.6,Estádio Urbano Caldeira,11497
+Santos,2022,26,10/09/2022,16:30,Sábado,9,Ceará,Derrota,1,2,Visitante,Braulio Da Silva Machado,27.1,4.3,180.5,7.9,29.1,4.0,181.1,8.2,Estádio Governador Plácido Castelo,38339
+Santos,2022,27,18/09/2022,18:30,Domingo,9,Palmeiras,Derrota,0,1,Visitante,Wilton Pereira Sampaio,26.3,4.4,181.9,8.6,28.2,3.8,178.1,7.1,Nubank Parque,40337
+Santos,2022,28,27/09/2022,21:00,Terça,9,Athletico,Vitória,2,0,Mandante,Braulio Da Silva Machado,26.6,6.1,181.5,5.6,27.2,4.7,181.6,4.4,Estádio Urbano Caldeira,7464
+Santos,2022,29,01/10/2022,15:00,Sábado,10,Internacional,Derrota,0,1,Visitante,Ramon Abatti Abel,26.2,5.7,179.5,7.8,27.3,4.4,179.6,7.6,Estádio Beira-Rio,30858
+Santos,2022,30,05/10/2022,21:30,Quarta,10,Atlético Mineiro,Derrota,1,2,Mandante,Bruno Arleu de Araujo,25.9,5.2,178.3,8.1,28.7,3.4,177.2,7.1,Estádio Urbano Caldeira,9278
+Santos,2022,31,10/10/2022,20:00,Segunda,10,Juventude,Vitória,4,1,Mandante,Jose Mendonca da Silva Junior,25.8,5.1,180.3,7.8,27.9,4.3,178.0,7.0,Estádio Urbano Caldeira,9171
+Santos,2022,32,17/10/2022,20:00,Segunda,10,Red Bull Bragantino,Vitória,2,0,Visitante,Paulo Cesar Zanovelli da Silva,24.8,4.2,182.0,5.0,24.2,3.2,181.5,7.1,Estádio Nabi Abi Chedid,6705
+Santos,2022,33,22/10/2022,19:00,Sábado,10,Corinthians,Derrota,0,1,Mandante,Flavio Rodrigues De Souza,25.4,4.4,182.2,5.3,26.2,4.8,179.8,7.7,Estádio Urbano Caldeira,N.A
+Santos,2022,34,25/10/2022,21:45,Terça,10,Flamengo,Derrota,2,3,Visitante,Andre Luiz de Freitas Castro,25.1,4.3,180.6,6.5,28.8,5.6,180.7,7.1,Estádio do Maracanã,44679
+Santos,2022,35,02/11/2022,19:00,Quarta,11,Atlético Goianiense,Vitória,3,2,Visitante,Anderson Daronco,26.2,5.7,181.2,5.4,27.8,3.5,181.1,5.5,Estádio Antônio Accioly,N.A
+Santos,2022,36,05/11/2022,16:30,Sábado,11,Avaí,Empate,1,1,Mandante,Caio Max Augusto Vieira,26.0,4.2,180.8,5.0,27.9,4.5,180.5,7.3,Estádio Urbano Caldeira,N.A
+Santos,2022,37,10/11/2022,20:00,Quinta,11,Botafogo,Derrota,0,3,Visitante,Braulio Da Silva Machado,26.2,5.2,181.7,5.1,27.4,3.8,182.3,6.9,Estádio Nilton Santos,N.A
+Santos,2022,38,13/11/2022,16:00,Domingo,11,Fortaleza,Derrota,0,2,Mandante,Wagner do Nascimento Magalhaes,25.6,5.5,181.2,5.7,29.2,4.5,178.9,5.9,Estádio Urbano Caldeira,N.A
+São Paulo,2022,1,10/04/2022,19:00,Domingo,4,Athletico,Vitória,4,0,Mandante,Wagner do Nascimento Magalhaes,27.4,5.2,178.5,5.1,24.3,3.0,181.3,5.0,MorumBIS,20606
+São Paulo,2022,2,17/04/2022,16:00,Domingo,4,Flamengo,Derrota,1,3,Visitante,Anderson Daronco,26.7,5.3,178.5,5.1,28.0,5.3,180.5,7.2,Estádio do Maracanã,54686
+São Paulo,2022,3,23/04/2022,16:30,Sábado,4,Red Bull Bragantino,Empate,1,1,Visitante,Bruno Arleu de Araujo,27.4,4.3,181.1,6.2,23.2,3.5,181.1,6.1,Estádio Nabi Abi Chedid,8040
+São Paulo,2022,4,02/05/2022,20:00,Segunda,5,Santos,Vitória,2,1,Mandante,Leandro Pedro Vuaden,27.5,5.2,180.4,6.7,25.9,4.2,180.5,6.4,MorumBIS,36746
+São Paulo,2022,5,08/05/2022,19:00,Domingo,5,Fortaleza,Empate,1,1,Visitante,Ramon Abatti Abel,26.3,4.6,180.3,6.8,28.3,3.8,179.3,5.4,Estádio Governador Plácido Castelo,25518
+São Paulo,2022,6,15/05/2022,16:00,Domingo,5,Cuiabá,Vitória,2,1,Mandante,Alexandre Vargas Tavares de Jesus,27.6,4.5,179.1,5.3,29.9,4.2,180.5,6.5,MorumBIS,27511
+São Paulo,2022,7,22/05/2022,16:00,Domingo,5,Corinthians,Empate,1,1,Visitante,Wilton Pereira Sampaio,27.1,3.3,180.3,4.7,29.5,6.1,182.8,7.5,Neo Química Arena,44672
+São Paulo,2022,8,28/05/2022,19:00,Sábado,5,Ceará,Empate,2,2,Mandante,Bruno Arleu de Araujo,27.6,4.5,180.7,4.4,28.7,3.8,183.2,7.7,MorumBIS,32977
+São Paulo,2022,9,04/06/2022,19:00,Sábado,6,Avaí,Empate,1,1,Visitante,Anderson Daronco,27.9,4.3,179.2,5.2,28.6,5.2,179.6,6.9,Estádio da Ressacada,N.A
+São Paulo,2022,10,09/06/2022,20:00,Quinta,6,Coritiba,Empate,1,1,Visitante,Wagner do Nascimento Magalhaes,28.3,5.3,180.0,4.8,26.6,5.2,181.8,7.1,Estádio Major Antônio Couto Pereira,N.A
+São Paulo,2022,11,12/06/2022,16:00,Domingo,6,América Mineiro,Vitória,1,0,Mandante,Savio Pereira Sampaio,27.2,4.8,178.5,5.1,31.6,4.3,179.7,6.5,MorumBIS,26847
+São Paulo,2022,12,16/06/2022,16:00,Quinta,6,Botafogo,Derrota,0,1,Visitante,Wilton Pereira Sampaio,27.3,4.5,179.6,5.5,27.1,5.1,182.1,6.0,Estádio Nilton Santos,18677
+São Paulo,2022,13,20/06/2022,20:00,Segunda,6,Palmeiras,Derrota,1,2,Mandante,Anderson Daronco,26.9,3.4,179.5,5.2,26.4,4.3,179.2,7.4,MorumBIS,31055
+São Paulo,2022,14,26/06/2022,18:00,Domingo,6,Juventude,Empate,0,0,Mandante,Andre Luiz de Freitas Castro,29.0,5.7,179.4,4.9,28.8,3.2,177.6,7.4,MorumBIS,20466
+São Paulo,2022,15,03/07/2022,16:00,Domingo,7,Atlético Goianiense,Vitória,2,1,Visitante,Wagner do Nascimento Magalhaes,26.9,4.6,179.6,5.2,27.1,2.8,181.4,5.6,Estádio Antônio Accioly,12089
+São Paulo,2022,16,10/07/2022,18:00,Domingo,7,Atlético Mineiro,Empate,0,0,Visitante,Anderson Daronco,27.7,6.1,179.5,5.0,28.4,4.3,179.3,7.2,Governador Magalhães Pinto,52356
+São Paulo,2022,17,17/07/2022,16:00,Domingo,7,Fluminense,Empate,2,2,Mandante,Wilton Pereira Sampaio,26.7,5.8,179.7,3.9,28.6,6.8,178.5,6.2,MorumBIS,47141
+São Paulo,2022,18,20/07/2022,20:30,Quarta,7,Internacional,Empate,3,3,Visitante,Marcelo de Lima Henrique,25.2,5.1,177.6,6.3,28.9,4.7,179.3,5.5,Estádio Beira-Rio,32804
+São Paulo,2022,19,23/07/2022,19:00,Sábado,7,Goiás,Empate,3,3,Mandante,Caio Max Augusto Vieira,25.3,5.0,179.4,5.6,26.9,2.2,178.6,7.2,MorumBIS,39283
+São Paulo,2022,20,31/07/2022,16:00,Domingo,7,Athletico,Derrota,0,1,Visitante,Marcelo de Lima Henrique,26.1,7.2,179.2,5.7,25.3,5.5,180.1,5.1,Arena da Baixada,26492
+São Paulo,2022,21,06/08/2022,20:30,Sábado,8,Flamengo,Derrota,0,2,Mandante,Ramon Abatti Abel,29.3,5.5,178.8,5.0,27.9,6.0,180.0,7.2,MorumBIS,45217
+São Paulo,2022,22,14/08/2022,16:00,Domingo,8,Red Bull Bragantino,Vitória,3,0,Mandante,Paulo Cesar Zanovelli da Silva,28.6,4.7,179.5,5.2,25.2,3.4,181.2,6.8,MorumBIS,31358
+São Paulo,2022,23,21/08/2022,19:00,Domingo,8,Santos,Derrota,0,1,Visitante,Wilton Pereira Sampaio,28.6,5.0,178.0,6.5,26.5,4.0,179.8,8.3,Estádio Urbano Caldeira,12598
+São Paulo,2022,24,28/08/2022,16:00,Domingo,8,Fortaleza,Derrota,0,1,Mandante,Paulo Cesar Zanovelli da Silva,25.0,3.2,179.1,5.6,30.0,4.0,179.5,5.2,MorumBIS,30210
+São Paulo,2022,25,04/09/2022,19:00,Domingo,9,Cuiabá,Empate,1,1,Visitante,Wagner do Nascimento Magalhaes,26.9,5.0,177.5,6.5,28.4,3.4,182.5,4.3,Arena Pantanal,33050
+São Paulo,2022,26,11/09/2022,16:00,Domingo,9,Corinthians,Empate,1,1,Mandante,Marcelo de Lima Henrique,27.7,6.7,182.3,6.1,26.9,5.2,181.2,7.9,MorumBIS,46444
+São Paulo,2022,27,18/09/2022,16:00,Domingo,9,Ceará,Vitória,2,0,Visitante,Maguielson Lima Barbosa,27.6,5.1,178.2,5.2,31.4,3.2,181.8,8.3,Estádio Governador Plácido Castelo,43000
+São Paulo,2022,28,25/09/2022,20:00,Domingo,9,Avaí,Vitória,4,0,Mandante,Bruno Arleu de Araujo,28.6,4.9,178.9,4.5,29.3,5.5,180.7,7.2,MorumBIS,36510
+São Paulo,2022,30,06/10/2022,20:00,Quinta,10,América Mineiro,Vitória,2,1,Visitante,Ramon Abatti Abel,29.7,5.4,179.0,4.8,31.5,3.1,181.5,7.2,Arena Independência,3916
+São Paulo,2022,31,09/10/2022,16:00,Domingo,10,Botafogo,Derrota,0,1,Mandante,Jean Pierre Goncalves Lima,29.0,5.7,178.4,5.4,30.5,3.4,181.8,6.0,MorumBIS,23918
+São Paulo,2022,32,16/10/2022,16:00,Domingo,10,Palmeiras,Empate,0,0,Visitante,Flavio Rodrigues De Souza,27.9,5.6,180.8,5.2,28.6,3.8,179.2,6.2,Nubank Parque,40795
+São Paulo,2022,29,20/10/2022,20:00,Quinta,10,Coritiba,Vitória,3,1,Mandante,Braulio Da Silva Machado,27.4,5.9,179.3,4.8,26.9,3.9,180.3,8.4,MorumBIS,N.A
+São Paulo,2022,33,23/10/2022,16:00,Domingo,10,Juventude,Vitória,2,1,Visitante,Paulo Roberto Alves Junior,27.0,6.0,178.8,4.8,27.1,3.9,178.5,6.7,Estádio Alfredo Jaconi,N.A
+São Paulo,2022,34,27/10/2022,19:00,Quinta,10,Atlético Goianiense,Vitória,2,1,Mandante,Bruno Arleu de Araujo,27.8,5.7,180.6,6.2,27.5,3.7,180.6,5.2,MorumBIS,N.A
+São Paulo,2022,35,01/11/2022,21:30,Terça,11,Atlético Mineiro,Empate,2,2,Mandante,Braulio Da Silva Machado,28.1,5.2,178.9,5.5,29.0,3.1,177.6,6.6,MorumBIS,N.A
+São Paulo,2022,36,05/11/2022,16:30,Sábado,11,Fluminense,Derrota,1,3,Visitante,Anderson Daronco,28.2,5.1,179.6,5.3,29.6,6.0,178.0,6.7,Estádio do Maracanã,N.A
+São Paulo,2022,37,08/11/2022,21:30,Terça,11,Internacional,Derrota,0,1,Mandante,Wagner do Nascimento Magalhaes,26.5,4.5,181.0,5.0,27.5,4.5,180.2,7.1,MorumBIS,19692
+São Paulo,2022,38,13/11/2022,16:00,Domingo,11,Goiás,Vitória,4,0,Visitante,Marcelo de Lima Henrique,26.6,5.1,179.5,5.5,28.7,3.2,179.4,4.5,Estádio da Serrinha,N.A

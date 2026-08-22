@@ -1,0 +1,52 @@
+CONFIGURAÇÃO (melhor combinação via GridSearchCV)
+criterion=entropy
+max_depth=5
+min_samples_leaf=5
+min_samples_split=2
+
+REGRAS DA ÁRVORE
+================================================================================
+
+|--- idade_media_titular_time <= 24.80
+|   |--- idade_media_titular_time <= 24.05
+|   |   |--- class: Derrota
+|   |--- idade_media_titular_time >  24.05
+|   |   |--- class: Derrota
+|--- idade_media_titular_time >  24.80
+|   |--- condicao_Mandante <= 0.50
+|   |   |--- altura_media_titular_adv <= 178.05
+|   |   |   |--- class: Vitória
+|   |   |--- altura_media_titular_adv >  178.05
+|   |   |   |--- altura_media_titular_time <= 179.55
+|   |   |   |   |--- altura_media_titular_time <= 178.15
+|   |   |   |   |   |--- class: Vitória
+|   |   |   |   |--- altura_media_titular_time >  178.15
+|   |   |   |   |   |--- class: Derrota
+|   |   |   |--- altura_media_titular_time >  179.55
+|   |   |   |   |--- idade_media_titular_adv <= 29.65
+|   |   |   |   |   |--- class: Empate
+|   |   |   |   |--- idade_media_titular_adv >  29.65
+|   |   |   |   |   |--- class: Derrota
+|   |--- condicao_Mandante >  0.50
+|   |   |--- altura_media_titular_adv <= 181.55
+|   |   |   |--- altura_media_titular_time <= 181.75
+|   |   |   |   |--- rodada <= 22.50
+|   |   |   |   |   |--- class: Vitória
+|   |   |   |   |--- rodada >  22.50
+|   |   |   |   |   |--- class: Vitória
+|   |   |   |--- altura_media_titular_time >  181.75
+|   |   |   |   |--- idade_media_titular_adv <= 27.55
+|   |   |   |   |   |--- class: Derrota
+|   |   |   |   |--- idade_media_titular_adv >  27.55
+|   |   |   |   |   |--- class: Derrota
+|   |   |--- altura_media_titular_adv >  181.55
+|   |   |   |--- altura_media_titular_adv <= 182.05
+|   |   |   |   |--- idade_media_titular_time <= 27.45
+|   |   |   |   |   |--- class: Vitória
+|   |   |   |   |--- idade_media_titular_time >  27.45
+|   |   |   |   |   |--- class: Vitória
+|   |   |   |--- altura_media_titular_adv >  182.05
+|   |   |   |   |--- mes <= 5.00
+|   |   |   |   |   |--- class: Derrota
+|   |   |   |   |--- mes >  5.00
+|   |   |   |   |   |--- class: Vitória

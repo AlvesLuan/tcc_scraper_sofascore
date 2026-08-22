@@ -1,0 +1,55 @@
+CONFIGURAÇÃO (melhor combinação via GridSearchCV)
+criterion=gini
+max_depth=5
+min_samples_leaf=10
+min_samples_split=2
+
+REGRAS DA ÁRVORE
+================================================================================
+
+|--- condicao_Visitante <= 0.50
+|   |--- altura_media_titular_adv <= 182.05
+|   |   |--- altura_media_titular_time <= 177.90
+|   |   |   |--- class: Vitória
+|   |   |--- altura_media_titular_time >  177.90
+|   |   |   |--- publico <= 19260.00
+|   |   |   |   |--- altura_media_titular_adv <= 180.25
+|   |   |   |   |   |--- class: Empate
+|   |   |   |   |--- altura_media_titular_adv >  180.25
+|   |   |   |   |   |--- class: Derrota
+|   |   |   |--- publico >  19260.00
+|   |   |   |   |--- dia_semana_Quarta <= 0.50
+|   |   |   |   |   |--- class: Vitória
+|   |   |   |   |--- dia_semana_Quarta >  0.50
+|   |   |   |   |   |--- class: Vitória
+|   |--- altura_media_titular_adv >  182.05
+|   |   |--- rodada <= 22.50
+|   |   |   |--- class: Derrota
+|   |   |--- rodada >  22.50
+|   |   |   |--- class: Vitória
+|--- condicao_Visitante >  0.50
+|   |--- altura_media_titular_time <= 182.55
+|   |   |--- publico <= 27868.50
+|   |   |   |--- dia_semana_Quinta <= 0.50
+|   |   |   |   |--- publico <= 21720.50
+|   |   |   |   |   |--- class: Derrota
+|   |   |   |   |--- publico >  21720.50
+|   |   |   |   |   |--- class: Empate
+|   |   |   |--- dia_semana_Quinta >  0.50
+|   |   |   |   |--- class: Vitória
+|   |   |--- publico >  27868.50
+|   |   |   |--- publico <= 40437.50
+|   |   |   |   |--- mes <= 6.50
+|   |   |   |   |   |--- class: Derrota
+|   |   |   |   |--- mes >  6.50
+|   |   |   |   |   |--- class: Derrota
+|   |   |   |--- publico >  40437.50
+|   |   |   |   |--- idade_media_titular_time <= 27.95
+|   |   |   |   |   |--- class: Derrota
+|   |   |   |   |--- idade_media_titular_time >  27.95
+|   |   |   |   |   |--- class: Empate
+|   |--- altura_media_titular_time >  182.55
+|   |   |--- publico <= 31790.00
+|   |   |   |--- class: Derrota
+|   |   |--- publico >  31790.00
+|   |   |   |--- class: Vitória

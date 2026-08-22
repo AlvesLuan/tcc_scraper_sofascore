@@ -1,0 +1,8 @@
+IMPORTÂNCIA DAS VARIÁVEIS (feature_importances_)
+================================================================================
+
+condicao_Visitante: 0.4292
+publico: 0.1753
+idade_media_titular_adv: 0.1524
+idade_media_titular_time: 0.1419
+altura_media_titular_time: 0.1013
