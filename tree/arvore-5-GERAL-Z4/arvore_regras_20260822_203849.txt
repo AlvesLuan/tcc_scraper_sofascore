@@ -1,0 +1,64 @@
+CONFIGURAÇÃO (melhor combinação via GridSearchCV)
+criterion=gini
+max_depth=5
+min_samples_leaf=10
+min_samples_split=2
+
+REGRAS DA ÁRVORE
+================================================================================
+
+|--- condicao_Visitante <= 0.50
+|   |--- idade_media_titular_adv <= 26.25
+|   |   |--- idade_media_titular_time <= 27.55
+|   |   |   |--- altura_media_titular_time <= 180.55
+|   |   |   |   |--- class: Vitória
+|   |   |   |--- altura_media_titular_time >  180.55
+|   |   |   |   |--- class: Vitória
+|   |   |--- idade_media_titular_time >  27.55
+|   |   |   |--- publico <= 11074.00
+|   |   |   |   |--- class: Vitória
+|   |   |   |--- publico >  11074.00
+|   |   |   |   |--- class: Vitória
+|   |--- idade_media_titular_adv >  26.25
+|   |   |--- idade_media_titular_adv <= 26.65
+|   |   |   |--- mes <= 8.50
+|   |   |   |   |--- class: Empate
+|   |   |   |--- mes >  8.50
+|   |   |   |   |--- class: Vitória
+|   |   |--- idade_media_titular_adv >  26.65
+|   |   |   |--- altura_media_titular_time <= 179.85
+|   |   |   |   |--- publico <= 12717.00
+|   |   |   |   |   |--- class: Vitória
+|   |   |   |   |--- publico >  12717.00
+|   |   |   |   |   |--- class: Vitória
+|   |   |   |--- altura_media_titular_time >  179.85
+|   |   |   |   |--- idade_media_titular_adv <= 27.05
+|   |   |   |   |   |--- class: Vitória
+|   |   |   |   |--- idade_media_titular_adv >  27.05
+|   |   |   |   |   |--- class: Vitória
+|--- condicao_Visitante >  0.50
+|   |--- altura_media_titular_adv <= 182.65
+|   |   |--- publico <= 406.00
+|   |   |   |--- idade_media_titular_adv <= 28.05
+|   |   |   |   |--- idade_media_titular_adv <= 26.65
+|   |   |   |   |   |--- class: Vitória
+|   |   |   |   |--- idade_media_titular_adv >  26.65
+|   |   |   |   |   |--- class: Vitória
+|   |   |   |--- idade_media_titular_adv >  28.05
+|   |   |   |   |--- class: Empate
+|   |   |--- publico >  406.00
+|   |   |   |--- idade_media_titular_time <= 29.05
+|   |   |   |   |--- idade_media_titular_time <= 26.05
+|   |   |   |   |   |--- class: Empate
+|   |   |   |   |--- idade_media_titular_time >  26.05
+|   |   |   |   |   |--- class: Vitória
+|   |   |   |--- idade_media_titular_time >  29.05
+|   |   |   |   |--- idade_media_titular_adv <= 29.20
+|   |   |   |   |   |--- class: Derrota
+|   |   |   |   |--- idade_media_titular_adv >  29.20
+|   |   |   |   |   |--- class: Empate
+|   |--- altura_media_titular_adv >  182.65
+|   |   |--- altura_media_titular_time <= 180.40
+|   |   |   |--- class: Vitória
+|   |   |--- altura_media_titular_time >  180.40
+|   |   |   |--- class: Vitória

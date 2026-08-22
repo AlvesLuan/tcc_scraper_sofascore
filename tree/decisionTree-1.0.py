@@ -104,7 +104,7 @@ param_grid = {
     "criterion": ["entropy", "gini"],
     #"max_depth": [3, 4, 5, 6, 8, None],
     #"max_depth": [5, 10],
-    "max_depth": [10],
+    "max_depth": [5],
     #"max_depth": [10],
     "min_samples_leaf": [1, 5, 10, 20],
     "min_samples_split": [2, 10, 20],
