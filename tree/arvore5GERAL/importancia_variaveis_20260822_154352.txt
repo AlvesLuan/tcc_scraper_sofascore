@@ -1,0 +1,13 @@
+IMPORTÂNCIA DAS VARIÁVEIS (feature_importances_)
+================================================================================
+
+condicao_Visitante: 0.5146
+idade_media_titular_time: 0.0962
+altura_media_titular_time: 0.0933
+rodada: 0.0882
+idade_media_titular_adv: 0.0675
+altura_media_titular_adv: 0.0581
+mes: 0.0275
+publico: 0.0219
+temporada: 0.0168
+dia_semana_Terça: 0.0161

@@ -1,8 +1,9 @@
 .venv/
 __pycache__/
 *.pyc
-data/fbref-pages-html/
+#data/fbref-pages-html/
+data/fbref-pages-html/onde.txt
 tree/resultado_arvore.txt
 tree/arvore_regras_20260615_131852.txt
-tree/decisionTree.py
+tree/decisionTree-beta-0.5.py
 tree/arvore_20260615_131852.png

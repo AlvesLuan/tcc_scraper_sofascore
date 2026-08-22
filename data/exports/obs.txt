@@ -1,2 +1,1 @@
 - O arbitro "Rodrigo D'alonso Ferreira" quebra o WEKA, provavelmente devido a aspas no nome.
-- Para analise, remover gols favor e contra.
