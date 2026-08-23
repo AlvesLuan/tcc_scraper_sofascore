@@ -1,0 +1,7 @@
+IMPORTÂNCIA DAS VARIÁVEIS (feature_importances_)
+================================================================================
+
+publico: 0.3173
+condicao_Mandante: 0.3000
+mes: 0.1928
+dia_semana_Segunda: 0.1899

@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 from datetime import datetime
 import os
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-CSV_PATH = os.path.join(BASE_DIR, "..", "data", "exports", "z4-todos-base_detalhada_geral_publico.csv")
+CSV_PATH = os.path.join(BASE_DIR, "..", "data", "exports", "times-concluidos", "atletico-base_detalhada_geral_publico.csv")
 
 
 print("cwd =", os.getcwd())

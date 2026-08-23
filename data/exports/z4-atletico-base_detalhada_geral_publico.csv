@@ -1,0 +1,88 @@
+time,temporada,rodada,data,horario,dia_semana,mes,adversario,resultado,gols_favor,gols_sofridos,condicao,arbitro,idade_media_titular_time,desvio_idade_media_time,altura_media_titular_time,desvio_altura_media_time,idade_media_titular_adv,desvio_idade_media_adv,altura_media_titular_adv,desvio_altura_media_adv,estadio,publico
+Atlético Mineiro,2015,4,31/05/2015,16:00,Domingo,5,Vasco da Gama,Vitória,3,0,Mandante,Alisson Sidnei Furtado,26.9,4.7,180.7,7.9,28.3,5.1,179.6,7.8,Arena Independência,17958
+Atlético Mineiro,2015,5,03/06/2015,22:00,Quarta,6,Avaí,Vitória,4,1,Visitante,Pablo Dos Santos Alves,26.5,4.5,180.9,7.6,26.8,5.2,180.8,7.4,Estádio da Ressacada,7101
+Atlético Mineiro,2015,9,28/06/2015,11:00,Domingo,6,Joinville,Vitória,1,0,Mandante,Emerson Luiz Sobral,28.1,4.0,181.8,6.7,26.1,5.9,181.5,4.6,Arena Independência,55987
+Atlético Mineiro,2015,17,09/08/2015,16:00,Domingo,8,Goiás,Empate,0,0,Visitante,Raphael Claus,27.9,4.3,179.6,7.6,25.1,4.3,180.2,4.9,Serra Dourada,7762
+Atlético Mineiro,2015,23,05/09/2015,19:30,Sábado,9,Vasco da Gama,Vitória,2,1,Visitante,Elmo Alves Resende Cunha,29.5,3.4,182.5,6.9,28.7,5.2,181.9,6.5,Estádio do Maracanã,8768
+Atlético Mineiro,2015,24,09/09/2015,19:30,Quarta,9,Avaí,Vitória,2,0,Mandante,Luis Teixeira Rocha,28.6,3.9,180.3,7.7,26.8,3.7,179.9,8.6,Arena Independência,10388
+Atlético Mineiro,2015,28,27/09/2015,16:00,Domingo,9,Joinville,Empate,2,2,Visitante,Raphael Claus,28.2,4.4,180.4,7.6,27.7,5.7,180.0,5.4,Arena Joinville,7486
+Atlético Mineiro,2015,36,22/11/2015,16:00,Domingo,11,Goiás,Empate,2,2,Mandante,Nielson Nogueira Dias,28.3,4.4,180.4,7.6,26.5,4.2,180.5,4.8,Arena Independência,9373
+Atlético Mineiro,2016,11,26/06/2016,11:00,Domingo,6,América Mineiro,Vitória,1,0,Visitante,Anderson Daronco,29.1,5.0,180.5,8.5,28.0,3.5,180.3,5.2,Arena Independência,9516
+Atlético Mineiro,2016,13,03/07/2016,19:00,Domingo,7,Figueirense,Empate,1,1,Visitante,Rafael Traci,27.9,5.2,181.5,8.5,26.6,3.4,177.6,7.0,Orlando Scarpelli,5226
+Atlético Mineiro,2016,17,30/07/2016,21:00,Sábado,7,Santa Cruz,Vitória,3,0,Mandante,Dewson Fernando Freitas da Silva,31.3,2.9,182.7,7.5,29.2,5.0,181.7,6.5,Arena Independência,16804
+Atlético Mineiro,2016,27,25/09/2016,18:30,Domingo,9,Internacional,Vitória,3,1,Mandante,Pericles Bassols Pegado Cortez,29.0,5.0,180.1,7.5,27.3,4.9,180.2,5.3,Arena Independência,20311
+Atlético Mineiro,2016,30,13/10/2016,19:30,Quinta,10,América Mineiro,Vitória,3,0,Mandante,Raphael Claus,29.6,4.4,180.7,8.8,28.7,4.1,180.2,5.9,Governador Magalhães Pinto,27737
+Atlético Mineiro,2016,32,23/10/2016,18:30,Domingo,10,Figueirense,Vitória,3,0,Mandante,Grazianni Maciel Rocha,27.2,4.9,178.7,8.5,28.9,2.8,180.5,7.7,Arena Independência,14615
+Atlético Mineiro,2016,36,20/11/2016,18:30,Domingo,11,Santa Cruz,Empate,3,3,Visitante,Wagner do Nascimento Magalhaes,26.5,4.1,179.4,6.7,29.5,5.2,178.8,7.4,Estádio do Arruda,3221
+Atlético Mineiro,2017,3,28/05/2017,11:00,Domingo,5,Ponte Preta,Empate,2,2,Mandante,Wagner do Nascimento Magalhaes,30.0,3.6,180.4,7.7,28.7,4.5,181.1,6.7,Arena Independência,19553
+Atlético Mineiro,2017,5,07/06/2017,19:30,Quarta,6,Avaí,Vitória,1,0,Mandante,Bruno Arleu de Araujo,28.4,4.8,180.9,6.9,28.3,5.0,178.4,7.1,Arena Independência,12648
+Atlético Mineiro,2017,14,16/07/2017,16:00,Domingo,7,Atlético Goianiense,Vitória,2,1,Visitante,Pablo Dos Santos Alves,27.0,4.8,180.7,6.6,27.1,1.9,181.9,5.7,Estádio Olímpico Pedro Ludovico,5235
+Atlético Mineiro,2017,17,30/07/2017,16:00,Domingo,7,Coritiba,Vitória,2,0,Visitante,Wagner do Nascimento Magalhaes,29.2,4.9,180.8,7.4,27.1,2.4,179.9,5.7,Estádio Major Antônio Couto Pereira,11564
+Atlético Mineiro,2017,22,27/08/2017,16:00,Domingo,8,Ponte Preta,Vitória,2,1,Visitante,Rodolpho Toski Marques,29.7,5.1,180.5,8.4,28.1,6.0,178.8,8.5,Moisés Lucarelli,5779
+Atlético Mineiro,2017,24,17/09/2017,11:00,Domingo,9,Avaí,Empate,1,1,Visitante,Andre Luiz de Freitas Castro,29.9,4.8,179.5,7.8,27.7,3.0,180.2,6.8,Estádio da Ressacada,9201
+Atlético Mineiro,2017,33,09/11/2017,19:00,Quinta,11,Atlético Goianiense,Vitória,3,2,Mandante,Rodolpho Toski Marques,30.6,4.8,179.7,7.6,26.5,2.6,182.1,5.2,Arena Independência,8204
+Atlético Mineiro,2017,36,19/11/2017,18:00,Domingo,11,Coritiba,Vitória,3,0,Mandante,Sandro Meira Ricci,29.8,5.4,179.1,8.1,27.5,4.0,178.9,7.0,Arena Independência,8184
+Atlético Mineiro,2018,2,22/04/2018,16:00,Domingo,4,Vitória,Vitória,2,1,Mandante,Grazianni Maciel Rocha,28.1,5.4,179.1,7.8,25.9,3.7,181.4,8.8,Arena Independência,10423
+Atlético Mineiro,2018,8,30/05/2018,19:30,Quarta,5,Sport Recife,Derrota,2,3,Visitante,Wagner do Nascimento Magalhaes,27.3,6.0,180.4,7.0,29.3,5.0,180.5,5.4,Ilha do Retiro,15605
+Atlético Mineiro,2018,10,07/06/2018,21:00,Quinta,6,América Mineiro,Vitória,3,1,Visitante,Braulio Da Silva Machado,29.0,5.9,180.5,7.9,27.0,4.5,182.0,6.2,Arena Independência,7776
+Atlético Mineiro,2018,15,25/07/2018,21:00,Quarta,7,Paraná Clube,Vitória,2,0,Mandante,Leandro Pedro Vuaden,29.7,6.1,180.4,8.7,26.0,2.6,180.5,4.7,Arena Independência,18948
+Atlético Mineiro,2018,21,26/08/2018,16:00,Domingo,8,Vitória,Derrota,0,1,Visitante,Leandro Bizzio Marinho,27.8,6.0,180.0,8.0,23.4,2.5,178.4,8.1,Estádio Manoel Barradas,5954
+Atlético Mineiro,2018,27,30/09/2018,16:00,Domingo,9,Sport Recife,Vitória,5,2,Mandante,Leandro Bizzio Marinho,29.8,6.3,180.4,9.2,30.9,5.5,182.0,5.0,Arena Independência,21654
+Atlético Mineiro,2018,29,14/10/2018,19:00,Domingo,10,América Mineiro,Empate,0,0,Mandante,Flavio Rodrigues De Souza,31.0,5.6,180.3,8.9,28.6,4.2,178.8,9.0,Arena Independência,20526
+Atlético Mineiro,2018,34,14/11/2018,20:00,Quarta,11,Paraná Clube,Vitória,1,0,Visitante,Wagner do Nascimento Magalhaes,28.1,6.3,180.7,8.6,24.9,3.9,180.7,3.7,Durival Britto e Silva,1140
+Atlético Mineiro,2019,1,27/04/2019,19:00,Sábado,4,Avaí,Vitória,2,1,Mandante,Rodolpho Toski Marques,31.1,5.9,180.3,9.0,28.6,4.2,180.3,8.5,Arena Independência,10531
+Atlético Mineiro,2019,7,02/06/2019,19:00,Domingo,6,CSA,Vitória,4,0,Mandante,Diego Pombo Lopez,29.9,4.8,179.2,8.8,28.5,3.4,178.9,6.9,Arena Independência,14116
+Atlético Mineiro,2019,10,14/07/2019,19:00,Domingo,7,Chapecoense,Vitória,2,1,Visitante,Marcelo Aparecido Ribeiro de Souza,27.5,6.1,181.1,8.3,29.0,4.4,178.5,6.1,Arena Condá,2600
+Atlético Mineiro,2019,13,04/08/2019,19:00,Domingo,8,Cruzeiro,Vitória,2,0,Mandante,Leandro Pedro Vuaden,29.8,5.0,179.5,7.9,31.7,4.2,182.5,5.1,Arena Independência,13181
+Atlético Mineiro,2019,20,23/09/2019,20:00,Segunda,9,Avaí,Derrota,0,1,Visitante,Caio Max Augusto Vieira,25.1,5.5,180.5,7.3,26.4,4.2,180.4,6.4,Estádio da Ressacada,7463
+Atlético Mineiro,2019,26,16/10/2019,19:15,Quarta,10,CSA,Empate,2,2,Visitante,Savio Pereira Sampaio,29.0,6.3,181.7,9.2,30.3,3.9,179.4,8.3,Estádio Rei Pelé,13075
+Atlético Mineiro,2019,29,30/10/2019,19:30,Quarta,10,Chapecoense,Derrota,0,2,Mandante,Diego Pombo Lopez,30.1,6.6,180.5,9.0,29.4,3.8,178.7,5.3,Arena Independência,19058
+Atlético Mineiro,2019,32,10/11/2019,16:00,Domingo,11,Cruzeiro,Empate,0,0,Visitante,Jean Pierre Goncalves Lima,28.1,4.0,180.5,9.5,29.3,6.2,181.5,6.0,Governador Magalhães Pinto,43205
+Atlético Mineiro,2020,4,19/08/2020,21:30,Quarta,8,Botafogo,Derrota,1,2,Visitante,Flavio Rodrigues De Souza,25.0,3.5,178.9,7.7,25.4,4.0,182.5,6.4,Estadio Nilton Santos,0
+Atlético Mineiro,2020,8,06/09/2020,20:30,Domingo,9,Coritiba,Vitória,1,0,Visitante,Diego Pombo Lopez,26.2,3.1,177.6,7.4,28.0,3.8,180.2,4.1,Estádio Major Antônio Couto Pereira,0
+Atlético Mineiro,2020,13,04/10/2020,20:30,Domingo,10,Vasco da Gama,Vitória,4,1,Mandante,Leandro Pedro Vuaden,26.9,4.1,178.5,7.6,26.0,5.6,179.4,6.2,Arena Independência,0
+Atlético Mineiro,2020,15,10/10/2020,21:00,Sábado,10,Goiás,Vitória,3,0,Mandante,Vinicius Goncalves Dias Araujo,26.5,4.9,179.6,7.5,26.7,4.9,181.8,5.4,Arena Independência,0
+Atlético Mineiro,2020,23,25/11/2020,21:30,Quarta,11,Botafogo,Vitória,2,1,Mandante,Savio Pereira Sampaio,26.3,3.2,178.2,7.5,25.9,4.5,180.1,6.0,Governador Magalhães Pinto,0
+Atlético Mineiro,2020,27,26/12/2020,17:00,Sábado,12,Coritiba,Vitória,2,0,Mandante,Dyorgines Jose Padovani de Andrade,27.5,4.2,178.1,7.8,28.7,5.6,177.7,7.5,Governador Magalhães Pinto,0
+Atlético Mineiro,2020,32,23/01/2021,21:00,Sábado,1,Vasco da Gama,Derrota,2,3,Visitante,Vinicius Goncalves Dias Araujo,26.8,3.0,177.3,6.5,28.3,5.7,179.1,7.1,Estádio São Januário,0
+Atlético Mineiro,2020,34,03/02/2021,21:30,Quarta,2,Goiás,Derrota,0,1,Visitante,Bruno Arleu de Araujo,27.5,3.9,178.5,7.8,24.9,4.9,183.4,6.3,Serra Dourada,0
+Atlético Mineiro,2021,2,06/06/2021,20:30,Domingo,6,Sport Recife,Vitória,1,0,Visitante,Raphael Claus,29.8,4.2,180.3,7.6,27.3,4.0,181.4,8.0,Ilha do Retiro,0
+Atlético Mineiro,2021,5,21/06/2021,20:00,Segunda,6,Chapecoense,Empate,1,1,Mandante,Rodolpho Toski Marques,28.7,4.2,178.9,6.9,26.1,4.5,181.9,6.9,Governador Magalhães Pinto,0
+Atlético Mineiro,2021,13,25/07/2021,11:00,Domingo,7,Bahia,Vitória,3,0,Mandante,Antonio Dib Moraes de Sousa,27.7,4.9,179.3,6.0,27.9,5.0,179.9,6.7,Governador Magalhães Pinto,0
+Atlético Mineiro,2021,21,18/09/2021,19:00,Sábado,9,Sport Recife,Vitória,3,0,Mandante,Vinicius Goncalves Dias Araujo,28.1,4.1,178.9,6.8,28.0,3.9,182.0,7.9,Governador Magalhães Pinto,0
+Atlético Mineiro,2021,24,06/10/2021,19:00,Quarta,10,Chapecoense,Empate,2,2,Visitante,Andre Luiz de Freitas Castro,27.8,4.4,180.0,6.3,26.2,3.6,181.3,7.1,Arena Condá,733
+Atlético Mineiro,2021,19,03/11/2021,21:00,Quarta,11,Grêmio,Vitória,2,1,Mandante,Luiz Flávio de Oliveira,29.3,4.6,180.5,7.5,29.1,5.1,181.1,6.3,Governador Magalhães Pinto,55624
+Atlético Mineiro,2021,32,02/12/2021,18:00,Quinta,12,Bahia,Vitória,3,2,Visitante,Flavio Rodrigues De Souza,29.9,4.0,179.1,5.9,29.0,4.6,180.3,8.7,Arena Fonte Nova,29415
+Atlético Mineiro,2021,38,09/12/2021,21:30,Quinta,12,Grêmio,Derrota,3,4,Visitante,Raphael Claus,26.3,4.3,178.0,7.0,28.0,5.3,180.4,7.3,Arena do Grêmio,33577
+Atlético Mineiro,2022,6,14/05/2022,19:00,Sábado,5,Atlético Goianiense,Vitória,2,0,Mandante,Anderson Daronco,28.4,4.0,178.7,6.3,26.1,2.5,180.1,6.0,Governador Magalhães Pinto,20749
+Atlético Mineiro,2022,8,29/05/2022,19:00,Domingo,5,Avaí,Vitória,2,1,Mandante,Jefferson Ferreira de Moraes,30.6,4.5,180.3,6.9,28.1,4.1,180.5,6.3,Governador Magalhães Pinto,31551
+Atlético Mineiro,2022,12,15/06/2022,19:00,Quarta,6,Ceará,Empate,0,0,Visitante,Luiz Flávio de Oliveira,29.1,4.9,180.0,5.4,29.3,3.6,182.2,9.1,Estádio Governador Plácido Castelo,26774
+Atlético Mineiro,2022,15,02/07/2022,16:30,Sábado,7,Juventude,Vitória,2,1,Visitante,Flavio Rodrigues De Souza,29.0,4.8,179.0,8.1,29.5,3.0,179.2,7.4,Estádio Alfredo Jaconi,6565
+Atlético Mineiro,2022,25,04/09/2022,18:00,Domingo,9,Atlético Goianiense,Vitória,2,0,Visitante,Luiz Flávio de Oliveira,30.8,4.5,180.0,6.9,27.9,3.1,181.7,4.7,Estádio Antônio Accioly,7083
+Atlético Mineiro,2022,27,17/09/2022,16:30,Sábado,9,Avaí,Derrota,0,1,Visitante,Andre Luiz de Freitas Castro,28.7,3.9,178.5,6.0,30.5,5.1,180.4,6.8,Estádio da Ressacada,5081
+Atlético Mineiro,2022,31,09/10/2022,18:00,Domingo,10,Ceará,Empate,0,0,Mandante,Flavio Rodrigues De Souza,29.4,3.2,177.8,6.6,30.3,4.5,182.2,7.6,Governador Magalhães Pinto,34718
+Atlético Mineiro,2022,34,27/10/2022,19:30,Quinta,10,Juventude,Vitória,1,0,Mandante,Savio Pereira Sampaio,29.5,2.8,178.2,6.8,28.4,3.3,179.3,6.3,Governador Magalhães Pinto,18.298
+Atlético Mineiro,2023,2,23/04/2023,16:00,Domingo,4,Santos,Empate,0,0,Visitante,Braulio Da Silva Machado,28.4,4.5,179.4,6.9,24.9,4.2,179.8,7.1,Estádio Urbano Caldeira,11233
+Atlético Mineiro,2023,7,20/05/2023,18:30,Sábado,5,Coritiba,Vitória,2,1,Visitante,Rodrigo Jose Pereira de Lima,30.4,3.7,180.5,6.2,28.1,4.3,181.5,7.5,Estádio Major Antônio Couto Pereira,20047
+Atlético Mineiro,2023,13,02/07/2023,16:00,Domingo,7,América Mineiro,Empate,2,2,Mandante,Wilton Pereira Sampaio,30.4,4.3,180.0,6.9,30.1,4.7,181.9,6.7,Governador Magalhães Pinto,34507
+Atlético Mineiro,2023,15,17/07/2023,20:00,Segunda,7,Goiás,Empate,0,0,Visitante,Raphael Claus,29.1,4.1,180.0,6.4,28.5,3.1,180.5,7.1,Estádio da Serrinha,12303
+Atlético Mineiro,2023,21,27/08/2023,16:00,Domingo,8,Santos,Vitória,2,0,Mandante,Rafael Rodrigo Klein,30.0,4.4,179.3,7.1,28.1,4.2,179.6,6.3,Arena MRV,29782
+Atlético Mineiro,2023,26,08/10/2023,18:30,Domingo,10,Coritiba,Derrota,1,2,Mandante,Marcelo de Lima Henrique,28.8,4.8,179.5,7.2,29.9,4.4,182.8,7.3,Governador Magalhães Pinto,38350
+Atlético Mineiro,2023,32,04/11/2023,19:30,Sábado,11,América Mineiro,Empate,1,1,Visitante,Rodrigo Jose Pereira de Lima,28.4,4.3,178.9,6.2,30.8,4.3,179.4,6.5,Arena Independência,5706
+Atlético Mineiro,2023,34,12/11/2023,18:30,Domingo,11,Goiás,Vitória,2,1,Mandante,Marcelo de Lima Henrique,27.4,4.0,180.2,6.7,28.6,2.8,181.8,5.7,Arena MRV,29173
+Atlético Mineiro,2024,2,17/04/2024,20:00,Quarta,4,Criciúma,Empate,1,1,Mandante,Paulo Belence Alves Dos Prazeres Filho,28.8,4.2,180.5,6.3,31.2,3.6,181.9,5.2,Arena MRV,21726
+Atlético Mineiro,2024,4,27/04/2024,18:30,Sábado,4,Cuiabá,Vitória,3,0,Visitante,Savio Pereira Sampaio,27.9,4.4,179.5,7.0,28.0,4.6,182.8,6.3,Arena Pantanal,6711
+Atlético Mineiro,2024,13,30/06/2024,11:00,Domingo,6,Atlético Goianiense,Empate,1,1,Mandante,Jonathan Benkenstein Pinheiro,26.8,6.5,182.6,5.3,26.6,2.8,183.0,8.6,Arena MRV,36099
+Atlético Mineiro,2024,21,03/08/2024,20:00,Sábado,8,Criciúma,Derrota,1,2,Visitante,Jonathan Benkenstein Pinheiro,29.6,3.3,177.9,7.5,30.9,3.9,182.9,5.0,Estádio Heriberto Hülse,15642
+Atlético Mineiro,2024,23,17/08/2024,16:00,Sábado,8,Cuiabá,Empate,1,1,Mandante,Davi de Oliveira Lacerda,28.3,5.0,180.8,7.7,28.0,4.5,183.9,3.9,Arena MRV,36290
+Atlético Mineiro,2024,32,06/11/2024,21:00,Quarta,11,Atlético Goianiense,Derrota,0,1,Visitante,Jonathan Benkenstein Pinheiro,27.0,5.3,181.9,7.7,27.7,3.3,181.2,8.8,Estádio Antônio Accioly,3791
+Atlético Mineiro,2024,19,16/11/2024,18:30,Sábado,11,Athletico,Derrota,0,1,Visitante,Matheus Delgado Candançan,30.9,4.1,180.3,7.5,27.6,5.0,180.8,6.5,Arena da Baixada,40935
+Atlético Mineiro,2024,38,08/12/2024,16:00,Domingo,12,Athletico,Vitória,1,0,Mandante,Rafael Rodrigo Klein,30.6,4.3,181.3,5.4,27.7,5.9,181.2,5.3,Arena MRV,N.A
+Atlético Mineiro,2025,7,05/05/2025,20:00,Segunda,5,Juventude,Vitória,1,0,Visitante,Bruno Pereira Vasconcelos,27.3,4.0,179.7,6.6,29.9,4.9,178.2,6.9,Estádio Alfredo Jaconi,7486
+Atlético Mineiro,2025,11,01/06/2025,18:30,Domingo,6,Ceará,Vitória,1,0,Visitante,Alex Gomes Stefano,28.4,4.3,180.8,7.5,30.7,4.3,181.0,6.5,Estádio Governador Plácido Castelo,49955
+Atlético Mineiro,2025,26,30/09/2025,21:30,Terça,9,Juventude,Empate,0,0,Mandante,Lucas Casagrande,27.8,4.3,178.7,8.8,28.3,4.0,179.0,7.1,Arena MRV,26567
+Atlético Mineiro,2025,14,08/10/2025,19:00,Quarta,10,Sport Recife,Vitória,3,1,Mandante,Alex Gomes Stefano,30.9,3.1,178.1,8.8,29.2,4.8,182.3,8.3,Arena MRV,25093
+Atlético Mineiro,2025,30,25/10/2025,16:00,Sábado,10,Ceará,Vitória,1,0,Mandante,Bruno Arleu de Araujo,30.0,5.7,179.2,7.7,29.3,3.5,180.9,8.0,Arena MRV,33694
+Atlético Mineiro,2025,33,08/11/2025,16:00,Sábado,11,Sport Recife,Vitória,4,2,Visitante,Matheus Delgado Candançan,28.0,4.6,179.7,7.8,29.9,3.3,182.8,8.2,Ilha do Retiro,5095
+Atlético Mineiro,2025,16,12/11/2025,20:30,Quarta,11,Fortaleza,Empate,3,3,Mandante,Savio Pereira Sampaio,31.2,4.7,178.1,8.8,28.6,4.4,179.9,5.3,Arena MRV,39246
+Atlético Mineiro,2025,35,30/11/2025,18:30,Domingo,11,Fortaleza,Derrota,0,1,Visitante,Davi de Oliveira Lacerda,30.9,4.8,179.4,8.4,28.7,4.1,179.0,4.7,Estádio Governador Plácido Castelo,51793

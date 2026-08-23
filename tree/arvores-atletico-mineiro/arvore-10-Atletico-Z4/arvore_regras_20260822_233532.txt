@@ -1,0 +1,22 @@
+CONFIGURAÇÃO (melhor combinação via GridSearchCV)
+criterion=entropy
+max_depth=10
+min_samples_leaf=1
+min_samples_split=20
+
+REGRAS DA ÁRVORE
+================================================================================
+
+|--- condicao_Mandante <= 0.50
+|   |--- mes <= 7.50
+|   |   |--- class: Vitória
+|   |--- mes >  7.50
+|   |   |--- class: Derrota
+|--- condicao_Mandante >  0.50
+|   |--- publico <= 21690.00
+|   |   |--- dia_semana_Segunda <= 0.50
+|   |   |   |--- class: Vitória
+|   |   |--- dia_semana_Segunda >  0.50
+|   |   |   |--- class: Empate
+|   |--- publico >  21690.00
+|   |   |--- class: Empate
