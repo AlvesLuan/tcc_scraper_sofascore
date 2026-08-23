@@ -92,44 +92,22 @@ pip install -r requirements.txt
 
 ## 6. Instale os navegadores do Playwright
 ```txt
-py -m playwright install chromium
+py -m playwright install firefox
 ```
 
 <br>
 <br>
 
 # Como executar:
-### Para rodar a tabela geral de dados contra o z4 rode com:
-```txt
-py app/main.py
-```
+### No config.py descomente os times e as temporadas que você quer que rode, (recomendo que use 1 time por vez, a execução pode levar horas).
 
-### Para a tabela com detalhes das partidas contra o z4.
-```txt
-py app/main_detalhado.py  
-```
- 
-### Para a tabela com detalhes de TODAS as partidas no período, ATENÇÃO, a execução demorará mais.
-```txt
-py app/main_detalhado_geral.py 
-#ou para apenas as partidas contra o z4:
-py app/main_detalhado_vs_z4.py 
 
-```
-#### Para adicionar o publico na tabela com detalhes rode (a tabela com detalhes deve existir):
-```txt
-py app/fbref-extrator-offline.py
-```
-
-<br>
-<br>
-
-# Configuração
+## 1. Configuração
 ### O time analisado pode ser alterado no arquivo:
 ```txt
 app/config.py
 ```
-### Basta descomentar os time desejados na execução.
+### Basta descomentar os time desejados na execução e as temporadas desejadas.
 ### Exemplo:
 ```txt
 TIMES_ALVO = [
@@ -138,23 +116,59 @@ TIMES_ALVO = [
     ("Atlético Mineiro", 1977),
     # ("Cruzeiro",         1954)
 ]
+
+SEASONS = {
+    # 2015: 10173,
+    # 2016: 11429,
+    # 2017: 13100,
+    2018: 16183,
+    2019: 22931,
+    # 2020: 27591,  # edição 20/21 (pandemia)
+    # 2021: 36166,
+}
 ```
-No exemplo rodará apenas Atlético Mineiro e Vasco da Gama, obviamente no mínimo um time deve estar descomentado.
+No exemplo rodará apenas Atlético Mineiro e Vasco da Gama nas temporadas de 2028 e 2019, obviamente no mínimo um time e uma temporada deve estar descomentado.
 
 Também é possível alterar:
 - temporadas analisadas;
-- delay entre requisições;
+- delay entre requisições (recomendado deixar em 7, já ocorreu ban no IP de máquinas que usaram tempos menores);
 - caminho do CSV de saída;
+
+### Para rodar a tabela geral de dados contra o z4 rode com:
+```txt
+py app/main.py
+```
+ 
+### Para a tabela com detalhes de TODAS as partidas no período, ATENÇÃO, a execução demorará mais.
+```txt
+py app/main_detalhado_geral.py 
+
+Ou para apenas as partidas contra o z4:
+
+py app/main_detalhado_vs_z4.py 
+
+```
+#### Você terá um arquivo _base_detalhada_geral_publico.csv_ sem a coluna de publico. 
+#### Para adicionar o publico na tabela com detalhes, rode (a tabela com detalhes deve existir):
+```txt
+py app/fbref-extrator-offline.py
+```
+Na pasta _fbref-pages-html_ eu já disponibilizei os HTML da página, então não será necessário nenhuma retirada de dados manual ou automática (o fbref é um dos maiores odiadores de extratores de dados ).
+
+<br>
+<br>
+
+
 
 # Saída
 ### Os resultados são salvos em:
-
-#### data/exports/resultados_c13.csv
-#### data/exports/detalhados_c13_geral.csv
-#### data/exports/detalhados_c13_geral_publico.csv
-
-
 <br>
+
+#### data/exports/base_detalhada_geral.csv
+#### data/exports/base_detalhada_geral_publico.csv
+#### data/exports/base_detalhada_geral_vs_z4.csv.csv
+
+
 <br>
 <br>
 <br>
@@ -167,4 +181,11 @@ Também é possível alterar:
 - Análise de dados esportivos
 - Automação com Playwright
 - Inteligência estatística do futebol brasileiro
-- Mineração de dados e aprendizado de máquina.
+- Mineração de dados e aprendizado de máquina com árvore de decisão.
+- Entre outros.
+
+
+## **Informações para contato:**
++ ### luankauan10@gmail.com
++ ### **[LinkedIn](https://www.linkedin.com/in/luan-kauan-santos-31b057239/)**
+<h6 align="right"> qualquer duvida manda uma msg, eu sempre olho os emails ;) </h6>
