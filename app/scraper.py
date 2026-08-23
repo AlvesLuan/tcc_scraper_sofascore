@@ -4,6 +4,7 @@ import time
     Page
 )"""
 from patchright.sync_api import sync_playwright, Page
+#from playwright.sync_api import sync_playwright, Page
 
 from config import (REQUEST_DELAY, UNIQUE_TOURNAMENT_ID)
 
