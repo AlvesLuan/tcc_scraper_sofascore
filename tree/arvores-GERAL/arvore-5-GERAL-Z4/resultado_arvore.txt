@@ -1,9 +1,9 @@
 
 ================================================================================
-Execução: 2026-08-22 20:38:49.060117
+Execução: 2026-08-24 11:55:56.892286
 
 CONFIGURAÇÃO (melhor combinação via GridSearchCV)
-criterion=gini
+criterion=entropy
 max_depth=5
 min_samples_leaf=10
 min_samples_split=2
@@ -12,24 +12,24 @@ Registros (após limpeza): 938
 Atributos após get_dummies: 17
 
 ===== ACURÁCIA =====
-Acurácia simples: 0.5283687943262412
-Acurácia balanceada: 0.3540951563691838
-F1 macro: 0.3329795962046087
+Acurácia simples: 0.5460992907801419
+Acurácia balanceada: 0.3277412280701754
+F1 macro: 0.2573815073815074
 
 ===== MATRIZ DE CONFUSÃO =====
 Classes (ordem): ['Derrota', 'Empate', 'Vitória']
-[[  4   4  38]
- [  6  10  60]
- [  8  17 135]]
+[[  0   1  45]
+ [  0   3  73]
+ [  1   8 151]]
 
 ===== RELATÓRIO =====
               precision    recall  f1-score   support
 
-     Derrota      0.222     0.087     0.125        46
-      Empate      0.323     0.132     0.187        76
-     Vitória      0.579     0.844     0.687       160
+     Derrota      0.000     0.000     0.000        46
+      Empate      0.250     0.039     0.068        76
+     Vitória      0.561     0.944     0.704       160
 
-    accuracy                          0.528       282
-   macro avg      0.375     0.354     0.333       282
-weighted avg      0.452     0.528     0.461       282
+    accuracy                          0.546       282
+   macro avg      0.270     0.328     0.257       282
+weighted avg      0.386     0.546     0.418       282
 

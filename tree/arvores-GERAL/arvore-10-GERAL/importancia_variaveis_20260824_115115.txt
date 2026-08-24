@@ -1,0 +1,19 @@
+IMPORTÂNCIA DAS VARIÁVEIS (feature_importances_)
+================================================================================
+
+condicao_Visitante: 0.1578
+idade_media_titular_time: 0.1430
+altura_media_titular_time: 0.1224
+idade_media_titular_adv: 0.1127
+rodada: 0.1059
+publico: 0.1008
+altura_media_titular_adv: 0.0970
+mes: 0.0423
+temporada: 0.0380
+dia_semana_Sábado: 0.0257
+dia_semana_Quinta: 0.0213
+dia_semana_Domingo: 0.0136
+dia_semana_Quarta: 0.0074
+dia_semana_Terça: 0.0049
+dia_semana_Sexta: 0.0038
+dia_semana_Segunda: 0.0034

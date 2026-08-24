@@ -1,7 +1,0 @@
-IMPORTÂNCIA DAS VARIÁVEIS (feature_importances_)
-================================================================================
-
-idade_media_titular_time: 0.3893
-publico: 0.2898
-condicao_Mandante: 0.2830
-temporada: 0.0379
