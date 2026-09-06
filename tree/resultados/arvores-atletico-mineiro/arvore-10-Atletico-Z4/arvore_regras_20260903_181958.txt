@@ -1,0 +1,45 @@
+CONFIGURAÇÃO (melhor combinação via GridSearchCV)
+criterion=entropy
+max_depth=10
+min_samples_leaf=5
+min_samples_split=2
+
+Modelo treinado com 100% dos dados (ver secao 9 do script)
+
+REGRAS DA ÁRVORE
+================================================================================
+
+|--- condicao_Visitante <= 0.50
+|   |--- idade_media_titular_adv <= 29.35
+|   |   |--- temporada <= 2023.50
+|   |   |   |--- idade_media_titular_time <= 28.20
+|   |   |   |   |--- class: Vitória
+|   |   |   |--- idade_media_titular_time >  28.20
+|   |   |   |   |--- publico <= 20637.50
+|   |   |   |   |   |--- altura_media_titular_adv <= 180.40
+|   |   |   |   |   |   |--- class: Vitória
+|   |   |   |   |   |--- altura_media_titular_adv >  180.40
+|   |   |   |   |   |   |--- class: Empate
+|   |   |   |   |--- publico >  20637.50
+|   |   |   |   |   |--- class: Vitória
+|   |   |--- temporada >  2023.50
+|   |   |   |--- class: Empate
+|   |--- idade_media_titular_adv >  29.35
+|   |   |--- class: Empate
+|--- condicao_Visitante >  0.50
+|   |--- altura_media_titular_time <= 178.70
+|   |   |--- class: Derrota
+|   |--- altura_media_titular_time >  178.70
+|   |   |--- temporada <= 2023.50
+|   |   |   |--- idade_media_titular_time <= 27.85
+|   |   |   |   |--- class: Derrota
+|   |   |   |--- idade_media_titular_time >  27.85
+|   |   |   |   |--- idade_media_titular_time <= 29.15
+|   |   |   |   |   |--- publico <= 10374.50
+|   |   |   |   |   |   |--- class: Empate
+|   |   |   |   |   |--- publico >  10374.50
+|   |   |   |   |   |   |--- class: Empate
+|   |   |   |   |--- idade_media_titular_time >  29.15
+|   |   |   |   |   |--- class: Vitória
+|   |   |--- temporada >  2023.50
+|   |   |   |--- class: Vitória

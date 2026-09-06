@@ -1,0 +1,44 @@
+
+================================================================================
+Execução: 2026-09-06 18:22:10.775890
+
+MÉTODO: Validação cruzada (StratifiedKFold)
+Numero de folds: 5
+
+CONFIGURAÇÃO (melhor combinação via GridSearchCV)
+criterion=entropy
+max_depth=5
+min_samples_leaf=20
+min_samples_split=2
+
+Registros (após limpeza): 360
+Atributos após get_dummies: 12
+Baseline (classe majoritaria): 0.439
+
+===== MÉTRICAS OUT-OF-FOLD (base inteira, cada linha testada 1x) =====
+Acurácia simples: 0.5027777777777778
+Acurácia balanceada: 0.45591563296426724
+F1 macro: 0.45458898289086963
+
+===== MÉTRICAS POR FOLD (média ± desvio padrão) =====
+accuracy: 0.503 ± 0.030  (folds: [np.float64(0.528), np.float64(0.542), np.float64(0.5), np.float64(0.458), np.float64(0.486)])
+balanced_accuracy: 0.456 ± 0.020  (folds: [np.float64(0.465), np.float64(0.486), np.float64(0.463), np.float64(0.438), np.float64(0.43)])
+f1_macro: 0.449 ± 0.021  (folds: [np.float64(0.433), np.float64(0.483), np.float64(0.464), np.float64(0.441), np.float64(0.425)])
+
+===== MATRIZ DE CONFUSÃO (out-of-fold) =====
+Classes (ordem): ['Derrota', 'Empate', 'Vitória']
+[[66 24 36]
+ [33 17 26]
+ [34 26 98]]
+
+===== RELATÓRIO (out-of-fold) =====
+              precision    recall  f1-score   support
+
+     Derrota      0.496     0.524     0.510       126
+      Empate      0.254     0.224     0.238        76
+     Vitória      0.613     0.620     0.616       158
+
+    accuracy                          0.503       360
+   macro avg      0.454     0.456     0.455       360
+weighted avg      0.496     0.503     0.499       360
+

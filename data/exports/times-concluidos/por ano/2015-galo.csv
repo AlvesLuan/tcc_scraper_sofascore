@@ -1,0 +1,419 @@
+﻿time,temporada,rodada,data,horario,dia_semana,mes,adversario,resultado,gols_favor,gols_sofridos,condicao,arbitro,idade_media_titular_time,desvio_idade_media_time,altura_media_titular_time,desvio_altura_media_time,idade_media_titular_adv,desvio_idade_media_adv,altura_media_titular_adv,desvio_altura_media_adv,estadio,publico
+Atlético Mineiro,2015,1,09/05/2015,18:30,Sábado,5,Palmeiras,Empate,2,2,Visitante,Felipe Gomes Da Silva,27.8,4.0,182.9,8.7,28.2,6.3,178.6,8.8,Nubank Parque,28781
+Atlético Mineiro,2015,2,17/05/2015,16:00,Domingo,5,Fluminense,Vitória,4,1,Mandante,Anderson Daronco,26.3,4.9,180.7,7.9,27.3,4.8,181.5,6.6,Arena Independência,11958
+Atlético Mineiro,2015,3,24/05/2015,16:00,Domingo,5,Athletico,Derrota,0,1,Visitante,Thiago Duarte Peixoto,26.4,4.9,180.7,7.9,24.9,3.8,178.7,8.5,Arena da Baixada,13510
+Atlético Mineiro,2015,4,31/05/2015,16:00,Domingo,5,Vasco da Gama,Vitória,3,0,Mandante,Alisson Sidnei Furtado,26.9,4.7,180.7,7.9,28.3,5.1,179.6,7.8,Arena Independência,17958
+Atlético Mineiro,2015,5,03/06/2015,22:00,Quarta,6,Avaí,Vitória,4,1,Visitante,Pablo Dos Santos Alves,26.5,4.5,180.9,7.6,26.8,5.2,180.8,7.4,Estádio da Ressacada,7101
+Atlético Mineiro,2015,6,06/06/2015,18:30,Sábado,6,Cruzeiro,Derrota,1,3,Mandante,Marcelo de Lima Henrique,26.6,4.6,180.2,7.7,26.7,4.2,177.8,6.7,Arena Independência,20092
+Atlético Mineiro,2015,7,10/06/2015,19:30,Quarta,6,Santos,Empate,2,2,Mandante,Wilton Pereira Sampaio,27.0,4.6,181.4,7.0,25.5,5.0,179.5,8.2,Arena Independência,10536
+Atlético Mineiro,2015,8,20/06/2015,16:30,Sábado,6,Flamengo,Vitória,2,0,Visitante,Thiago Duarte Peixoto,27.9,4.1,181.7,6.9,27.6,4.3,179.2,7.0,Estádio do Maracanã,42318
+Atlético Mineiro,2015,9,28/06/2015,11:00,Domingo,6,Joinville,Vitória,1,0,Mandante,Emerson Luiz Sobral,28.1,4.0,181.8,6.7,26.1,5.9,181.5,4.6,Arena Independência,55987
+Atlético Mineiro,2015,10,01/07/2015,21:00,Quarta,7,Coritiba,Vitória,2,0,Mandante,Braulio Da Silva Machado,27.3,4.8,181.4,7.0,26.4,4.5,180.3,3.6,Arena Independência,13309
+Atlético Mineiro,2015,11,05/07/2015,18:30,Domingo,7,Internacional,Vitória,3,1,Visitante,Raphael Claus,27.8,3.5,181.2,6.0,27.1,4.7,180.8,7.3,Estádio Beira-Rio,16812
+Atlético Mineiro,2015,12,08/07/2015,22:00,Quarta,7,Sport Recife,Vitória,2,1,Mandante,Elmo Alves Resende Cunha,28.3,4.2,181.8,6.7,27.5,3.9,180.2,8.1,Arena Independência,50684
+Atlético Mineiro,2015,13,11/07/2015,21:00,Sábado,7,Ponte Preta,Vitória,2,0,Visitante,Rodolpho Toski Marques,28.3,4.2,181.8,6.7,26.4,2.9,177.9,6.8,Moisés Lucarelli,4733
+Atlético Mineiro,2015,14,18/07/2015,21:00,Sábado,7,Corinthians,Derrota,0,1,Visitante,Anderson Daronco,27.8,4.3,181.1,7.4,26.7,3.1,179.9,7.8,Neo Química Arena,36280
+Atlético Mineiro,2015,15,25/07/2015,21:00,Sábado,7,Figueirense,Vitória,1,0,Mandante,Luiz Flávio de Oliveira,28.4,4.3,181.5,6.8,26.4,3.7,182.4,6.1,Arena Independência,16056
+Atlético Mineiro,2015,16,29/07/2015,22:00,Quarta,7,São Paulo,Vitória,3,1,Mandante,Dewson Fernando Freitas da Silva,27.9,4.3,180.9,7.7,27.6,6.2,182.0,3.6,Arena Independência,47606
+Atlético Mineiro,2015,17,09/08/2015,16:00,Domingo,8,Goiás,Empate,0,0,Visitante,Raphael Claus,27.9,4.3,179.6,7.6,25.1,4.3,180.2,4.9,Serra Dourada,7762
+Atlético Mineiro,2015,18,13/08/2015,21:00,Quinta,8,Grêmio,Derrota,0,2,Mandante,Dewson Fernando Freitas da Silva,28.1,4.6,180.7,8.1,25.8,4.2,182.1,6.6,Arena Independência,49047
+Atlético Mineiro,2015,19,16/08/2015,18:30,Domingo,8,Chapecoense,Derrota,1,2,Visitante,,28.5,3.9,181.2,7.6,29.0,2.9,179.5,7.7,Arena Condá,8133
+Atlético Mineiro,2015,20,23/08/2015,18:30,Domingo,8,Palmeiras,Vitória,2,1,Mandante,Sandro Meira Ricci,27.4,3.6,180.5,6.7,29.7,5.6,181.7,7.1,Arena Independência,17464
+Atlético Mineiro,2015,21,30/08/2015,16:00,Domingo,8,Fluminense,Vitória,2,1,Visitante,Marielson Alves Silva,27.5,4.5,180.4,8.5,27.0,5.3,181.9,6.4,Estádio do Maracanã,20533
+Atlético Mineiro,2015,22,02/09/2015,21:00,Quarta,9,Athletico,Derrota,0,1,Mandante,Marcelo de Lima Henrique,28.9,3.9,180.6,7.7,23.6,3.0,180.1,5.9,Arena Independência,12064
+Atlético Mineiro,2015,23,05/09/2015,19:30,Sábado,9,Vasco da Gama,Vitória,2,1,Visitante,Elmo Alves Resende Cunha,29.5,3.4,182.5,6.9,28.7,5.2,181.9,6.5,Estádio do Maracanã,8768
+Atlético Mineiro,2015,24,09/09/2015,19:30,Quarta,9,Avaí,Vitória,2,0,Mandante,Luis Teixeira Rocha,28.6,3.9,180.3,7.7,26.8,3.7,179.9,8.6,Arena Independência,10388
+Atlético Mineiro,2015,25,13/09/2015,16:00,Domingo,9,Cruzeiro,Empate,1,1,Visitante,Leandro Pedro Vuaden,27.7,4.3,180.2,7.7,28.9,3.7,178.8,5.8,Governador Magalhães Pinto,45991
+Atlético Mineiro,2015,26,16/09/2015,22:00,Quarta,9,Santos,Derrota,0,4,Visitante,Heber Roberto Lopes,26.9,4.6,180.2,7.7,26.5,5.8,181.0,7.8,Estádio Urbano Caldeira,6179
+Atlético Mineiro,2015,27,20/09/2015,16:00,Domingo,9,Flamengo,Vitória,4,1,Mandante,Sandro Meira Ricci,28.5,4.4,180.9,7.5,26.8,3.2,179.7,5.7,Arena Independência,20203
+Atlético Mineiro,2015,28,27/09/2015,16:00,Domingo,9,Joinville,Empate,2,2,Visitante,Raphael Claus,28.2,4.4,180.4,7.6,27.7,5.7,180.0,5.4,Arena Joinville,7486
+Atlético Mineiro,2015,29,03/10/2015,18:30,Sábado,10,Coritiba,Vitória,3,0,Visitante,Pericles Bassols Pegado Cortez,28.0,4.3,181.1,7.4,30.2,3.8,176.7,7.6,Estádio Major Antônio Couto Pereira,14469
+Atlético Mineiro,2015,30,14/10/2015,19:30,Quarta,10,Internacional,Vitória,2,1,Mandante,Andre Luiz de Freitas Castro,27.5,3.6,180.5,6.7,27.7,4.0,181.3,7.0,Arena Independência,19023
+Atlético Mineiro,2015,31,18/10/2015,17:30,Domingo,10,Sport Recife,Derrota,1,4,Visitante,Wilton Pereira Sampaio,26.8,4.0,180.1,6.4,27.6,4.4,180.7,7.4,Ilha do Retiro,15459
+Atlético Mineiro,2015,32,25/10/2015,18:30,Domingo,10,Ponte Preta,Vitória,2,1,Mandante,Sandro Meira Ricci,28.2,4.4,180.4,7.6,28.4,4.3,178.5,7.0,Arena Independência,13232
+Atlético Mineiro,2015,33,01/11/2015,16:00,Domingo,11,Corinthians,Derrota,0,3,Mandante,Heber Roberto Lopes,28.9,4.1,180.5,7.6,27.3,4.4,180.6,8.7,Arena Independência,21798
+Atlético Mineiro,2015,34,08/11/2015,16:00,Domingo,11,Figueirense,Vitória,1,0,Visitante,Marcelo Aparecido Ribeiro de Souza,28.3,4.4,180.4,7.6,27.3,3.6,181.4,7.2,Orlando Scarpelli,11556
+Atlético Mineiro,2015,35,19/11/2015,21:00,Quinta,11,São Paulo,Derrota,2,4,Visitante,Leandro Pedro Vuaden,27.8,3.2,180.2,7.5,27.3,4.2,182.2,4.6,MorumBIS,18217
+Atlético Mineiro,2015,36,22/11/2015,16:00,Domingo,11,Goiás,Empate,2,2,Mandante,Nielson Nogueira Dias,28.3,4.4,180.4,7.6,26.5,4.2,180.5,4.8,Arena Independência,9373
+Atlético Mineiro,2015,37,29/11/2015,16:00,Domingo,11,Grêmio,Derrota,1,2,Visitante,Pericles Bassols Pegado Cortez,28.3,4.4,180.1,7.8,25.4,4.4,181.6,7.4,Arena do Grêmio,36862
+Atlético Mineiro,2015,38,06/12/2015,16:00,Domingo,12,Chapecoense,Vitória,3,0,Mandante,Wilton Pereira Sampaio,27.6,3.9,181.7,7.3,29.4,5.1,178.2,6.5,Arena Independência,32229
+Corinthians,2015,1,10/05/2015,16:00,Domingo,5,Cruzeiro,Vitória,1,0,Visitante,Anderson Daronco,28.0,4.9,181.5,6.6,26.7,4.1,177.9,7.6,Governador Magalhães Pinto,8975
+Corinthians,2015,2,16/05/2015,21:00,Sábado,5,Chapecoense,Vitória,1,0,Mandante,Marcelo de Lima Henrique,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Neo Química Arena,10144
+Corinthians,2015,3,24/05/2015,16:00,Domingo,5,Fluminense,Empate,0,0,Visitante,Heber Roberto Lopes,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio do Maracanã,28572
+Corinthians,2015,4,31/05/2015,16:00,Domingo,5,Palmeiras,Derrota,0,2,Mandante,Vinicius Goncalves Dias Araujo,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Neo Química Arena,29479
+Corinthians,2015,5,03/06/2015,22:00,Quarta,6,Grêmio,Derrota,1,3,Visitante,Wilton Pereira Sampaio,28.0,3.4,180.4,8.6,24.6,3.7,183.7,5.9,Arena do Grêmio,17971
+Corinthians,2015,6,06/06/2015,22:00,Sábado,6,Joinville,Vitória,1,0,Visitante,Dewson Fernando Freitas da Silva,28.0,3.4,180.4,8.6,25.0,3.6,181.3,4.4,Arena Joinville,14131
+Corinthians,2015,7,13/06/2015,16:30,Sábado,6,Internacional,Vitória,2,1,Mandante,Marcelo de Lima Henrique,28.1,3.4,180.5,8.6,28.1,5.2,182.8,7.3,Neo Química Arena,27270
+Corinthians,2015,8,20/06/2015,16:30,Sábado,6,Santos,Derrota,0,1,Visitante,Luiz Flávio de Oliveira,28.5,3.0,180.2,8.9,25.2,4.2,178.8,7.0,Estádio Urbano Caldeira,7674
+Corinthians,2015,9,27/06/2015,21:00,Sábado,6,Figueirense,Vitória,2,1,Mandante,Igor Junio Benevenuto,26.7,3.6,180.9,8.4,26.7,4.5,182.8,6.8,Neo Química Arena,24786
+Corinthians,2015,10,02/07/2015,19:30,Quinta,7,Ponte Preta,Vitória,2,0,Mandante,Thiago Duarte Peixoto,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Neo Química Arena,26649
+Corinthians,2015,11,05/07/2015,16:00,Domingo,7,Goiás,Empate,0,0,Visitante,Heber Roberto Lopes,27.2,3.4,179.4,9.4,25.3,4.0,179.6,5.4,Serra Dourada,9579
+Corinthians,2015,12,09/07/2015,19:30,Quinta,7,Athletico,Vitória,2,0,Mandante,Ricardo Marques Ribeiro,27.2,3.4,179.4,9.4,25.9,3.9,179.3,7.7,Neo Química Arena,32442
+Corinthians,2015,13,12/07/2015,16:00,Domingo,7,Flamengo,Vitória,3,0,Visitante,Leandro Pedro Vuaden,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio do Maracanã,26209
+Corinthians,2015,14,18/07/2015,21:00,Sábado,7,Atlético Mineiro,Vitória,1,0,Mandante,Anderson Daronco,26.7,3.1,179.9,7.8,27.8,4.3,181.1,7.4,Neo Química Arena,36280
+Corinthians,2015,15,26/07/2015,16:00,Domingo,7,Coritiba,Empate,1,1,Visitante,Pablo Dos Santos Alves,27.8,4.0,179.0,9.0,26.4,3.6,178.8,5.6,Estádio Major Antônio Couto Pereira,17225
+Corinthians,2015,16,29/07/2015,22:00,Quarta,7,Vasco da Gama,Vitória,3,0,Mandante,Leandro Pedro Vuaden,27.3,3.4,178.7,8.5,27.4,5.2,181.1,5.4,Neo Química Arena,30340
+Corinthians,2015,17,09/08/2015,16:00,Domingo,8,São Paulo,Empate,1,1,Visitante,Leandro Pedro Vuaden,26.5,3.5,180.2,9.1,28.8,6.0,183.2,5.5,MorumBIS,31248
+Corinthians,2015,18,12/08/2015,22:00,Quarta,8,Sport Recife,Vitória,4,3,Mandante,Luiz Flávio de Oliveira,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Neo Química Arena,30941
+Corinthians,2015,19,16/08/2015,16:00,Domingo,8,Avaí,Vitória,2,1,Visitante,Anderson Daronco,26.5,3.5,179.5,9.0,27.5,4.4,178.1,7.1,Estádio da Ressacada,11389
+Corinthians,2015,20,23/08/2015,16:00,Domingo,8,Cruzeiro,Vitória,3,0,Mandante,Pericles Bassols Pegado Cortez,27.4,3.4,179.4,9.4,27.8,3.7,180.5,5.8,Neo Química Arena,41014
+Corinthians,2015,21,30/08/2015,16:00,Domingo,8,Chapecoense,Vitória,3,1,Visitante,Wilton Pereira Sampaio,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Arena Condá,13322
+Corinthians,2015,22,02/09/2015,22:00,Quarta,9,Fluminense,Vitória,2,0,Mandante,Sandro Meira Ricci,27.7,5.9,180.4,9.2,27.5,4.9,180.2,6.8,Neo Química Arena,29328
+Corinthians,2015,23,06/09/2015,16:00,Domingo,9,Palmeiras,Empate,3,3,Visitante,Raphael Claus,26.2,4.7,180.6,9.5,29.2,6.1,178.5,7.7,Nubank Parque,35707
+Corinthians,2015,24,09/09/2015,22:00,Quarta,9,Grêmio,Empate,1,1,Mandante,Andre Luiz de Freitas Castro,27.0,5.3,181.1,8.4,26.4,4.6,182.9,5.6,Neo Química Arena,30126
+Corinthians,2015,25,13/09/2015,11:00,Domingo,9,Joinville,Vitória,3,0,Mandante,Wilton Pereira Sampaio,28.6,2.1,180.6,9.1,24.8,2.8,179.8,5.5,Neo Química Arena,41809
+Corinthians,2015,26,16/09/2015,22:00,Quarta,9,Internacional,Derrota,1,2,Visitante,Jailson Macedo Freitas,27.9,3.6,179.7,9.5,25.6,4.3,182.1,6.9,Estádio Beira-Rio,19073
+Corinthians,2015,27,20/09/2015,11:00,Domingo,9,Santos,Vitória,2,0,Mandante,Flavio Rodrigues Guerra,27.6,3.8,180.3,9.6,26.5,5.8,181.0,7.8,Neo Química Arena,41748
+Corinthians,2015,28,27/09/2015,16:00,Domingo,9,Figueirense,Vitória,3,1,Visitante,Marcelo de Lima Henrique,27.6,3.8,180.3,9.6,25.3,3.8,181.2,5.4,Orlando Scarpelli,9484
+Corinthians,2015,29,04/10/2015,16:00,Domingo,10,Ponte Preta,Empate,2,2,Visitante,Flavio Rodrigues De Souza,27.9,3.8,181.1,8.9,28.3,4.3,177.1,6.9,Moisés Lucarelli,10311
+Corinthians,2015,30,15/10/2015,19:30,Quinta,10,Goiás,Vitória,3,0,Mandante,Reway Wagner,27.9,4.9,180.3,8.3,26.7,4.2,179.9,4.7,Neo Química Arena,40925
+Corinthians,2015,31,18/10/2015,15:00,Domingo,10,Athletico,Vitória,4,1,Visitante,Elmo Alves Resende Cunha,27.5,4.5,180.3,8.9,25.3,4.1,180.6,6.8,Arena da Baixada,23580
+Corinthians,2015,32,25/10/2015,16:00,Domingo,10,Flamengo,Vitória,1,0,Mandante,Wilton Pereira Sampaio,27.5,4.5,180.3,8.9,26.8,3.6,180.3,5.8,Neo Química Arena,43515
+Corinthians,2015,33,01/11/2015,16:00,Domingo,11,Atlético Mineiro,Vitória,3,0,Visitante,Heber Roberto Lopes,27.3,4.4,180.6,8.7,28.9,4.1,180.5,7.6,Arena Independência,21798
+Corinthians,2015,34,07/11/2015,18:30,Sábado,11,Coritiba,Vitória,2,1,Mandante,Dewson Fernando Freitas da Silva,27.5,4.5,180.3,8.9,28.4,4.1,177.8,6.7,Neo Química Arena,43688
+Corinthians,2015,35,19/11/2015,21:00,Quinta,11,Vasco da Gama,Empate,1,1,Visitante,Anderson Daronco,27.6,4.5,180.3,8.9,30.1,4.2,179.5,4.7,Estádio São Januário,19225
+Corinthians,2015,36,22/11/2015,16:00,Domingo,11,São Paulo,Vitória,6,1,Mandante,Pericles Bassols Pegado Cortez,28.5,3.8,182.0,7.2,26.7,3.5,181.2,5.1,Neo Química Arena,44976
+Corinthians,2015,37,29/11/2015,16:00,Domingo,11,Sport Recife,Derrota,0,2,Visitante,Ricardo Marques Ribeiro,28.9,3.2,179.1,7.4,27.6,4.1,180.0,7.8,Arena de Pernambuco,19048
+Corinthians,2015,38,06/12/2015,16:00,Domingo,12,Avaí,Empate,1,1,Mandante,Leandro Pedro Vuaden,27.5,3.4,179.9,8.7,25.2,4.0,178.6,8.1,Neo Química Arena,43389
+Cruzeiro,2015,1,10/05/2015,16:00,Domingo,5,Corinthians,Derrota,0,1,Mandante,Anderson Daronco,26.7,4.1,177.9,7.6,28.0,4.9,181.5,6.6,Governador Magalhães Pinto,8975
+Cruzeiro,2015,2,17/05/2015,16:00,Domingo,5,Santos,Derrota,0,1,Visitante,Pericles Bassols Pegado Cortez,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio Urbano Caldeira,7246
+Cruzeiro,2015,3,24/05/2015,18:30,Domingo,5,Ponte Preta,Empate,1,1,Mandante,Anderson Daronco,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Governador Magalhães Pinto,9639
+Cruzeiro,2015,4,31/05/2015,18:30,Domingo,5,Figueirense,Derrota,1,2,Visitante,Elmo Alves Resende Cunha,26.6,4.2,178.4,6.6,27.0,3.8,182.0,7.3,Orlando Scarpelli,6211
+Cruzeiro,2015,5,03/06/2015,22:00,Quarta,6,Flamengo,Vitória,1,0,Mandante,Luiz Flávio de Oliveira,26.8,4.2,177.7,7.2,27.1,3.6,178.9,6.3,Governador Magalhães Pinto,12071
+Cruzeiro,2015,6,06/06/2015,18:30,Sábado,6,Atlético Mineiro,Vitória,3,1,Visitante,Marcelo de Lima Henrique,26.7,4.2,177.8,6.7,26.6,4.6,180.2,7.7,Arena Independência,20092
+Cruzeiro,2015,7,13/06/2015,21:00,Sábado,6,Vasco da Gama,Vitória,3,1,Visitante,Leandro Pedro Vuaden,26.6,4.4,178.5,6.7,27.8,5.4,179.2,5.1,Estádio São Januário,5505
+Cruzeiro,2015,8,21/06/2015,11:00,Domingo,6,Chapecoense,Derrota,0,1,Mandante,Pericles Bassols Pegado Cortez,26.7,4.4,179.0,6.6,28.6,2.5,180.3,7.3,Governador Magalhães Pinto,33643
+Cruzeiro,2015,9,28/06/2015,16:00,Domingo,6,Coritiba,Derrota,0,1,Visitante,Raphael Claus,26.3,4.8,179.3,6.9,27.6,4.5,178.2,5.5,Estádio Major Antônio Couto Pereira,12395
+Cruzeiro,2015,10,01/07/2015,22:00,Quarta,7,Grêmio,Derrota,0,1,Visitante,Marcelo Aparecido Ribeiro de Souza,27.5,3.7,179.4,6.1,26.4,4.1,183.1,6.2,Arena do Grêmio,22517
+Cruzeiro,2015,11,04/07/2015,21:00,Sábado,7,Athletico,Vitória,2,0,Mandante,Luiz Flávio de Oliveira,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Governador Magalhães Pinto,7427
+Cruzeiro,2015,12,09/07/2015,21:00,Quinta,7,Fluminense,Derrota,0,1,Visitante,Heber Roberto Lopes,27.2,4.3,180.5,5.9,27.2,5.2,180.5,7.9,Estádio do Maracanã,16391
+Cruzeiro,2015,13,12/07/2015,16:00,Domingo,7,Goiás,Vitória,1,0,Mandante,Emerson Luiz Sobral,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Governador Magalhães Pinto,10675
+Cruzeiro,2015,14,19/07/2015,18:30,Domingo,7,Avaí,Empate,1,1,Mandante,,27.7,5.0,179.0,6.2,26.4,5.2,179.8,6.8,Governador Magalhães Pinto,7236
+Cruzeiro,2015,15,26/07/2015,16:00,Domingo,7,São Paulo,Derrota,0,1,Visitante,Marcelo de Lima Henrique,28.5,4.5,178.6,6.4,25.7,6.4,180.1,4.9,MorumBIS,33905
+Cruzeiro,2015,16,02/08/2015,18:30,Domingo,8,Sport Recife,Empate,0,0,Visitante,Leandro Pedro Vuaden,27.4,4.1,178.0,6.0,27.2,4.2,180.0,7.8,Ilha do Retiro,28019
+Cruzeiro,2015,17,09/08/2015,16:00,Domingo,8,Palmeiras,Vitória,2,1,Mandante,Wilton Pereira Sampaio,27.7,3.7,179.6,6.2,28.5,3.6,181.0,9.0,Governador Magalhães Pinto,20839
+Cruzeiro,2015,18,13/08/2015,21:00,Quinta,8,Joinville,Derrota,0,3,Visitante,Leandro Pedro Vuaden,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Arena Joinville,10498
+Cruzeiro,2015,19,16/08/2015,16:00,Domingo,8,Internacional,Empate,0,0,Mandante,Luiz Flávio de Oliveira,27.5,4.0,178.5,5.4,24.1,3.3,181.8,5.8,Governador Magalhães Pinto,14166
+Cruzeiro,2015,20,23/08/2015,16:00,Domingo,8,Corinthians,Derrota,0,3,Visitante,Pericles Bassols Pegado Cortez,27.8,3.7,180.5,5.8,27.4,3.4,179.4,9.4,Neo Química Arena,41014
+Cruzeiro,2015,21,30/08/2015,18:30,Domingo,8,Santos,Derrota,0,1,Mandante,Rodolpho Toski Marques,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Governador Magalhães Pinto,8271
+Cruzeiro,2015,22,02/09/2015,19:30,Quarta,9,Ponte Preta,Vitória,2,1,Visitante,Emerson Luiz Sobral,28.1,4.7,180.0,6.8,26.9,3.5,177.4,7.0,Moisés Lucarelli,5343
+Cruzeiro,2015,23,06/09/2015,11:00,Domingo,9,Figueirense,Vitória,5,1,Mandante,Jailson Macedo Freitas,27.8,5.0,179.0,6.5,25.2,3.5,180.8,4.6,Governador Magalhães Pinto,39040
+Cruzeiro,2015,24,10/09/2015,21:00,Quinta,9,Flamengo,Derrota,0,2,Visitante,Marcelo Aparecido Ribeiro de Souza,28.0,5.1,179.3,6.8,26.4,4.5,180.6,5.3,Estádio do Maracanã,38539
+Cruzeiro,2015,25,13/09/2015,16:00,Domingo,9,Atlético Mineiro,Empate,1,1,Mandante,Leandro Pedro Vuaden,28.9,3.7,178.8,5.8,27.7,4.3,180.2,7.7,Governador Magalhães Pinto,45991
+Cruzeiro,2015,26,16/09/2015,22:00,Quarta,9,Vasco da Gama,Empate,2,2,Mandante,Thiago Duarte Peixoto,28.3,4.5,178.2,6.6,28.8,4.7,181.8,4.9,Governador Magalhães Pinto,19888
+Cruzeiro,2015,27,20/09/2015,18:30,Domingo,9,Chapecoense,Vitória,2,0,Visitante,Wagner do Nascimento Magalhaes,27.7,4.1,181.3,6.5,27.7,3.5,179.0,5.8,Arena Condá,5915
+Cruzeiro,2015,28,27/09/2015,18:30,Domingo,9,Coritiba,Vitória,2,0,Mandante,Flavio Rodrigues De Souza,28.8,4.5,180.5,6.1,26.8,4.3,177.3,6.8,Governador Magalhães Pinto,22897
+Cruzeiro,2015,29,04/10/2015,16:00,Domingo,10,Grêmio,Empate,0,0,Mandante,Heber Roberto Lopes,27.9,3.7,182.8,5.3,26.8,4.3,182.8,6.0,Governador Magalhães Pinto,29294
+Cruzeiro,2015,30,14/10/2015,22:00,Quarta,10,Athletico,Empate,2,2,Visitante,Wagner do Nascimento Magalhaes,27.6,3.7,182.6,5.8,24.2,3.3,180.6,6.0,Arena da Baixada,11591
+Cruzeiro,2015,31,18/10/2015,10:00,Domingo,10,Fluminense,Vitória,2,0,Mandante,Andre Luiz de Freitas Castro,28.6,4.5,180.4,5.7,25.4,5.4,180.1,6.8,Governador Magalhães Pinto,38577
+Cruzeiro,2015,32,25/10/2015,17:00,Domingo,10,Goiás,Vitória,1,0,Visitante,Nielson Nogueira Dias,29.2,4.4,180.5,6.3,25.6,4.1,179.8,4.6,Serra Dourada,13101
+Cruzeiro,2015,33,31/10/2015,18:30,Sábado,10,Avaí,Empate,1,1,Visitante,Raphael Claus,28.7,4.5,179.7,6.0,25.1,3.8,179.5,8.3,Estádio da Ressacada,5345
+Cruzeiro,2015,34,08/11/2015,16:00,Domingo,11,São Paulo,Vitória,2,1,Mandante,Marcelo de Lima Henrique,28.8,4.2,179.1,6.7,27.1,4.2,182.5,4.2,Governador Magalhães Pinto,33417
+Cruzeiro,2015,35,15/11/2015,16:00,Domingo,11,Sport Recife,Vitória,3,0,Mandante,Marielson Alves Silva,28.8,4.3,180.0,5.7,27.0,4.8,182.5,5.9,Governador Magalhães Pinto,25851
+Cruzeiro,2015,36,21/11/2015,18:30,Sábado,11,Palmeiras,Empate,1,1,Visitante,Elmo Alves Resende Cunha,28.7,4.4,179.9,5.8,26.3,5.0,179.3,6.7,Nubank Parque,19395
+Cruzeiro,2015,37,29/11/2015,16:00,Domingo,11,Joinville,Vitória,3,0,Mandante,Rodolpho Toski Marques,29.0,4.4,180.3,6.0,26.2,6.0,180.8,6.2,Governador Magalhães Pinto,24933
+Cruzeiro,2015,38,06/12/2015,16:00,Domingo,12,Internacional,Derrota,0,2,Visitante,Andre Luiz de Freitas Castro,25.9,2.8,179.5,6.7,26.2,4.5,180.8,5.9,Estádio Beira-Rio,34815
+Flamengo,2015,1,10/05/2015,16:00,Domingo,5,São Paulo,Derrota,1,2,Visitante,Marcelo de Lima Henrique,26.5,2.9,178.5,5.5,26.5,6.6,182.8,4.7,MorumBIS,13656
+Flamengo,2015,2,17/05/2015,16:00,Domingo,5,Sport Recife,Empate,2,2,Mandante,Dewson Fernando Freitas da Silva,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio do Maracanã,34459
+Flamengo,2015,3,24/05/2015,16:00,Domingo,5,Avaí,Derrota,1,2,Visitante,Raphael Claus,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio da Ressacada,11868
+Flamengo,2015,4,31/05/2015,18:30,Domingo,5,Fluminense,Derrota,2,3,Mandante,Sandro Meira Ricci,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio do Maracanã,28663
+Flamengo,2015,5,03/06/2015,22:00,Quarta,6,Cruzeiro,Derrota,0,1,Visitante,Luiz Flávio de Oliveira,27.1,3.6,178.9,6.3,26.8,4.2,177.7,7.2,Governador Magalhães Pinto,12071
+Flamengo,2015,6,06/06/2015,18:30,Sábado,6,Chapecoense,Vitória,1,0,Mandante,Anderson Daronco,26.5,3.4,180.1,5.1,28.0,2.5,179.3,6.6,Estádio do Maracanã,20156
+Flamengo,2015,7,13/06/2015,16:30,Sábado,6,Coritiba,Vitória,1,0,Visitante,Guilherme Ceretta de Lima,26.8,3.2,179.4,5.4,26.0,3.3,178.4,5.2,Estádio Major Antônio Couto Pereira,9603
+Flamengo,2015,8,20/06/2015,16:30,Sábado,6,Atlético Mineiro,Derrota,0,2,Mandante,Thiago Duarte Peixoto,27.6,4.3,179.2,7.0,27.9,4.1,181.7,6.9,Estádio do Maracanã,42318
+Flamengo,2015,9,28/06/2015,18:30,Domingo,6,Vasco da Gama,Derrota,0,1,Visitante,Heber Roberto Lopes,27.2,4.4,178.9,7.6,27.8,5.1,180.1,4.3,Estádio São Januário,14010
+Flamengo,2015,10,01/07/2015,22:00,Quarta,7,Joinville,Vitória,1,0,Visitante,Leandro Pedro Vuaden,25.8,4.6,180.6,6.4,24.5,4.1,182.5,4.0,Arena Joinville,15731
+Flamengo,2015,11,05/07/2015,18:30,Domingo,7,Figueirense,Derrota,1,2,Mandante,Jailson Macedo Freitas,25.9,4.4,180.4,6.2,28.3,2.7,182.4,6.4,Estádio do Maracanã,31684
+Flamengo,2015,12,08/07/2015,22:00,Quarta,7,Internacional,Vitória,2,1,Visitante,Wilton Pereira Sampaio,27.1,4.5,181.5,6.5,24.9,4.8,179.7,7.4,Estádio Beira-Rio,10931
+Flamengo,2015,13,12/07/2015,16:00,Domingo,7,Corinthians,Derrota,0,3,Mandante,Leandro Pedro Vuaden,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio do Maracanã,26209
+Flamengo,2015,14,18/07/2015,18:30,Sábado,7,Grêmio,Vitória,1,0,Mandante,Ricardo Marques Ribeiro,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio do Maracanã,56927
+Flamengo,2015,15,26/07/2015,16:00,Domingo,7,Goiás,Vitória,1,0,Visitante,Heber Roberto Lopes,26.1,3.8,182.4,6.7,25.3,4.1,180.5,4.4,Serra Dourada,11450
+Flamengo,2015,16,02/08/2015,16:00,Domingo,8,Santos,Empate,2,2,Mandante,Anderson Daronco,27.7,4.5,179.4,6.4,26.3,5.6,181.5,7.7,Estádio do Maracanã,51749
+Flamengo,2015,17,09/08/2015,16:00,Domingo,8,Ponte Preta,Derrota,0,1,Visitante,Jailson Macedo Freitas,27.2,4.7,180.0,7.4,27.1,3.6,178.0,6.9,Moisés Lucarelli,11694
+Flamengo,2015,18,12/08/2015,19:30,Quarta,8,Athletico,Vitória,3,2,Mandante,Marcelo Aparecido Ribeiro de Souza,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio do Maracanã,20881
+Flamengo,2015,19,16/08/2015,11:00,Domingo,8,Palmeiras,Derrota,2,4,Visitante,Igor Junio Benevenuto,26.4,5.1,180.3,7.2,29.6,5.6,180.1,8.3,Nubank Parque,37739
+Flamengo,2015,20,23/08/2015,16:00,Domingo,8,São Paulo,Vitória,2,1,Mandante,Anderson Daronco,28.0,4.3,179.5,7.1,26.0,3.6,182.3,6.4,Estádio do Maracanã,42954
+Flamengo,2015,21,30/08/2015,16:00,Domingo,8,Sport Recife,Vitória,1,0,Visitante,Braulio Da Silva Machado,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Ilha do Retiro,34939
+Flamengo,2015,22,02/09/2015,21:00,Quarta,9,Avaí,Vitória,3,0,Mandante,Thiago Duarte Peixoto,28.1,3.9,178.3,5.7,26.3,3.6,180.5,8.0,Estádio do Maracanã,22825
+Flamengo,2015,23,06/09/2015,16:00,Domingo,9,Fluminense,Vitória,3,1,Visitante,Ricardo Marques Ribeiro,28.1,3.9,178.0,5.9,27.9,4.7,179.2,7.3,Estádio do Maracanã,55999
+Flamengo,2015,24,10/09/2015,21:00,Quinta,9,Cruzeiro,Vitória,2,0,Mandante,Marcelo Aparecido Ribeiro de Souza,26.4,4.5,180.6,5.3,28.0,5.1,179.3,6.8,Estádio do Maracanã,38539
+Flamengo,2015,25,13/09/2015,16:00,Domingo,9,Chapecoense,Vitória,3,1,Visitante,Anderson Daronco,25.8,3.5,180.5,6.1,29.6,2.7,181.0,6.4,Arena Condá,10800
+Flamengo,2015,26,17/09/2015,21:00,Quinta,9,Coritiba,Derrota,0,2,Mandante,Marielson Alves Silva,25.9,3.5,180.0,6.1,28.2,4.7,178.9,6.4,Estádio do Maracanã,67011
+Flamengo,2015,27,20/09/2015,16:00,Domingo,9,Atlético Mineiro,Derrota,1,4,Visitante,Sandro Meira Ricci,26.8,3.2,179.7,5.7,28.5,4.4,180.9,7.5,Arena Independência,20203
+Flamengo,2015,28,27/09/2015,16:00,Domingo,9,Vasco da Gama,Derrota,1,2,Mandante,Leandro Pedro Vuaden,27.2,5.0,180.0,6.6,30.8,4.1,181.4,5.8,Estádio do Maracanã,44361
+Flamengo,2015,29,04/10/2015,11:00,Domingo,10,Joinville,Vitória,2,0,Mandante,Luiz Flávio de Oliveira,25.9,3.9,181.2,7.0,27.5,5.9,180.4,5.1,Estádio do Maracanã,52462
+Flamengo,2015,30,14/10/2015,21:00,Quarta,10,Figueirense,Derrota,0,3,Visitante,Anderson Daronco,27.6,4.2,178.8,6.5,25.8,3.0,179.7,5.3,Orlando Scarpelli,12820
+Flamengo,2015,31,18/10/2015,15:00,Domingo,10,Internacional,Derrota,0,1,Mandante,Heber Roberto Lopes,27.3,5.0,179.7,6.8,26.9,4.5,182.0,6.9,Estádio do Maracanã,28786
+Flamengo,2015,32,25/10/2015,16:00,Domingo,10,Corinthians,Derrota,0,1,Visitante,Wilton Pereira Sampaio,26.8,3.6,180.3,5.8,27.5,4.5,180.3,8.9,Neo Química Arena,43515
+Flamengo,2015,33,01/11/2015,16:00,Domingo,11,Grêmio,Derrota,0,2,Visitante,Braulio Da Silva Machado,26.4,4.0,181.4,5.2,25.8,4.1,181.7,6.0,Arena do Grêmio,37793
+Flamengo,2015,34,08/11/2015,16:00,Domingo,11,Goiás,Vitória,4,1,Mandante,Luiz Flávio de Oliveira,26.9,4.8,179.7,6.0,25.5,3.6,178.6,5.3,Estádio do Maracanã,15421
+Flamengo,2015,35,19/11/2015,21:00,Quinta,11,Santos,Empate,0,0,Visitante,Heber Roberto Lopes,27.3,4.5,179.8,6.0,25.9,6.0,181.2,7.8,Estádio Urbano Caldeira,8071
+Flamengo,2015,36,22/11/2015,17:00,Domingo,11,Ponte Preta,Empate,1,1,Mandante,Dewson Fernando Freitas da Silva,28.3,4.0,179.2,6.2,27.1,4.3,177.5,7.8,Arena BRB Mané Garrincha,12814
+Flamengo,2015,37,29/11/2015,18:30,Domingo,11,Athletico,Derrota,0,3,Visitante,Marcelo Aparecido Ribeiro de Souza,27.3,2.3,179.1,5.6,26.2,5.0,177.5,5.3,Arena da Baixada,23975
+Flamengo,2015,38,06/12/2015,16:00,Domingo,12,Palmeiras,Derrota,1,2,Mandante,Reway Wagner,26.6,4.8,179.3,6.8,27.3,6.1,179.6,8.2,Estádio do Maracanã,16070
+Fluminense,2015,1,09/05/2015,21:00,Sábado,5,Joinville,Vitória,1,0,Mandante,Thiago Duarte Peixoto,26.3,5.2,181.5,5.9,28.5,4.3,180.4,4.9,Estádio do Maracanã,19185
+Fluminense,2015,2,17/05/2015,16:00,Domingo,5,Atlético Mineiro,Derrota,1,4,Visitante,Anderson Daronco,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Arena Independência,11958
+Fluminense,2015,3,24/05/2015,16:00,Domingo,5,Corinthians,Empate,0,0,Mandante,Heber Roberto Lopes,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio do Maracanã,28572
+Fluminense,2015,4,31/05/2015,18:30,Domingo,5,Flamengo,Vitória,3,2,Visitante,Sandro Meira Ricci,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio do Maracanã,28663
+Fluminense,2015,5,04/06/2015,16:00,Quinta,6,Coritiba,Vitória,2,0,Mandante,Cleisson Veloso Pereira,27.4,4.3,181.3,5.9,26.5,3.3,179.5,5.7,Estádio do Maracanã,32944
+Fluminense,2015,6,07/06/2015,19:30,Domingo,6,Sport Recife,Empate,0,0,Mandante,Paulo Roberto Alves Junior,27.5,4.2,181.4,5.9,26.9,4.7,178.7,8.0,Estádio do Maracanã,15411
+Fluminense,2015,7,14/06/2015,16:00,Domingo,6,Palmeiras,Derrota,1,2,Visitante,Dewson Fernando Freitas da Silva,28.5,5.5,180.3,6.3,29.4,5.5,179.4,8.4,Nubank Parque,26181
+Fluminense,2015,8,24/06/2015,19:30,Quarta,6,Ponte Preta,Vitória,2,0,Mandante,Leandro Pedro Vuaden,26.8,4.7,181.2,5.6,27.8,3.6,178.2,6.2,Estádio do Maracanã,7033
+Fluminense,2015,9,28/06/2015,16:00,Domingo,6,Goiás,Vitória,2,1,Visitante,Luiz Flávio de Oliveira,28.4,5.3,180.7,5.9,24.6,3.1,179.3,6.0,Serra Dourada,3053
+Fluminense,2015,10,02/07/2015,21:00,Quinta,7,Santos,Vitória,2,1,Mandante,Ricardo Marques Ribeiro,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio do Maracanã,11437
+Fluminense,2015,11,05/07/2015,16:00,Domingo,7,São Paulo,Empate,0,0,Visitante,Leandro Pedro Vuaden,27.8,4.6,180.4,7.3,28.2,6.0,182.4,3.9,MorumBIS,16469
+Fluminense,2015,12,09/07/2015,21:00,Quinta,7,Cruzeiro,Vitória,1,0,Mandante,Heber Roberto Lopes,27.2,5.2,180.5,7.9,27.2,4.3,180.5,5.9,Estádio do Maracanã,16391
+Fluminense,2015,13,12/07/2015,16:00,Domingo,7,Athletico,Vitória,2,1,Visitante,Anderson Daronco,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Arena da Baixada,17522
+Fluminense,2015,14,19/07/2015,16:00,Domingo,7,Vasco da Gama,Derrota,1,2,Mandante,Luiz Flávio de Oliveira,26.8,4.6,180.8,6.9,27.8,4.5,182.7,5.1,Estádio do Maracanã,37687
+Fluminense,2015,15,26/07/2015,11:00,Domingo,7,Chapecoense,Derrota,1,2,Visitante,Raphael Claus,27.6,3.7,179.4,7.4,29.1,2.9,180.5,6.8,Arena Condá,8494
+Fluminense,2015,16,01/08/2015,18:30,Sábado,8,Grêmio,Vitória,1,0,Mandante,Wilton Pereira Sampaio,26.8,5.2,179.3,7.1,25.3,4.4,183.3,5.6,Estádio do Maracanã,33288
+Fluminense,2015,17,08/08/2015,18:30,Sábado,8,Avaí,Derrota,0,1,Visitante,Thiago Duarte Peixoto,28.5,6.2,179.3,6.2,28.5,4.5,178.6,7.2,Estádio da Ressacada,11033
+Fluminense,2015,18,12/08/2015,22:00,Quarta,8,Internacional,Derrota,0,1,Visitante,Flavio Rodrigues Guerra,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio Beira-Rio,9222
+Fluminense,2015,19,16/08/2015,16:00,Domingo,8,Figueirense,Vitória,2,1,Mandante,Diego Almeida Real,27.7,4.3,180.1,6.0,26.2,3.4,181.1,4.5,Estádio do Maracanã,23130
+Fluminense,2015,20,23/08/2015,16:00,Domingo,8,Joinville,Derrota,1,2,Visitante,Emerson Luiz Sobral,27.0,4.2,180.2,7.1,25.4,5.5,180.5,4.8,Arena Joinville,12395
+Fluminense,2015,21,30/08/2015,16:00,Domingo,8,Atlético Mineiro,Derrota,1,2,Mandante,Marielson Alves Silva,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio do Maracanã,20533
+Fluminense,2015,22,02/09/2015,22:00,Quarta,9,Corinthians,Derrota,0,2,Visitante,Sandro Meira Ricci,27.5,4.9,180.2,6.8,27.7,5.9,180.4,9.2,Neo Química Arena,29328
+Fluminense,2015,23,06/09/2015,16:00,Domingo,9,Flamengo,Derrota,1,3,Mandante,Ricardo Marques Ribeiro,27.9,4.7,179.2,7.3,28.1,3.9,178.0,5.9,Estádio do Maracanã,55999
+Fluminense,2015,24,09/09/2015,22:00,Quarta,9,Coritiba,Empate,1,1,Visitante,Leandro Pedro Vuaden,25.1,5.1,180.7,7.9,28.0,4.6,176.9,6.3,Estádio Major Antônio Couto Pereira,12619
+Fluminense,2015,25,13/09/2015,18:30,Domingo,9,Sport Recife,Derrota,0,1,Visitante,Heber Roberto Lopes,25.2,5.0,180.6,6.9,27.7,3.3,182.5,6.3,Ilha do Retiro,5333
+Fluminense,2015,26,16/09/2015,19:30,Quarta,9,Palmeiras,Derrota,1,4,Mandante,Anderson Daronco,26.3,5.3,180.5,6.4,29.4,6.0,179.5,7.1,Estádio do Maracanã,9842
+Fluminense,2015,27,19/09/2015,21:00,Sábado,9,Ponte Preta,Derrota,1,3,Visitante,Andre Luiz de Freitas Castro,25.8,5.0,180.5,5.9,29.0,3.7,179.0,5.8,Moisés Lucarelli,5470
+Fluminense,2015,28,26/09/2015,18:30,Sábado,9,Goiás,Vitória,2,0,Mandante,Marielson Alves Silva,27.6,6.1,181.1,5.9,25.7,4.0,179.6,4.8,Estádio do Maracanã,11725
+Fluminense,2015,29,04/10/2015,16:00,Domingo,10,Santos,Derrota,1,3,Visitante,Sandro Meira Ricci,26.5,5.4,179.5,8.2,26.4,5.8,181.3,7.7,Estádio Urbano Caldeira,7491
+Fluminense,2015,30,14/10/2015,22:00,Quarta,10,São Paulo,Vitória,2,0,Mandante,Braulio Da Silva Machado,26.0,5.0,180.2,6.8,27.1,6.4,182.5,4.6,Estádio do Maracanã,8357
+Fluminense,2015,31,18/10/2015,10:00,Domingo,10,Cruzeiro,Derrota,0,2,Visitante,Andre Luiz de Freitas Castro,25.4,5.4,180.1,6.8,28.6,4.5,180.4,5.7,Governador Magalhães Pinto,38577
+Fluminense,2015,32,24/10/2015,16:00,Sábado,10,Athletico,Derrota,0,1,Mandante,Luiz Flávio de Oliveira,27.6,5.9,178.8,6.0,25.7,3.8,179.0,6.9,Estádio do Maracanã,8995
+Fluminense,2015,33,01/11/2015,17:00,Domingo,11,Vasco da Gama,Vitória,1,0,Visitante,Luiz Flávio de Oliveira,27.1,4.9,178.9,6.5,30.9,4.1,181.4,5.8,Estádio Nilton Santos,11957
+Fluminense,2015,34,07/11/2015,20:00,Sábado,11,Chapecoense,Derrota,2,3,Mandante,Nielson Nogueira Dias,26.2,4.6,178.5,7.1,28.9,2.6,179.5,9.1,Estádio do Maracanã,4153
+Fluminense,2015,35,19/11/2015,18:30,Quinta,11,Grêmio,Derrota,0,1,Visitante,Reway Wagner,28.3,4.4,178.0,7.4,25.4,4.2,180.5,7.2,Arena do Grêmio,15909
+Fluminense,2015,36,22/11/2015,18:30,Domingo,11,Avaí,Vitória,3,1,Mandante,Flavio Rodrigues Guerra,27.7,4.7,178.6,6.9,26.5,4.0,180.2,7.8,Estádio Kleber Andrade,9183
+Fluminense,2015,37,28/11/2015,18:30,Sábado,11,Internacional,Empate,1,1,Mandante,Marielson Alves Silva,25.6,5.0,179.5,6.3,26.8,4.6,180.5,5.4,Estádio do Maracanã,7691
+Fluminense,2015,38,06/12/2015,16:00,Domingo,12,Figueirense,Derrota,0,1,Visitante,Dewson Fernando Freitas da Silva,27.0,5.9,180.1,6.9,25.6,3.2,179.2,4.8,Orlando Scarpelli,16047
+Grêmio,2015,1,10/05/2015,11:00,Domingo,5,Ponte Preta,Empate,3,3,Mandante,Heber Roberto Lopes,24.7,4.4,183.5,5.8,26.8,3.1,178.8,6.7,Arena do Grêmio,13164
+Grêmio,2015,2,16/05/2015,18:30,Sábado,5,Coritiba,Derrota,0,2,Visitante,Ricardo Marques Ribeiro,25.3,4.0,182.9,5.9,26.7,3.1,177.7,6.1,Estádio Major Antônio Couto Pereira,11785
+Grêmio,2015,3,23/05/2015,21:00,Sábado,5,Figueirense,Vitória,1,0,Mandante,Luiz Flávio de Oliveira,26.1,3.9,183.3,6.4,25.6,4.0,180.4,6.9,Arena do Grêmio,8336
+Grêmio,2015,4,31/05/2015,16:00,Domingo,5,Goiás,Empate,1,1,Visitante,Anderson Daronco,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Serra Dourada,4511
+Grêmio,2015,5,03/06/2015,22:00,Quarta,6,Corinthians,Vitória,3,1,Mandante,Wilton Pereira Sampaio,24.6,3.7,183.7,5.9,28.0,3.4,180.4,8.6,Arena do Grêmio,17971
+Grêmio,2015,6,06/06/2015,22:00,Sábado,6,São Paulo,Derrota,0,2,Visitante,Pericles Bassols Pegado Cortez,24.7,3.7,183.2,6.0,28.8,5.7,183.4,4.8,MorumBIS,16917
+Grêmio,2015,7,14/06/2015,16:00,Domingo,6,Athletico,Vitória,2,1,Mandante,Marcos Andre Gomes da Penha,25.8,4.2,183.3,6.4,25.1,4.3,180.9,6.2,Arena do Grêmio,17781
+Grêmio,2015,8,20/06/2015,21:00,Sábado,6,Palmeiras,Vitória,1,0,Mandante,Raphael Claus,25.8,4.2,183.3,6.4,28.4,4.3,179.3,8.9,Arena do Grêmio,20814
+Grêmio,2015,9,27/06/2015,16:00,Sábado,6,Avaí,Vitória,2,1,Visitante,Marcelo de Lima Henrique,24.9,4.5,182.3,6.7,26.5,5.0,180.5,8.0,Estádio da Ressacada,11221
+Grêmio,2015,10,01/07/2015,22:00,Quarta,7,Cruzeiro,Vitória,1,0,Mandante,Marcelo Aparecido Ribeiro de Souza,26.4,4.1,183.1,6.2,27.5,3.7,179.4,6.1,Arena do Grêmio,22517
+Grêmio,2015,11,05/07/2015,16:00,Domingo,7,Santos,Vitória,3,1,Visitante,Felipe Gomes Da Silva,26.7,4.3,182.9,6.2,24.5,5.2,180.3,7.6,Estádio Urbano Caldeira,4942
+Grêmio,2015,12,08/07/2015,19:30,Quarta,7,Chapecoense,Derrota,0,1,Visitante,Flavio Rodrigues Guerra,27.4,3.9,182.5,5.8,29.1,3.3,180.8,6.6,Arena Condá,13916
+Grêmio,2015,13,11/07/2015,18:30,Sábado,7,Vasco da Gama,Vitória,2,0,Mandante,Luiz Flávio de Oliveira,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Arena do Grêmio,34464
+Grêmio,2015,14,18/07/2015,18:30,Sábado,7,Flamengo,Derrota,0,1,Visitante,Ricardo Marques Ribeiro,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio do Maracanã,56927
+Grêmio,2015,15,25/07/2015,19:30,Sábado,7,Sport Recife,Empate,1,1,Mandante,Pericles Bassols Pegado Cortez,24.3,4.0,182.5,6.5,27.9,3.8,182.8,7.2,Arena do Grêmio,33437
+Grêmio,2015,16,01/08/2015,18:30,Sábado,8,Fluminense,Derrota,0,1,Visitante,Wilton Pereira Sampaio,25.3,4.4,183.3,5.6,26.8,5.2,179.3,7.1,Estádio do Maracanã,33288
+Grêmio,2015,17,09/08/2015,18:30,Domingo,8,Internacional,Vitória,5,0,Mandante,Dewson Fernando Freitas da Silva,27.5,3.9,182.5,5.8,26.1,5.0,180.3,7.2,Arena do Grêmio,42432
+Grêmio,2015,18,13/08/2015,21:00,Quinta,8,Atlético Mineiro,Vitória,2,0,Visitante,Dewson Fernando Freitas da Silva,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Arena Independência,49047
+Grêmio,2015,19,16/08/2015,18:30,Domingo,8,Joinville,Vitória,2,1,Mandante,,27.1,3.9,183.5,6.0,25.4,5.5,180.5,4.8,Arena do Grêmio,31183
+Grêmio,2015,20,23/08/2015,11:00,Domingo,8,Ponte Preta,Empate,0,0,Visitante,Emerson De Almeida Ferreira,27.2,3.7,182.4,6.9,26.8,3.5,177.9,6.9,Moisés Lucarelli,8612
+Grêmio,2015,21,30/08/2015,11:00,Domingo,8,Coritiba,Empate,0,0,Mandante,Luiz Flávio de Oliveira,27.5,3.9,182.2,6.8,27.8,4.4,178.1,6.5,Arena do Grêmio,46000
+Grêmio,2015,22,03/09/2015,21:00,Quinta,9,Figueirense,Vitória,2,0,Visitante,Raphael Claus,26.4,3.8,182.7,6.1,25.4,3.3,180.7,4.4,Orlando Scarpelli,10823
+Grêmio,2015,23,06/09/2015,16:00,Domingo,9,Goiás,Vitória,2,1,Mandante,Sandro Meira Ricci,25.8,4.6,182.4,6.2,25.4,4.1,179.5,4.8,Arena do Grêmio,29184
+Grêmio,2015,24,09/09/2015,22:00,Quarta,9,Corinthians,Empate,1,1,Visitante,Andre Luiz de Freitas Castro,26.4,4.6,182.9,5.6,27.0,5.3,181.1,8.4,Neo Química Arena,30126
+Grêmio,2015,25,13/09/2015,16:00,Domingo,9,São Paulo,Derrota,1,2,Mandante,Sandro Meira Ricci,26.8,4.1,182.6,7.4,25.4,3.7,183.5,5.7,Arena do Grêmio,44227
+Grêmio,2015,26,16/09/2015,21:00,Quarta,9,Athletico,Vitória,2,1,Visitante,Braulio Da Silva Machado,26.9,4.1,181.7,6.5,25.3,3.6,179.0,5.8,Arena da Baixada,13619
+Grêmio,2015,27,19/09/2015,18:30,Sábado,9,Palmeiras,Derrota,2,3,Visitante,Wilton Pereira Sampaio,24.6,4.2,182.0,6.2,29.1,5.9,180.9,7.6,Nubank Parque,21257
+Grêmio,2015,28,26/09/2015,21:00,Sábado,9,Avaí,Vitória,3,1,Mandante,Marcelo Aparecido Ribeiro de Souza,25.1,4.0,182.7,5.5,27.4,2.9,181.0,8.4,Arena do Grêmio,13251
+Grêmio,2015,29,04/10/2015,16:00,Domingo,10,Cruzeiro,Empate,0,0,Visitante,Heber Roberto Lopes,26.8,4.3,182.8,6.0,27.9,3.7,182.8,5.3,Governador Magalhães Pinto,29294
+Grêmio,2015,30,15/10/2015,21:00,Quinta,10,Santos,Vitória,1,0,Mandante,Marielson Alves Silva,27.0,4.0,183.5,5.9,25.6,5.1,178.6,7.1,Arena do Grêmio,10496
+Grêmio,2015,31,18/10/2015,16:00,Domingo,10,Chapecoense,Derrota,2,3,Mandante,Luiz Flávio de Oliveira,27.4,3.7,184.2,6.4,28.2,3.1,181.0,8.7,Arena do Grêmio,19925
+Grêmio,2015,32,25/10/2015,16:00,Domingo,10,Vasco da Gama,Empate,0,0,Visitante,Marcelo Aparecido Ribeiro de Souza,26.6,4.1,183.5,6.0,30.0,4.4,182.5,5.2,Estádio do Maracanã,20207
+Grêmio,2015,33,01/11/2015,16:00,Domingo,11,Flamengo,Vitória,2,0,Mandante,Braulio Da Silva Machado,25.8,4.1,181.7,6.0,26.4,4.0,181.4,5.2,Arena do Grêmio,37793
+Grêmio,2015,34,08/11/2015,18:30,Domingo,11,Sport Recife,Derrota,0,1,Visitante,Heber Roberto Lopes,25.7,4.3,182.4,6.4,25.7,2.8,180.1,8.1,Ilha do Retiro,11091
+Grêmio,2015,35,19/11/2015,18:30,Quinta,11,Fluminense,Vitória,1,0,Mandante,Reway Wagner,25.4,4.2,180.5,7.2,28.3,4.4,178.0,7.4,Arena do Grêmio,15909
+Grêmio,2015,36,22/11/2015,16:00,Domingo,11,Internacional,Derrota,0,1,Visitante,Ricardo Marques Ribeiro,25.8,4.2,181.1,7.8,26.3,4.6,180.7,6.0,Estádio Beira-Rio,30692
+Grêmio,2015,37,29/11/2015,16:00,Domingo,11,Atlético Mineiro,Vitória,2,1,Mandante,Pericles Bassols Pegado Cortez,25.4,4.4,181.6,7.4,28.3,4.4,180.1,7.8,Arena do Grêmio,36862
+Grêmio,2015,38,06/12/2015,16:00,Domingo,12,Joinville,Vitória,2,0,Visitante,Raphael Claus,25.2,3.7,181.9,7.6,24.3,3.3,181.9,6.4,Arena Joinville,5979
+Internacional,2015,1,10/05/2015,16:00,Domingo,5,Athletico,Derrota,0,3,Visitante,Luiz Flávio de Oliveira,24.9,4.0,181.7,7.5,25.4,4.0,176.9,7.5,Arena da Baixada,10499
+Internacional,2015,2,17/05/2015,18:30,Domingo,5,Avaí,Vitória,1,0,Mandante,Igor Junio Benevenuto,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio Beira-Rio,13009
+Internacional,2015,3,23/05/2015,18:30,Sábado,5,Vasco da Gama,Empate,1,1,Visitante,Dewson Fernando Freitas da Silva,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio São Januário,5143
+Internacional,2015,4,31/05/2015,16:00,Domingo,5,São Paulo,Empate,0,0,Mandante,Leandro Pedro Vuaden,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio Beira-Rio,25213
+Internacional,2015,5,04/06/2015,21:00,Quinta,6,Palmeiras,Empate,1,1,Visitante,Rodolpho Toski Marques,27.5,4.7,181.4,5.6,28.4,5.8,178.6,8.0,Nubank Parque,36199
+Internacional,2015,6,07/06/2015,11:00,Domingo,6,Coritiba,Vitória,2,0,Mandante,Andre Luiz de Freitas Castro,24.4,4.1,181.1,6.9,25.1,2.3,178.9,5.3,Estádio Beira-Rio,35766
+Internacional,2015,7,13/06/2015,16:30,Sábado,6,Corinthians,Derrota,1,2,Visitante,Marcelo de Lima Henrique,28.1,5.2,182.8,7.3,28.1,3.4,180.5,8.6,Neo Química Arena,27270
+Internacional,2015,8,18/06/2015,21:00,Quinta,6,Figueirense,Empate,0,0,Visitante,Wagner do Nascimento Magalhaes,26.8,5.0,181.2,8.0,25.2,3.7,180.5,5.8,Orlando Scarpelli,6244
+Internacional,2015,9,28/06/2015,18:30,Domingo,6,Santos,Vitória,1,0,Mandante,Dewson Fernando Freitas da Silva,27.2,4.7,180.1,7.8,24.6,4.7,179.5,6.8,Estádio Beira-Rio,22495
+Internacional,2015,10,01/07/2015,19:30,Quarta,7,Sport Recife,Derrota,0,3,Visitante,Pericles Bassols Pegado Cortez,26.6,4.1,180.3,7.8,26.5,3.6,178.9,8.6,Ilha do Retiro,23343
+Internacional,2015,11,05/07/2015,18:30,Domingo,7,Atlético Mineiro,Derrota,1,3,Mandante,Raphael Claus,27.1,4.7,180.8,7.3,27.8,3.5,181.2,6.0,Estádio Beira-Rio,16812
+Internacional,2015,12,08/07/2015,22:00,Quarta,7,Flamengo,Derrota,1,2,Mandante,Wilton Pereira Sampaio,24.9,4.8,179.7,7.4,27.1,4.5,181.5,6.5,Estádio Beira-Rio,10931
+Internacional,2015,13,12/07/2015,16:00,Domingo,7,Joinville,Vitória,2,0,Visitante,Francisco Carlos Do Nascimento,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Arena Joinville,10324
+Internacional,2015,14,18/07/2015,18:30,Sábado,7,Goiás,Vitória,2,1,Mandante,Marcelo de Lima Henrique,28.2,4.4,181.4,6.7,25.3,4.1,180.5,4.4,Estádio Beira-Rio,16782
+Internacional,2015,15,26/07/2015,16:00,Domingo,7,Ponte Preta,Empate,0,0,Visitante,Bruno Arleu de Araujo,25.9,4.5,181.1,7.1,27.4,3.5,177.7,6.9,Moisés Lucarelli,7813
+Internacional,2015,16,02/08/2015,16:00,Domingo,8,Chapecoense,Empate,0,0,Mandante,Pericles Bassols Pegado Cortez,27.0,5.5,180.4,7.1,27.4,2.2,180.1,6.7,Estádio Beira-Rio,17579
+Internacional,2015,17,09/08/2015,18:30,Domingo,8,Grêmio,Derrota,0,5,Visitante,Dewson Fernando Freitas da Silva,26.1,5.0,180.3,7.2,27.5,3.9,182.5,5.8,Arena do Grêmio,42432
+Internacional,2015,18,12/08/2015,22:00,Quarta,8,Fluminense,Vitória,1,0,Mandante,Flavio Rodrigues Guerra,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio Beira-Rio,9222
+Internacional,2015,19,16/08/2015,16:00,Domingo,8,Cruzeiro,Empate,0,0,Visitante,Luiz Flávio de Oliveira,24.1,3.3,181.8,5.8,27.5,4.0,178.5,5.4,Governador Magalhães Pinto,14166
+Internacional,2015,20,23/08/2015,16:00,Domingo,8,Athletico,Vitória,2,0,Mandante,Raphael Claus,25.0,4.1,180.5,6.7,25.2,4.3,182.4,6.6,Estádio Beira-Rio,22393
+Internacional,2015,21,30/08/2015,11:00,Domingo,8,Avaí,Derrota,0,3,Visitante,Pericles Bassols Pegado Cortez,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio da Ressacada,11150
+Internacional,2015,22,02/09/2015,19:30,Quarta,9,Vasco da Gama,Vitória,6,0,Mandante,Ricardo Marques Ribeiro,25.1,4.2,180.8,5.6,29.6,5.2,180.5,6.4,Estádio Beira-Rio,15021
+Internacional,2015,23,05/09/2015,19:30,Sábado,9,São Paulo,Derrota,0,2,Visitante,Wilton Pereira Sampaio,26.2,4.7,180.4,6.0,26.0,3.6,182.0,6.2,MorumBIS,20935
+Internacional,2015,24,09/09/2015,19:30,Quarta,9,Palmeiras,Vitória,1,0,Mandante,Reway Wagner,25.5,4.7,181.1,6.7,29.3,6.2,182.6,6.0,Estádio Beira-Rio,13690
+Internacional,2015,25,12/09/2015,18:30,Sábado,9,Coritiba,Vitória,1,0,Visitante,,24.3,4.0,179.5,6.7,28.8,4.2,178.0,6.6,Estádio Major Antônio Couto Pereira,14656
+Internacional,2015,26,16/09/2015,22:00,Quarta,9,Corinthians,Vitória,2,1,Mandante,Jailson Macedo Freitas,25.6,4.3,182.1,6.9,27.9,3.6,179.7,9.5,Estádio Beira-Rio,19073
+Internacional,2015,27,19/09/2015,18:30,Sábado,9,Figueirense,Empate,1,1,Mandante,Nielson Nogueira Dias,27.0,4.7,182.5,7.1,25.9,3.6,181.5,5.3,Estádio Beira-Rio,20607
+Internacional,2015,28,27/09/2015,11:00,Domingo,9,Santos,Derrota,1,3,Visitante,Heber Roberto Lopes,25.9,4.5,179.9,6.5,24.9,5.1,181.0,7.8,Estádio Urbano Caldeira,11043
+Internacional,2015,29,03/10/2015,18:30,Sábado,10,Sport Recife,Vitória,2,1,Mandante,Braulio Da Silva Machado,26.9,4.5,182.0,6.9,27.8,3.9,179.9,7.9,Estádio Beira-Rio,17614
+Internacional,2015,30,14/10/2015,19:30,Quarta,10,Atlético Mineiro,Derrota,1,2,Visitante,Andre Luiz de Freitas Castro,27.7,4.0,181.3,7.0,27.5,3.6,180.5,6.7,Arena Independência,19023
+Internacional,2015,31,18/10/2015,15:00,Domingo,10,Flamengo,Vitória,1,0,Visitante,Heber Roberto Lopes,26.9,4.5,182.0,6.9,27.3,5.0,179.7,6.8,Estádio do Maracanã,28786
+Internacional,2015,32,24/10/2015,17:30,Sábado,10,Joinville,Vitória,1,0,Mandante,Dewson Fernando Freitas da Silva,26.6,5.2,181.9,6.4,27.4,5.4,182.0,6.1,Estádio Beira-Rio,19138
+Internacional,2015,33,01/11/2015,18:30,Domingo,11,Goiás,Derrota,1,2,Visitante,Marcelo Aparecido Ribeiro de Souza,26.9,4.5,182.0,6.9,25.8,3.9,179.3,5.3,Serra Dourada,6881
+Internacional,2015,34,07/11/2015,16:00,Sábado,11,Ponte Preta,Vitória,1,0,Mandante,Ricardo Marques Ribeiro,27.1,5.6,181.2,6.1,27.0,4.4,177.5,7.8,Estádio Beira-Rio,17431
+Internacional,2015,35,19/11/2015,18:30,Quinta,11,Chapecoense,Derrota,0,1,Visitante,Marcelo de Lima Henrique,27.7,5.2,181.2,5.8,29.9,4.5,180.0,7.5,Arena Condá,12693
+Internacional,2015,36,22/11/2015,16:00,Domingo,11,Grêmio,Vitória,1,0,Mandante,Ricardo Marques Ribeiro,26.3,4.6,180.7,6.0,25.8,4.2,181.1,7.8,Estádio Beira-Rio,30692
+Internacional,2015,37,28/11/2015,18:30,Sábado,11,Fluminense,Empate,1,1,Visitante,Marielson Alves Silva,26.8,4.6,180.5,5.4,25.6,5.0,179.5,6.3,Estádio do Maracanã,7691
+Internacional,2015,38,06/12/2015,16:00,Domingo,12,Cruzeiro,Vitória,2,0,Mandante,Andre Luiz de Freitas Castro,26.2,4.5,180.8,5.9,25.9,2.8,179.5,6.7,Estádio Beira-Rio,34815
+Palmeiras,2015,1,09/05/2015,18:30,Sábado,5,Atlético Mineiro,Empate,2,2,Mandante,Felipe Gomes Da Silva,28.2,6.3,178.6,8.8,27.8,4.0,182.9,8.7,Nubank Parque,28781
+Palmeiras,2015,2,17/05/2015,18:30,Domingo,5,Joinville,Empate,0,0,Visitante,Wilton Pereira Sampaio,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Arena Joinville,100
+Palmeiras,2015,3,24/05/2015,11:00,Domingo,5,Goiás,Derrota,0,1,Mandante,Marcelo de Lima Henrique,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Nubank Parque,37337
+Palmeiras,2015,4,31/05/2015,16:00,Domingo,5,Corinthians,Vitória,2,0,Visitante,Vinicius Goncalves Dias Araujo,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Neo Química Arena,29479
+Palmeiras,2015,5,04/06/2015,21:00,Quinta,6,Internacional,Empate,1,1,Mandante,Rodolpho Toski Marques,28.4,5.8,178.6,8.0,27.5,4.7,181.4,5.6,Nubank Parque,36199
+Palmeiras,2015,6,07/06/2015,19:30,Domingo,6,Figueirense,Derrota,1,2,Visitante,Leandro Pedro Vuaden,28.7,5.8,178.8,7.9,26.7,4.4,181.4,7.3,Orlando Scarpelli,9187
+Palmeiras,2015,7,14/06/2015,16:00,Domingo,6,Fluminense,Vitória,2,1,Mandante,Dewson Fernando Freitas da Silva,29.4,5.5,179.4,8.4,28.5,5.5,180.3,6.3,Nubank Parque,26181
+Palmeiras,2015,8,20/06/2015,21:00,Sábado,6,Grêmio,Derrota,0,1,Visitante,Raphael Claus,28.4,4.3,179.3,8.9,25.8,4.2,183.3,6.4,Arena do Grêmio,20814
+Palmeiras,2015,9,28/06/2015,16:00,Domingo,6,São Paulo,Vitória,4,0,Mandante,Anderson Daronco,27.5,4.0,179.9,9.4,28.9,5.6,183.7,4.6,Nubank Parque,28333
+Palmeiras,2015,10,01/07/2015,21:00,Quarta,7,Chapecoense,Vitória,2,0,Mandante,Pablo Dos Santos Alves,27.5,4.0,179.9,9.4,29.1,2.9,180.8,7.4,Nubank Parque,32742
+Palmeiras,2015,11,05/07/2015,18:30,Domingo,7,Ponte Preta,Vitória,2,0,Visitante,Vinicius Goncalves Dias Araujo,27.5,4.0,179.9,9.4,25.8,2.4,178.3,5.5,Moisés Lucarelli,11874
+Palmeiras,2015,12,08/07/2015,21:00,Quarta,7,Avaí,Vitória,3,0,Mandante,Igor Junio Benevenuto,28.7,5.6,180.5,8.9,26.3,5.2,178.4,7.4,Nubank Parque,37530
+Palmeiras,2015,13,12/07/2015,18:30,Domingo,7,Sport Recife,Empate,2,2,Visitante,Emerson De Almeida Ferreira,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Ilha do Retiro,35163
+Palmeiras,2015,14,19/07/2015,16:00,Domingo,7,Santos,Vitória,1,0,Mandante,Wagner do Nascimento Magalhaes,27.9,3.9,180.0,9.4,26.6,5.7,180.1,6.5,Nubank Parque,38220
+Palmeiras,2015,15,26/07/2015,18:30,Domingo,7,Vasco da Gama,Vitória,4,1,Visitante,Anderson Daronco,27.7,3.9,179.8,9.3,30.3,4.6,180.7,5.8,Estádio São Januário,15101
+Palmeiras,2015,16,02/08/2015,11:00,Domingo,8,Athletico,Derrota,0,1,Mandante,Ricardo Marques Ribeiro,28.0,3.9,180.0,9.4,23.5,4.0,181.9,7.1,Nubank Parque,38794
+Palmeiras,2015,17,09/08/2015,16:00,Domingo,8,Cruzeiro,Derrota,1,2,Visitante,Wilton Pereira Sampaio,28.5,3.6,181.0,9.0,27.7,3.7,179.6,6.2,Governador Magalhães Pinto,20839
+Palmeiras,2015,18,12/08/2015,19:30,Quarta,8,Coritiba,Derrota,1,2,Visitante,Pericles Bassols Pegado Cortez,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio Major Antônio Couto Pereira,13373
+Palmeiras,2015,19,16/08/2015,11:00,Domingo,8,Flamengo,Vitória,4,2,Mandante,Igor Junio Benevenuto,29.6,5.6,180.1,8.3,26.4,5.1,180.3,7.2,Nubank Parque,37739
+Palmeiras,2015,20,23/08/2015,18:30,Domingo,8,Atlético Mineiro,Derrota,1,2,Visitante,Sandro Meira Ricci,29.7,5.6,181.7,7.1,27.4,3.6,180.5,6.7,Arena Independência,17464
+Palmeiras,2015,21,30/08/2015,16:00,Domingo,8,Joinville,Vitória,3,2,Mandante,Bruno Arleu de Araujo,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Nubank Parque,28907
+Palmeiras,2015,22,02/09/2015,22:00,Quarta,9,Goiás,Derrota,0,1,Visitante,Leandro Pedro Vuaden,26.5,5.1,180.8,7.8,25.3,4.2,179.6,4.8,Serra Dourada,15142
+Palmeiras,2015,23,06/09/2015,16:00,Domingo,9,Corinthians,Empate,3,3,Mandante,Raphael Claus,29.2,6.1,178.5,7.7,26.2,4.7,180.6,9.5,Nubank Parque,35707
+Palmeiras,2015,24,09/09/2015,19:30,Quarta,9,Internacional,Derrota,0,1,Visitante,Reway Wagner,29.3,6.2,182.6,6.0,25.5,4.7,181.1,6.7,Estádio Beira-Rio,13690
+Palmeiras,2015,25,12/09/2015,21:00,Sábado,9,Figueirense,Vitória,2,0,Mandante,,29.5,6.1,180.9,6.7,27.1,2.9,181.5,4.7,Nubank Parque,22794
+Palmeiras,2015,26,16/09/2015,19:30,Quarta,9,Fluminense,Vitória,4,1,Visitante,Anderson Daronco,29.4,6.0,179.5,7.1,26.3,5.3,180.5,6.4,Estádio do Maracanã,9842
+Palmeiras,2015,27,19/09/2015,18:30,Sábado,9,Grêmio,Vitória,3,2,Mandante,Wilton Pereira Sampaio,29.1,5.9,180.9,7.6,24.6,4.2,182.0,6.2,Nubank Parque,21257
+Palmeiras,2015,28,27/09/2015,16:00,Domingo,9,São Paulo,Empate,1,1,Visitante,Anderson Daronco,27.5,4.7,182.4,7.0,26.9,6.2,181.5,5.0,MorumBIS,25047
+Palmeiras,2015,29,04/10/2015,18:30,Domingo,10,Chapecoense,Derrota,1,5,Visitante,Jailson Macedo Freitas,28.0,4.7,180.8,8.0,28.6,3.1,180.8,8.0,Arena Condá,16474
+Palmeiras,2015,30,14/10/2015,21:00,Quarta,10,Ponte Preta,Derrota,0,1,Mandante,Raphael Claus,29.7,5.7,181.7,7.8,28.0,4.9,177.3,7.2,Nubank Parque,28981
+Palmeiras,2015,31,17/10/2015,18:30,Sábado,10,Avaí,Vitória,3,1,Visitante,Marcelo de Lima Henrique,25.8,5.1,180.5,6.2,28.7,4.7,179.8,7.6,Estádio da Ressacada,9254
+Palmeiras,2015,32,24/10/2015,20:00,Sábado,10,Sport Recife,Derrota,0,2,Mandante,Andre Luiz de Freitas Castro,26.7,5.2,181.2,6.5,27.5,4.1,180.0,7.8,Mercado Livre Arena Pacaembu,19395
+Palmeiras,2015,33,01/11/2015,16:00,Domingo,11,Santos,Derrota,1,2,Visitante,Pericles Bassols Pegado Cortez,27.7,6.4,179.5,7.6,26.0,6.0,181.3,7.7,Estádio Urbano Caldeira,11767
+Palmeiras,2015,34,08/11/2015,16:00,Domingo,11,Vasco da Gama,Derrota,0,2,Mandante,Anderson Daronco,28.5,6.6,181.9,6.7,30.0,4.2,179.5,4.7,Nubank Parque,28800
+Palmeiras,2015,35,18/11/2015,20:00,Quarta,11,Athletico,Empate,3,3,Visitante,Dewson Fernando Freitas da Silva,28.8,5.8,179.6,7.7,24.8,2.9,178.1,6.2,Arena da Baixada,13650
+Palmeiras,2015,36,21/11/2015,18:30,Sábado,11,Cruzeiro,Empate,1,1,Mandante,Elmo Alves Resende Cunha,26.3,5.0,179.3,6.7,28.7,4.4,179.9,5.8,Nubank Parque,19395
+Palmeiras,2015,37,29/11/2015,17:00,Domingo,11,Coritiba,Derrota,0,2,Mandante,Igor Junio Benevenuto,26.5,4.1,181.5,7.3,27.7,4.1,178.0,6.9,Nubank Parque,15037
+Palmeiras,2015,38,06/12/2015,16:00,Domingo,12,Flamengo,Vitória,2,1,Visitante,Reway Wagner,27.3,6.1,179.6,8.2,26.6,4.8,179.3,6.8,Estádio do Maracanã,16070
+Santos,2015,1,10/05/2015,18:30,Domingo,5,Avaí,Empate,1,1,Visitante,Dewson Fernando Freitas da Silva,28.5,3.9,179.4,6.1,27.0,4.4,182.2,6.5,Estádio da Ressacada,7677
+Santos,2015,2,17/05/2015,16:00,Domingo,5,Cruzeiro,Vitória,1,0,Mandante,Pericles Bassols Pegado Cortez,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio Urbano Caldeira,7246
+Santos,2015,3,24/05/2015,16:00,Domingo,5,Chapecoense,Derrota,0,1,Visitante,Jailson Macedo Freitas,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Arena Condá,6374
+Santos,2015,4,31/05/2015,11:00,Domingo,5,Sport Recife,Empate,2,2,Mandante,Marcos Andre Gomes da Penha,27.3,4.9,178.7,7.1,25.9,5.1,178.3,8.3,Estádio Urbano Caldeira,13553
+Santos,2015,5,03/06/2015,21:00,Quarta,6,São Paulo,Derrota,2,3,Visitante,Thiago Duarte Peixoto,26.7,4.7,178.9,7.0,28.0,5.4,182.8,5.1,MorumBIS,13847
+Santos,2015,6,06/06/2015,18:30,Sábado,6,Ponte Preta,Empate,2,2,Mandante,Vinicius Goncalves Dias Araujo,26.0,4.9,178.8,7.1,27.0,3.2,178.7,6.7,Estádio Urbano Caldeira,6447
+Santos,2015,7,10/06/2015,19:30,Quarta,6,Atlético Mineiro,Empate,2,2,Visitante,Wilton Pereira Sampaio,25.5,5.0,179.5,8.2,27.0,4.6,181.4,7.0,Arena Independência,10536
+Santos,2015,8,20/06/2015,16:30,Sábado,6,Corinthians,Vitória,1,0,Mandante,Luiz Flávio de Oliveira,25.2,4.2,178.8,7.0,28.5,3.0,180.2,8.9,Estádio Urbano Caldeira,7674
+Santos,2015,9,28/06/2015,18:30,Domingo,6,Internacional,Derrota,0,1,Visitante,Dewson Fernando Freitas da Silva,24.6,4.7,179.5,6.8,27.2,4.7,180.1,7.8,Estádio Beira-Rio,22495
+Santos,2015,10,02/07/2015,21:00,Quinta,7,Fluminense,Derrota,1,2,Visitante,Ricardo Marques Ribeiro,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio do Maracanã,11437
+Santos,2015,11,05/07/2015,16:00,Domingo,7,Grêmio,Derrota,1,3,Mandante,Felipe Gomes Da Silva,24.5,5.2,180.3,7.6,26.7,4.3,182.9,6.2,Estádio Urbano Caldeira,4942
+Santos,2015,12,08/07/2015,19:30,Quarta,7,Goiás,Derrota,1,4,Visitante,Anderson Daronco,25.3,5.0,179.7,7.5,25.2,4.2,179.4,5.8,Serra Dourada,1829
+Santos,2015,13,11/07/2015,18:30,Sábado,7,Figueirense,Vitória,3,0,Mandante,Andre Luiz de Freitas Castro,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio Urbano Caldeira,8393
+Santos,2015,14,19/07/2015,16:00,Domingo,7,Palmeiras,Derrota,0,1,Visitante,Wagner do Nascimento Magalhaes,26.6,5.7,180.1,6.5,27.9,3.9,180.0,9.4,Nubank Parque,38220
+Santos,2015,15,26/07/2015,11:00,Domingo,7,Joinville,Vitória,2,0,Mandante,Ricardo Marques Ribeiro,25.8,4.8,180.6,6.9,26.4,3.7,179.8,5.0,Estádio Urbano Caldeira,12974
+Santos,2015,16,02/08/2015,16:00,Domingo,8,Flamengo,Empate,2,2,Visitante,Anderson Daronco,26.3,5.6,181.5,7.7,27.7,4.5,179.4,6.4,Estádio do Maracanã,51749
+Santos,2015,17,08/08/2015,21:00,Sábado,8,Coritiba,Vitória,3,0,Mandante,Igor Junio Benevenuto,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio Urbano Caldeira,12657
+Santos,2015,18,12/08/2015,21:00,Quarta,8,Vasco da Gama,Vitória,1,0,Mandante,Emerson Luiz Sobral,26.2,5.9,181.1,7.7,29.1,5.1,181.4,5.0,Estádio Urbano Caldeira,12038
+Santos,2015,19,15/08/2015,18:30,Sábado,8,Athletico,Empate,0,0,Visitante,Bruno Arleu de Araujo,24.8,5.1,181.9,7.7,25.4,3.9,178.8,6.9,Arena da Baixada,19849
+Santos,2015,20,22/08/2015,18:30,Sábado,8,Avaí,Vitória,5,2,Mandante,Leandro Pedro Vuaden,26.2,5.9,181.1,7.7,27.4,4.4,178.5,7.3,Estádio Urbano Caldeira,12036
+Santos,2015,21,30/08/2015,18:30,Domingo,8,Cruzeiro,Vitória,1,0,Visitante,Rodolpho Toski Marques,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Governador Magalhães Pinto,8271
+Santos,2015,22,03/09/2015,19:30,Quinta,9,Chapecoense,Vitória,3,1,Mandante,Bruno Arleu de Araujo,27.1,5.4,180.3,8.4,27.0,4.0,180.5,7.1,Estádio Urbano Caldeira,8047
+Santos,2015,23,06/09/2015,18:30,Domingo,9,Sport Recife,Empate,1,1,Visitante,Emerson De Almeida Ferreira,26.4,5.8,180.8,8.0,27.9,3.8,181.4,6.6,Ilha do Retiro,7308
+Santos,2015,24,09/09/2015,22:00,Quarta,9,São Paulo,Vitória,3,0,Mandante,Luiz Flávio de Oliveira,26.4,5.8,180.8,8.0,25.6,2.9,182.3,6.0,Estádio Urbano Caldeira,5552
+Santos,2015,25,13/09/2015,11:00,Domingo,9,Ponte Preta,Derrota,1,3,Visitante,Flavio Rodrigues De Souza,26.1,5.7,179.9,9.2,27.7,3.5,177.9,6.8,Moisés Lucarelli,8273
+Santos,2015,26,16/09/2015,22:00,Quarta,9,Atlético Mineiro,Vitória,4,0,Mandante,Heber Roberto Lopes,26.5,5.8,181.0,7.8,26.9,4.6,180.2,7.7,Estádio Urbano Caldeira,6179
+Santos,2015,27,20/09/2015,11:00,Domingo,9,Corinthians,Derrota,0,2,Visitante,Flavio Rodrigues Guerra,26.5,5.8,181.0,7.8,27.6,3.8,180.3,9.6,Neo Química Arena,41748
+Santos,2015,28,27/09/2015,11:00,Domingo,9,Internacional,Vitória,3,1,Mandante,Heber Roberto Lopes,24.9,5.1,181.0,7.8,25.9,4.5,179.9,6.5,Estádio Urbano Caldeira,11043
+Santos,2015,29,04/10/2015,16:00,Domingo,10,Fluminense,Vitória,3,1,Mandante,Sandro Meira Ricci,26.4,5.8,181.3,7.7,26.5,5.4,179.5,8.2,Estádio Urbano Caldeira,7491
+Santos,2015,30,15/10/2015,21:00,Quinta,10,Grêmio,Derrota,0,1,Visitante,Marielson Alves Silva,25.6,5.1,178.6,7.1,27.0,4.0,183.5,5.9,Arena do Grêmio,10496
+Santos,2015,31,18/10/2015,16:00,Domingo,10,Goiás,Vitória,3,1,Mandante,Anderson Daronco,26.0,5.7,179.9,6.6,26.0,4.0,180.4,4.8,Estádio Urbano Caldeira,6198
+Santos,2015,32,24/10/2015,17:30,Sábado,10,Figueirense,Empate,0,0,Visitante,Leandro Pedro Vuaden,26.6,4.8,180.9,7.7,27.0,2.8,179.6,5.1,Orlando Scarpelli,7336
+Santos,2015,33,01/11/2015,16:00,Domingo,11,Palmeiras,Vitória,2,1,Mandante,Pericles Bassols Pegado Cortez,26.0,6.0,181.3,7.7,27.7,6.4,179.5,7.6,Estádio Urbano Caldeira,11767
+Santos,2015,34,08/11/2015,17:00,Domingo,11,Joinville,Empate,0,0,Visitante,Reway Wagner,26.9,5.7,180.3,6.5,26.6,5.5,181.5,5.5,Arena Joinville,9679
+Santos,2015,35,19/11/2015,21:00,Quinta,11,Flamengo,Empate,0,0,Mandante,Heber Roberto Lopes,25.9,6.0,181.2,7.8,27.3,4.5,179.8,6.0,Estádio Urbano Caldeira,8071
+Santos,2015,36,22/11/2015,18:30,Domingo,11,Coritiba,Derrota,0,1,Visitante,Marielson Alves Silva,25.8,3.8,180.5,6.4,27.6,4.6,177.8,6.7,Estádio Major Antônio Couto Pereira,100
+Santos,2015,37,29/11/2015,17:00,Domingo,11,Vasco da Gama,Derrota,0,1,Visitante,Leandro Pedro Vuaden,26.2,3.8,180.2,7.1,31.3,3.3,178.9,5.7,Estádio São Januário,11618
+Santos,2015,38,06/12/2015,16:00,Domingo,12,Athletico,Vitória,5,1,Mandante,Marcelo de Lima Henrique,23.6,2.7,180.5,6.9,25.4,3.5,179.0,6.2,Estádio Urbano Caldeira,3836
+São Paulo,2015,1,10/05/2015,16:00,Domingo,5,Flamengo,Vitória,2,1,Mandante,Marcelo de Lima Henrique,26.5,6.6,182.8,4.7,26.5,2.9,178.5,5.5,MorumBIS,13656
+São Paulo,2015,2,17/05/2015,18:30,Domingo,5,Ponte Preta,Derrota,0,1,Visitante,Raphael Claus,26.7,5.6,182.5,4.8,26.4,2.9,178.6,6.6,Moisés Lucarelli,100
+São Paulo,2015,3,23/05/2015,18:30,Sábado,5,Joinville,Vitória,3,0,Mandante,Reway Wagner,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,MorumBIS,17713
+São Paulo,2015,4,31/05/2015,16:00,Domingo,5,Internacional,Empate,0,0,Visitante,Leandro Pedro Vuaden,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio Beira-Rio,25213
+São Paulo,2015,5,03/06/2015,21:00,Quarta,6,Santos,Vitória,3,2,Mandante,Thiago Duarte Peixoto,28.0,5.4,182.8,5.1,26.7,4.7,178.9,7.0,MorumBIS,13847
+São Paulo,2015,6,06/06/2015,22:00,Sábado,6,Grêmio,Vitória,2,0,Mandante,Pericles Bassols Pegado Cortez,28.8,5.7,183.4,4.8,24.7,3.7,183.2,6.0,MorumBIS,16917
+São Paulo,2015,7,13/06/2015,16:30,Sábado,6,Chapecoense,Vitória,1,0,Visitante,Wilton Pereira Sampaio,28.6,5.7,182.8,5.2,28.3,2.5,179.9,7.7,Arena Condá,8712
+São Paulo,2015,8,21/06/2015,16:00,Domingo,6,Avaí,Empate,1,1,Mandante,Bruno Arleu de Araujo,26.3,2.9,183.4,5.7,27.0,3.6,180.5,7.6,MorumBIS,21288
+São Paulo,2015,9,28/06/2015,16:00,Domingo,6,Palmeiras,Derrota,0,4,Visitante,Anderson Daronco,28.9,5.6,183.7,4.6,27.5,4.0,179.9,9.4,Nubank Parque,28333
+São Paulo,2015,10,01/07/2015,22:00,Quarta,7,Athletico,Derrota,1,2,Visitante,Elmo Alves Resende Cunha,28.0,5.7,181.6,5.2,25.6,3.9,179.0,7.7,Arena da Baixada,22016
+São Paulo,2015,11,05/07/2015,16:00,Domingo,7,Fluminense,Empate,0,0,Mandante,Leandro Pedro Vuaden,28.2,6.0,182.4,3.9,27.8,4.6,180.4,7.3,MorumBIS,16469
+São Paulo,2015,12,08/07/2015,22:00,Quarta,7,Vasco da Gama,Vitória,4,0,Visitante,Leandro Pedro Vuaden,26.5,6.0,181.0,4.1,29.1,4.5,179.3,3.9,Estádio São Januário,15812
+São Paulo,2015,13,12/07/2015,11:00,Domingo,7,Coritiba,Vitória,3,1,Mandante,Alisson Sidnei Furtado,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,MorumBIS,58482
+São Paulo,2015,14,19/07/2015,16:00,Domingo,7,Sport Recife,Derrota,0,2,Visitante,Andre Luiz de Freitas Castro,26.8,6.0,181.8,4.3,27.3,4.1,180.0,7.8,Ilha do Retiro,41994
+São Paulo,2015,15,26/07/2015,16:00,Domingo,7,Cruzeiro,Vitória,1,0,Mandante,Marcelo de Lima Henrique,25.7,6.4,180.1,4.9,28.5,4.5,178.6,6.4,MorumBIS,33905
+São Paulo,2015,16,29/07/2015,22:00,Quarta,7,Atlético Mineiro,Derrota,1,3,Visitante,Dewson Fernando Freitas da Silva,27.6,6.2,182.0,3.6,27.9,4.3,180.9,7.7,Arena Independência,47606
+São Paulo,2015,17,09/08/2015,16:00,Domingo,8,Corinthians,Empate,1,1,Mandante,Leandro Pedro Vuaden,28.8,6.0,183.2,5.5,26.5,3.5,180.2,9.1,MorumBIS,31248
+São Paulo,2015,18,12/08/2015,22:00,Quarta,8,Figueirense,Vitória,2,0,Visitante,Anderson Daronco,27.7,5.9,182.3,6.6,27.2,3.6,182.4,7.1,Orlando Scarpelli,10301
+São Paulo,2015,19,15/08/2015,21:00,Sábado,8,Goiás,Derrota,0,3,Mandante,,26.8,3.4,182.9,6.3,25.0,4.3,179.5,4.9,MorumBIS,25452
+São Paulo,2015,20,23/08/2015,16:00,Domingo,8,Flamengo,Derrota,1,2,Visitante,Anderson Daronco,26.0,3.6,182.3,6.4,28.0,4.3,179.5,7.1,Estádio do Maracanã,42954
+São Paulo,2015,21,29/08/2015,21:00,Sábado,8,Ponte Preta,Vitória,3,0,Mandante,Marcelo Aparecido Ribeiro de Souza,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,MorumBIS,12745
+São Paulo,2015,22,02/09/2015,19:30,Quarta,9,Joinville,Empate,0,0,Visitante,Rodolpho Toski Marques,26.3,3.5,182.7,5.5,26.7,5.8,179.5,5.6,Arena Joinville,13604
+São Paulo,2015,23,05/09/2015,19:30,Sábado,9,Internacional,Vitória,2,0,Mandante,Wilton Pereira Sampaio,26.0,3.6,182.0,6.2,26.2,4.7,180.4,6.0,MorumBIS,20935
+São Paulo,2015,24,09/09/2015,22:00,Quarta,9,Santos,Derrota,0,3,Visitante,Luiz Flávio de Oliveira,25.6,2.9,182.3,6.0,26.4,5.8,180.8,8.0,Estádio Urbano Caldeira,5552
+São Paulo,2015,25,13/09/2015,16:00,Domingo,9,Grêmio,Vitória,2,1,Visitante,Sandro Meira Ricci,25.4,3.7,183.5,5.7,26.8,4.1,182.6,7.4,Arena do Grêmio,44227
+São Paulo,2015,26,17/09/2015,19:30,Quinta,9,Chapecoense,Empate,0,0,Mandante,Elmo Alves Resende Cunha,28.0,6.5,182.1,4.5,27.8,2.3,177.5,6.2,MorumBIS,16532
+São Paulo,2015,27,20/09/2015,16:00,Domingo,9,Avaí,Derrota,1,2,Visitante,Jailson Macedo Freitas,23.2,3.5,182.9,5.7,27.9,3.4,182.3,7.5,Estádio da Ressacada,9432
+São Paulo,2015,28,27/09/2015,16:00,Domingo,9,Palmeiras,Empate,1,1,Mandante,Anderson Daronco,26.9,6.2,181.5,5.0,27.5,4.7,182.4,7.0,MorumBIS,25047
+São Paulo,2015,29,03/10/2015,21:00,Sábado,10,Athletico,Vitória,1,0,Mandante,Igor Junio Benevenuto,26.0,6.0,181.5,5.1,24.4,4.2,181.6,7.4,MorumBIS,11066
+São Paulo,2015,30,14/10/2015,22:00,Quarta,10,Fluminense,Derrota,0,2,Visitante,Braulio Da Silva Machado,27.1,6.4,182.5,4.6,26.0,5.0,180.2,6.8,Estádio do Maracanã,8357
+São Paulo,2015,31,18/10/2015,15:00,Domingo,10,Vasco da Gama,Empate,2,2,Mandante,Dewson Fernando Freitas da Silva,27.2,6.5,183.5,5.1,30.9,4.1,181.4,5.8,MorumBIS,18349
+São Paulo,2015,32,25/10/2015,16:00,Domingo,10,Coritiba,Vitória,2,1,Visitante,Marielson Alves Silva,27.7,5.8,183.5,4.7,29.0,4.5,176.5,6.5,Estádio Major Antônio Couto Pereira,15002
+São Paulo,2015,33,31/10/2015,16:00,Sábado,10,Sport Recife,Vitória,3,0,Mandante,Reway Wagner,27.1,4.2,182.5,4.2,26.5,3.1,178.9,8.6,MorumBIS,14002
+São Paulo,2015,34,08/11/2015,16:00,Domingo,11,Cruzeiro,Derrota,1,2,Visitante,Marcelo de Lima Henrique,27.1,4.2,182.5,4.2,28.8,4.2,179.1,6.7,Governador Magalhães Pinto,33417
+São Paulo,2015,35,19/11/2015,21:00,Quinta,11,Atlético Mineiro,Vitória,4,2,Mandante,Leandro Pedro Vuaden,27.3,4.2,182.2,4.6,27.8,3.2,180.2,7.5,MorumBIS,18217
+São Paulo,2015,36,22/11/2015,16:00,Domingo,11,Corinthians,Derrota,1,6,Visitante,Pericles Bassols Pegado Cortez,26.7,3.5,181.2,5.1,28.5,3.8,182.0,7.2,Neo Química Arena,44976
+São Paulo,2015,37,28/11/2015,16:00,Sábado,11,Figueirense,Vitória,3,2,Mandante,Reway Wagner,27.4,4.2,182.2,4.6,26.7,3.6,180.0,7.3,MorumBIS,19987
+São Paulo,2015,38,06/12/2015,16:00,Domingo,12,Goiás,Vitória,1,0,Visitante,Ricardo Marques Ribeiro,27.3,3.3,182.4,4.9,26.2,4.4,179.6,5.1,Serra Dourada,34284
+Vasco da Gama,2015,1,10/05/2015,18:30,Domingo,5,Goiás,Empate,0,0,Mandante,Braulio Da Silva Machado,28.7,4.9,180.8,5.1,25.1,3.3,181.2,3.5,Estádio São Januário,7424
+Vasco da Gama,2015,2,17/05/2015,11:00,Domingo,5,Figueirense,Empate,0,0,Visitante,Thiago Duarte Peixoto,28.7,4.9,180.8,5.1,25.8,4.0,180.5,6.9,Orlando Scarpelli,11004
+Vasco da Gama,2015,3,23/05/2015,18:30,Sábado,5,Internacional,Empate,1,1,Mandante,Dewson Fernando Freitas da Silva,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio São Januário,5143
+Vasco da Gama,2015,4,31/05/2015,16:00,Domingo,5,Atlético Mineiro,Derrota,0,3,Visitante,Alisson Sidnei Furtado,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Arena Independência,17958
+Vasco da Gama,2015,5,03/06/2015,19:30,Quarta,6,Ponte Preta,Derrota,0,3,Mandante,Heber Roberto Lopes,28.1,5.3,180.5,6.3,27.0,3.2,178.7,6.7,Estádio São Januário,2449
+Vasco da Gama,2015,6,06/06/2015,22:00,Sábado,6,Athletico,Derrota,0,2,Visitante,Marcelo Aparecido Ribeiro de Souza,26.7,4.7,181.3,4.6,25.1,3.9,179.3,7.7,Arena da Baixada,15177
+Vasco da Gama,2015,7,13/06/2015,21:00,Sábado,6,Cruzeiro,Derrota,1,3,Mandante,Leandro Pedro Vuaden,27.8,5.4,179.2,5.1,26.6,4.4,178.5,6.7,Estádio São Januário,5505
+Vasco da Gama,2015,8,20/06/2015,16:30,Sábado,6,Sport Recife,Derrota,1,2,Visitante,Anderson Daronco,26.8,5.0,180.8,4.1,26.7,4.6,180.6,7.6,Ilha do Retiro,17206
+Vasco da Gama,2015,9,28/06/2015,18:30,Domingo,6,Flamengo,Vitória,1,0,Mandante,Heber Roberto Lopes,27.8,5.1,180.1,4.3,27.2,4.4,178.9,7.6,Estádio São Januário,14010
+Vasco da Gama,2015,10,01/07/2015,19:30,Quarta,7,Avaí,Vitória,1,0,Mandante,Marcos Andre Gomes da Penha,27.6,5.1,180.4,4.2,25.5,4.1,179.5,7.7,Estádio São Januário,7333
+Vasco da Gama,2015,11,04/07/2015,21:00,Sábado,7,Chapecoense,Derrota,0,1,Visitante,Ricardo Marques Ribeiro,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Arena Condá,4349
+Vasco da Gama,2015,12,08/07/2015,22:00,Quarta,7,São Paulo,Derrota,0,4,Mandante,Leandro Pedro Vuaden,29.1,4.5,179.3,3.9,26.5,6.0,181.0,4.1,Estádio São Januário,15812
+Vasco da Gama,2015,13,11/07/2015,18:30,Sábado,7,Grêmio,Derrota,0,2,Visitante,Luiz Flávio de Oliveira,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Arena do Grêmio,34464
+Vasco da Gama,2015,14,19/07/2015,16:00,Domingo,7,Fluminense,Vitória,2,1,Visitante,Luiz Flávio de Oliveira,27.8,4.5,182.7,5.1,26.8,4.6,180.8,6.9,Estádio do Maracanã,37687
+Vasco da Gama,2015,15,26/07/2015,18:30,Domingo,7,Palmeiras,Derrota,1,4,Mandante,Anderson Daronco,30.3,4.6,180.7,5.8,27.7,3.9,179.8,9.3,Estádio São Januário,15101
+Vasco da Gama,2015,16,29/07/2015,22:00,Quarta,7,Corinthians,Derrota,0,3,Visitante,Leandro Pedro Vuaden,27.4,5.2,181.1,5.4,27.3,3.4,178.7,8.5,Neo Química Arena,30340
+Vasco da Gama,2015,17,09/08/2015,11:00,Domingo,8,Joinville,Empate,0,0,Mandante,Luiz Flávio de Oliveira,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio São Januário,48751
+Vasco da Gama,2015,18,12/08/2015,21:00,Quarta,8,Santos,Derrota,0,1,Visitante,Emerson Luiz Sobral,29.1,5.1,181.4,5.0,26.2,5.9,181.1,7.7,Estádio Urbano Caldeira,12038
+Vasco da Gama,2015,19,15/08/2015,18:30,Sábado,8,Coritiba,Derrota,0,1,Mandante,Raphael Claus,28.4,4.6,180.8,5.4,28.4,4.7,178.8,5.9,Estádio São Januário,10657
+Vasco da Gama,2015,20,22/08/2015,18:30,Sábado,8,Goiás,Derrota,0,3,Visitante,Luiz Flávio de Oliveira,30.7,4.2,180.5,5.5,25.4,4.1,179.5,4.8,Serra Dourada,12154
+Vasco da Gama,2015,21,29/08/2015,18:30,Sábado,8,Figueirense,Derrota,0,1,Mandante,Francisco Carlos Do Nascimento,28.7,4.6,180.6,5.4,24.9,2.8,180.4,4.6,Estádio São Januário,14857
+Vasco da Gama,2015,22,02/09/2015,19:30,Quarta,9,Internacional,Derrota,0,6,Visitante,Ricardo Marques Ribeiro,29.6,5.2,180.5,6.4,25.1,4.2,180.8,5.6,Estádio Beira-Rio,15021
+Vasco da Gama,2015,23,05/09/2015,19:30,Sábado,9,Atlético Mineiro,Derrota,1,2,Mandante,Elmo Alves Resende Cunha,28.7,5.2,181.9,6.5,29.5,3.4,182.5,6.9,Estádio do Maracanã,8768
+Vasco da Gama,2015,24,09/09/2015,19:30,Quarta,9,Ponte Preta,Vitória,1,0,Visitante,Diego Almeida Real,29.7,4.7,182.2,5.7,27.3,3.6,179.1,6.3,Moisés Lucarelli,3961
+Vasco da Gama,2015,25,13/09/2015,16:00,Domingo,9,Athletico,Vitória,2,0,Mandante,Andre Luiz de Freitas Castro,30.5,4.1,181.4,5.8,24.8,4.0,177.5,6.1,Estádio São Januário,10805
+Vasco da Gama,2015,26,16/09/2015,22:00,Quarta,9,Cruzeiro,Empate,2,2,Visitante,Thiago Duarte Peixoto,28.8,4.7,181.8,4.9,28.3,4.5,178.2,6.6,Governador Magalhães Pinto,19888
+Vasco da Gama,2015,27,20/09/2015,16:00,Domingo,9,Sport Recife,Vitória,2,1,Mandante,Heber Roberto Lopes,29.0,4.0,181.5,4.7,26.0,4.1,179.2,7.1,Estádio do Maracanã,22227
+Vasco da Gama,2015,28,27/09/2015,16:00,Domingo,9,Flamengo,Vitória,2,1,Visitante,Leandro Pedro Vuaden,30.8,4.1,181.4,5.8,27.2,5.0,180.0,6.6,Estádio do Maracanã,44361
+Vasco da Gama,2015,29,04/10/2015,11:00,Domingo,10,Avaí,Empate,1,1,Visitante,Luis Teixeira Rocha,31.2,3.4,181.5,5.8,25.6,4.3,181.3,8.5,Estádio da Ressacada,14582
+Vasco da Gama,2015,30,15/10/2015,19:30,Quinta,10,Chapecoense,Empate,1,1,Mandante,Ricardo Marques Ribeiro,29.5,5.0,182.6,4.8,29.1,2.6,180.3,8.4,Estádio do Maracanã,25983
+Vasco da Gama,2015,31,18/10/2015,15:00,Domingo,10,São Paulo,Empate,2,2,Visitante,Dewson Fernando Freitas da Silva,30.9,4.1,181.4,5.8,27.2,6.5,183.5,5.1,MorumBIS,18349
+Vasco da Gama,2015,32,25/10/2015,16:00,Domingo,10,Grêmio,Empate,0,0,Mandante,Marcelo Aparecido Ribeiro de Souza,30.0,4.4,182.5,5.2,26.6,4.1,183.5,6.0,Estádio do Maracanã,20207
+Vasco da Gama,2015,33,01/11/2015,17:00,Domingo,11,Fluminense,Derrota,0,1,Mandante,Luiz Flávio de Oliveira,30.9,4.1,181.4,5.8,27.1,4.9,178.9,6.5,Estádio Nilton Santos,11957
+Vasco da Gama,2015,34,08/11/2015,16:00,Domingo,11,Palmeiras,Vitória,2,0,Visitante,Anderson Daronco,30.0,4.2,179.5,4.7,28.5,6.6,181.9,6.7,Nubank Parque,28800
+Vasco da Gama,2015,35,19/11/2015,21:00,Quinta,11,Corinthians,Empate,1,1,Mandante,Anderson Daronco,30.1,4.2,179.5,4.7,27.6,4.5,180.3,8.9,Estádio São Januário,19225
+Vasco da Gama,2015,36,22/11/2015,16:00,Domingo,11,Joinville,Vitória,2,1,Visitante,Marcelo Aparecido Ribeiro de Souza,30.1,3.9,179.3,6.0,24.6,3.8,182.7,5.6,Arena Joinville,7026
+Vasco da Gama,2015,37,29/11/2015,17:00,Domingo,11,Santos,Vitória,1,0,Mandante,Leandro Pedro Vuaden,31.3,3.3,178.9,5.7,26.2,3.8,180.2,7.1,Estádio São Januário,11618
+Vasco da Gama,2015,38,06/12/2015,16:00,Domingo,12,Coritiba,Empate,0,0,Visitante,Anderson Daronco,30.5,4.1,179.2,5.6,27.5,4.0,177.7,7.0,Estádio Major Antônio Couto Pereira,10323

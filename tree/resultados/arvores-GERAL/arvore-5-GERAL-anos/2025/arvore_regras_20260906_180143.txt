@@ -1,0 +1,48 @@
+CONFIGURAÇÃO (melhor combinação via GridSearchCV)
+criterion=entropy
+max_depth=5
+min_samples_leaf=5
+min_samples_split=20
+
+Modelo treinado com 100% dos dados (ver secao 9 do script)
+
+REGRAS DA ÁRVORE
+================================================================================
+
+|--- condicao_Visitante <= 0.50
+|   |--- idade_media_titular_time <= 31.40
+|   |   |--- altura_media_titular_time <= 183.05
+|   |   |   |--- idade_media_titular_adv <= 26.00
+|   |   |   |   |--- class: Vitória
+|   |   |   |--- idade_media_titular_adv >  26.00
+|   |   |   |   |--- rodada <= 2.50
+|   |   |   |   |   |--- class: Vitória
+|   |   |   |   |--- rodada >  2.50
+|   |   |   |   |   |--- class: Vitória
+|   |   |--- altura_media_titular_time >  183.05
+|   |   |   |--- class: Empate
+|   |--- idade_media_titular_time >  31.40
+|   |   |--- class: Vitória
+|--- condicao_Visitante >  0.50
+|   |--- publico <= 36179.50
+|   |   |--- altura_media_titular_adv <= 178.15
+|   |   |   |--- class: Derrota
+|   |   |--- altura_media_titular_adv >  178.15
+|   |   |   |--- altura_media_titular_time <= 183.25
+|   |   |   |   |--- dia_semana_Sábado <= 0.50
+|   |   |   |   |   |--- class: Derrota
+|   |   |   |   |--- dia_semana_Sábado >  0.50
+|   |   |   |   |   |--- class: Derrota
+|   |   |   |--- altura_media_titular_time >  183.25
+|   |   |   |   |--- class: Vitória
+|   |--- publico >  36179.50
+|   |   |--- altura_media_titular_time <= 179.25
+|   |   |   |--- class: Empate
+|   |   |--- altura_media_titular_time >  179.25
+|   |   |   |--- publico <= 62180.00
+|   |   |   |   |--- rodada <= 9.50
+|   |   |   |   |   |--- class: Derrota
+|   |   |   |   |--- rodada >  9.50
+|   |   |   |   |   |--- class: Derrota
+|   |   |   |--- publico >  62180.00
+|   |   |   |   |--- class: Derrota

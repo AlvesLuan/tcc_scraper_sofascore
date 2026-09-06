@@ -1,0 +1,51 @@
+CONFIGURAÇÃO (melhor combinação via GridSearchCV)
+criterion=entropy
+max_depth=5
+min_samples_leaf=1
+min_samples_split=20
+
+Modelo treinado com 100% dos dados (ver secao 9 do script)
+
+REGRAS DA ÁRVORE
+================================================================================
+
+|--- condicao_Visitante <= 0.50
+|   |--- idade_media_titular_time <= 25.45
+|   |   |--- class: Empate
+|   |--- idade_media_titular_time >  25.45
+|   |   |--- rodada <= 3.50
+|   |   |   |--- class: Vitória
+|   |   |--- rodada >  3.50
+|   |   |   |--- idade_media_titular_adv <= 30.35
+|   |   |   |   |--- idade_media_titular_adv <= 25.65
+|   |   |   |   |   |--- class: Vitória
+|   |   |   |   |--- idade_media_titular_adv >  25.65
+|   |   |   |   |   |--- class: Vitória
+|   |   |   |--- idade_media_titular_adv >  30.35
+|   |   |   |   |--- class: Vitória
+|--- condicao_Visitante >  0.50
+|   |--- altura_media_titular_time <= 182.65
+|   |   |--- publico <= 27920.50
+|   |   |   |--- dia_semana_Quinta <= 0.50
+|   |   |   |   |--- mes <= 5.50
+|   |   |   |   |   |--- class: Derrota
+|   |   |   |   |--- mes >  5.50
+|   |   |   |   |   |--- class: Empate
+|   |   |   |--- dia_semana_Quinta >  0.50
+|   |   |   |   |--- class: Vitória
+|   |   |--- publico >  27920.50
+|   |   |   |--- mes <= 10.50
+|   |   |   |   |--- altura_media_titular_adv <= 180.85
+|   |   |   |   |   |--- class: Derrota
+|   |   |   |   |--- altura_media_titular_adv >  180.85
+|   |   |   |   |   |--- class: Derrota
+|   |   |   |--- mes >  10.50
+|   |   |   |   |--- altura_media_titular_adv <= 182.45
+|   |   |   |   |   |--- class: Derrota
+|   |   |   |   |--- altura_media_titular_adv >  182.45
+|   |   |   |   |   |--- class: Vitória
+|   |--- altura_media_titular_time >  182.65
+|   |   |--- publico <= 31790.00
+|   |   |   |--- class: Derrota
+|   |   |--- publico >  31790.00
+|   |   |   |--- class: Vitória
