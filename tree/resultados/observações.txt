@@ -13,7 +13,7 @@
 	
 
 - Galo arvore 5 depth, 5vs10 splits:
-	10 splits levemente melhor em tudo, aqui tbm com o desvio maior, mas pouca coisa de diferença.
+	10 folds levemente melhor em tudo, aqui tbm com o desvio f1 maior, mas pouca coisa de diferença(0.014).
 
 - Galo arvore 5 depth vs times do z4, 5vs10 splits:
 	
