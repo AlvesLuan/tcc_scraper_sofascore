@@ -17,3 +17,4 @@
 
 - Galo arvore 5 depth vs times do z4, 5vs10 splits:
 	
+
