@@ -1,0 +1,19 @@
+- arvore com 5 depth, 5vs10 splits: 
+	A diferença entre 5 e 10 folds é mínima (menos de 1 ponto percentual em quase tudo), praticamente empatados nas métricas principais.
+	Houve mudanças no desvio padrão accuracy e f1_macro da 10 splists: um dobrou e outro triplicou, mas n alterou o resultado, isso faz dela mais "estável", mas pouco importante pro meu uso.
+
+
+- arvore com 5 depth vs times do z4, 5vs10 splits: 
+	Mesma coisa, quanto menor a base de dados, mais o número de folds importa para a estabilidade dos resultados.
+	Mudança relevante só naquele desvio padrão.
+
+
+- arvore 5 depth, anos:
+	2016 10 split ficou levemente melhor em tudo, levemente.
+	
+
+- Galo arvore 5 depth, 5vs10 splits:
+	10 splits levemente melhor em tudo, aqui tbm com o desvio maior, mas pouca coisa de diferença.
+
+- Galo arvore 5 depth vs times do z4, 5vs10 splits:
+	

@@ -1,0 +1,57 @@
+CONFIGURAÇÃO (melhor combinação via GridSearchCV)
+criterion=entropy
+max_depth=5
+min_samples_leaf=5
+min_samples_split=20
+
+Modelo treinado com 100% dos dados (ver secao 9 do script)
+
+REGRAS DA ÁRVORE
+================================================================================
+
+|--- condicao_Visitante <= 0.50
+|   |--- idade_media_titular_time <= 25.85
+|   |   |--- class: Derrota
+|   |--- idade_media_titular_time >  25.85
+|   |   |--- idade_media_titular_time <= 32.05
+|   |   |   |--- publico <= 62834.50
+|   |   |   |   |--- dia_semana_Sábado <= 0.50
+|   |   |   |   |   |--- class: Vitória
+|   |   |   |   |--- dia_semana_Sábado >  0.50
+|   |   |   |   |   |--- class: Vitória
+|   |   |   |--- publico >  62834.50
+|   |   |   |   |--- class: Empate
+|   |   |--- idade_media_titular_time >  32.05
+|   |   |   |--- class: Empate
+|--- condicao_Visitante >  0.50
+|   |--- idade_media_titular_time <= 29.05
+|   |   |--- publico <= 35389.50
+|   |   |   |--- rodada <= 33.50
+|   |   |   |   |--- altura_media_titular_adv <= 182.15
+|   |   |   |   |   |--- class: Derrota
+|   |   |   |   |--- altura_media_titular_adv >  182.15
+|   |   |   |   |   |--- class: Vitória
+|   |   |   |--- rodada >  33.50
+|   |   |   |   |--- class: Vitória
+|   |   |--- publico >  35389.50
+|   |   |   |--- publico <= 53425.50
+|   |   |   |   |--- publico <= 44897.00
+|   |   |   |   |   |--- class: Derrota
+|   |   |   |   |--- publico >  44897.00
+|   |   |   |   |   |--- class: Derrota
+|   |   |   |--- publico >  53425.50
+|   |   |   |   |--- class: Empate
+|   |--- idade_media_titular_time >  29.05
+|   |   |--- altura_media_titular_time <= 180.25
+|   |   |   |--- altura_media_titular_adv <= 181.75
+|   |   |   |   |--- altura_media_titular_time <= 179.25
+|   |   |   |   |   |--- class: Derrota
+|   |   |   |   |--- altura_media_titular_time >  179.25
+|   |   |   |   |   |--- class: Derrota
+|   |   |   |--- altura_media_titular_adv >  181.75
+|   |   |   |   |--- class: Vitória
+|   |   |--- altura_media_titular_time >  180.25
+|   |   |   |--- altura_media_titular_adv <= 179.70
+|   |   |   |   |--- class: Derrota
+|   |   |   |--- altura_media_titular_adv >  179.70
+|   |   |   |   |--- class: Empate

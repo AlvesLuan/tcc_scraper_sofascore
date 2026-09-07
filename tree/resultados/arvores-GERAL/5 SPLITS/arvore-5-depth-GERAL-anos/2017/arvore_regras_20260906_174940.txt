@@ -1,0 +1,63 @@
+CONFIGURAÇÃO (melhor combinação via GridSearchCV)
+criterion=entropy
+max_depth=5
+min_samples_leaf=1
+min_samples_split=10
+
+Modelo treinado com 100% dos dados (ver secao 9 do script)
+
+REGRAS DA ÁRVORE
+================================================================================
+
+|--- condicao_Visitante <= 0.50
+|   |--- idade_media_titular_time <= 25.25
+|   |   |--- publico <= 25570.50
+|   |   |   |--- publico <= 7933.00
+|   |   |   |   |--- class: Empate
+|   |   |   |--- publico >  7933.00
+|   |   |   |   |--- class: Derrota
+|   |   |--- publico >  25570.50
+|   |   |   |--- class: Empate
+|   |--- idade_media_titular_time >  25.25
+|   |   |--- publico <= 9209.50
+|   |   |   |--- idade_media_titular_adv <= 29.30
+|   |   |   |   |--- altura_media_titular_time <= 182.05
+|   |   |   |   |   |--- class: Vitória
+|   |   |   |   |--- altura_media_titular_time >  182.05
+|   |   |   |   |   |--- class: Derrota
+|   |   |   |--- idade_media_titular_adv >  29.30
+|   |   |   |   |--- class: Empate
+|   |   |--- publico >  9209.50
+|   |   |   |--- publico <= 9771.00
+|   |   |   |   |--- class: Empate
+|   |   |   |--- publico >  9771.00
+|   |   |   |   |--- altura_media_titular_adv <= 178.55
+|   |   |   |   |   |--- class: Vitória
+|   |   |   |   |--- altura_media_titular_adv >  178.55
+|   |   |   |   |   |--- class: Vitória
+|--- condicao_Visitante >  0.50
+|   |--- altura_media_titular_adv <= 182.45
+|   |   |--- idade_media_titular_adv <= 30.25
+|   |   |   |--- idade_media_titular_adv <= 25.35
+|   |   |   |   |--- class: Vitória
+|   |   |   |--- idade_media_titular_adv >  25.35
+|   |   |   |   |--- dia_semana_Segunda <= 0.50
+|   |   |   |   |   |--- class: Derrota
+|   |   |   |   |--- dia_semana_Segunda >  0.50
+|   |   |   |   |   |--- class: Derrota
+|   |   |--- idade_media_titular_adv >  30.25
+|   |   |   |--- altura_media_titular_time <= 181.15
+|   |   |   |   |--- class: Derrota
+|   |   |   |--- altura_media_titular_time >  181.15
+|   |   |   |   |--- class: Empate
+|   |--- altura_media_titular_adv >  182.45
+|   |   |--- dia_semana_Quinta <= 0.50
+|   |   |   |--- idade_media_titular_time <= 30.05
+|   |   |   |   |--- publico <= 28366.00
+|   |   |   |   |   |--- class: Vitória
+|   |   |   |   |--- publico >  28366.00
+|   |   |   |   |   |--- class: Derrota
+|   |   |   |--- idade_media_titular_time >  30.05
+|   |   |   |   |--- class: Derrota
+|   |   |--- dia_semana_Quinta >  0.50
+|   |   |   |--- class: Empate

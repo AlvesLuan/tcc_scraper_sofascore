@@ -10,7 +10,7 @@ from datetime import datetime
 import os
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-CSV_PATH = os.path.join(BASE_DIR, "..", "data", "exports", "times-concluidos", "por ano", "2015-galo.csv")
+CSV_PATH = os.path.join(BASE_DIR, "..", "data", "exports", "z4-atletico-base_detalhada_geral_publico.csv")
 
 print("cwd =", os.getcwd())
 
@@ -88,7 +88,7 @@ print("Atributos após get_dummies:", X.shape[1])
 # pedaço diferente dos dados fica de fora para servir de teste, e ao final
 # cada registro da base foi testado exatamente uma vez, sem nunca ter sido
 # usado para treinar o modelo que o avaliou naquela rodada.
-N_SPLITS = 5
+N_SPLITS = 10
 
 cv = StratifiedKFold(n_splits=N_SPLITS, shuffle=True, random_state=42)
 
@@ -103,9 +103,11 @@ param_grid = {
     "criterion": ["entropy"],
     #"max_depth": [3, 4, 5, 6, 8, 10],
     #"max_depth": [5, 10],
-    "max_depth": [5],
-    "min_samples_leaf": [1, 5, 10, 20],
-    "min_samples_split": [2, 10, 20],
+    "max_depth": [10],
+    #"min_samples_leaf": [1, 5, 10, 20],
+    "min_samples_leaf": [5],
+    #"min_samples_split": [2, 10, 20],
+    "min_samples_split": [2],
 }
 
 grid = GridSearchCV(

@@ -1,0 +1,63 @@
+CONFIGURAÇÃO (melhor combinação via GridSearchCV)
+criterion=entropy
+max_depth=10
+min_samples_leaf=20
+min_samples_split=2
+
+Modelo treinado com 100% dos dados (ver secao 9 do script)
+
+REGRAS DA ÁRVORE
+================================================================================
+
+|--- condicao_Visitante <= 0.50
+|   |--- altura_media_titular_time <= 178.85
+|   |   |--- idade_media_titular_time <= 28.05
+|   |   |   |--- class: Vitória
+|   |   |--- idade_media_titular_time >  28.05
+|   |   |   |--- class: Derrota
+|   |--- altura_media_titular_time >  178.85
+|   |   |--- idade_media_titular_time <= 27.75
+|   |   |   |--- mes <= 8.50
+|   |   |   |   |--- class: Vitória
+|   |   |   |--- mes >  8.50
+|   |   |   |   |--- idade_media_titular_adv <= 26.35
+|   |   |   |   |   |--- class: Empate
+|   |   |   |   |--- idade_media_titular_adv >  26.35
+|   |   |   |   |   |--- rodada <= 17.50
+|   |   |   |   |   |   |--- class: Vitória
+|   |   |   |   |   |--- rodada >  17.50
+|   |   |   |   |   |   |--- class: Derrota
+|   |   |--- idade_media_titular_time >  27.75
+|   |   |   |--- idade_media_titular_adv <= 27.65
+|   |   |   |   |--- idade_media_titular_time <= 28.85
+|   |   |   |   |   |--- class: Vitória
+|   |   |   |   |--- idade_media_titular_time >  28.85
+|   |   |   |   |   |--- class: Vitória
+|   |   |   |--- idade_media_titular_adv >  27.65
+|   |   |   |   |--- class: Empate
+|--- condicao_Visitante >  0.50
+|   |--- idade_media_titular_time <= 25.75
+|   |   |--- class: Derrota
+|   |--- idade_media_titular_time >  25.75
+|   |   |--- altura_media_titular_time <= 179.75
+|   |   |   |--- idade_media_titular_time <= 27.15
+|   |   |   |   |--- class: Derrota
+|   |   |   |--- idade_media_titular_time >  27.15
+|   |   |   |   |--- mes <= 8.50
+|   |   |   |   |   |--- class: Derrota
+|   |   |   |   |--- mes >  8.50
+|   |   |   |   |   |--- class: Derrota
+|   |   |--- altura_media_titular_time >  179.75
+|   |   |   |--- idade_media_titular_adv <= 27.35
+|   |   |   |   |--- rodada <= 19.00
+|   |   |   |   |   |--- class: Vitória
+|   |   |   |   |--- rodada >  19.00
+|   |   |   |   |   |--- class: Derrota
+|   |   |   |--- idade_media_titular_adv >  27.35
+|   |   |   |   |--- idade_media_titular_adv <= 28.05
+|   |   |   |   |   |--- class: Vitória
+|   |   |   |   |--- idade_media_titular_adv >  28.05
+|   |   |   |   |   |--- altura_media_titular_time <= 180.70
+|   |   |   |   |   |   |--- class: Derrota
+|   |   |   |   |   |--- altura_media_titular_time >  180.70
+|   |   |   |   |   |   |--- class: Empate

@@ -1,0 +1,147 @@
+CONFIGURAÇÃO (melhor combinação via GridSearchCV)
+criterion=entropy
+max_depth=10
+min_samples_leaf=1
+min_samples_split=10
+
+Modelo treinado com 100% dos dados (ver secao 9 do script)
+
+REGRAS DA ÁRVORE
+================================================================================
+
+|--- condicao_Visitante <= 0.50
+|   |--- publico <= 4040.50
+|   |   |--- class: Empate
+|   |--- publico >  4040.50
+|   |   |--- publico <= 39989.50
+|   |   |   |--- publico <= 7818.50
+|   |   |   |   |--- idade_media_titular_adv <= 27.30
+|   |   |   |   |   |--- altura_media_titular_adv <= 179.70
+|   |   |   |   |   |   |--- class: Derrota
+|   |   |   |   |   |--- altura_media_titular_adv >  179.70
+|   |   |   |   |   |   |--- idade_media_titular_adv <= 24.90
+|   |   |   |   |   |   |   |--- class: Derrota
+|   |   |   |   |   |   |--- idade_media_titular_adv >  24.90
+|   |   |   |   |   |   |   |--- class: Vitória
+|   |   |   |   |--- idade_media_titular_adv >  27.30
+|   |   |   |   |   |--- class: Vitória
+|   |   |   |--- publico >  7818.50
+|   |   |   |   |--- publico <= 8171.00
+|   |   |   |   |   |--- class: Empate
+|   |   |   |   |--- publico >  8171.00
+|   |   |   |   |   |--- publico <= 10835.00
+|   |   |   |   |   |   |--- mes <= 10.50
+|   |   |   |   |   |   |   |--- class: Vitória
+|   |   |   |   |   |   |--- mes >  10.50
+|   |   |   |   |   |   |   |--- class: Derrota
+|   |   |   |   |   |--- publico >  10835.00
+|   |   |   |   |   |   |--- idade_media_titular_time <= 27.65
+|   |   |   |   |   |   |   |--- idade_media_titular_time <= 24.75
+|   |   |   |   |   |   |   |   |--- class: Derrota
+|   |   |   |   |   |   |   |--- idade_media_titular_time >  24.75
+|   |   |   |   |   |   |   |   |--- rodada <= 32.50
+|   |   |   |   |   |   |   |   |   |--- idade_media_titular_adv <= 28.25
+|   |   |   |   |   |   |   |   |   |   |--- class: Vitória
+|   |   |   |   |   |   |   |   |   |--- idade_media_titular_adv >  28.25
+|   |   |   |   |   |   |   |   |   |   |--- class: Vitória
+|   |   |   |   |   |   |   |   |--- rodada >  32.50
+|   |   |   |   |   |   |   |   |   |--- idade_media_titular_adv <= 27.10
+|   |   |   |   |   |   |   |   |   |   |--- class: Vitória
+|   |   |   |   |   |   |   |   |   |--- idade_media_titular_adv >  27.10
+|   |   |   |   |   |   |   |   |   |   |--- class: Empate
+|   |   |   |   |   |   |--- idade_media_titular_time >  27.65
+|   |   |   |   |   |   |   |--- rodada <= 26.00
+|   |   |   |   |   |   |   |   |--- altura_media_titular_adv <= 180.95
+|   |   |   |   |   |   |   |   |   |--- mes <= 7.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Vitória
+|   |   |   |   |   |   |   |   |   |--- mes >  7.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Vitória
+|   |   |   |   |   |   |   |   |--- altura_media_titular_adv >  180.95
+|   |   |   |   |   |   |   |   |   |--- class: Derrota
+|   |   |   |   |   |   |   |--- rodada >  26.00
+|   |   |   |   |   |   |   |   |--- altura_media_titular_adv <= 180.00
+|   |   |   |   |   |   |   |   |   |--- class: Empate
+|   |   |   |   |   |   |   |   |--- altura_media_titular_adv >  180.00
+|   |   |   |   |   |   |   |   |   |--- class: Vitória
+|   |   |--- publico >  39989.50
+|   |   |   |--- rodada <= 9.50
+|   |   |   |   |--- class: Derrota
+|   |   |   |--- rodada >  9.50
+|   |   |   |   |--- idade_media_titular_time <= 28.50
+|   |   |   |   |   |--- mes <= 7.50
+|   |   |   |   |   |   |--- class: Empate
+|   |   |   |   |   |--- mes >  7.50
+|   |   |   |   |   |   |--- class: Vitória
+|   |   |   |   |--- idade_media_titular_time >  28.50
+|   |   |   |   |   |--- class: Empate
+|--- condicao_Visitante >  0.50
+|   |--- publico <= 39989.50
+|   |   |--- idade_media_titular_adv <= 29.90
+|   |   |   |--- idade_media_titular_time <= 27.95
+|   |   |   |   |--- idade_media_titular_time <= 27.75
+|   |   |   |   |   |--- publico <= 14407.50
+|   |   |   |   |   |   |--- idade_media_titular_adv <= 29.15
+|   |   |   |   |   |   |   |--- altura_media_titular_time <= 178.45
+|   |   |   |   |   |   |   |   |--- class: Vitória
+|   |   |   |   |   |   |   |--- altura_media_titular_time >  178.45
+|   |   |   |   |   |   |   |   |--- altura_media_titular_adv <= 178.40
+|   |   |   |   |   |   |   |   |   |--- class: Empate
+|   |   |   |   |   |   |   |   |--- altura_media_titular_adv >  178.40
+|   |   |   |   |   |   |   |   |   |--- idade_media_titular_time <= 23.90
+|   |   |   |   |   |   |   |   |   |   |--- class: Empate
+|   |   |   |   |   |   |   |   |   |--- idade_media_titular_time >  23.90
+|   |   |   |   |   |   |   |   |   |   |--- class: Derrota
+|   |   |   |   |   |   |--- idade_media_titular_adv >  29.15
+|   |   |   |   |   |   |   |--- class: Vitória
+|   |   |   |   |   |--- publico >  14407.50
+|   |   |   |   |   |   |--- altura_media_titular_adv <= 179.15
+|   |   |   |   |   |   |   |--- dia_semana_Quinta <= 0.50
+|   |   |   |   |   |   |   |   |--- class: Vitória
+|   |   |   |   |   |   |   |--- dia_semana_Quinta >  0.50
+|   |   |   |   |   |   |   |   |--- class: Derrota
+|   |   |   |   |   |   |--- altura_media_titular_adv >  179.15
+|   |   |   |   |   |   |   |--- publico <= 16399.00
+|   |   |   |   |   |   |   |   |--- class: Derrota
+|   |   |   |   |   |   |   |--- publico >  16399.00
+|   |   |   |   |   |   |   |   |--- altura_media_titular_adv <= 180.35
+|   |   |   |   |   |   |   |   |   |--- idade_media_titular_time <= 27.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Derrota
+|   |   |   |   |   |   |   |   |   |--- idade_media_titular_time >  27.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Vitória
+|   |   |   |   |   |   |   |   |--- altura_media_titular_adv >  180.35
+|   |   |   |   |   |   |   |   |   |--- altura_media_titular_time <= 183.20
+|   |   |   |   |   |   |   |   |   |   |--- class: Derrota
+|   |   |   |   |   |   |   |   |   |--- altura_media_titular_time >  183.20
+|   |   |   |   |   |   |   |   |   |   |--- class: Empate
+|   |   |   |   |--- idade_media_titular_time >  27.75
+|   |   |   |   |   |--- idade_media_titular_adv <= 27.00
+|   |   |   |   |   |   |--- class: Empate
+|   |   |   |   |   |--- idade_media_titular_adv >  27.00
+|   |   |   |   |   |   |--- class: Derrota
+|   |   |   |--- idade_media_titular_time >  27.95
+|   |   |   |   |--- publico <= 29448.50
+|   |   |   |   |   |--- idade_media_titular_time <= 29.55
+|   |   |   |   |   |   |--- publico <= 25482.50
+|   |   |   |   |   |   |   |--- publico <= 16656.00
+|   |   |   |   |   |   |   |   |--- altura_media_titular_time <= 178.70
+|   |   |   |   |   |   |   |   |   |--- class: Empate
+|   |   |   |   |   |   |   |   |--- altura_media_titular_time >  178.70
+|   |   |   |   |   |   |   |   |   |--- altura_media_titular_time <= 180.90
+|   |   |   |   |   |   |   |   |   |   |--- class: Vitória
+|   |   |   |   |   |   |   |   |   |--- altura_media_titular_time >  180.90
+|   |   |   |   |   |   |   |   |   |   |--- class: Derrota
+|   |   |   |   |   |   |   |--- publico >  16656.00
+|   |   |   |   |   |   |   |   |--- class: Derrota
+|   |   |   |   |   |   |--- publico >  25482.50
+|   |   |   |   |   |   |   |--- class: Vitória
+|   |   |   |   |   |--- idade_media_titular_time >  29.55
+|   |   |   |   |   |   |--- class: Derrota
+|   |   |   |   |--- publico >  29448.50
+|   |   |   |   |   |--- class: Empate
+|   |   |--- idade_media_titular_adv >  29.90
+|   |   |   |--- class: Empate
+|   |--- publico >  39989.50
+|   |   |--- idade_media_titular_adv <= 26.10
+|   |   |   |--- class: Derrota
+|   |   |--- idade_media_titular_adv >  26.10
+|   |   |   |--- class: Empate

@@ -1,0 +1,44 @@
+
+================================================================================
+Execução: 2026-09-06 20:44:12.561571
+
+MÉTODO: Validação cruzada (StratifiedKFold)
+Numero de folds: 10
+
+CONFIGURAÇÃO (melhor combinação via GridSearchCV)
+criterion=entropy
+max_depth=5
+min_samples_leaf=1
+min_samples_split=20
+
+Registros (após limpeza): 494
+Atributos após get_dummies: 15
+Baseline (classe majoritaria): 0.417
+
+===== MÉTRICAS OUT-OF-FOLD (base inteira, cada linha testada 1x) =====
+Acurácia simples: 0.4190283400809717
+Acurácia balanceada: 0.39069937613626937
+F1 macro: 0.36197391275226715
+
+===== MÉTRICAS POR FOLD (média ± desvio padrão) =====
+accuracy: 0.419 ± 0.070  (folds: [np.float64(0.54), np.float64(0.38), np.float64(0.4), np.float64(0.46), np.float64(0.51), np.float64(0.388), np.float64(0.286), np.float64(0.367), np.float64(0.408), np.float64(0.449)])
+balanced_accuracy: 0.389 ± 0.064  (folds: [np.float64(0.478), np.float64(0.356), np.float64(0.375), np.float64(0.43), np.float64(0.483), np.float64(0.352), np.float64(0.271), np.float64(0.329), np.float64(0.383), np.float64(0.43)])
+f1_macro: 0.352 ± 0.070  (folds: [np.float64(0.41), np.float64(0.297), np.float64(0.375), np.float64(0.387), np.float64(0.473), np.float64(0.3), np.float64(0.22), np.float64(0.301), np.float64(0.339), np.float64(0.414)])
+
+===== MATRIZ DE CONFUSÃO (out-of-fold) =====
+Classes (ordem): ['Derrota', 'Empate', 'Vitória']
+[[ 90  12  54]
+ [ 63  10  59]
+ [ 71  28 107]]
+
+===== RELATÓRIO (out-of-fold) =====
+              precision    recall  f1-score   support
+
+     Derrota      0.402     0.577     0.474       156
+      Empate      0.200     0.076     0.110       132
+     Vitória      0.486     0.519     0.502       206
+
+    accuracy                          0.419       494
+   macro avg      0.363     0.391     0.362       494
+weighted avg      0.383     0.419     0.388       494
+
