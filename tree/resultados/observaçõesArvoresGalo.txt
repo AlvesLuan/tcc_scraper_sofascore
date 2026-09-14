@@ -2,3 +2,12 @@ arvore-5-Atletico:
 	- jogando em casa contra adversários fisicamente menores, o Galo tem um bom domínio.
 	- Mandante, adversário mais alto (> 181,85): aqui aparece a divisão temporal interessante. Antes de meados de 2020,5, o resultado tende a Derrota quando o próprio time é mais jovem (idade_media_titular_time <= 28,90) — sugerindo que, historicamente, elencos mais jovens do Galo tinham dificuldade contra adversários fisicamente robustos. Depois de 2020,5, a árvore passa a usar mes e rodada: jogos no fim do ano (mês > 8,5) tendem a Vitória, mas no meio do ano competem Empate (rodada <= 13,5) e Derrota (rodada > 13,5) — plausivelmente refletindo o ritmo de forma do time ao longo da temporada nos anos mais recentes da base.
 	- outras leituras a ver.
+
+
+arvore-5-Atletico:
+	- simplificou muita coisa
+	- Se o adversário for baixo (altura_media_titular_adv <= 181.85), o Galo vence, independente da rodada ou da idade do adversário (aqui ocorrem os splits fantasmas, mas todos levam à Vitória). 
+	- Se o adversário for alto (> 181.85), a temporada define: até 2020.50, um Galo experiente/mais velho (> 28.90) vencia e um jovem perdia; após 2020.50, os jogos a partir de setembro (mes > 8.50) garantem Vitória, enquanto antes disso leva a Empate.
+	- Ramo visitante(DIREITA) (condicao_Visitante > 0.5): O mando de campo reverte a lógica. Fora de casa, estádios mais vazios (publico <= 9573) contra times baixos (altura <= 180.55) geram Empate recentemente (> 2022.50) e geravam Derrota antes disso.
+	- Estádios vazios contra times altos resultam em Vitória absoluta
+	- Se é visitante e tem mais de 9573 ele perde, antes de 2016.5 poderia ocasionar um empate(parece absurdo, mas ocorreu em outras arvores).

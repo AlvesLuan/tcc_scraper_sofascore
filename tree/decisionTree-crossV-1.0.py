@@ -10,7 +10,7 @@ from datetime import datetime
 import os
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-CSV_PATH = os.path.join(BASE_DIR, "..", "data", "exports","times-concluidos" ,"atletico-base_detalhada_geral_publico.csv")
+CSV_PATH = os.path.join(BASE_DIR, "..", "data", "exports" ,"times-concluidos","atletico-base_detalhada_geral_publico.csv")
 
 print("cwd =", os.getcwd())
 
@@ -101,9 +101,9 @@ cv = StratifiedKFold(n_splits=N_SPLITS, shuffle=True, random_state=42)
 param_grid = {
     #"criterion": ["entropy", "gini"],
     "criterion": ["entropy"],
-    #"max_depth": [3, 4, 5, 6, 8, 10],
+    "max_depth": [3, 4, 5, 6, 8, 10],
     #"max_depth": [5, 10],
-    "max_depth": [5],
+    #"max_depth": [5],
     "min_samples_leaf": [1, 5, 10, 20],
     #"min_samples_leaf": [5],
     "min_samples_split": [2, 10, 20],

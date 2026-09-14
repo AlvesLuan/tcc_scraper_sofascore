@@ -43,18 +43,18 @@ REGRAS DA ÁRVORE
 |   |   |   |--- class: Empate
 |   |--- altura_media_titular_adv >  178.25
 |   |   |--- idade_media_titular_time <= 29.55
-|   |   |   |--- publico <= 4479.00
+|   |   |   |--- altura_media_titular_time <= 177.85
 |   |   |   |   |--- class: Empate
-|   |   |   |--- publico >  4479.00
-|   |   |   |   |--- rodada <= 33.00
+|   |   |   |--- altura_media_titular_time >  177.85
+|   |   |   |   |--- idade_media_titular_adv <= 26.75
 |   |   |   |   |   |--- class: Vitória
-|   |   |   |   |--- rodada >  33.00
+|   |   |   |   |--- idade_media_titular_adv >  26.75
 |   |   |   |   |   |--- class: Vitória
 |   |   |--- idade_media_titular_time >  29.55
 |   |   |   |--- idade_media_titular_adv <= 30.10
-|   |   |   |   |--- publico <= 12565.00
-|   |   |   |   |   |--- class: Vitória
-|   |   |   |   |--- publico >  12565.00
+|   |   |   |   |--- rodada <= 9.50
 |   |   |   |   |   |--- class: Derrota
+|   |   |   |   |--- rodada >  9.50
+|   |   |   |   |   |--- class: Vitória
 |   |   |   |--- idade_media_titular_adv >  30.10
 |   |   |   |   |--- class: Empate

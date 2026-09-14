@@ -1,6 +1,6 @@
 
 ================================================================================
-Execução: 2026-09-06 17:58:02.899688
+Execução: 2026-09-13 23:17:28.815411
 
 MÉTODO: Validação cruzada (StratifiedKFold)
 Numero de folds: 5
@@ -16,29 +16,29 @@ Atributos após get_dummies: 15
 Baseline (classe majoritaria): 0.449
 
 ===== MÉTRICAS OUT-OF-FOLD (base inteira, cada linha testada 1x) =====
-Acurácia simples: 0.46511627906976744
-Acurácia balanceada: 0.4202861952861953
-F1 macro: 0.41457073340285017
+Acurácia simples: 0.4318936877076412
+Acurácia balanceada: 0.3791461624794958
+F1 macro: 0.3651253537985026
 
 ===== MÉTRICAS POR FOLD (média ± desvio padrão) =====
-accuracy: 0.465 ± 0.070  (folds: [np.float64(0.475), np.float64(0.483), np.float64(0.35), np.float64(0.45), np.float64(0.567)])
-balanced_accuracy: 0.419 ± 0.080  (folds: [np.float64(0.479), np.float64(0.47), np.float64(0.291), np.float64(0.358), np.float64(0.495)])
-f1_macro: 0.391 ± 0.089  (folds: [np.float64(0.471), np.float64(0.472), np.float64(0.27), np.float64(0.298), np.float64(0.445)])
+accuracy: 0.432 ± 0.074  (folds: [np.float64(0.344), np.float64(0.483), np.float64(0.35), np.float64(0.45), np.float64(0.533)])
+balanced_accuracy: 0.379 ± 0.068  (folds: [np.float64(0.329), np.float64(0.47), np.float64(0.291), np.float64(0.358), np.float64(0.445)])
+f1_macro: 0.351 ± 0.073  (folds: [np.float64(0.321), np.float64(0.472), np.float64(0.271), np.float64(0.298), np.float64(0.394)])
 
 ===== MATRIZ DE CONFUSÃO (out-of-fold) =====
 Classes (ordem): ['Derrota', 'Empate', 'Vitória']
-[[26 14 38]
- [18 21 49]
- [28 14 93]]
+[[22 10 46]
+ [17 14 57]
+ [24 17 94]]
 
 ===== RELATÓRIO (out-of-fold) =====
               precision    recall  f1-score   support
 
-     Derrota      0.361     0.333     0.347        78
-      Empate      0.429     0.239     0.307        88
-     Vitória      0.517     0.689     0.590       135
+     Derrota      0.349     0.282     0.312        78
+      Empate      0.341     0.159     0.217        88
+     Vitória      0.477     0.696     0.566       135
 
-    accuracy                          0.465       301
-   macro avg      0.435     0.420     0.415       301
-weighted avg      0.451     0.465     0.444       301
+    accuracy                          0.432       301
+   macro avg      0.389     0.379     0.365       301
+weighted avg      0.404     0.432     0.398       301
 
