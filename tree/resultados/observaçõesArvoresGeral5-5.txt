@@ -1,0 +1,16 @@
+arvore-5-depth-GERAL:
+	- recall de recalls de 62-66% pra prever derrota e vitoria respectivamente, são numeros bons.
+	- um pouco impreciso pra prever empate (precisao de 0.270 e recall de 0.037!), mas no geral, isso é um problema do futebol, que conta muito com o acaso.
+	- repare no ramo mandante (condicao_Visitante <= 0.5) jovens times mandantes (idade_media_titular_time <= 25.05) tendem a Derrota ou Empate; times mandantes com elenco mais maduro (> 25.05) tendem fortemente a Vitória. 	
+Isso sugere que, jogando em casa, um elenco mais experiente consolida a vantagem, enquanto um elenco jovem não consegue converter o mando em resultado positivo.
+	- Publico desempate em situações especificas: no ramo visitante, público muito alto (> 58840 ou > 35575) tende a levar a Derrota do visitante — plausivelmente jogos com grande público são jogos "importantes" (clássicos, decisões), onde o mandante se impõe com mais força pela pressão da torcida.
+
+
+arvore-5-depth-GERAL-Z4:
+	- pra entender melhor quais fatores diferenciam Vitória, Empate e Derrota nesses confrontos tive que forçar a arvore a se balancear, assim ela o recall fica mais igual e ela fica mais "justa".
+	- Forçar o balanceamento custou um pouco da acuracia.
+	- A arvore focou mais em porte fisico do que na condição de mandante, já que times do Z4 provavelmente têm elencos sistematicamente mais baixos/jovens que os do C13.
+	- Quando o time mandante tem elenco mais baixo (altura_media_titular_time <= 179.75) e o adversário do Z4 também é baixo (altura_media_titular_adv <= 181.55), o resultado tende a Vitória, oq dá pra entender é: times de altura menor jogando em casa contra o Z4 ainda levam vantagem.
+	- Quando o adversário é relativamente mais alto (> 181.55), o resultado vira Derrota, sugerindo que, mesmo sendo Z4, um adversário fisicamente maior consegue surpreender o mandante do C13.
+	- rodada > 33.50 aparece como fator de fim de campeonato: nas rodadas finais, o resultado tende a Empate (público baixo) ou Vitória (público alto) — reflexo plausível de jogos "sem grande pressão" nas últimas rodadas, quando times do Z4 já podem estar rebaixados matematicamente e jogando sem intensidade.
+	--- Ramo visitante do C13 (condicao_Visitante > 0.5)(LADO DIREITO): aqui a árvore quase sempre resulta em Derrota ou Empate, raramente Vitória — reforçando que, mesmo jogando fora contra um time do Z4 (teoricamente mais fraco), o C13 não consegue confirmar o favoritismo com a mesma força que em casa. O bloco final (rodada > 36.50) mostra uma inversão curiosa: nas duas últimas rodadas do campeonato, o resultado pode virar Vitória — possivelmente jogos decisivos de permanência/classificação em que o C13 finalmente "aperta" contra o Z4.
