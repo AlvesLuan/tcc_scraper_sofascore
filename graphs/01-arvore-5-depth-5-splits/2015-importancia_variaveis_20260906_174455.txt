@@ -1,0 +1,10 @@
+IMPORTÂNCIA DAS VARIÁVEIS (feature_importances_)
+Modelo treinado com 100% dos dados, usando os melhores parametros do GridSearchCV
+================================================================================
+
+altura_media_titular_time: 0.3653
+condicao_Visitante: 0.3408
+publico: 0.1211
+altura_media_titular_adv: 0.0824
+idade_media_titular_adv: 0.0774
+idade_media_titular_time: 0.0128

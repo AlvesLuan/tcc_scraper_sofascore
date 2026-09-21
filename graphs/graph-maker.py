@@ -30,8 +30,8 @@ import numpy as np
 # ============================================================================
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-TXT_PATH = os.path.join(BASE_DIR, "..", "graphs", "arvore-5-depth-5-splits")
-PASTA_SAIDA = os.path.join(BASE_DIR, "graficos_top5")
+TXT_PATH = os.path.join(BASE_DIR, "..", "graphs", "02-arvore-10-depth-5-splits")
+PASTA_SAIDA = os.path.join(BASE_DIR, "02-graficos_top5")
 
 # Nome esperado: "AAAA-importancia_variaveis_....txt"
 FILENAME_PATTERN = re.compile(r"^(\d{4})-importancia_variaveis_.*\.txt$")
