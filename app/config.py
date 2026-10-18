@@ -46,7 +46,7 @@ UNIQUE_TOURNAMENT_ID = 325  # Brasileirão Serie A
 # SCRAPING
 # ======================================================
 
-REQUEST_DELAY = 7  # segundos entre requisições
+REQUEST_DELAY = 10  # segundos entre requisições
 
 # ======================================================
 # OUTPUT

@@ -32,7 +32,7 @@ def buscar(url: str) -> dict:
 
     # Se houve redirecionamento, aguarda mais um pouco e tenta pegar o conteúdo
     if response and response.status in (301, 302, 303, 307, 308):
-        time.sleep(5)
+        time.sleep(REQUEST_DELAY)
         response = page.goto(url, wait_until="networkidle")
     
     return response.json()
