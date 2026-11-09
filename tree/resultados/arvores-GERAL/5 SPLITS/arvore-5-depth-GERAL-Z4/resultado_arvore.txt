@@ -1,44 +1,45 @@
 
 ================================================================================
-Execução: 2026-10-25 22:53:20.011742
+Execução: 2026-10-31 03:45:35.647914
 
-MÉTODO: Validação cruzada (StratifiedKFold)
+MÉTODO: Validação cruzada (StratifiedGroupKFold), agrupada por partida: True
+class_weight: None
 Numero de folds: 5
 
 CONFIGURAÇÃO (melhor combinação via GridSearchCV)
 criterion=entropy
 max_depth=5
-min_samples_leaf=20
-min_samples_split=2
+min_samples_leaf=1
+min_samples_split=20
 
 Registros (após limpeza): 984
 Atributos após get_dummies: 15
 Baseline (classe majoritaria): 0.559
 
 ===== MÉTRICAS OUT-OF-FOLD (base inteira, cada linha testada 1x) =====
-Acurácia simples: 0.5213414634146342
-Acurácia balanceada: 0.3407321564655965
-F1 macro: 0.3031721426335739
+Acurácia simples: 0.524390243902439
+Acurácia balanceada: 0.35712092575410564
+F1 macro: 0.32949973796164994
 
 ===== MÉTRICAS POR FOLD (média ± desvio padrão) =====
-accuracy: 0.521 ± 0.017  (folds: [np.float64(0.538), np.float64(0.518), np.float64(0.503), np.float64(0.543), np.float64(0.505)])
-balanced_accuracy: 0.340 ± 0.024  (folds: [np.float64(0.328), np.float64(0.358), np.float64(0.379), np.float64(0.324), np.float64(0.314)])
-f1_macro: 0.290 ± 0.050  (folds: [np.float64(0.255), np.float64(0.333), np.float64(0.364), np.float64(0.235), np.float64(0.262)])
+accuracy: 0.524 ± 0.028  (folds: [np.float64(0.543), np.float64(0.533), np.float64(0.523), np.float64(0.551), np.float64(0.472)])
+balanced_accuracy: 0.357 ± 0.038  (folds: [np.float64(0.341), np.float64(0.334), np.float64(0.316), np.float64(0.425), np.float64(0.371)])
+f1_macro: 0.312 ± 0.057  (folds: [np.float64(0.282), np.float64(0.279), np.float64(0.241), np.float64(0.395), np.float64(0.362)])
 
 ===== MATRIZ DE CONFUSÃO (out-of-fold) =====
 Classes (ordem): ['Derrota', 'Empate', 'Vitória']
-[[  3  26 142]
- [  4  39 220]
- [ 10  69 471]]
+[[  4  42 125]
+ [  8  59 196]
+ [ 13  84 453]]
 
 ===== RELATÓRIO (out-of-fold) =====
               precision    recall  f1-score   support
 
-     Derrota      0.176     0.018     0.032       171
-      Empate      0.291     0.148     0.196       263
-     Vitória      0.565     0.856     0.681       550
+     Derrota      0.160     0.023     0.041       171
+      Empate      0.319     0.224     0.263       263
+     Vitória      0.585     0.824     0.684       550
 
-    accuracy                          0.521       984
-   macro avg      0.344     0.341     0.303       984
-weighted avg      0.424     0.521     0.439       984
+    accuracy                          0.524       984
+   macro avg      0.355     0.357     0.329       984
+weighted avg      0.440     0.524     0.460       984
 

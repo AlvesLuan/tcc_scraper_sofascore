@@ -1,41 +1,41 @@
 import time
-"""from playwright.sync_api import (
-    sync_playwright,
-    Page
-)"""
 from patchright.sync_api import sync_playwright, Page
-#from playwright.sync_api import sync_playwright, Page
-
-from config import (REQUEST_DELAY, UNIQUE_TOURNAMENT_ID)
-
+from config import REQUEST_DELAY, UNIQUE_TOURNAMENT_ID
 
 _playwright = None
 _browser = None
 _page = None
+
+JS_FETCH = """
+async (url) => {
+    const r = await fetch(url, {credentials: 'include'});
+    if (!r.ok) return {__status: r.status};
+    return await r.json();
+}
+"""
 
 def get_page() -> Page:
     global _playwright, _browser, _page
     if _page is None:
         _playwright = sync_playwright().start()
         #_browser = _playwright.chromium.launch(headless=True)
-        _browser = _playwright.firefox.launch(headless=True)
+        _browser = _playwright.chromium.launch(headless=True)
         _page = _browser.new_page()
-        # Abre o Sofascore uma vez para pegar cookies de sessão
         _page.goto("https://www.sofascore.com", wait_until="domcontentloaded")
         time.sleep(2)
     return _page
 
-def buscar(url: str) -> dict:
-    time.sleep(REQUEST_DELAY)
+def buscar(url: str, tentativas: int = 4) -> dict:
     page = get_page()
-    response = page.goto(url, wait_until="domcontentloaded")
-
-    # Se houve redirecionamento, aguarda mais um pouco e tenta pegar o conteúdo
-    if response and response.status in (301, 302, 303, 307, 308):
+    for i in range(tentativas):
         time.sleep(REQUEST_DELAY)
-        response = page.goto(url, wait_until="networkidle")
-    
-    return response.json()
+        data = page.evaluate(JS_FETCH, url)
+        status = data.get("__status") if isinstance(data, dict) else None
+        if status is None:
+            return data
+        print(f"    [scraper] HTTP {status} em {url} (tentativa {i+1})")
+        time.sleep(5 * (i + 1))  # backoff
+    raise RuntimeError(f"Falha ao buscar {url}")
 
 def close():
     global _playwright, _browser, _page
@@ -43,9 +43,7 @@ def close():
         _browser.close()
     if _playwright:
         _playwright.stop()
-    _browser = None
-    _page = None
-    _playwright = None
+    _browser = _playwright = _page = None
 
 def get_classificacao(season_id: int) -> dict:
     url = f"https://www.sofascore.com/api/v1/unique-tournament/{UNIQUE_TOURNAMENT_ID}/season/{season_id}/standings/total"
@@ -53,5 +51,4 @@ def get_classificacao(season_id: int) -> dict:
     return buscar(url)
 
 def get_jogos_time(team_id: int, page: int = 0) -> dict:
-    url = f"https://www.sofascore.com/api/v1/team/{team_id}/events/last/{page}"
-    return buscar(url)
+    return buscar(f"https://www.sofascore.com/api/v1/team/{team_id}/events/last/{page}")
