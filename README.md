@@ -1,6 +1,8 @@
-# [em desenvolvimento] Investigação do impacto do nível do adversário no desempenho de equipes do futebol brasileiro (2015–2025)
+# Investigação do impacto do nível do adversário no desempenho de equipes do futebol brasileiro (2015–2025)
 
-Aplicação em Python que utiliza Playwright para coletar dados do SofaScore e Fbref e analisar o desempenho de times do Clube dos 13 (C13) contra diferentes equipes do Campeonato Brasileiro, análise feita no período de 2015 a 2025.
+Aplicação em Python que coleta dados do Sofascore e do FBref e analisa o desempenho dos clubes do Clube dos 13 (C13) no Campeonato Brasileiro Série A entre 2015 e 2025, com foco nos jogos contra os quatro times que terminaram cada temporada na zona de rebaixamento (Z4). Os resultados são interpretados com árvores de decisão (*scikit-learn*) como **associações**, e não como relações de causa e efeito.
+
+Este repositório acompanha o artigo *"O desempenho dos times do Clube dos 13 contra equipes que foram rebaixadas no Campeonato Brasileiro: uma análise baseada em dados"*.
 
 ---
 
@@ -8,21 +10,19 @@ Aplicação em Python que utiliza Playwright para coletar dados do SofaScore e F
 
 # Funcionalidades
 
-- Coleta automática de dados do SofaScore
+- Coleta automática de dados do Sofascore (resultados, escalações, árbitro, estádio etc.)
+- Extração offline do público presente a partir de páginas salvas do FBref
 - Identificação dos times do Z4 de cada temporada
 - Filtragem apenas de partidas do Brasileirão Série A
-- Cálculo de:
-  - vitórias;
-  - empates;
-  - derrotas;
+- Base agregada por clube (jogos contra o Z4), com:
+  - vitórias, empates e derrotas;
   - total de partidas contra o Z4;
-  - total de pontos perdidos contra o Z4;
+  - total de pontos perdidos;
+  - aproveitamento;
   - média de pontos perdidos por jogo;
-  - desvio padrão dos pontos perdidos;
-  - médias de alturas juntamente com desvio padrão;
-  - médias de idade juntamente com desvio padrão;
-  - ...
-- Exportação dos resultados para CSV
+  - desvio padrão da média de pontos perdidos por jogo entre as temporadas.
+- Base detalhada, com uma linha por partida do ponto de vista de cada clube do C13, incluindo médias e desvios padrão de idade e altura dos titulares dos dois times
+- Exportação de todos os resultados para CSV
 
 ---
 <br>
@@ -30,8 +30,11 @@ Aplicação em Python que utiliza Playwright para coletar dados do SofaScore e F
 # Tecnologias utilizadas
 
 - Python
-- Playwright
-- xxxxxxxx
+- Playwright (e Patchright) para automação do navegador
+- BeautifulSoup para leitura das páginas HTML do FBref
+- pandas para limpeza e organização dos dados
+- scikit-learn para as árvores de decisão
+- matplotlib para as figuras
 
 ---
 <br>
@@ -44,30 +47,34 @@ tcc_g13_stats/
 ├── app/
 │   ├── analysis.py
 │   ├── config.py
-│   ├── fbref-extrator-offline
+│   ├── fbref-extrator-offline.py
 │   ├── main_detalhado_geral.py
 │   ├── main_detalhado_vs_z4.py
 │   ├── main.py
 │   └── scraper.py
 │
 ├── data/
-│   └── exports/
-│             └── detalhado_c13_geral_publico.csv
-│             └── detalhado_c13_geral.csv
-│             └── resultados_c13.csv
+│   ├── exports/
+│   │   ├── base_detalhada_geral.csv
+│   │   ├── base_detalhada_geral_publico.csv
+│   │   ├── base_detalhada_geral_vs_z4.csv
+│   │   └── resultados_c13.csv
 │   └── fbref-pages-html/
-│             └── páginas específicas do fbref
+│       └── páginas do FBref (HTML salvo)
 │
 ├── .gitignore
+├── LICENSE
 ├── README.md
 └── requirements.txt
 ```
+
 <br>
 
 # Instalação
+
 ## 1. Clone o repositório
 ```txt
-git clone <link-aqui>
+git clone https://github.com/AlvesLuan/tcc_scraper_sofascore
 ```
 
 ## 2. Entre na pasta do projeto
@@ -98,17 +105,21 @@ py -m playwright install firefox
 <br>
 <br>
 
-# Como executar:
-### No config.py descomente os times e as temporadas que você quer que rode, (recomendo que use 1 time por vez, a execução pode levar horas).
+# Como executar
 
+> A coleta pode levar horas. Recomenda-se rodar **um time por vez**.
 
 ## 1. Configuração
-### O time analisado pode ser alterado no arquivo:
+
+O time e as temporadas analisados são definidos em:
+
 ```txt
 app/config.py
 ```
-### Basta descomentar os time desejados na execução e as temporadas desejadas.
-### Exemplo:
+
+Basta descomentar os times e as temporadas desejados.
+
+Exemplo:
 ```txt
 TIMES_ALVO = [
     # ("Palmeiras",        1963),
@@ -127,65 +138,95 @@ SEASONS = {
     # 2021: 36166,
 }
 ```
-No exemplo rodará apenas Atlético Mineiro e Vasco da Gama nas temporadas de 2028 e 2019, obviamente no mínimo um time e uma temporada deve estar descomentado.
+Nesse exemplo rodariam apenas Atlético Mineiro e Vasco da Gama, nas temporadas de 2018 e 2019. É preciso deixar pelo menos um time e uma temporada descomentados.
 
 Também é possível alterar:
-- temporadas analisadas;
-- delay entre requisições (recomendado deixar em 7, já ocorreu ban no IP de máquinas que usaram tempos menores);
-- caminho do CSV de saída;
+- as temporadas analisadas;
+- o intervalo entre as requisições (**não diminua**: o Sofascore chegou a bloquear o IP de máquinas que usaram intervalos curtos; no artigo foram usados 10 segundos);
+- o caminho do CSV de saída.
 
-### Para rodar a tabela geral de dados contra o z4 rode com:
+## 2. Base agregada (jogos contra o Z4)
+
 ```txt
 py app/main.py
 ```
- 
-### Para a tabela com detalhes de TODAS as partidas no período, ATENÇÃO, a execução demorará mais.
+
+## 3. Base detalhada (todas as partidas)
+
+> **Atenção:** a execução demora mais.
+
 ```txt
-py app/main_detalhado_geral.py 
-
-Ou para apenas as partidas contra o z4:
-
-py app/main_detalhado_vs_z4.py 
-
+py app/main_detalhado_geral.py
 ```
-#### Você terá um arquivo _base_detalhada_geral_publico.csv_ sem a coluna de publico. 
-#### Para adicionar o publico na tabela com detalhes, rode (a tabela com detalhes deve existir):
+
+Ou, para apenas as partidas contra o Z4:
+
+```txt
+py app/main_detalhado_vs_z4.py
+```
+
+Esses comandos geram o arquivo `base_detalhada_geral.csv`, **sem** a coluna de público.
+
+## 4. Adicionar o público (FBref)
+
+Com a base detalhada já criada, rode:
+
 ```txt
 py app/fbref-extrator-offline.py
 ```
-Na pasta _fbref-pages-html_ eu já disponibilizei os HTML da página, então não será necessário nenhuma retirada de dados manual ou automática (o fbref é um dos maiores odiadores de extratores de dados ).
+
+Isso gera o arquivo `base_detalhada_geral_publico.csv`, com a coluna `publico`. Na pasta `data/fbref-pages-html` já estão as páginas HTML do FBref, então **não é necessária nenhuma coleta manual ou automática** nessa etapa (o FBref é restritivo com extração automática de dados).
 
 <br>
 <br>
-
-
 
 # Saída
-### Os resultados são salvos em:
+
+Os resultados são salvos em `data/exports/`:
+
+| Arquivo | Conteúdo |
+|---|---|
+| `resultados_c13.csv` | Base agregada: desempenho de cada clube do C13 contra os times do Z4 |
+| `base_detalhada_geral.csv` | Uma linha por partida (do ponto de vista de cada clube), sem o público |
+| `base_detalhada_geral_publico.csv` | Igual à anterior, com a coluna `publico` (base usada nas árvores) |
+| `base_detalhada_geral_vs_z4.csv` | Base detalhada apenas das partidas contra o Z4 |
+
+### Colunas da base detalhada
+
+`time`, `temporada`, `rodada`, `data`, `horario`, `dia_semana`, `mes`, `adversario`, `resultado`, `gols_favor`, `gols_sofridos`, `condicao`, `arbitro`, `idade_media_titular_time`, `desvio_idade_media_time`, `altura_media_titular_time`, `desvio_altura_media_time`, `idade_media_titular_adv`, `desvio_idade_media_adv`, `altura_media_titular_adv`, `desvio_altura_media_adv`, `estadio`, `publico`.
+
+Observações sobre os dados:
+- Quando dois clubes do C13 se enfrentam, o jogo aparece em **duas linhas** (uma para cada clube). Por isso os 4.898 registros correspondem a 3.498 partidas únicas.
+- No CSV, idade, altura e público estão como texto (vírgula decimal e separador de milhar). A conversão para número é feita no pré-processamento descrito no artigo.
+
 <br>
 
-#### data/exports/base_detalhada_geral.csv
-#### data/exports/base_detalhada_geral_publico.csv
-#### data/exports/base_detalhada_geral_vs_z4.csv.csv
+# Aviso sobre os dados
 
+Os dados foram coletados do **Sofascore** e do **FBref** exclusivamente para fins acadêmicos. A licença deste repositório cobre apenas o **código**; os dados continuam sujeitos aos termos e direitos das fontes originais. Quem for reutilizar os dados deve consultar os termos de uso dessas plataformas.
 
 <br>
-<br>
-<br>
+
+# Licença
+
+O código está sob a licença [MIT](LICENSE).
+
 <br>
 
 # Objetivo acadêmico
-### Este projeto foi desenvolvido como parte de um Trabalho de Conclusão de Curso (TCC) de Sistemas de Informação, com foco em:
+
+Este projeto foi desenvolvido como parte de um Trabalho de Conclusão de Curso (TCC) de Sistemas de Informação, com foco em:
 
 - Web scraping
 - Análise de dados esportivos
 - Automação com Playwright
 - Inteligência estatística do futebol brasileiro
-- Mineração de dados e aprendizado de máquina com árvore de decisão.
-- Entre outros.
+- Mineração de dados e aprendizado de máquina com árvore de decisão
 
+<br>
 
-## **Informações para contato:**
-+ ### luankauan10@gmail.com
-+ ### **[LinkedIn](https://www.linkedin.com/in/luan-kauan-santos-31b057239/)**
-<h6 align="right"> qualquer duvida manda uma msg, eu sempre olho os emails ;) </h6>
+## **Informações para contato**
++ luankauan10@gmail.com
++ **[LinkedIn](https://www.linkedin.com/in/luan-kauan-santos-31b057239/)**
+
+<h6 align="right"> qualquer dúvida manda uma msg, eu sempre olho os emails ;) </h6>
