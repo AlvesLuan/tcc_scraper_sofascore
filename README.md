@@ -62,6 +62,15 @@ tcc_g13_stats/
 │   └── fbref-pages-html/
 │       └── páginas do FBref (HTML salvo)
 │
+├── graph/
+│   ├── resultados/
+│   ├── graph-maker.py (faz os gráficos)
+│
+├── tree/
+│   ├── decisionTree-crossV-1.0.py (arquivo de arvore principal)
+│   ├── decisionTree-crossV-balanced-1.0.py
+│   ├── decisionTree-trainNtest-1.0.py
+│
 ├── .gitignore
 ├── LICENSE
 ├── README.md
